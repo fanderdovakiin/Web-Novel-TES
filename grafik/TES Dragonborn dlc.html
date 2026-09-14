@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Dragonborn DLC Graph</title>
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      background: #020310;
+      font-family: serif;
+    }
+    #chart {
+      width: 100%;
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+
+<div id="chart"></div>
+
+<script>
+const chart = echarts.init(document.getElementById('chart'));
+
+const option = {
+  backgroundColor: "#020310",
+
+  title: {
+    text: "Dragonborn DLC — Hermaeus Mora",
+    subtext: "Web of knowledge and control in Apocrypha",
+    left: "center",
+    textStyle: {
+      color: "#30a040",
+      fontFamily: "serif"
+    },
+    subtextStyle: {
+      color: "#204030",
+      fontStyle: "italic",
+      fontFamily: "serif"
+    }
+  },
+
+  tooltip: {
+    trigger: "item",
+    backgroundColor: "#040812",
+    borderColor: "#204030",
+    textStyle: {
+      color: "#c0d5b0",
+      fontFamily: "serif"
+    }
+  },
+
+  series: [{
+    type: "graph",
+    layout: "force",
+    roam: true,
+
+    label: {
+      show: true,
+      position: "inside",
+      color: "#ddd",
+      fontSize: 9,
+      overflow: "break",
+      width: 70,
+      lineHeight: 14,
+      formatter: function(params){
+        return params.name;
+      }
+    },
+
+    force: {
+      repulsion: 350,
+      gravity: 0.08,
+      edgeLength: [100, 180]
+    },
+
+    data: [
+      {name:"HERMAEUS\nMORA", symbolSize:60, itemStyle:{color:"#204030"}},
+      {name:"APOCRYPHA", symbolSize:42, itemStyle:{color:"#102015"}},
+      {name:"MIRAAK\n(First DB)", symbolSize:40, itemStyle:{color:"#403080"}},
+      {name:"BLACK BOOKS", symbolSize:32, itemStyle:{color:"#0d1a10"}},
+      {name:"DRAGONBORN", symbolSize:36, itemStyle:{color:"#c4a35a"}},
+      {name:"SOLSTHEIM", symbolSize:24, itemStyle:{color:"#303020"}},
+      {name:"STORN", symbolSize:20, itemStyle:{color:"#404040"}},
+      {name:"NELOTH", symbolSize:22, itemStyle:{color:"#604020"}},
+      {name:"DRAGON SOULS", symbolSize:26, itemStyle:{color:"#880000"}},
+      {name:"SAHROTAAR", symbolSize:22, itemStyle:{color:"#604030"}},
+      {name:"SKAAL", symbolSize:20, itemStyle:{color:"#302010"}}
+    ],
+
+    links: [
+      {source:"HERMAEUS\nMORA", target:"APOCRYPHA", lineStyle:{color:"#204030", width:3}},
+      {source:"HERMAEUS\nMORA", target:"MIRAAK\n(First DB)", lineStyle:{color:"#301040", width:2.5}},
+      {source:"HERMAEUS\nMORA", target:"BLACK BOOKS", lineStyle:{color:"#1a3020"}},
+      {source:"HERMAEUS\nMORA", target:"DRAGONBORN", lineStyle:{type:"dashed"}},
+
+      {source:"MIRAAK\n(First DB)", target:"SOLSTHEIM"},
+      {source:"MIRAAK\n(First DB)", target:"DRAGON SOULS"},
+      {source:"MIRAAK\n(First DB)", target:"DRAGONBORN"},
+
+      {source:"BLACK BOOKS", target:"DRAGONBORN"},
+      {source:"BLACK BOOKS", target:"APOCRYPHA"},
+
+      {source:"DRAGONBORN", target:"DRAGON SOULS"},
+      {source:"DRAGONBORN", target:"SAHROTAAR"},
+      {source:"DRAGONBORN", target:"NELOTH"},
+
+      {source:"STORN", target:"HERMAEUS\nMORA"},
+      {source:"STORN", target:"SOLSTHEIM"},
+      {source:"STORN", target:"SKAAL"},
+
+      {source:"SAHROTAAR", target:"MIRAAK\n(First DB)", lineStyle:{type:"dashed"}}
+    ],
+
+    lineStyle: {
+      opacity: 0.6,
+      curveness: 0.25
+    },
+
+    emphasis: {
+      focus: "adjacency",
+      lineStyle: { width: 4 }
+    }
+  }]
+};
+
+chart.setOption(option);
+window.addEventListener('resize', () => chart.resize());
+</script>
+
+</body>
+</html>

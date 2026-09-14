@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Arsitektur Aurbis</title>
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+  <style>
+    html, body {
+      margin: 0;
+      height: 100%;
+      background: #000;
+    }
+    #chart {
+      width: 100%;
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+
+<div id="chart"></div>
+
+<script>
+var chart = echarts.init(document.getElementById('chart'));
+
+var option = {
+  backgroundColor: {
+    type: "radial",
+    x: 0.5,
+    y: 0.5,
+    r: 0.5,
+    colorStops: [
+      { offset: 0, color: "#0f0f1e" },
+      { offset: 1, color: "#050508" }
+    ]
+  },
+
+  title: {
+    text: "⚔ Arsitektur Aurbis ⚔",
+    subtext: "Distribusi Kekuatan Kosmis di Antara Realm-Realm Agung",
+    left: "center",
+    top: "3%",
+    textStyle: {
+      color: "#e6d3a3",              // lebih soft dari sebelumnya
+      fontFamily: "Cinzel, Georgia, serif",
+      fontSize: 24,
+      fontWeight: "bold",
+      textShadowColor: "rgba(196,163,90,0.3)", // lebih redup
+      textShadowBlur: 4              // sebelumnya terlalu tinggi
+    },
+    subtextStyle: {
+      color: "#9f8f6a",              // lebih kalem
+      fontFamily: "Georgia, serif",
+      fontSize: 13,
+      fontStyle: "italic"
+    }
+  },
+
+  tooltip: {
+    trigger: "item",
+    backgroundColor: "rgba(15,15,30,0.95)",
+    borderColor: "#c4a35a",
+    textStyle: {
+      color: "#e8dcc8"
+    }
+  },
+
+  legend: {
+    orient: "vertical",
+    right: "5%",
+    top: "center",
+    textStyle: {
+      color: "#b8a98a",              // lebih redup
+      fontSize: 12
+    }
+  },
+
+  series: [
+    {
+      name: "Realm Kosmis",
+      type: "pie",
+      radius: ["35%", "70%"],
+      center: ["38%", "55%"],
+      roseType: "area",
+      label: {
+        color: "#d8ccb8",           // tidak terlalu terang
+        fontSize: 11,
+        textShadowBlur: 2           // glow dikurangi
+      },
+      data: [
+        { value: 35, name: "✦ Aetherius ✦\n(Sumber Magicka)" },
+        { value: 30, name: "☽ Oblivion ☾\n(Realm Daedric)" },
+        { value: 10, name: "⛰ Mundus ⛰\n(Alam Fana)" },
+        { value: 15, name: "◆ The Void ◆\n(Sithis, Kekosongan)" },
+        { value: 5, name: "✟ Aedric Planes ✟\n(Tubuh Para Divine)" },
+        { value: 5, name: "∴ Liminal Spaces ∴\n(Ruang Antara)" }
+      ]
+    }
+  ]
+};
+
+chart.setOption(option);
+</script>
+
+</body>
+</html>

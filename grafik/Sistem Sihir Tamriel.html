@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Sistem Sihir Tamriel</title>
+
+  <!-- ECharts CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+
+  <style>
+    body {
+      margin: 0;
+      background: #040406;
+      font-family: serif;
+    }
+
+    #chart {
+      width: 100%;
+      height: 100vh; /* WAJIB biar muncul */
+    }
+  </style>
+</head>
+<body>
+
+<div id="chart"></div>
+
+<script>
+  var chart = echarts.init(document.getElementById('chart'));
+
+  var option = {
+    backgroundColor: "#040406",
+
+    title: {
+      text: "Sistem Sihir Tamriel — Perbandingan Karakteristik",
+      subtext: "Kekuatan, aksesibilitas, dan risiko dari setiap sistem magis",
+      left: "center",
+      top: 10,
+      textStyle: {
+        color: "#c4a35a",
+        fontFamily: "serif",
+        fontSize: 14
+      },
+      subtextStyle: {
+        color: "#806030",
+        fontFamily: "serif",
+        fontSize: 10,
+        fontStyle: "italic"
+      }
+    },
+
+    tooltip: {
+      trigger: "axis",
+      backgroundColor: "#080510",
+      borderColor: "#c4a35a",
+      textStyle: {
+        color: "#e0d5c0",
+        fontFamily: "serif",
+        fontSize: 10
+      }
+    },
+
+    legend: {
+      data: [
+        "Maximum Power (0-10)",
+        "Accessibility (0-10)",
+        "Moral Risk (0-10)",
+        "Knowledge Required (0-10)"
+      ],
+      bottom: 8,
+      textStyle: {
+        color: "#aaa",
+        fontFamily: "serif",
+        fontSize: 9
+      }
+    },
+
+    grid: {
+      left: "18%",
+      right: "5%",
+      top: "18%",
+      bottom: "18%"
+    },
+
+    xAxis: {
+      type: "value",
+      max: 10,
+      axisLabel: { color: "#666" },
+      axisLine: { lineStyle: { color: "#2a2030" } },
+      splitLine: { lineStyle: { color: "#111" } }
+    },
+
+    yAxis: {
+      type: "category",
+      data: [
+        "Shadow Magic",
+        "Necromancy",
+        "Sword-Singing",
+        "Thu'um",
+        "Tonal Architecture",
+        "School Magic (Six Schools)"
+      ],
+      axisLabel: {
+        color: "#c4a35a",
+        fontSize: 10
+      },
+      axisLine: { lineStyle: { color: "#2a2030" } }
+    },
+
+    series: [
+      {
+        name: "Maximum Power (0-10)",
+        type: "bar",
+        data: [6, 8, 7, 9, 10, 7],
+        itemStyle: {
+          color: "#c4a35a"
+        }
+      },
+      {
+        name: "Accessibility (0-10)",
+        type: "bar",
+        data: [2, 4, 2, 3, 1, 8],
+        itemStyle: {
+          color: "#4080c0"
+        }
+      },
+      {
+        name: "Moral Risk (0-10)",
+        type: "bar",
+        data: [5, 10, 3, 4, 9, 5],
+        itemStyle: {
+          color: "#c05050"
+        }
+      },
+      {
+        name: "Knowledge Required (0-10)",
+        type: "bar",
+        data: [7, 6, 9, 7, 10, 5],
+        itemStyle: {
+          color: "#60a040"
+        }
+      }
+    ]
+  };
+
+  chart.setOption(option);
+
+  // RESPONSIVE FIX (penting)
+  window.addEventListener('resize', function () {
+    chart.resize();
+  });
+</script>
+
+</body>
+</html>

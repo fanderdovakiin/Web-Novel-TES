@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Tokoh Legendaris Tamriel</title>
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      background: #040406;
+      font-family: serif;
+    }
+    #chart {
+      width: 100%;
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+
+<div id="chart"></div>
+
+<script>
+var chart = echarts.init(document.getElementById('chart'));
+
+var option = {
+  backgroundColor: "#040406",
+  title: {
+    text: "Tokoh Legendaris — Dampak vs Waktu",
+    subtext: "Pengaruh lasting dari tokoh-tokoh kunci sepanjang era",
+    left: "center",
+    top: 10,
+    textStyle: {
+      color: "#c4a35a",
+      fontFamily: "serif",
+      fontSize: 14
+    },
+    subtextStyle: {
+      color: "#806030",
+      fontFamily: "serif",
+      fontSize: 10,
+      fontStyle: "italic"
+    }
+  },
+  tooltip: {
+    trigger: "item",
+    backgroundColor: "#080510",
+    borderColor: "#c4a35a",
+    textStyle: {
+      color: "#e0d5c0",
+      fontFamily: "serif",
+      fontSize: 10
+    },
+    formatter: function(params) {
+      return params.data.name +
+        "<br/>Era: " + params.data.era +
+        "<br/>Impact: " + params.data.value[1] + "/10<br/>" +
+        params.data.desc;
+    }
+  },
+  xAxis: {
+    type: "category",
+    name: "Historical Era",
+    nameTextStyle: {color: "#888", fontFamily: "serif", fontSize: 10},
+    data: ["Dawn Era", "Merethic", "First Era", "Second Era", "Third Era", "Fourth Era"],
+    axisLabel: {
+      color: "#c4a35a",
+      fontFamily: "serif",
+      fontSize: 9
+    },
+    axisLine: {lineStyle: {color: "#2a2030"}}
+  },
+  yAxis: {
+    type: "value",
+    name: "Lasting Impact (0-10)",
+    nameTextStyle: {color: "#888", fontFamily: "serif", fontSize: 9},
+    max: 10,
+    axisLabel: {color: "#666", fontFamily: "serif"},
+    axisLine: {lineStyle: {color: "#2a2030"}},
+    splitLine: {lineStyle: {color: "#111"}}
+  },
+  series: [
+    {
+      name: "Legendary Figures",
+      type: "scatter",
+      symbolSize: function(data) {
+        return data[2] * 4;
+      },
+      data: [
+        {value: ["Dawn Era", 10, 18], name: "Lorkhan", era: "Dawn Era", desc: "Created Mundus itself", itemStyle: {color: "#c05050", opacity: 0.8}},
+        {value: ["Dawn Era", 9, 16], name: "Auri-El / Akatosh", era: "Dawn Era", desc: "Chief of Divines, Time itself", itemStyle: {color: "#f5e08a", opacity: 0.8}},
+        {value: ["Merethic", 8, 15], name: "Ysgramor", era: "Merethic", desc: "Father of all Nords", itemStyle: {color: "#6090c0", opacity: 0.8}},
+        {value: ["Merethic", 7, 14], name: "Miraak", era: "Merethic", desc: "First Dragonborn, Apocrypha exile", itemStyle: {color: "#8060c0", opacity: 0.8}},
+        {value: ["Merethic", 8, 14], name: "Paarthurnax", era: "Merethic", desc: "Taught humans Thu'um", itemStyle: {color: "#c09060", opacity: 0.8}},
+        {value: ["First Era", 9, 16], name: "Alessia", era: "First Era", desc: "Founded Alessian Empire + 8 Divines", itemStyle: {color: "#f5e08a", opacity: 0.9}},
+        {value: ["First Era", 7, 13], name: "Pelinal Whitestrake", era: "First Era", desc: "Star-made knight", itemStyle: {color: "#d0d0d0", opacity: 0.8}},
+        {value: ["First Era", 8, 14], name: "Nerevar Indoril", era: "First Era", desc: "Hortator, united races", itemStyle: {color: "#6050a0", opacity: 0.8}},
+        {value: ["First Era", 7, 13], name: "Vivec", era: "First Era", desc: "Tribunal, CHIM", itemStyle: {color: "#9070b0", opacity: 0.8}},
+        {value: ["First Era", 6, 12], name: "Dagoth Ur", era: "First Era", desc: "6th House leader", itemStyle: {color: "#c03030", opacity: 0.8}},
+        {value: ["Second Era", 10, 18], name: "Tiber Septim", era: "Second Era", desc: "United Tamriel", itemStyle: {color: "#d4b460", opacity: 0.9}},
+        {value: ["Third Era", 9, 16], name: "Martin Septim", era: "Third Era", desc: "Sacrificed to save Mundus", itemStyle: {color: "#c4a35a", opacity: 0.9}},
+        {value: ["Fourth Era", 9, 17], name: "Last Dragonborn", era: "Fourth Era", desc: "Defeated Alduin", itemStyle: {color: "#4080c0", opacity: 0.9}}
+      ],
+      label: {
+        show: true,
+        position: "top",
+        color: "#c4a35a",
+        fontFamily: "serif",
+        fontSize: 8,
+        formatter: function(params) {
+          return params.data.name;
+        }
+      }
+    }
+  ]
+};
+
+chart.setOption(option);
+</script>
+
+</body>
+</html>

@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grafik Creatures of Tamriel</title>
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: transparent; /* Transparan agar menyatu dengan buku */
+            overflow: hidden;
+        }
+        #chart-container {
+            width: 100%;
+            /* Tinggi diperbesar agar lingkaran grafik tidak sempit */
+            height: 700px; 
+        }
+    </style>
+</head>
+<body>
+
+    <div id="chart-container"></div>
+
+    <script>
+        var chartDom = document.getElementById('chart-container');
+        var myChart = echarts.init(chartDom);
+        var option;
+
+        option = {
+            backgroundColor: "transparent",
+            title: {
+                text: "Creatures of Tamriel — Classification & Threat Level",
+                subtext: "Perbandingan kategori makhluk berdasarkan berbagai dimensi",
+                left: "center",
+                top: 10,
+                textStyle: {
+                    color: "#d4af37", // Warna emas khas Elder Scrolls
+                    fontFamily: "'Cinzel', serif",
+                    fontSize: 18,
+                    fontWeight: "bold",
+                    textShadowBlur: 5,
+                    textShadowColor: "rgba(0,0,0,0.5)"
+                },
+                subtextStyle: {
+                    color: "#c09060",
+                    fontFamily: "'Merriweather', serif",
+                    fontSize: 12,
+                    fontStyle: "italic"
+                }
+            },
+            tooltip: {
+                trigger: "item",
+                backgroundColor: "rgba(8, 5, 16, 0.9)",
+                borderColor: "#c4a35a",
+                textStyle: {
+                    color: "#e0d5c0",
+                    fontFamily: "'Poppins', sans-serif",
+                    fontSize: 12
+                }
+            },
+            series: [
+                {
+                    type: "sunburst",
+                    // Lingkaran diperlebar memanfaatkan kanvas 700px
+                    radius: ["15%", "82%"], 
+                    center: ["50%", "53%"],
+                    data: [
+                        {
+                            name: "DAEDRA",
+                            value: 1,
+                            itemStyle: {"color": "#6030a0"},
+                            label: {"color": "#d4a8ff", "fontFamily": "'Cinzel', serif"},
+                            children: [
+                                {"name": "Dremora\n(humanoid)", "value": 8, "itemStyle": {"color": "#8040b0"}},
+                                {"name": "Flame Atronach", "value": 5, "itemStyle": {"color": "#c04020"}},
+                                {"name": "Frost Atronach", "value": 5, "itemStyle": {"color": "#4080c0"}},
+                                {"name": "Storm Atronach", "value": 7, "itemStyle": {"color": "#c0c020"}},
+                                {"name": "Clannfear", "value": 4, "itemStyle": {"color": "#503080"}}, // Typo warna diperbaiki di sini
+                                {"name": "Winged\nTwilight", "value": 4, "itemStyle": {"color": "#c060c0"}},
+                                {"name": "Other Lesser\nDaedra", "value": 5, "itemStyle": {"color": "#402060"}}
+                            ]
+                        },
+                        {
+                            name: "UNDEAD",
+                            value: 1,
+                            itemStyle: {"color": "#601010"},
+                            label: {"color": "#ff8888", "fontFamily": "'Cinzel', serif"},
+                            children: [
+                                {"name": "Draugr", "value": 6, "itemStyle": {"color": "#804020"}},
+                                {"name": "Vampire", "value": 7, "itemStyle": {"color": "#c03030"}},
+                                {"name": "Lich", "value": 8, "itemStyle": {"color": "#a02020"}},
+                                {"name": "Skeleton", "value": 3, "itemStyle": {"color": "#503020"}},
+                                {"name": "Ghost/\nWraith", "value": 4, "itemStyle": {"color": "#704040"}}
+                            ]
+                        },
+                        {
+                            name: "LYCANTHROPES",
+                            value: 1,
+                            itemStyle: {"color": "#204010"},
+                            label: {"color": "#99ff77", "fontFamily": "'Cinzel', serif"},
+                            children: [
+                                {"name": "Werewolf", "value": 7, "itemStyle": {"color": "#50a030"}},
+                                {"name": "Werebear", "value": 6, "itemStyle": {"color": "#408020"}},
+                                {"name": "Other\nLycans", "value": 4, "itemStyle": {"color": "#306010"}}
+                            ]
+                        },
+                        {
+                            name: "AUTOMATA",
+                            value: 1,
+                            itemStyle: {"color": "#403010"},
+                            label: {"color": "#ffd280", "fontFamily": "'Cinzel', serif"},
+                            children: [
+                                {"name": "Centurion", "value": 9, "itemStyle": {"color": "#b09050"}},
+                                {"name": "Sphere", "value": 5, "itemStyle": {"color": "#906030"}},
+                                {"name": "Spider", "value": 3, "itemStyle": {"color": "#705020"}},
+                                {"name": "Ballista", "value": 6, "itemStyle": {"color": "#a08040"}}
+                            ]
+                        },
+                        {
+                            name: "NATURE",
+                            value: 1,
+                            itemStyle: {"color": "#102010"},
+                            label: {"color": "#88ff77", "fontFamily": "'Cinzel', serif"},
+                            children: [
+                                {"name": "Spriggan", "value": 5, "itemStyle": {"color": "#40a030"}},
+                                {"name": "Wispmother", "value": 4, "itemStyle": {"color": "#60c0c0"}},
+                                {"name": "Hagraven", "value": 5, "itemStyle": {"color": "#808020"}},
+                                {"name": "Troll", "value": 4, "itemStyle": {"color": "#505020"}},
+                                {"name": "Unique\nAnimals", "value": 3, "itemStyle": {"color": "#208020"}}
+                            ]
+                        },
+                        {
+                            name: "GIANTS &\nOTHERS",
+                            value: 1,
+                            itemStyle: {"color": "#202020"},
+                            label: {"color": "#cccccc", "fontFamily": "'Cinzel', serif"},
+                            children: [
+                                {"name": "Giant", "value": 6, "itemStyle": {"color": "#808080"}},
+                                {"name": "Falmer", "value": 4, "itemStyle": {"color": "#c4a35a"}},
+                                {"name": "Riekling", "value": 2, "itemStyle": {"color": "#60a060"}},
+                                {"name": "Goblin", "value": 2, "itemStyle": {"color": "#608060"}},
+                                {"name": "Mammoth", "value": 3, "itemStyle": {"color": "#a0a060"}}
+                            ]
+                        }
+                    ],
+                    label: {
+                        rotate: "radial",
+                        fontFamily: "'Merriweather', serif",
+                        fontSize: 11, // Font terluar dibesarkan agar mudah dibaca
+                        color: "#ffffff",
+                        textShadowBlur: 3,
+                        textShadowColor: "rgba(0,0,0,0.8)"
+                    },
+                    levels: [
+                        {},
+                        {
+                            // Lingkaran dalam (Kategori Utama)
+                            r0: "15%", r: "42%",
+                            label: {rotate: "tangential", fontSize: 13, fontWeight: "bold"},
+                            itemStyle: {borderWidth: 2, borderColor: "rgba(255,255,255,0.1)"}
+                        },
+                        {
+                            // Lingkaran luar (Sub-kategori Makhluk)
+                            r0: "42%", r: "82%",
+                            label: {align: "right", rotate: "radial", fontSize: 11},
+                            itemStyle: {borderWidth: 2, borderColor: "rgba(255,255,255,0.1)"}
+                        }
+                    ]
+                }
+            ]
+        };
+
+        option && myChart.setOption(option);
+
+        // Menyesuaikan ukuran jika layar di-resize (misal dibuka di HP)
+        window.addEventListener('resize', function() {
+            myChart.resize();
+        });
+    </script>
+</body>
+</html>

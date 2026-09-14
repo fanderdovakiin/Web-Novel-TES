@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Ras-Ras Tamriel</title>
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      background: #040406;
+      font-family: serif;
+    }
+    #chart {
+      width: 100%;
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+
+<div id="chart"></div>
+
+<script>
+var chart = echarts.init(document.getElementById('chart'));
+
+var option = {
+  backgroundColor: "#040406",
+  title: {
+    text: "Ras-Ras Tamriel — Status Keberadaan dan Populasi",
+    subtext: "Dari ras yang masih ada hingga yang telah punah atau hilang",
+    left: "center",
+    top: 10,
+    textStyle: {
+      color: "#c4a35a",
+      fontFamily: "serif",
+      fontSize: 14
+    },
+    subtextStyle: {
+      color: "#806030",
+      fontFamily: "serif",
+      fontSize: 10,
+      fontStyle: "italic"
+    }
+  },
+  tooltip: {
+    trigger: "item",
+    backgroundColor: "#080510",
+    borderColor: "#c4a35a",
+    textStyle: {
+      color: "#e0d5c0",
+      fontFamily: "serif",
+      fontSize: 10
+    }
+  },
+  series: [
+    {
+      name: "Race Status",
+      type: "treemap",
+      data: [
+        {
+          name: "LIVING RACES",
+          value: 1000,
+          itemStyle: {color: "#1a2a1a"},
+          children: [
+            {name: "Imperial", value: 180, itemStyle: {color: "#c4a35a"}},
+            {name: "Nord", value: 160, itemStyle: {color: "#6090c0"}},
+            {name: "Breton", value: 150, itemStyle: {color: "#8080c0"}},
+            {name: "Redguard", value: 140, itemStyle: {color: "#d09040"}},
+            {name: "Altmer", value: 100, itemStyle: {color: "#f5e08a"}},
+            {name: "Bosmer", value: 90, itemStyle: {color: "#80d050"}},
+            {name: "Dunmer", value: 95, itemStyle: {color: "#c060a0"}},
+            {name: "Orsimer", value: 85, itemStyle: {color: "#70c060"}},
+            {name: "Khajiit", value: 130, itemStyle: {color: "#d0a040"}},
+            {name: "Argonian", value: 120, itemStyle: {color: "#50c050"}}
+          ]
+        },
+        {
+          name: "RARE / HIDDEN",
+          value: 300,
+          itemStyle: {color: "#1a1a2a"},
+          children: [
+            {name: "Maormer\n(hidden)", value: 120, itemStyle: {color: "#5080b0"}},
+            {name: "Gelebor\n(last Snow Elf)", value: 5, itemStyle: {color: "#a0c4e0"}},
+            {name: "Yagrum Bagarn\n(last Dwemer?)", value: 5, itemStyle: {color: "#b09060"}},
+            {name: "Falmer\n(degenerate)", value: 170, itemStyle: {color: "#404848"}}
+          ]
+        },
+        {
+          name: "EXTINCT / VANISHED",
+          value: 200,
+          itemStyle: {color: "#1a0a0a"},
+          children: [
+            {name: "Dwemer\n(1E 700)", value: 80, itemStyle: {color: "#906050"}},
+            {name: "Ayleid\n(1E 300s)", value: 70, itemStyle: {color: "#4070a0"}},
+            {name: "Kothringi\n(2E 560)", value: 30, itemStyle: {color: "#606060"}},
+            {name: "Others", value: 20, itemStyle: {color: "#404040"}}
+          ]
+        }
+      ],
+      label: {
+        show: true,
+        fontFamily: "serif",
+        fontSize: 9,
+        color: "#e0d0c0"
+      },
+      upperLabel: {
+        show: true,
+        fontFamily: "serif",
+        fontSize: 11,
+        color: "#c4a35a",
+        fontWeight: "bold"
+      },
+      breadcrumb: { show: false },
+      roam: false,
+      nodeClick: false,
+      width: "95%",
+      height: "85%",
+      top: "12%",
+      left: "2%"
+    }
+  ]
+};
+
+chart.setOption(option);
+</script>
+
+</body>
+</html>

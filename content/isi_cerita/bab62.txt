@@ -1,0 +1,188 @@
+<h2><b>I. FONDASI KOSMOLOGIS DARI SIHIR — MENGAPA MAGICKA BERASAL DARI BINTANG</b></h2>
+
+Sebelum kita bisa memahami bagaimana sihir bekerja di Tamriel, kita harus memahami dari mana energi yang membuatnya bekerja berasal. Dan jawaban untuk pertanyaan itu — seperti hampir semua jawaban fundamental tentang cara Tamriel berfungsi — kembali kepada kosmologi yang sudah kita bahas di Book I.
+
+Magicka adalah energi yang berasal dari Aetherius — alam di "atas" Mundus, di mana Magnus dan Magna-Ge melarikan diri ketika penciptaan Mundus menuntut pengorbanan yang tidak bisa mereka terima. Ketika mereka merobek jalan keluar dari Mundus yang sedang terbentuk, mereka meninggalkan lubang-lubang di langit — Matahari (lubang terbesar, ditinggalkan oleh Magnus sendiri) dan bintang-bintang (lubang-lubang kecil yang ditinggalkan oleh Magna-Ge).
+
+Melalui lubang-lubang itulah energi Aetherius mengalir ke Mundus, dan energi itu adalah apa yang disebut sebagai magicka. Ini menjelaskan beberapa hal yang sebelumnya mungkin tampak aneh:
+
+Mengapa sihir lebih kuat pada malam hari? Karena pada malam hari, lebih banyak "lubang" (bintang) terlihat dan lebih banyak energi Aetherius mengalir. Pada siang hari, Matahari menghalangi cahaya bintang dan energi Aetherius yang lebih difus dari bintang kurang terasa di samping energi masif dari Matahari.
+
+Mengapa Altmer lebih kuat dalam sihir dari manusia? Karena Altmer, sebagai keturunan langsung dari Aldmer dan melalui mereka dari Old Ehlnofey, memiliki hubungan biologis yang lebih kuat dengan esensi ilahi yang juga merupakan substansi dari mana magicka terbuat. Mereka tidak "lebih baik" dalam meminjam energi dari Aetherius — mereka lebih terhubung secara alami dengan prinsip yang memungkinkan penggunaan energi itu.
+
+Mengapa sihir melemahkan pengguna? Karena menggunakan magicka adalah tindakan yang secara harfiah menarik energi dari sumber yang sangat jauh dan sangat asing bagi tubuh fana. Tubuh harus "memproses" energi itu sebelum bisa digunakan, dan proses itu menghabiskan kapasitas biologis. Seorang mage yang "kehabisan magicka" tidak kehabisan bahan bakar seperti mesin — mereka kehabisan kapasitas untuk memproses lebih banyak energi dari Aetherius sampai mereka beristirahat.
+
+
+
+<h2><b>II. ENAM SEKOLAH SIHIR — CARA MENGORIENTASIKAN DIRI DALAM SAMUDRA KEMUNGKINAN</b></h2>
+
+Sistem enam sekolah sihir yang dikenal di Tamriel bukan hukum alam — ia adalah sistem kategorisasi yang dikembangkan oleh sarjana-sarjana Mages Guild untuk membantu murid-murid memahami dan mengorganisasi pengetahuan mereka tentang sihir. Sebelum Mages Guild, tidak ada konsensus tentang cara mengkategorikan sihir; berbagai tradisi memiliki sistem yang berbeda.
+
+ALTERATION — Mengubah Hukum Fisika Lokal:
+
+Alteration adalah sekolah yang, secara filosofis, paling mendekati apa yang para Dwemer akan sebut sebagai "Tonal Architecture ringan" — ia memanipulasi hukum-hukum fisika yang mengatur cara materi dan energi berperilaku, namun dalam skala yang jauh lebih terbatas.
+
+Ketika seorang mage menggunakan Waterbreathing, mereka tidak menciptakan insang secara biologis — mereka memodifikasi cara udara berperilaku di sekitar paru-paru mereka sehingga pertukaran gas yang biasanya memerlukan air bisa terjadi dengan udara. Ketika mereka menggunakan Ironflesh, mereka tidak mengubah kulit menjadi besi secara harfiah — mereka memodifikasi properti mekanis kulit mereka untuk periode waktu tertentu.
+
+Ini adalah sihir yang tidak menciptakan sesuatu baru dan tidak menghancurkan sesuatu yang ada — ia hanya mengubah cara sesuatu yang sudah ada berperilaku. Dan ini adalah mengapa Alteration cenderung lebih "aman" dari Destruction atau Conjuration — ia tidak membuka koneksi ke dimensi lain dan tidak melepaskan energi dalam jumlah besar ke lingkungan.
+
+CONJURATION — Memanggil dari Balik Selubung:
+
+Conjuration beroperasi pada prinsip yang, secara kosmologis, sangat berbeda dari sekolah lain: ia membuka koneksi kecil dan terkontrol antara Mundus dan Oblivion, memungkinkan makhluk-makhluk dari Oblivion untuk memanifestasikan diri di Mundus untuk periode waktu tertentu.
+
+Ini adalah mengapa Bound Weapons tidak hanya meminjam senjata dari suatu tempat — mereka adalah manifestasi fisik dari energi Oblivion yang berbentuk menjadi senjata melalui kehendak penyihir. Senjata itu ada secara fisik dan bisa digunakan secara fisik, namun substansi yang membentuknya bukan besi atau baja — ia adalah energi Oblivion yang terstruktur sementara.
+
+Aspek yang paling kontroversial dari Conjuration adalah Necromancy (kita akan membahas ini lebih lanjut nanti) dan Soul Trap — kemampuan untuk menangkap jiwa dalam soul gem ketika makhluk mati. Soul Trap berinteraksi langsung dengan siklus jiwa yang Arkay jaga, dan penggunaan yang berlebihan atau tidak bertanggung jawab adalah sesuatu yang clergy Arkay secara aktif menolak.
+
+DESTRUCTION — Kekuatan yang Paling Langsung, Paling Berbahaya:
+
+Destruction adalah sekolah yang paling intuitif untuk dipahami — ia menggunakan magicka untuk menghasilkan energi destruktif dalam berbagai bentuk: api, es, dan petir dalam game-game TES.
+
+Namun di balik kesederhanaan itu ada implikasi yang menarik. Ketika seorang mage melemparkan fireball, mereka tidak hanya "mengarahkan api" — mereka menciptakan reaksi kimia yang terkontrol menggunakan magicka sebagai katalis. Api dalam fireball lebih panas dari api biasa karena substansi yang membakar bukan hanya oksigen dan bahan bakar — ada komponen energi Aetherius yang terintegrasi ke dalam reaksi.
+
+Ini menjelaskan mengapa Frost Magic di Tamriel berbeda dari sekadar "sangat dingin" — frost spells tidak hanya menghilangkan panas, mereka menciptakan kondisi yang membuat molekul berperilaku dengan cara yang melampaui apa yang dicapai oleh suhu rendah biasa. Seseorang yang terekspos ke Deep Freeze dari mage tingkat tinggi tidak hanya kedinginan — sel-sel dalam tubuh mereka berhenti berfungsi dengan cara yang berbeda dari hipotermia normal.
+
+ILLUSION — Ketika Persepsi Adalah Realitas:
+
+Illusion adalah sekolah yang paling meresahkan secara filosofis dari semua sekolah sihir, karena ia beroperasi pada premis bahwa realitas subjektif seseorang bisa diubah tanpa mengubah realitas objektif.
+
+Ketika seorang mage menggunakan Invisibility, mereka tidak menjadi tidak ada secara fisik — mereka membuat pikiran orang-orang di sekitar mereka tidak memproses data sensorik yang ada. Bayangan masih ada. Suara langkah masih ada. Bahkan bau masih ada. Namun sistem persepsi otak dari orang yang terekspos Invisibility tidak mengintegrasikan semua data itu ke dalam gambaran yang koheren tentang "seseorang yang ada di sana".
+
+Ini menimbulkan pertanyaan yang sangat mendalam tentang sifat persepsi: jika otak kamu tidak memproses seseorang sebagai "ada", apakah orang itu "ada" bagi kamu secara fungsional? Dan jika tidak, apakah perbedaan antara Illusion dan kenyataan itu masih signifikan?
+
+RESTORATION — Penyembuhan sebagai Tindakan Kosmis:
+
+Restoration adalah sekolah yang paling terhubung dengan Aedra dan dengan konsep tentang tatanan yang benar. Ketika seorang healer menggunakan Close Wounds, mereka tidak hanya merangsang tubuh untuk mempercepat penyembuhan alami — mereka mengakses prinsip-prinsip Aedric tentang integritas tubuh dan kehidupan yang mengalir, dan menggunakannya untuk memulihkan kondisi yang seharusnya ada.
+
+Ini menjelaskan mengapa Turn Undead termasuk dalam Restoration daripada Destruction — karena ia tidak merusak undead, ia mengembalikan tatanan yang seharusnya. Undead yang keberadaannya sudah berakhir seharusnya sudah mati; Turn Undead hanya menegakkan tatanan itu.
+
+MYSTICISM — Sekolah yang Hilang:
+
+Mysticism adalah sekolah keenam yang ada dalam TES I-IV namun yang dihilangkan dalam TES V: Skyrim, dengan kemampuan-kemampuannya dibagi ke sekolah-sekolah lain. Ini adalah keputusan desain yang masuk akal dari perspektif gameplay, namun dari perspektif lore menciptakan sedikit tanda tanya: mengapa sekolah yang pernah ada menjadi usang?
+
+Jawaban loristically adalah bahwa Mysticism — yang berkaitan dengan jiwa, spirit, dan koneksi dengan Aetherius secara langsung — menjadi semakin sulit untuk dipelajari dan dipraktikkan setelah Oblivion Crisis. Perubahan dalam Liminal Barriers akibat penghancuran Amulet of Kings membuat akses ke dimensi-dimensi yang Mysticism bergantung padanya lebih sulit dan tidak dapat diandalkan. Bukan bahwa Mysticism berhenti bekerja — melainkan bahwa kondisi yang diperlukan untuk mengajar dan mempelajarinya secara sistematis menjadi lebih langka.
+
+
+
+<h2><b>III. TONAL ARCHITECTURE — SIHIR SEBAGAI ILMU PENGETAHUAN</b></h2>
+
+Pendekatan Dwemer terhadap manipulasi realitas adalah yang paling berbeda dari semua tradisi magis di Tamriel — dan yang paling berpotensi melampaui tradisi-tradisi lain jika dikuasai sepenuhnya.
+
+Di mana sihir konvensional menggunakan kehendak + kata-kata + gestur untuk "memohon" kepada prinsip-prinsip Aetherius, Tonal Architecture menggunakan pemahaman matematika tentang "nada-nada" fundamental realitas untuk memanipulasi prinsip-prinsip itu secara langsung.
+
+Analogi yang paling tepat: sihir konvensional adalah seperti memainkan melodi di piano — kamu menekan tuts yang tepat dan musik keluar. Tonal Architecture adalah seperti memahami fisika akustik sampai ke tingkat di mana kamu bisa menciptakan instrumen baru atau bahkan mengubah cara suara merambat melalui udara.
+
+Animunculi — Sihir yang Dibuat Permanen:
+
+Salah satu pencapaian terbesar Tonal Architecture adalah bahwa ia memungkinkan penciptaan Animunculi — konstruksi mekanis yang "berjalan" bukan karena sihir yang terus-menerus dimasukkan ke dalamnya (yang akan memerlukan penyihir yang selalu aktif) melainkan karena prinsip-prinsip Tonal Architecture "dikodekan" ke dalam struktur logam mereka sendiri.
+
+Ini adalah perbedaan fundamental dari, misalnya, Bound Weapons yang memerlukan magicka aktif untuk bertahan. Animunculi tidak memerlukan magicka dari penyihir untuk berfungsi — mereka berfungsi karena cara mereka dibuat mencerminkan pola-pola Tonal Architecture yang memungkinkan mereka untuk terus beroperasi secara otonom.
+
+Bahwa mereka masih berfungsi ribuan tahun setelah pembuatnya lenyap adalah bukti bahwa Tonal Architecture, ketika diimplementasikan dengan benar, bisa menciptakan sesuatu yang secara praktis permanen dalam skala waktu fana.
+
+
+
+<h2><b>IV. SWORD-SINGING — KETIKA PERTEMPURAN DAN MEDITASI MENJADI SATU</b></h2>
+
+Sword-Singing adalah tradisi yang, lebih dari tradisi magis lainnya, menolak pemisahan antara "tubuh" dan "jiwa". Bagi praktisi Sword-Singing, pedang dan mage adalah dua setengah dari satu kesatuan — pertempuran fisik dan manipulasi spiritual tidak bisa dan tidak seharusnya dipisahkan.
+
+Shehai — "pedang roh" atau "pedang jiwa" yang bisa dimanifestasikan oleh Sword-Singer yang cukup terlatih — adalah konsep yang, bila dipikirkan dengan benar, sangat menakjubkan. Ini bukan ilusi pedang. Ini bukan pedang yang terbuat dari energi Aetherius seperti Bound Sword. Ini adalah ekspresi dari kehendak penyihir yang termanifestasi menjadi bentuk yang bisa memotong, yang bisa memblok, yang bisa melakukan semua yang bisa dilakukan oleh pedang fisik — namun yang substansi-nya adalah kehendak itu sendiri.
+
+Implikasi filosofis dari ini sangat dalam: jika kehendak bisa menjadi pedang, apa yang membatasi apa yang bisa menjadi? Mengapa tidak juga menjadi perisai, atau baju zirah, atau bahkan dinding? Para Sword-Singer yang paling terlatih memang mengeksplorasi batas-batas ini — dan dalam eksplorasi yang terlalu ambisius itulah terletak tragedi tenggelamnya Yokuda.
+
+
+
+<h2><b>V. NECROMANCY — PELAJARAN TENTANG MENGAPA BEBERAPA BATAS TIDAK SEHARUSNYA DILINTASI</b></h2>
+
+Necromancy adalah topik yang memerlukan dua diskusi sekaligus: diskusi tentang apa yang dilakukannya secara teknis dan diskusi tentang mengapa sebagian besar peradaban melarangnya.
+
+Secara Teknis:
+
+Necromancy bekerja dengan memanipulasi kondisi post-mortem dari tubuh dan jiwa. Ada dua aspek utama:
+
+Reanimasi tubuh — menggunakan energi magis untuk membuat tubuh yang sudah mati bergerak kembali. Ini tidak "menghidupkan kembali" orang mati dalam pengertian yang berarti — jiwa yang meninggalkan tubuh tidak kembali ke sana (kecuali dalam kasus-kasus sangat khusus). Yang terjadi adalah bahwa tubuh dioperasikan seperti boneka — oleh magis penyihir, bukan oleh kesadaran individu yang pernah menghidupkannya.
+
+Penjebakan jiwa — mencegah jiwa dari mengikuti siklus yang Arkay jaga, menangkapnya dalam soul gem atau dalam konstruksi magis lain. Jiwa yang terjebak dalam soul gem tidak pergi ke Sovngarde atau ke Far Shores atau ke akhirat mana pun yang seharusnya menjadi tujuannya — mereka tetap tersimpan, tidak aktif, menunggu.
+
+Mengapa Dilarang:
+
+Larangan terhadap necromancy di sebagian besar Tamriel — yang sangat ketat di Mages Guild, yang dipaksakan oleh clergy Arkay, dan yang dalam banyak yurisdiksi adalah kejahatan legal yang serius — berakar pada dua prinsip:
+
+Pertama, penistaan terhadap yang mati. Dalam hampir semua tradisi budaya di Tamriel, ada kepercayaan bahwa yang mati berhak untuk beristirahat. Menggunakan tubuh seseorang sebagai alat setelah mereka mati adalah melanggar batas yang semua orang rasakan sebagai penting, bahkan jika tidak semua orang bisa mengartikulasikan mengapa.
+
+Kedua, gangguan terhadap tatanan kosmis. Arkay menjaga siklus jiwa — ia memastikan bahwa jiwa yang meninggalkan Mundus bisa melanjutkan perjalanan mereka ke Aetherius atau ke akhirat yang sesuai. Necromancy yang menjebak jiwa adalah pengganggu langsung terhadap tatanan yang Arkay jaga. Ini bukan hanya masalah moral — ini adalah masalah kosmologis. Jiwa yang terjebak adalah jiwa yang tidak bisa menyelesaikan perjalanan yang seharusnya.
+
+Mannimarco sebagai Kasus Ekstrem:
+
+Mannimarco — King of Worms, Altmer lich yang mendirikan Worm Cult — adalah apa yang terjadi ketika seseorang yang sangat berbakat menolak semua batasan moral dan kosmis terhadap necromancy dan mengeksplorasi kemampuannya sampai batas tertinggi.
+
+Ia mencapai Lichdom — kondisi yang menggunakan jiwa terjebak dan energi necromantic untuk mempertahankan eksistensi yang pada dasarnya sudah seharusnya berakhir. Ia mengembangkan Worm Cult yang memungkinkan jutaan "anggota" untuk memberikan esensi jiwa mereka kepada Mannimarco untuk kekuatannya.
+
+Dan pada akhirnya — dalam berbagai versi yang diketahui dari kisahnya, baik di Oblivion maupun di ESO — ia tidak mencapai keilahian yang ia inginkan. Ia dimanipulasi oleh Molag Bal, ia dipermalukan oleh kekuatan yang jauh melampaui kekuatannya, dan semua pengorbanan yang ia minta dari dirinya sendiri dan dari orang lain tidak menghasilkan apa yang ia janjikan kepada dirinya sendiri.
+
+Mannimarco adalah pelajaran tentang mengapa ada batas-batas yang tidak seharusnya dilintasi — bukan karena batas itu ada secara sewenang-wenang, melainkan karena apa yang ada di balik batas itu adalah lebih berbahaya dari yang bisa dipahami oleh siapa pun yang cukup bodoh untuk mencoba melewatinya.
+
+
+
+<h2><b>VI. SHADOW MAGIC — YANG DATANG DARI KEGELAPAN</b></h2>
+
+Shadow Magic adalah tradisi yang kurang terdokumentasi dari sebagian besar sistem sihir lain, dan yang keberadaannya dalam lore TES bersifat agak marginal namun konsisten. Ia muncul terutama dalam konteks ESO dan dalam referensi-referensi kepada Nocturnal dan shadow-oriented characters.
+
+Prinsip dasarnya: alih-alih menggunakan energi dari Aetherius (seperti sihir konvensional), Shadow Magic menggunakan energi dari Evergloam — realm Nocturnal, the twilight realm. Evergloam bukanlah kegelapan dalam pengertian fisik semata; ia adalah kondisi di mana kemungkinan-kemungkinan yang belum terwujud hidup — di mana sesuatu bisa ada tanpa sepenuhnya ada, di mana batas antara "ada" dan "tidak ada" menjadi permeabel.
+
+Ini membuat Shadow Magic berguna untuk berbagai efek yang sekolah-sekolah konvensional tidak bisa lakukan dengan cara yang sama:
+
+Bergerak melalui bayangan daripada melalui ruang fisik
+Menyembunyikan sesuatu di "antara" keberadaan
+Mencuri kemungkinan dari target (membuat sesuatu yang mungkin terjadi menjadi tidak mungkin)
+Nightingales — yang sudah kita bahas dalam konteks Thieves Guild — menggunakan Shadow Magic dalam beberapa aspek kemampuan mereka, dan hubungan Nocturnal dengan konsep ini menjelaskan mengapa Thieves Guild yang memiliki koneksi Nocturnal jauh lebih efektif dalam beroperasi "di balik" perhatian orang lain.
+
+
+
+<h2><b>VII. MENGAPA TIDAK SEMUA SIHIR SAMA — PRINSIP FUNDAMENTAL YANG MENDASARINYA</b></h2>
+
+Setelah mempelajari berbagai sistem sihir ini, ada pertanyaan yang menarik untuk direnungkan: mengapa sihir-sihir ini berbeda satu sama lain? Bukankah semuanya hanya cara untuk memanipulasi realitas?
+
+Jawabannya terletak pada dari mana energi berasal dan bagaimana ia berinteraksi dengan realitas:
+
+Sihir konvensional menggunakan energi Aetherius yang mengalir melalui "lubang" di langit. Ini membuat pengguna bergantung pada aliran yang tidak selalu stabil dan yang terbatas oleh apa yang bisa ditangani oleh tubuh fana.
+
+Thu'um menggunakan energi dari dalam — dari jiwa naga yang ada dalam Dragonborn. Ini tidak bergantung pada aliran eksternal dan karena itu tidak bisa diblokir oleh mekanisme yang memblokir sihir konvensional.
+
+Tonal Architecture tidak menggunakan "energi" dalam pengertian yang sama — ia menggunakan pemahaman untuk memodifikasi cara realitas berfungsi. Ini membuatnya sangat kuat namun juga sangat berbahaya karena tidak ada "batasan aman" yang built-in seperti yang ada dalam sihir konvensional.
+
+Sword-Singing menggunakan energi dari kehendak — dari spirit individu yang terlatih. Ini adalah sumber yang paling personal dan paling tidak dapat diambil dari orang lain secara paksa.
+
+Necromancy menggunakan energi dari jiwa-jiwa yang terjebak — energi yang "seharusnya" sudah pergi. Ini adalah mengapa ia terasa "kotor" kepada yang peka: ia memakan sesuatu yang seharusnya tidak lagi tersedia.
+
+Shadow Magic menggunakan energi dari Evergloam — energi dari kemungkinan yang belum terwujud. Ini membuatnya berguna untuk hal-hal yang berkaitan dengan "antara" kondisi, namun juga membuatnya sulit diprediksi.
+
+
+
+<h2><b>VIII. PENUTUP — SIHIR SEBAGAI CERMIN TAMRIEL</b></h2>
+
+Sistem sihir Tamriel adalah, dalam banyak cara, cermin dari nilai-nilai dan filosofi yang mendefinisikan bangsa-bangsa yang mengembangkannya:
+
+Altmer yang sangat akademis mengembangkan sistem sekolah yang rapi dan terkategorisasi. Redguard yang menghargai ketangguhan pribadi mengembangkan Sword-Singing yang menggabungkan kekuatan fisik dengan kekuatan spiritual. Dwemer yang atheis dan teknologis mengembangkan Tonal Architecture yang memperlakukan bahkan realitas sebagai masalah teknis yang bisa dipecahkan.
+
+Dan dalam keberagaman pendekatan itu — dalam kenyataan bahwa ada begitu banyak cara untuk berinteraksi dengan prinsip-prinsip fundamental yang sama — ada sesuatu yang sangat khas dari Tamriel secara keseluruhan: bahwa tidak ada satu cara yang "benar" untuk melakukan sesuatu, bahwa keberagaman adalah kekayaan, dan bahwa sering kali cara yang paling menarik untuk memahami sesuatu adalah dengan melihatnya dari beberapa perspektif sekaligus.
+
+<i>"Semua sihir adalah satu sihir.
+Perbedaannya hanya dalam sudut pandang.
+Mage Altmer yang melemparkan fireball,
+Greybeard yang bermeditasi pada Fus,
+Dwemer yang menghitung frekuensi getaran realitas —
+semuanya berbicara kepada hal yang sama.
+Semuanya meminta alam semesta untuk berubah.
+Beberapa lebih sopan dari yang lain dalam cara bertanya.
+Beberapa membayar harga yang lebih besar dari yang lain.
+Namun pada akhirnya, semua sihir adalah satu percakapan:
+percakapan antara makhluk kecil yang fana
+dan prinsip-prinsip besar yang membentuk segalanya.
+Kamu tidak menguasai sihir.
+Kamu belajar berbicara kepada sesuatu yang jauh lebih besar dari kamu.
+Dan kamu berharap ia mendengarkan."
+
+— Dari kuliah Arch-Mage terakhir sebelum pensiun,
+College of Winterhold, 4E 200,
+nama tidak dicatat</i>

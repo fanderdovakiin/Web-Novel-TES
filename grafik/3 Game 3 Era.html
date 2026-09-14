@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>TES I-III Chart</title>
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      background: #040406;
+      font-family: serif;
+    }
+    #chart {
+      width: 100%;
+      height: 100vh; /* PENTING: kalau ini tidak ada, chart tidak muncul */
+    }
+  </style>
+</head>
+<body>
+
+<div id="chart"></div>
+
+<script>
+  const chart = echarts.init(document.getElementById('chart'));
+
+  const option = {
+    backgroundColor: "#040406",
+    title: {
+      text: "TES I-III: Game Timeline dan Signifikansi",
+      subtext: "Perbandingan ketiga game dalam hal konten, lore depth, dan dampak",
+      left: "center",
+      top: 10,
+      textStyle: {
+        color: "#c4a35a",
+        fontFamily: "serif",
+        fontSize: 14
+      },
+      subtextStyle: {
+        color: "#806030",
+        fontFamily: "serif",
+        fontSize: 10,
+        fontStyle: "italic"
+      }
+    },
+    tooltip: {
+      trigger: "axis",
+      backgroundColor: "#080510",
+      borderColor: "#c4a35a",
+      textStyle: {
+        color: "#e0d5c0",
+        fontFamily: "serif",
+        fontSize: 10
+      },
+      axisPointer: { type: "shadow" }
+    },
+    legend: {
+      data: ["World Size (relative)", "Lore Depth", "Story Complexity", "Cultural Impact"],
+      bottom: 8,
+      textStyle: {
+        color: "#aaa",
+        fontFamily: "serif",
+        fontSize: 10
+      }
+    },
+    grid: {
+      left: "12%",
+      right: "5%",
+      top: "20%",
+      bottom: "18%"
+    },
+    xAxis: {
+      type: "category",
+      data: [
+        "TES I: Arena\n(1994, 3E 389-399)",
+        "TES II: Daggerfall\n(1996, 3E 405-417)",
+        "TES III: Morrowind\n(2002, 3E 427)"
+      ],
+      axisLabel: {
+        color: "#c4a35a",
+        fontFamily: "serif",
+        fontSize: 9
+      },
+      axisLine: { lineStyle: { color: "#2a2030" } }
+    },
+    yAxis: {
+      type: "value",
+      max: 100,
+      axisLabel: {
+        color: "#666",
+        fontFamily: "serif"
+      },
+      axisLine: { lineStyle: { color: "#2a2030" } },
+      splitLine: { lineStyle: { color: "#111" } }
+    },
+    series: [
+      {
+        name: "World Size (relative)",
+        type: "bar",
+        data: [85, 100, 60],
+        itemStyle: {
+          color: {
+            type: "linear",
+            x: 0, y: 0, x2: 0, y2: 1,
+            colorStops: [
+              { offset: 0, color: "#8060c0" },
+              { offset: 1, color: "#401060" }
+            ]
+          }
+        }
+      },
+      {
+        name: "Lore Depth",
+        type: "bar",
+        data: [45, 70, 100],
+        itemStyle: {
+          color: {
+            type: "linear",
+            x: 0, y: 0, x2: 0, y2: 1,
+            colorStops: [
+              { offset: 0, color: "#c4a35a" },
+              { offset: 1, color: "#604010" }
+            ]
+          }
+        }
+      },
+      {
+        name: "Story Complexity",
+        type: "bar",
+        data: [50, 85, 95],
+        itemStyle: {
+          color: {
+            type: "linear",
+            x: 0, y: 0, x2: 0, y2: 1,
+            colorStops: [
+              { offset: 0, color: "#c05030" },
+              { offset: 1, color: "#601010" }
+            ]
+          }
+        }
+      },
+      {
+        name: "Cultural Impact",
+        type: "bar",
+        data: [60, 70, 100],
+        itemStyle: {
+          color: {
+            type: "linear",
+            x: 0, y: 0, x2: 0, y2: 1,
+            colorStops: [
+              { offset: 0, color: "#4080c0" },
+              { offset: 1, color: "#102040" }
+            ]
+          }
+        }
+      }
+    ]
+  };
+
+  chart.setOption(option);
+
+  // Fix kalau resize layar
+  window.addEventListener('resize', () => {
+    chart.resize();
+  });
+</script>
+
+</body>
+</html>

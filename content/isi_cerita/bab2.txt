@@ -1,0 +1,281 @@
+<h2><b>I. PRAELUDIUM — MEMANDANG DENGAN MATA YANG BUKAN MATA</b></h2>
+
+Ada sebuah teks kuno yang tersimpan di kedalaman paling gelap Perpustakaan Imperial di Imperial City — di ruang bawah tanah yang pintunya dilindungi oleh tiga lapis enchantment dan empat orang Penitus Oculatus yang bersumpah untuk tidak pernah membuka mulut tentang apa yang mereka jaga. Teks itu tidak memiliki judul. Tidak memiliki penulis. Tidak memiliki tanggal. Hanya selembar vellum yang terbuat dari kulit sesuatu yang bukan binatang dan bukan manusia — sesuatu yang, menurut alchemist yang menganalisisnya, tidak pernah hidup dalam pengertian biologis — dan di atasnya tertulis kalimat-kalimat dalam tinta yang menyala keemasan di kegelapan:
+
+<i>"Engkau bertanya tentang bentuk Aurbis. Engkau ingin aku menggambar peta dari Segalanya. Engkau ingin tahu di mana Aetherius berakhir dan Oblivion dimulai, di mana Mundus berdiri dan ke arah mana Void membentang. Engkau, hai fana yang tak bisa melihat lebih jauh dari ujung hidungmu sendiri, ingin AKU memasukkan Ketakterhinggaan ke dalam secarik perkamen.
+
+Baiklah. Aku akan mencoba. Tapi ketahuilah: setiap peta adalah kebohongan. Dan peta dari Segalanya adalah kebohongan terbesar yang pernah diceritakan."</i>
+
+Tak seorang pun tahu siapa yang menulis kata-kata itu. Para sarjana menduga bahwa teks itu berasal dari seorang Magna-Ge — salah satu dari roh-roh yang meninggalkan Mundus pada Fajar Penciptaan, merobek lubang-lubang di langit yang kita kenal sebagai bintang-bintang. Jika demikian, ini adalah salah satu dari sangat sedikit komunikasi langsung yang pernah diterima Mundus dari makhluk-makhluk misterius itu. Dugaan lain menyebutkan Moth Priest kuno yang kehilangan akal setelah membaca Elder Scroll. Atau mungkin seorang Daedric Prince yang sedang bergurau.
+
+Apa pun sumbernya, penulis anonim itu benar: setiap upaya untuk menggambarkan arsitektur Aurbis adalah, sampai batas tertentu, sebuah kebohongan. Karena Aurbis tidak memiliki "bentuk" dalam pengertian yang bisa dipahami oleh makhluk tiga dimensi yang terikat oleh waktu linier. Aurbis bukanlah sebuah ruangan dengan dinding dan langit-langit. Ia bukan pula sebuah bola, atau sebuah kubus, atau bentuk geometris lainnya. Ia adalah... sesuatu yang lain. Sesuatu yang hanya bisa didekati melalui metafora, analogi, dan model-model yang disederhanakan.
+
+Namun model-model itu — walau merupakan "kebohongan" — tetap berguna. Seorang pelaut tidak membutuhkan peta yang sempurna untuk berlayar; ia hanya membutuhkan peta yang cukup akurat untuk membawanya ke pelabuhan tujuan tanpa menabrak karang. Demikian pula, kita tidak membutuhkan pemahaman sempurna tentang Aurbis untuk hidup di dalamnya; kita hanya membutuhkan pemahaman yang cukup untuk tidak tersesat ketika Oblivion Gate terbuka di depan pintu rumah kita, atau ketika seorang Daedric Prince berbisik di telinga kita di tengah malam.
+
+Maka marilah kita, dengan segala kerendahan hati dan kesadaran penuh akan keterbatasan kita, mencoba memetakan Yang Tak Terpetakan.
+
+
+
+<h2><b>II. MODEL RODA — THE WHEEL AND THE TOWER</b></h2>
+
+Model kosmologis yang paling banyak diterima di kalangan akademis Tamriel — dan yang menjadi dasar pengajaran di Arcane University, College of Winterhold, dan bahkan di akademi-akademi terpencil seperti yang ada di Daggerfall dan Sentinel — adalah model yang dikenal sebagai The Wheel.
+
+Bayangkanlah sebuah roda pedati. Bukan roda biasa, tentu — ini adalah roda yang ukurannya melampaui imajinasi, roda yang membentang dari Ketiadaan ke Ketiadaan, roda yang berputar pada poros yang terbuat dari waktu itu sendiri. Namun secara struktural, ia memiliki komponen-komponen yang sama dengan roda pedati biasa:
+
+Pertama, Poros (The Axle). Di pusat roda, menembus dari satu sisi ke sisi lain, terdapat sebuah poros. Poros ini menghubungkan "atas" (Aetherius) dengan "bawah" (The Void). Dalam beberapa interpretasi, poros ini adalah Akatosh sendiri — Naga Waktu, yang keberadaannya adalah alasan mengapa waktu mengalir di Mundus. Tanpa Akatosh, tanpa poros, roda akan runtuh dan realitas akan berhenti berfungsi. Inilah mengapa, dalam setiap krisis kosmologis besar — Oblivion Crisis, Dragon Break, dan lain-lain — Akatosh selalu memainkan peran sentral.
+
+Dalam interpretasi lain yang lebih esoteris — yang diajarkan oleh Vivec dalam 36 Lessons dan oleh Mankar Camoran dalam Mythic Dawn Commentaries — poros roda bukan Akatosh, melainkan Lorkhan. Atau lebih tepatnya, lubang yang ditinggalkan oleh Lorkhan — karena Lorkhan sudah "mati" (jantungnya dirobek dan dibuang), dan kekosongan yang ia tinggalkan di pusat roda justru menjadi poros yang menopang segalanya. Ini adalah paradoks khas Lorkhan: dalam ketiadaannya, ia lebih hadir daripada dalam kehadirannya.
+
+Kedua, Hub (The Hub). Di sekeliling poros, di tempat di mana poros bersentuhan dengan jari-jari roda, terdapat hub — pusat roda yang menjadi titik temu semua komponen. Hub ini adalah Mundus — atau lebih tepatnya, Nirn, planet tempat kita berdiri. Mundus adalah pusat dari segalanya. Bukan dalam artian "paling penting" (walau para penduduk Mundus tentu suka berpikir demikian), melainkan dalam artian posisional — ia berada di titik di mana semua kekuatan kosmis bertemu, bersinggungan, dan berinteraksi. Aetherius memancarkan magicka "ke bawah" melalui poros; Oblivion mengelilinginya dari segala arah; dan Void menanti di luar pelek.
+
+Ketiga, Jari-Jari (The Spokes). Delapan jari-jari menghubungkan hub (Mundus) ke pelek (Oblivion). Jari-jari ini adalah delapan Aedra — atau lebih tepatnya, delapan plane(t) yang merupakan tubuh para Aedra yang mengorbankan diri untuk menciptakan Mundus. Ya, kau membacanya dengan benar: planet-planet yang mengorbit Nirn bukanlah bola-bola batu dan gas yang mengapung di ruang hampa. Mereka adalah tubuh para dewa. Ketika kau melihat planet Akatosh di langit malam, kau sedang melihat tubuh Akatosh itu sendiri — walau apa yang kau lihat hanyalah "bayangan" dari keberadaannya yang sejati, karena pikiran fana tidak bisa memproses keberadaan ilahi secara langsung.
+
+Ini menjelaskan mengapa planet-planet di langit Nirn tampak berbeda tergantung siapa yang melihatnya. Seorang pelaut mungkin melihat bola cahaya putih. Seorang penyihir dengan penglihatan yang diperkuat magicka mungkin melihat lanskap asing yang membentang tanpa batas. Dan seorang Moth Priest yang telah membaca Elder Scroll mungkin melihat... sesuatu yang tidak bisa dideskripsikan dengan kata-kata, sesuatu yang membuat matanya menangis darah dan otaknya berteriak.
+
+Teks klasik "The Monomyth" menjelaskan ini dengan elegan:
+
+<i>"Bahwa yang kita lihat sebagai planet-planet adalah bola-bola ilusi yang ditampilkan kepada mata kita oleh Scrolls of Praxis, agar kita tidak gila karena melihat wujud asli Aedra. Dalam kenyataannya, setiap 'planet' adalah sebuah plane of existence — sebuah alam yang tak terbatas luasnya, dibentuk oleh kehendak dan esensi dewa yang mendiaminya."</i>
+
+Implikasi dari ini sangat mendalam. Ketika para mage memanggil magicka untuk merapal spell, mereka menarik energi yang mengalir melalui tubuh-tubuh Aedra ini — dari Aetherius, melalui jari-jari roda, ke Mundus. Para Aedra, dalam pengertian ini, bukan hanya pencipta Mundus; mereka juga penyangga Mundus — pilar-pilar yang menopang realitas agar tidak runtuh kembali ke Kekacauan.
+
+Keempat, Pelek (The Rim). Pelek roda — bagian terluar yang melingkar — adalah Oblivion. Lebih tepatnya, pelek ini terdiri dari banyak realm Daedric yang masing-masing dikuasai oleh seorang Daedric Prince. Dalam model ini, Oblivion "mengelilingi" Mundus — ia ada di antara Mundus dan Void, seperti cangkang telur yang melindungi (atau memenjarakan, tergantung perspektif) kuning telur di dalamnya.
+
+Namun "mengelilingi" di sini bukan berarti dalam pengertian spasial tiga dimensi yang sederhana. Realm-realm Daedric tidak tersusun berdampingan seperti negara-negara di peta. Mereka ada di dimensi yang berbeda — masing-masing menempati "frekuensi" yang unik, yang tidak bisa diakses dari Mundus tanpa sihir yang sangat kuat, sebuah Oblivion Gate, atau persetujuan dari Daedric Prince yang bersangkutan. Seorang penyihir tidak bisa "berjalan" ke Coldharbour; ia harus "melompat" ke sana, melintasi batas antara frekuensi-frekuensi realitas.¹
+
+<i>¹ Catatan Lore: Konsep "frekuensi" atau "Tonal Architecture" ini berasal dari tradisi Dwemer dan telah diadopsi secara luas oleh akademisi modern. Namun beberapa sarjana — terutama dari tradisi Nordic — menolak terminologi ini dan lebih suka menggunakan istilah "liminal barrier" atau "veil between worlds". Perbedaannya lebih bersifat semantik daripada substantif.</i>
+
+Kelima, di Luar Pelek — The Void. Dan di luar pelek roda — di luar Oblivion, di luar segalanya — terbentanglah The Void. Kekosongan. Sithis. Tempat di mana bahkan Daedric Prince tidak bisa berkuasa, di mana hukum-hukum realitas tidak berlaku, di mana konsep "ada" dan "tidak ada" kehilangan maknanya. The Void bukanlah "tempat" — ia adalah ketiadaan tempat. Ia adalah apa yang tersisa ketika kau mengambil segalanya.
+
+Model Roda ini, tentu saja, adalah penyederhanaan. Realitas Aurbis jauh lebih kompleks, lebih berlapis-lapis, lebih aneh dari yang bisa ditangkap oleh model dua dimensi mana pun. Namun model ini memberikan kerangka kerja yang berguna — sebuah peta yang cukup akurat untuk membimbing kita dalam eksplorasi kita.
+
+Sekarang, marilah kita menjelajahi setiap komponen Aurbis secara mendalam, satu per satu, dimulai dari yang paling jauh dan paling misterius, menuju ke yang paling dekat dan paling akrab.
+
+
+
+<h2><b>III. AETHERIUS — LAUTAN CAHAYA DI BALIK LANGIT</b></h2>
+
+Aetherius.
+
+Nama itu terdengar seperti bisikan angin di puncak Throat of the World — lembut, jauh, dan penuh dengan janji tentang sesuatu yang melampaui jangkauan. Dan memang begitulah Aetherius: ia adalah yang melampaui. Ia ada di "atas" Mundus, di "belakang" langit, di "seberang" bintang-bintang. Ia adalah sumber dari segala magicka, rumah bagi roh-roh yang paling murni, dan — jika legenda bisa dipercaya — tempat asal-usul dari semua jiwa yang pernah menghidupi tubuh fana.
+
+Untuk memahami Aetherius, kita harus terlebih dahulu memahami peristiwa yang menciptakan hubungan antara Aetherius dan Mundus. Peristiwa itu terjadi pada Dawn Era — Era Fajar, masa sebelum waktu linier — ketika Lorkhan meyakinkan para Et'Ada untuk mengorbankan bagian dari diri mereka guna menciptakan Mundus. Sebagian Et'Ada setuju dan menjadi Aedra, menyerahkan kekuatan ilahi mereka untuk membentuk planet Nirn dan segala isinya. Namun ada satu Et'Ada yang, setelah mulai berpartisipasi dalam penciptaan, tiba-tiba berubah pikiran dan memutuskan untuk pergi.
+
+Namanya Magnus. Dan ia adalah yang paling berkuasa di antara semua Et'Ada yang terlibat dalam proyek penciptaan Mundus — sang arsitek utama, sang insinyur kosmis yang merancang hukum-hukum fisika dan menanam benih-benih magicka ke dalam struktur realitas. Namun ketika ia menyadari bahwa penciptaan Mundus akan menuntut pengorbanan yang lebih besar dari yang ia duga — bahwa para pencipta harus menyerahkan sebagian besar, atau bahkan seluruh, esensi ilahi mereka — Magnus panik.
+
+Dan ia melarikan diri.
+
+Ia merobek jalan keluar dari Mundus yang sedang terbentuk, menembus selubung realitas yang belum sepenuhnya mengeras, dan terbang kembali ke Aetherius — tempat ia berasal, tempat yang aman, tempat di mana ia tidak harus kehilangan kekuatannya. Dan lubang yang ia tinggalkan — robekan raksasa di kain langit Mundus — adalah apa yang kita kenal sebagai Matahari.
+
+Ya. Matahari bukan sebuah bola api raksasa yang membakar di kejauhan. Matahari adalah lubang. Sebuah robekan di batas antara Mundus dan Aetherius, melalui mana cahaya dan magicka dari Aetherius membanjiri dunia kita. Ketika kau berdiri di bawah sinar matahari dan merasakan kehangatannya, kau sedang merasakan magicka mentah dari Aetherius yang mengalir melalui lubang yang ditinggalkan oleh Magnus yang melarikan diri. Itulah mengapa matahari di Tamriel, jika diamati dengan teliti — terutama selama gerhana atau dari puncak menara pengamat di Arcane University — tidak terlihat seperti bola: ia terlihat seperti lubang yang bersinar, dengan tepi yang tidak teratur dan kadang-kadang berfluktuasi.
+
+Dan Magnus tidak melarikan diri sendirian. Ia diikuti oleh ribuan — mungkin jutaan — Et'Ada yang lebih kecil, yang juga takut akan pengorbanan yang dituntut oleh penciptaan Mundus. Et'Ada-Et'Ada kecil ini disebut Magna-Ge — "Anak-Anak Magnus" — dan masing-masing dari mereka, ketika melarikan diri, merobek lubang kecil mereka sendiri di langit Mundus.
+
+Lubang-lubang kecil itu adalah bintang-bintang.
+
+<i>"Lihatlah ke atas, hai fana, dan saksikanlah: langit yang kaulihat bukanlah langit. Ia adalah lubang — ribuan lubang — yang ditinggalkan oleh mereka yang melarikan diri dari penjara ini."</i>
+
+Kutipan yang membuka bab ini kini bisa dipahami dalam konteks penuhnya. Setiap bintang yang kau lihat di langit malam Tamriel adalah lubang ke Aetherius. Setiap titik cahaya itu adalah jendela menuju lautan magicka yang tak terbatas. Dan konstelasi-konstelasi yang telah dipelajari oleh para astrologer selama ribuan tahun — The Warrior, The Mage, The Thief, dan sebagainya — sebenarnya adalah pola lubang-lubang yang ditinggalkan oleh kelompok-kelompok Magna-Ge yang melarikan diri bersama-sama.
+
+Implikasi astronomi dari fakta ini sangat berbeda dari apa yang kita dapati jika kita mempelajari bintang-bintang di dunia lain. Di Nirn, bintang-bintang tidak memiliki jarak yang berbeda-beda dari permukaan planet — mereka semua berada di jarak yang sama, yaitu di batas antara Mundus dan Aetherius. Mereka tidak memiliki "ukuran" dalam pengertian astronomis — lubang yang lebih besar memancarkan lebih banyak cahaya, bukan karena ia "lebih dekat", melainkan karena Magna-Ge yang meninggalkan lubang itu lebih besar. Dan bintang-bintang tidak "bergerak" di langit karena mereka mengorbit sesuatu — mereka tampak bergerak karena Mundus itu sendiri yang berputar di dalam "cangkang" Oblivion yang mengelilinginya.²
+
+<i>² Catatan Lore: Fakta bahwa bintang-bintang adalah lubang ke Aetherius, bukan bola gas yang terbakar, adalah salah satu perbedaan kosmologis paling fundamental antara Mundus dan apa yang kita pahami tentang alam semesta "normal". Ini juga menjelaskan mengapa magicka lebih kuat pada malam hari di beberapa tradisi — karena pada malam hari, lebih banyak lubang ke Aetherius yang terlihat, yang berarti lebih banyak magicka yang mengalir masuk. Matahari (lubang Magnus) tentu saja memancarkan jauh lebih banyak magicka daripada bintang mana pun, tetapi cahayanya yang terang juga membuat magicka itu "tersebar" dan lebih sulit dikonsentrasikan.</i>
+
+Lalu, apa yang ada di dalam Aetherius itu sendiri?
+
+Di sinilah pengetahuan kita menjadi sangat terbatas. Sangat sedikit makhluk fana yang pernah mengunjungi Aetherius dan kembali untuk menceritakan pengalamannya. Kita tahu — dari laporan-laporan yang sangat langka dan sering saling bertentangan — bahwa Aetherius adalah alam cahaya dan magicka murni. Ia bukan tempat yang memiliki "tanah" dan "langit" dalam pengertian biasa. Ia adalah lautan energi yang tak terbatas, di mana hukum-hukum fisika Mundus tidak berlaku. Ruang dan waktu bersifat fleksibel di sana — jarak dan durasi adalah hal-hal yang bisa ditekuk oleh kehendak.
+
+Apa yang kita ketahui dengan lebih pasti adalah bahwa Aetherius memiliki "sub-realm" atau "pocket" — wilayah-wilayah yang lebih terstruktur di dalam lautan cahaya yang tak berbentuk. Sub-realm yang paling terkenal adalah Sovngarde — alam akhirat para pejuang Nord, yang dijaga oleh Tsun dan diperintah oleh Shor. Sovngarde digambarkan sebagai padang rumput yang luas di bawah langit aurora yang abadi, di mana para pahlawan yang gugur dalam pertempuran minum mead dan bercerita tentang kepahlawanan mereka untuk selamanya. Para pejuang Nord yang meninggal dengan pedang di tangan dibawa ke Sovngarde oleh Valkyrie-Valkyrie Kyne, dan di sana mereka tinggal di Hall of Valor — aula raksasa yang terbuat dari tulang-tulang naga.
+
+The Last Dragonborn — semoga namanya diagungkan di setiap era — adalah salah satu dari sangat sedikit makhluk fana yang pernah mengunjungi Sovngarde dan kembali. Laporan Dragonborn tentang Sovngarde, walau tidak terperinci — ia lebih sibuk melawan Alduin pada saat itu daripada mengamati pemandangan — mengkonfirmasi gambaran tradisional: padang rumput yang luas, langit aurora, Hall of Valor yang megah, dan kehadiran roh-roh pahlawan dari berbagai era, dari Ysgramor hingga para Tongues kuno Hakon One-Eye, Gormlaith Golden-Hilt, dan Felldir the Old.
+
+Sub-realm Aetherius lainnya termasuk Far Shores — versi Redguard dari alam akhirat, di mana jiwa-jiwa yang berhasil "melangkah di samping" Satakal menemukan kedamaian — dan kemungkinan besar, banyak sub-realm lain yang belum pernah diidentifikasi atau dikunjungi oleh makhluk fana. Para Magna-Ge, yang tinggal di Aetherius setelah melarikan diri dari Mundus, kemungkinan memiliki realm-realm mereka sendiri di sana, namun mereka jarang — jika pernah — berkomunikasi dengan Mundus.
+
+Ada sebuah teori menarik yang diajukan oleh Iachesis, mantan Ritemaster Psijic Order, yang menyatakan bahwa jiwa-jiwa semua makhluk fana berasal dari Aetherius. Menurut teori ini, ketika seorang bayi lahir di Mundus, sebuah "fragmen" cahaya Aetherius — sepotong kecil dari lautan magicka yang tak terbatas — ditarik melalui lubang-lubang di langit (bintang-bintang dan matahari) dan "ditanamkan" ke dalam tubuh fisik yang baru terbentuk. Fragmen ini adalah jiwa — esensi yang memberi kesadaran, kehendak, dan identitas kepada makhluk fana. Dan ketika makhluk itu mati, jiwanya — jika tidak dijebak oleh soul gem, diklaim oleh Daedric Prince, atau terikat sebagai undead — kembali ke Aetherius, bergabung kembali dengan lautan cahaya, dan mungkin suatu hari ditarik kembali untuk menghidupi tubuh yang baru.
+
+Jika teori ini benar, maka Aetherius bukan hanya sumber magicka — ia juga sumber kehidupan itu sendiri. Dan lubang-lubang di langit bukan hanya jendela yang memancarkan cahaya — mereka adalah pintu keluar-masuk jiwa, jalan yang dilalui oleh esensi kehidupan dari Aetherius ke Mundus dan kembali lagi. Siklus abadi. Roda dalam roda.
+
+Arkay, dewa kematian dan kelahiran, sering disebut sebagai "penjaga" siklus ini. Tugas Arkay — sejauh kita memahaminya — adalah memastikan bahwa jiwa-jiwa yang telah meninggalkan tubuh fana mereka kembali ke Aetherius dengan tertib, tanpa dijebak, disalahgunakan, atau dihentikan di tengah perjalanan. Inilah mengapa necromancy — seni menjebak jiwa dan menolak mereka kembali ke Aetherius — dianggap sebagai pelanggaran tertinggi terhadap hukum Arkay. Dan inilah mengapa Arkay's Blessing — berkah yang diberikan oleh imam-imam Arkay kepada jenazah — berfungsi untuk melindungi jiwa dari necromancer: berkah itu pada hakikatnya adalah "segel" yang memastikan bahwa jiwa terkirim kembali ke Aetherius dengan aman, tidak bisa ditarik kembali oleh sihir gelap.
+
+
+
+<h2><b>IV. OBLIVION — KERAJAAN-KERAJAAN DI BALIK SELUBUNG</b></h2>
+
+Jika Aetherius adalah lautan cahaya di atas, maka Oblivion adalah lautan kegelapan di sekeliling. Bukan kegelapan dalam artian tanpa cahaya — banyak realm Daedric yang sangat terang, bahkan menyilaukan — melainkan kegelapan dalam artian terpisah dari cahaya Aetherius, terputus dari sumber magicka murni, beroperasi menurut hukum-hukumnya sendiri yang sering kali bertentangan dengan hukum-hukum Mundus.
+
+Oblivion adalah istilah kolektif untuk semua plane of existence yang ada di antara Mundus dan Void. Dalam model Roda, Oblivion adalah pelek — cincin terluar yang mengelilingi hub. Namun "cincin" itu bukanlah cincin tunggal yang homogen. Ia terdiri dari ratusan, mungkin ribuan, realm yang masing-masing merupakan alam yang independen dan otonom, dengan geografi, hukum alam, dan penguasa mereka sendiri.
+
+Realm-realm yang paling terkenal — dan paling ditakuti — adalah Sixteen Realms yang dikuasai oleh enam belas Daedric Prince:
+
+Coldharbour — realm Molag Bal, Prince of Domination. Bayangkan Tamriel yang dirampas dari segala keindahan, kehangatan, dan harapan. Itulah Coldharbour: tiruan gelap dari Mundus, di mana langit selalu mendung, tanah selalu membeku, dan setiap struktur tampak seperti versi korup dari sesuatu yang pernah indah. Kastil, kota, hutan — semuanya ada di Coldharbour, namun semuanya salah. Seolah seseorang mengambil foto dunia kita, merendamnya dalam cairan asam hingga warnanya luntur dan detailnya membusuk, lalu memajangnya sebagai parodi yang kejam. Air di Coldharbour berwarna hitam dan tidak bisa diminum. Langitnya memancarkan cahaya kelabu yang tidak memberi kehangatan. Dan suara-suara — erangan, jeritan, rintihan — tidak pernah berhenti. Kita akan membahas Coldharbour secara lebih detail di Bab 64, termasuk peristiwa Planemeld di era ESO, ketika Molag Bal mencoba menggabungkan Coldharbour dengan Mundus.
+
+Apocrypha — realm Hermaeus Mora, Prince of Knowledge and Memory. Perpustakaan yang tak terbatas. Bayangkan setiap buku yang pernah ditulis, sedang ditulis, dan akan ditulis — lalu bayangkan bahwa buku-buku itu menumpuk tanpa akhir, membentuk menara-menara dan dinding-dinding dan labirin-labirin yang membentang ke segala arah tanpa batas. Tentakel-tentakel gelap bergerak di antara rak-rak buku, dan mata-mata tanpa kelopak mengintip dari celah-celah di antara halaman. Udara berbau tinta dan debu dan sesuatu yang lebih tua dari keduanya. Apocrypha adalah tempat di mana setiap rahasia tersimpan — namun harganya untuk membaca rahasia itu biasanya adalah kewarasan, atau jiwa, atau keduanya. Miraak, Dragonborn Pertama, terjebak di Apocrypha selama ribuan tahun, dan apa yang terjadi padanya di sana mengubahnya menjadi sesuatu yang hampir bukan manusia lagi.
+
+The Deadlands — realm Mehrunes Dagon, Prince of Destruction. Neraka dalam bentuknya yang paling harfiah. Lautan lava, menara-menara obsidian, langit yang merah menyala, dan pasukan Dremora yang berbaris tanpa henti. The Deadlands adalah tempat dari mana tentara Dagon muncul selama Oblivion Crisis, dan setiap orang yang selamat dari pertempuran di depan Oblivion Gate tahu betapa mengerikannya tempat itu — panas yang membakar kulit bahkan sebelum kau mendekati api, belerang yang membuatmu mual, dan tawa Dremora yang mengisi telinga ketika mereka menyerangmu dari segala arah.
+
+Shivering Isles — realm Sheogorath, Prince of Madness. Tempat yang paling aneh di antara semua realm Daedric, dan mungkin yang paling menakutkan — karena bahaya terbesar di Shivering Isles bukan kematian fisik, melainkan kehilangan akal. Shivering Isles terbagi menjadi dua wilayah: Mania — tanah yang dipenuhi warna-warna cemerlang yang terlalu cerah, jamur raksasa yang bernyanyi, dan kegembiraan yang begitu berlebihan sehingga menjadi menyakitkan — dan Dementia — tanah yang selalu dalam kegelapan, di mana paranoia mengintai di setiap sudut dan bahkan bayangan kau sendiri mungkin mencoba membunuhmu. Champion of Cyrodiil, setelah mengalahkan Jyggalag di penghujung Third Era, konon naik tahta sebagai Sheogorath yang baru — sebuah plot twist kosmis yang masih membuat para teolog menggeleng-gelengkan kepala.
+
+Evergloam — realm Nocturnal, Prince of Night and Shadows. Senja yang tak pernah berakhir. Bayangan yang bergerak sendiri. Jalanan yang berubah setiap kali kau berpaling. Evergloam adalah tempat yang paling sulit dideskripsikan karena ia, secara harfiah, menolak untuk diamati secara langsung — setiap kali kau mencoba memfokuskan pandanganmu pada sesuatu di Evergloam, sesuatu itu berubah atau menghilang. Nightingales — agen-agen elite Nocturnal di Mundus — bertugas di sini setelah kematian mereka, menjaga Twilight Sepulcher dan melestarikan bayangan-bayangan yang merupakan kekuatan Nocturnal.
+
+Hunting Grounds — realm Hircine, Prince of the Hunt. Hutan belantara yang tak pernah berakhir, di mana mangsa dan pemburu terus berlari dalam pengejaran abadi. Tidak ada kota, tidak ada peradaban, tidak ada tempat berlindung — hanya hutan, dan hal-hal yang hidup di dalamnya, dan hal-hal yang memburu hal-hal yang hidup di dalamnya. Setiap bulan purnama, Hircine membuka gerbang ke Hunting Grounds dan mengundang werewolf serta pemburu-pemburu terhebat untuk bergabung dalam Wild Hunt — perburuan kosmis yang menjadi klimaks dari semua perburuan.
+
+Moonshadow — realm Azura, Prince of Dusk and Dawn. Yang paling indah dari semua realm Daedric — setidaknya menurut mereka yang pernah menyaksikannya dan kembali dengan akal yang masih utuh. Moonshadow digambarkan sebagai taman-taman yang luas di bawah langit yang selalu dalam keadaan senja atau fajar — momen transisi antara terang dan gelap yang dibekukan menjadi keabadian. Bunga-bunga yang tidak pernah layu, air terjun yang mengalir ke atas, dan kupu-kupu yang sayapnya terbuat dari cahaya bulan. Namun di balik keindahannya, Moonshadow memiliki sisi gelap: Azura dikenal sebagai Prince yang paling protektif terhadap realmnya, dan mereka yang datang tanpa undangan jarang yang kembali.
+
+The Ashpit — realm Malacath, Prince of the Ostracized. Tempat yang keras, tandus, dan tanpa keindahan — sama seperti Malacath sendiri. Padang abu yang tak berujung di bawah langit kelabu, di mana angin bertiup tanpa henti dan tidak ada yang tumbuh. Di sini tinggal jiwa-jiwa para Orsimer yang paling terkutuk dan paling tersiksa, serta mereka yang ditolak oleh dunia — outcasts, pariah, yang terbuang. Malacath tidak menawarkan kenyamanan kepada pengikutnya; ia menawarkan ketangguhan — kemampuan untuk bertahan di lingkungan yang paling kejam.
+
+Delapan realm lainnya — Attribution's Share (Clavicus Vile), The Colored Rooms (Meridia), Quagmire (Vaermina), The Pits (Peryite), Misty Grove atau domain Sanguine yang selalu berubah, The Spiral Skein (Mephala), Scuttling Void (Namira), dan realm Boethiah yang namanya tidak pernah konsisten dalam sumber-sumber — masing-masing memiliki karakter dan kengerian mereka sendiri, yang akan kita bahas secara mendalam di Bab 64.
+
+Namun penting untuk dicatat bahwa enam belas realm ini bukanlah keseluruhan Oblivion. Mereka hanyalah realm yang paling terkenal, yang dikuasai oleh enam belas Daedric Prince yang paling kuat. Di antara realm-realm ini, di celah-celah dan ruang-ruang kosong di antara kerajaan-kerajaan besar, terdapat ratusan pocket realm yang lebih kecil — dunia-dunia mini yang diciptakan oleh Daedra yang lebih lemah, oleh penyihir yang sangat kuat, atau bahkan oleh kecelakaan kosmis. Soul Cairn — tempat di mana jiwa-jiwa yang dijebak dalam soul gem berakhir — adalah salah satu pocket realm yang paling terkenal, dikuasai oleh entitas-entitas misterius yang dikenal sebagai Ideal Masters, yang bukan Daedric Prince namun juga bukan Aedra — mereka adalah... sesuatu yang lain, sesuatu yang tidak cocok dengan kategorisasi kita yang rapi.
+
+Dan kemudian ada Void Zones — daerah-daerah di Oblivion yang tidak dikuasai oleh siapa pun, yang tidak memiliki bentuk atau hukum, yang hanyalah kekacauan murni tanpa struktur. Para sarjana menduga bahwa Void Zones ini adalah sisa-sisa dari Kekacauan awal — fragmen-fragmen dari Dua Belas Dunia yang hancur yang tidak pernah dibentuk ulang oleh siapa pun. Perjalanan melalui Void Zones dianggap mustahil — atau lebih tepatnya, mungkin saja, namun probabilitas untuk selamat kira-kira sama dengan probabilitas untuk selamat dari pencelupan ke dalam lava sambil bernapas di bawah air.
+
+
+
+<h2><b>V. LIMINAL BARRIERS — SELUBUNG ANTARA DUNIA-DUNIA</b></h2>
+
+Antara Mundus dan Oblivion, antara satu realm Daedric dan realm lainnya, dan antara Oblivion dan Aetherius, terdapat apa yang para penyihir sebut sebagai Liminal Barriers — selaput-selaput tak terlihat yang memisahkan satu plane of existence dari yang lain. Tanpa Liminal Barriers, semua realm akan saling bertabrakan, bercampur, dan hasilnya akan menjadi Kekacauan yang tak bisa dibayangkan — sebuah Interplay antara Anu dan Padomay yang tidak dimediasi oleh struktur apa pun, sebuah ledakan kosmis yang akan menghancurkan segalanya.
+
+Liminal Barriers antara Mundus dan Oblivion diperkuat oleh keberadaan Amulet of Kings dan ritual Dragonfires — api-api suci yang dinyalakan oleh setiap Emperor baru dari Septim Dynasty (dan sebelum itu, oleh para raja Cyrodiilic yang memegang Amulet of Kings). Selama Dragonfires menyala, Liminal Barriers tetap kuat, dan invasi besar-besaran dari Oblivion tidak mungkin terjadi. Daedric Prince mungkin bisa menyelipkan pengaruh mereka melalui celah-celah kecil — bisikan, artefak, perjanjian individual — namun mereka tidak bisa mengirim pasukan melalui Oblivion Gate.
+
+Inilah mengapa Oblivion Crisis tahun 3E 433 begitu menghancurkan. Ketika Mankar Camoran dan Mythic Dawn berhasil membunuh Emperor Uriel Septim VII dan menghancurkan Amulet of Kings, Dragonfires padam. Liminal Barriers melemah secara dramatis. Dan Mehrunes Dagon, yang telah menunggu kesempatan ini selama bermilenium, menerobos masuk. Oblivion Gate terbuka di seluruh Tamriel — di Bruma, di Skingrad, di Cheydinhal, di Leyawiin, di mana-mana — dan pasukan Dremora dari Deadlands membanjiri Mundus dalam jumlah yang belum pernah terlihat sejak Dawn Era.
+
+Baru setelah Martin Septim — kaisar terakhir dari Septim Dynasty, putra haram Uriel Septim VII — menghancurkan Amulet of Kings dan memanggil avatar Akatosh untuk menghadapi Dagon secara langsung, krisis itu berakhir. Namun harganya sangat mahal: Amulet of Kings hancur, Dragonfires padam untuk selamanya, dan Liminal Barriers harus ditopang oleh mekanisme yang berbeda — mekanisme yang, menurut beberapa sarjana, lebih lemah dan lebih rentan terhadap manipulasi.
+
+<i>³ Catatan Lore: Setelah Oblivion Crisis, Liminal Barriers tetap ada tetapi tidak lagi diperkuat oleh Dragonfires. Beberapa sarjana menduga bahwa pengorbanan Martin Septim — transformasinya menjadi Avatar of Akatosh — menciptakan "segel baru" yang menggantikan Dragonfires. Sarjana lain menduga bahwa Barriers kini lebih lemah dari sebelumnya, dan bahwa Thalmor secara aktif mencari cara untuk melemahkan mereka lebih lanjut sebagai bagian dari rencana mereka untuk "membatalkan" penciptaan Mundus. Ini masih merupakan area spekulasi aktif.</i>
+
+
+
+<h2><b>VI. MUNDUS — ARENA PARA FANA</b></h2>
+
+Dan sekarang kita tiba di jantung Aurbis. Di pusat Roda. Di tempat yang paling kita kenal, namun mungkin paling sedikit kita pahami.
+
+Mundus. Dari bahasa Ehlnofey, berarti "Arena". Nama yang sama dengan Aurbis, dan bukan kebetulan — karena Mundus, dalam pengertian tertentu, adalah Aurbis, atau setidaknya mikrokosmos darinya. Semua kekuatan yang ada di Aurbis — Anu dan Padomay, Aedra dan Daedra, Aetherius dan Oblivion — bertemu dan berinteraksi di Mundus. Mundus adalah titik temu, titik persimpangan, titik di mana semua garis bertemu dan saling silang.
+
+Mundus bukan hanya satu planet. Ia adalah sebuah sistem — atau lebih tepatnya, sebuah komposisi kosmis yang terdiri dari beberapa komponen:
+
+Nirn — planet utama, tempat Tamriel dan benua-benua lainnya berada. Nirn adalah "permukaan" Mundus, tempat di mana makhluk fana dilahirkan, hidup, dan mati. Ia memiliki daratan dan lautan, gunung dan lembah, hutan dan padang pasir, kota dan reruntuhan. Ia juga memiliki magicka — energi yang mengalir dari Aetherius melalui lubang-lubang di langit — walau magicka di Nirn jauh lebih lemah dan lebih tidak stabil dibandingkan magicka murni di Aetherius.
+
+Masser dan Secunda — dua bulan yang mengorbit Nirn, yang dikenal juga sebagai Jone dan Jode dalam tradisi Khajiit. Masser adalah bulan yang lebih besar, berwarna merah kecokelatan, dan Secunda adalah bulan yang lebih kecil, berwarna putih keperakan. Dalam kosmologi tradisional, kedua bulan ini adalah tubuh Lorkhan — atau lebih tepatnya, sisa-sisa tubuh Lorkhan yang tersisa setelah jantungnya dirobek dan dibuang oleh para Aedra di Convention. Masser sering disebut sebagai "daging" Lorkhan, dan Secunda sebagai "darah" Lorkhan — walau ini mungkin metaforis.
+
+Bagi Khajiit, bulan-bulan memiliki signifikansi yang jauh lebih besar daripada bagi ras-ras lain. Fase-fase Masser dan Secunda pada saat kelahiran menentukan furstock (sub-ras) seorang Khajiit — apakah ia akan menjadi Cathay yang humanoid, Senche yang mirip kucing besar, Alfiq yang tampak seperti kucing rumah namun memiliki kecerdasan penuh, Pahmar yang sebesar harimau, atau salah satu dari belasan sub-ras lainnya. Ketika bulan-bulan menghilang selama peristiwa Void Nights (4E 98-100) — dua tahun di mana Masser dan Secunda lenyap dari langit tanpa penjelasan — Khajiit panik karena tanpa bulan, kelahiran Khajiit baru menjadi tidak mungkin (atau setidaknya sangat bermasalah). Thalmor kemudian mengklaim bahwa mereka yang mengembalikan bulan-bulan, yang memberi mereka leverage politik yang luar biasa atas Elsweyr dan pada akhirnya membawa Khajiit di bawah payung Aldmeri Dominion.
+
+Selain Nirn, Masser, dan Secunda, Mundus juga mencakup planet-planet yang kita bicarakan sebelumnya — tubuh-tubuh Aedra yang tampak sebagai bola-bola cahaya di langit namun sebenarnya adalah plane of existence yang tak terbatas. Namun planet-planet ini, dalam pengertian tertentu, berada di "batas" Mundus — mereka adalah jari-jari Roda, menghubungkan hub (Nirn) ke pelek (Oblivion), dan posisi mereka ambigu: apakah mereka bagian dari Mundus atau bagian dari sesuatu yang lain?
+
+Para sarjana berbeda pendapat tentang ini. Tradisi Imperial memasukkan planet-planet Aedra ke dalam "sistem Mundus". Tradisi Altmer menganggap mereka sebagai entitas yang independen — sisa-sisa dari keadaan pre-Mundus yang terjebak dalam orbit karena pengorbanan yang mereka lakukan. Dan tradisi Psijic — yang selalu lebih abstrak dan lebih ambigu — menganggap pertanyaan itu sendiri tidak bermakna, karena "batas" antara Mundus dan yang bukan-Mundus, pada tingkat kosmologis yang cukup dalam, tidak ada.
+
+
+
+<h2><b>VII. NIRN — PERMATA DI JANTUNG KEKOSONGAN</b></h2>
+
+Nirn sendiri — planet yang menjadi rumah bagi Tamriel — adalah tempat yang luar biasa dalam konteks kosmologis. Ia bukan sekadar gumpalan batu dan air yang kebetulan mengorbit matahari. Ia adalah proyek penciptaan yang disengaja — dirancang oleh Magnus, dibangun oleh Aedra, dan dihidupi oleh esensi ilahi yang dikorbankan oleh pencipta-penciptanya.
+
+Setiap fitur geografis di Nirn memiliki makna kosmologis:
+
+Gunung-gunung terbentuk dari "tulang-tulang" Aedra yang mengeras — bukan tulang literal, melainkan struktur ilahi yang menjadi fisik. Throat of the World — gunung tertinggi di Skyrim, dan mungkin di seluruh Tamriel — dianggap sebagai tempat di mana Kyne (Kynareth) pertama kali meniupkan napas ke dalam Mundus, memberikan angin dan cuaca kepada dunia.
+
+Lautan adalah "darah" atau "air mata" dari proses penciptaan — cairan kosmis yang mengalir dari pengorbanan Aedra dan mengisi cekungan-cekungan di permukaan Nirn. Lautan Tamriel bukan sekadar air asin; ia mengandung sisa-sisa magicka penciptaan, yang menjelaskan mengapa makhluk-makhluk laut di Nirn seringkali memiliki sifat-sifat magis yang tidak dimiliki makhluk darat.
+
+Red Mountain di Morrowind — gunung berapi raksasa yang mendominasi pulau Vvardenfell — adalah tempat di mana Heart of Lorkhan jatuh dan tertanam setelah dirobek dari tubuh Lorkhan di Convention. Gunung itu bukan gunung biasa; ia adalah, secara harfiah, monumen dari hukuman kosmis terbesar yang pernah dijatuhkan. Dan selama ribuan tahun, Heart of Lorkhan yang tertanam di sana memancarkan energi ilahi yang sangat besar — energi yang pada akhirnya dimanfaatkan oleh Dagoth Ur, dimurnikan oleh Tribunal, dan menjadi pusat dari begitu banyak konflik di Morrowind.
+
+Adamantine Tower (juga dikenal sebagai Ada-Mantia atau Direnni Tower) di High Rock — menara tertua di Tamriel, yang menurut legenda merupakan struktur pertama yang pernah berdiri di Nirn — adalah tempat di mana Convention diadakan. Convention adalah "sidang pengadilan kosmis" di mana para Aedra memutuskan nasib Lorkhan setelah mereka menyadari bahwa ia telah "menipu" mereka ke dalam penciptaan Mundus. Di Adamantine Tower, para Aedra berdebat, memutuskan, dan melaksanakan hukuman: jantung Lorkhan dirobek dari tubuhnya dan dilemparkan melintasi lautan, jatuh dan menjadi Red Mountain. Adamantine Tower sendiri kemudian menjadi semacam "paku" kosmis yang mengikat Mundus ke tempatnya — selama menara itu berdiri, Mundus tidak bisa "terurai" kembali ke Kekacauan.⁴
+
+<i>⁴ Catatan Lore: Konsep "Towers" (menara-menara yang berfungsi sebagai jangkar untuk realitas Mundus) adalah salah satu aspek lore Elder Scrolls yang paling menarik dan paling sedikit dieksplorasi secara eksplisit di dalam game. Selain Adamantine Tower, ada beberapa menara lain yang diketahui: White-Gold Tower di Cyrodiil (dibangun oleh Ayleid), Crystal Tower di Summerset (dihancurkan selama Oblivion Crisis), Red Tower di Morrowind (yang "batu kunci"-nya adalah Heart of Lorkhan — sudah tidak aktif sejak dihancurkan oleh Nerevarine), Snow-Throat di Skyrim (Throat of the World), Green-Sap di Valenwood (pohon Graht-oak raksasa), Orichalc di Yokuda (tenggelam bersama benua), Walk-Brass (Numidium — tidak aktif), dan mungkin lainnya. Teori menyebutkan bahwa jika semua Towers dinonaktifkan, Mundus akan runtuh — dan ini mungkin adalah tujuan sebenarnya Thalmor.</i>
+
+
+
+<h2><b>VIII. THE VOID — SITHIS — YANG MENUNGGU DI BATAS SEGALA SESUATU</b></h2>
+
+Dan akhirnya, kita tiba di yang terakhir — atau lebih tepatnya, yang pertama dan terakhir, yang mendahului dan mengikuti segalanya, yang melingkupi dan menembus Aurbis dari luar maupun dalam.
+
+The Void.
+
+Kita telah menyentuh Void di Bab 1, ketika membahas Ketiadaan yang mendahului penciptaan Aurbis. Namun Void yang kita bicarakan sekarang sedikit berbeda — atau mungkin sama, hanya dilihat dari sudut yang berbeda. Void dalam konteks arsitektur Aurbis bukanlah "Ketiadaan sebelum segalanya"; ia adalah "Ketiadaan yang mengelilingi segalanya." Ia ada di luar pelek Roda, di seberang batas terluar Oblivion, di tempat di mana bahkan kekuasaan Daedric Prince berhenti.
+
+Void sering diidentikkan dengan Sithis — jiwa Padomay, Kekosongan yang Sadar, Kekacauan Primordial. Namun apakah Sithis benar-benar "menghuni" Void, atau apakah Sithis adalah Void itu sendiri, masih menjadi perdebatan yang belum terpecahkan.
+
+Dark Brotherhood — organisasi pembunuh paling terkenal (atau terkeji) di Tamriel — menyembah Sithis sebagai dewa mereka dan mengklaim bahwa setiap pembunuhan yang mereka lakukan adalah "persembahan" kepada Sithis, mengirim jiwa ke Void. Night Mother — mayat mumia yang menjadi medium komunikasi antara Sithis dan Dark Brotherhood — konon adalah "istri" Sithis, wanita yang membunuh kelima anaknya sendiri sebagai persembahan dan kemudian diangkat menjadi suara Sithis di Mundus.
+
+Tapi apakah klaim-klaim Dark Brotherhood bisa dipercaya? Para sarjana sangat skeptis. Night Mother mungkin memang medium untuk entitas yang sangat kuat — namun apakah entitas itu benar-benar Sithis, atau apakah ia sesuatu yang lain yang menyamar sebagai Sithis? Apakah Sithis — yang merupakan manifestasi dari Prinsip Padomay, Prinsip Perubahan — benar-benar peduli dengan pembunuhan individual? Atau apakah Dark Brotherhood hanyalah organisasi kriminal yang menggunakan teologi Sithis sebagai justifikasi untuk kegiatan mereka?
+
+Argonian dari Black Marsh memiliki hubungan yang berbeda — dan jauh lebih tua — dengan Sithis. Bagi mereka, Sithis bukanlah dewa kematian; ia adalah prinsip penciptaan melalui penghancuran. Sithis menghancurkan yang lama agar yang baru bisa tumbuh. Ia mematikan pohon yang sakit agar benih baru bisa bertunas. Ia mengakhiri era agar era baru bisa dimulai. Dalam pandangan Argonian, menyembah Sithis bukan berarti menyembah kematian — melainkan menyembah siklus itu sendiri, perputaran abadi antara kelahiran dan kematian, tumbuh dan layu, muncul dan lenyap.
+
+Para Hist — pohon-pohon purba di Black Marsh yang keberadaannya mendahului kedatangan Mer dan Man di Tamriel — tampaknya memiliki koneksi langsung dengan Sithis. Beberapa teolog bahkan menduga bahwa Hist adalah "antena" Sithis di Mundus — titik-titik di mana Void bersentuhan dengan realitas fisik. Getah Hist — cairan yang diminum oleh Argonian dalam upacara inisiasi, yang memberikan mereka kesadaran dan identitas — mungkin mengandung esensi Sithis itu sendiri. Jika ini benar, maka setiap Argonian yang pernah hidup memiliki sedikit Void di dalam dirinya.⁵
+
+<i>⁵ Catatan Lore: Hubungan antara Hist, Sithis, dan Argonian adalah salah satu misteri paling mendalam dalam lore Elder Scrolls. Dalam ESO, kita mendapat sedikit lebih banyak informasi tentang Hist, termasuk fakta bahwa mereka memiliki kesadaran kolektif dan kemampuan untuk "melihat" ke masa depan — kemampuan yang mungkin berasal dari koneksi mereka dengan Sithis/Void, yang ada di luar waktu linier. Lihat Bab 38 untuk pembahasan lengkap tentang Argonian dan Hist.</i>
+
+Satu hal yang pasti tentang Void: ia bukan tempat yang bisa "dikunjungi" dalam pengertian biasa. Bahkan Daedric Prince, dengan segala kekuatan mereka yang luar biasa, tidak bisa menembus Void dan kembali. Void bukan sekadar tempat yang berbahaya — ia adalah ketiadaan tempat, dan masuk ke dalamnya berarti berhenti ada dalam pengertian yang paling absolut.
+
+Atau mungkin tidak. Mungkin ada sesuatu di dalam Void — sesuatu yang melampaui pemahaman kita, sesuatu yang bahkan para dewa tidak berani memikirkan. Mungkin Sithis itu sendiri ada di sana, menunggu, mengamati, tertawa tanpa suara di Ketiadaan-nya yang abadi.
+
+Mungkin.
+
+Tapi kita tidak akan pernah tahu. Dan mungkin itulah intinya.
+
+
+
+<h2><b>IX. HUBUNGAN ANTAR-REALM — BAGAIMANA SEMUANYA TERHUBUNG</b></h2>
+
+Setelah membahas setiap komponen Aurbis secara individual, sekarang marilah kita melihat bagaimana mereka berinteraksi — karena Aurbis bukan kumpulan kotak-kotak yang terisolasi, melainkan sebuah sistem di mana setiap bagian mempengaruhi dan dipengaruhi oleh bagian-bagian lain.
+
+Aliran Magicka: Sumber utama magicka di Mundus adalah Aetherius. Magicka mengalir dari Aetherius ke Mundus melalui lubang-lubang di langit — matahari (lubang Magnus) dan bintang-bintang (lubang Magna-Ge). Aliran ini konstan, walau intensitasnya berfluktuasi tergantung posisi astronomi — magicka biasanya lebih kuat pada malam hari ketika lebih banyak bintang terlihat, dan lebih kuat lagi selama alignment tertentu atau peristiwa astronomi langka. Para penyihir memanfaatkan magicka ini untuk merapal spell, melakukan enchanting, dan menjalankan ritual. Tanpa aliran magicka dari Aetherius, sihir di Mundus tidak akan mungkin — atau setidaknya akan sangat terbatas.
+
+Conjuration dan Pemanggilan Daedric: Ketika seorang conjurer memanggil Daedra — entah itu Flame Atronach, Dremora, atau entitas yang lebih kuat — ia pada dasarnya menarik makhluk dari realm Oblivion ke Mundus, menembus Liminal Barrier melalui celah yang sangat kecil dan sangat terkontrol. Celah ini biasanya ditutup kembali secara otomatis setelah durasi spell habis, mengirim Daedra kembali ke Oblivion. Namun conjurers yang tidak hati-hati — atau yang terlalu ambisius — kadang membuat celah yang terlalu besar atau gagal menutupnya, yang bisa mengakibatkan... masalah. Invasi Daedric berskala kecil, kontaminasi magicka, atau munculnya entitas yang jauh lebih berbahaya dari yang dimaksud.
+
+Oblivion Gates: Oblivion Gates adalah celah yang jauh lebih besar dan lebih permanen dari yang dibuat oleh conjurers biasa. Mereka adalah portal fisik yang menghubungkan lokasi spesifik di Mundus dengan lokasi spesifik di realm Oblivion tertentu. Membuat Oblivion Gate memerlukan kekuatan yang luar biasa — biasanya di luar kemampuan penyihir fana, dan memerlukan bantuan (atau setidaknya persetujuan) dari Daedric Prince yang realmnya hendak dihubungkan. Selama Oblivion Crisis, Mehrunes Dagon membuka ratusan Oblivion Gate secara simultan — suatu prestasi yang hanya dimungkinkan oleh runtuhnya Liminal Barriers setelah padamnya Dragonfires.
+
+Mantling dan Apotheosis: Salah satu fenomena paling aneh dan paling menakjubkan dalam interaksi antar-realm adalah Mantling — proses di mana seorang makhluk fana (atau Et'Ada) "menggantikan" entitas yang lebih tinggi dengan meniru perilaku, peran, dan esensi entitas tersebut sedemikian rupa sehingga Aurbis "lupa" bahwa ada perbedaan antara keduanya. Contoh paling terkenal: Champion of Cyrodiil yang Mantled Sheogorath, menggantikan Jyggalag yang "dipensiunkan" dan menjadi Prince of Madness yang baru. Dan Tiber Septim yang — melalui proses yang jauh lebih kompleks dan kontroversial yang melibatkan Numidium, Zurin Arctus, Wulfharth, dan sebuah seri peristiwa yang masih membingungkan para sarjana — Mantled Lorkhan dan menjadi Talos, Dewa Kesembilan.
+
+Dragon Breaks: Yang paling menakutkan dari semua interaksi kosmis adalah Dragon Break — peristiwa di mana waktu linear berhenti berfungsi. Selama Dragon Break, sebab dan akibat terputus, masa lalu dan masa depan bercampur, dan beberapa versi realitas berjalan secara bersamaan. Dragon Break terjadi ketika sesuatu yang sangat kuat mengganggu Akatosh — Naga Waktu, poros Roda — hingga ia "pecah" menjadi fragmen-fragmen yang masing-masing menjalankan versi waktunya sendiri.
+
+Dragon Break yang paling terkenal adalah Warp in the West (3E 417) — peristiwa yang menandai akhir dari TES II: Daggerfall. Dalam peristiwa itu, semua ending dari game terjadi secara simultan — Numidium diaktifkan, Numidium dihancurkan, the Agent mati, the Agent menang, Mannimarco menjadi dewa, Mannimarco dikalahkan — semuanya terjadi sekaligus, dan ketika waktu "menyatu" kembali, hasilnya adalah versi realitas yang entah bagaimana mengakomodasi semua kontradiksi tersebut. Para penduduk Daggerfall dan sekitarnya melaporkan bahwa selama beberapa hari, mereka mengalami memori-memori yang saling bertentangan — mereka ingat peristiwa-peristiwa yang tidak mungkin terjadi bersamaan, namun terjadi bersamaan. Kegilaan, bunuh diri, dan histeria massal merebak di seluruh Iliac Bay selama berminggu-minggu setelah Dragon Break berakhir.
+
+
+
+<h2><b>X. KOSMOLOGI ALTERNATIF — MEREKA YANG MELIHAT RODA SECARA BERBEDA</b></h2>
+
+Sebelum menutup bab ini, penting untuk mengakui bahwa model Roda — walau dominan dalam tradisi akademis Tamriel — bukanlah satu-satunya cara untuk memahami arsitektur Aurbis.
+
+Tradisi Khajiit memandang Aurbis bukan sebagai roda, melainkan sebagai Ja-Kha'jay — "Tarian Lunar" atau pola bulan-bulan yang terus berubah. Bagi Khajiit, realitas bukan struktur yang statis melainkan tarian yang terus bergerak, di mana setiap langkah menentukan langkah berikutnya dan tidak ada posisi yang tetap. Bulan-bulan — Jone dan Jode — adalah pusat dari tarian ini, dan fase-fase mereka menentukan ritme dari seluruh eksistensi.
+
+Tradisi Redguard melihat Aurbis sebagai Satakal — ular yang memakan ekornya sendiri, siklus penciptaan dan penghancuran yang abadi. Dalam pandangan ini, tidak ada "atas" dan "bawah", tidak ada "pusat" dan "pinggir" — hanya siklus yang berputar, dunia yang terlahir dan mati dan terlahir lagi, dan makhluk-makhluk yang belajar untuk "melangkah di samping" siklus agar tidak terjebak di dalamnya.
+
+Tradisi Argonian — yang paling misterius dari semua tradisi, karena Argonian jarang berbagi kosmologi mereka dengan outsiders — tampaknya tidak memiliki model geometris sama sekali. Bagi Argonian, Aurbis bukan roda, bukan ular, bukan tarian. Ia adalah Hist — jaringan akar yang menembus segalanya, menghubungkan segalanya, menopang segalanya. Argonian tidak memikirkan Aetherius dan Oblivion sebagai "tempat" yang terpisah; mereka memikirkannya sebagai lapisan dari akar yang sama — lapisan yang lebih dalam, lebih tinggi, atau lebih jauh, tetapi tetap bagian dari jaringan yang sama.
+
+Tradisi Dwemer — sebelum mereka lenyap — memandang Aurbis bukan sebagai sesuatu yang "ada" melainkan sebagai sesuatu yang "dimainkan". Bagi Dwemer, seluruh Aurbis adalah sebuah nada — getaran kosmis yang bisa dianalisis, dipahami, dan — yang paling kontroversial — diubah. Mereka tidak menyembah Aedra atau Daedra; mereka mempelajari mereka, seperti seorang musisi mempelajari instrumen. Dan mereka percaya bahwa dengan pemahaman yang cukup, mereka bisa "memainkan" Aurbis — mengubah realitas sesuai kehendak mereka. Keyakinan inilah yang mendorong Kagrenac untuk membangun Numidium dan menggunakan Tools pada Heart of Lorkhan — dan keyakinan inilah yang, mungkin, menjadi penyebab hilangnya seluruh ras Dwemer dalam sekejap mata.
+
+Mungkin Dwemer menemukan nada yang salah. Atau mungkin mereka menemukan nada yang benar, dan nada itu membawa mereka ke tempat yang tidak bisa kita ikuti. Mungkin mereka masih bermain di suatu tempat di luar jangkauan pendengaran kita — sebuah simfoni yang terlalu tinggi untuk telinga fana, terlalu indah untuk otak yang terikat oleh waktu, terlalu besar untuk jiwa yang masih terjebak di dalam Roda.
+
+Mungkin.
+
+
+
+<h2><b>XI. PENUTUP — PETA DARI SEGALANYA</b></h2>
+
+Dan demikianlah kita telah memetakan — sebaik mungkin, dengan segala keterbatasan bahasa dan pikiran fana — arsitektur dari Segalanya.
+
+Aetherius di atas, sumber cahaya dan magicka, rumah bagi Magna-Ge yang melarikan diri dan bagi jiwa-jiwa yang telah kembali. Oblivion di sekeliling, cincin kerajaan-kerajaan Daedric yang tak terhitung, masing-masing dengan keajaiban dan kengerian mereka sendiri. Mundus di tengah, rapuh dan indah, ditopang oleh pengorbanan Aedra dan terancam oleh ambisi Daedra. Dan Void di luar segalanya, menunggu, diam, sabar — karena Void selalu sabar; ia punya waktu yang tak terbatas, karena ia ada di luar waktu.
+
+Kita hidup di persimpangan semua kekuatan ini. Setiap hari, setiap momen, kita berada di pusat permainan kosmis yang telah berlangsung sejak sebelum waktu ada dan akan berlangsung hingga setelah waktu berakhir. Magicka dari Aetherius mengalir melalui darah kita. Bisikan Daedra menggoda telinga kita. Pengorbanan Aedra menopang tanah di bawah kaki kita. Dan Void menunggu kita semua di akhir.
+
+Namun di tengah semua kekuatan kosmis ini, kita — makhluk fana yang rapuh dan singkat umurnya — memiliki sesuatu yang tidak dimiliki oleh dewa mana pun, baik Aedra maupun Daedra: kebebasan untuk memilih. Aedra terikat oleh pengorbanan mereka. Daedra terikat oleh sifat mereka. Bahkan Anu dan Padomay terikat oleh hakikat mereka sebagai Stasis dan Perubahan. Namun kita — fana yang berdiri di persimpangan semua kekuatan — bisa memilih. Memilih cahaya atau kegelapan, tatanan atau kekacauan, penciptaan atau penghancuran. Atau tidak memilih sama sekali, yang juga merupakan sebuah pilihan.
+
+Mungkin itulah mengapa Lorkhan menciptakan Mundus. Bukan sebagai penjara, bukan sebagai hadiah, melainkan sebagai panggung — tempat di mana sesuatu yang baru bisa muncul, sesuatu yang tidak bisa ditentukan oleh hukum kosmis mana pun, sesuatu yang bahkan Anu dan Padomay tidak bisa prediksi:
+
+Kehendak bebas.
+
+Namun itu, sekali lagi, adalah spekulasi yang melampaui kapasitas seorang sejarawan. Biarlah para teolog yang memperdebatkannya.
+
+Tugas kita, sebagai kronikir, adalah mencatat. Dan kita telah mencatat arsitektur realitas sebaik yang kita bisa.
+
+Sekarang, marilah kita melangkah ke bab berikutnya — dan bertemu dengan makhluk-makhluk yang menghuni arsitektur ini. Makhluk-makhluk pertama. Et'Ada. The Original Spirits.
+
+Mereka yang menjadi dewa.
+
+Dan mereka yang menolak.
+
+<i>"Setiap bintang adalah luka di langit.
+Setiap matahari terbit adalah cahaya dari dunia lain yang merembes masuk.
+Setiap bulan adalah daging dewa yang mati.
+Dan setiap hari yang kita jalani adalah keajaiban yang seharusnya tidak mungkin —
+keajaiban yang dibayar dengan darah ilahi dan air mata kosmis."</i>
+
+— Dari "Meditasi di Puncak Menara", oleh Athynic dari Artaeum, Era Kedua 412

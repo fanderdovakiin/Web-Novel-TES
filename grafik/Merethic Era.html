@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Populasi & Kekuatan Ras Tamriel</title>
+  <script src="https://cdn.jsdelivr.net/npm/echarts/dist/echarts.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      background: #060808;
+    }
+    #chart {
+      width: 100%;
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+
+<div id="chart"></div>
+
+<script>
+var chart = echarts.init(document.getElementById('chart'));
+
+var option = {
+  "backgroundColor": "#060808",
+  "title": {
+    "text": "Populasi dan Kekuatan Relatif Ras-Ras di Merethic Era",
+    "subtext": "Perkiraan relatif — bukan angka aktual (data tidak tersedia secara historis)",
+    "left": "center",
+    "top": 10,
+    "textStyle": {
+      "color": "#c4a35a",
+      "fontFamily": "serif",
+      "fontSize": 15
+    },
+    "subtextStyle": {
+      "color": "#6a5a30",
+      "fontFamily": "serif",
+      "fontSize": 10,
+      "fontStyle": "italic"
+    }
+  },
+  "tooltip": {
+    "trigger": "axis",
+    "backgroundColor": "#080810",
+    "borderColor": "#c4a35a",
+    "textStyle": {
+      "color": "#e0d5c0",
+      "fontFamily": "serif",
+      "fontSize": 10
+    },
+    "axisPointer": {
+      "type": "shadow"
+    }
+  },
+  "legend": {
+    "data": ["Populasi Relatif", "Kekuatan Militer", "Kemajuan Teknologi/Magis"],
+    "bottom": 8,
+    "textStyle": {
+      "color": "#aaa",
+      "fontFamily": "serif",
+      "fontSize": 10
+    }
+  },
+  "grid": {
+    "left": "10%",
+    "right": "5%",
+    "top": "20%",
+    "bottom": "18%"
+  },
+  "xAxis": {
+    "type": "category",
+    "data": [
+      "Altmer\n(Summerset)",
+      "Bosmer\n(Valenwood)",
+      "Chimer\n(Proto-Dunmer)",
+      "Dwemer\n(Underground)",
+      "Orsimer\n(Wandering)",
+      "Ayleid\n(Cyrodiil)",
+      "Falmer\n(Skyrim)",
+      "Atmorans\n(Proto-Nord)",
+      "Nedes\n(Cyrodiil)"
+    ],
+    "axisLabel": {
+      "color": "#888",
+      "fontFamily": "serif",
+      "fontSize": 9,
+      "interval": 0
+    },
+    "axisLine": {
+      "lineStyle": { "color": "#333" }
+    }
+  },
+  "yAxis": {
+    "type": "value",
+    "name": "Skala Relatif (0-100)",
+    "nameTextStyle": {
+      "color": "#888",
+      "fontFamily": "serif",
+      "fontSize": 10,
+      "fontStyle": "italic"
+    },
+    "axisLabel": {
+      "color": "#666",
+      "fontFamily": "serif"
+    },
+    "axisLine": {
+      "lineStyle": { "color": "#333" }
+    },
+    "splitLine": {
+      "lineStyle": { "color": "#111" }
+    }
+  },
+  "series": [
+    {
+      "name": "Populasi Relatif",
+      "type": "bar",
+      "data": [85, 70, 55, 40, 45, 75, 30, 60, 65],
+      "itemStyle": {
+        "color": {
+          "type": "linear",
+          "x": 0, "y": 0, "x2": 0, "y2": 1,
+          "colorStops": [
+            {"offset": 0, "color": "#c4a35a"},
+            {"offset": 1, "color": "#604010"}
+          ]
+        }
+      },
+      "barWidth": "20%"
+    },
+    {
+      "name": "Kekuatan Militer",
+      "type": "bar",
+      "data": [75, 80, 65, 70, 60, 70, 55, 85, 40],
+      "itemStyle": {
+        "color": {
+          "type": "linear",
+          "x": 0, "y": 0, "x2": 0, "y2": 1,
+          "colorStops": [
+            {"offset": 0, "color": "#c05030"},
+            {"offset": 1, "color": "#601010"}
+          ]
+        }
+      },
+      "barWidth": "20%"
+    },
+    {
+      "name": "Kemajuan Teknologi/Magis",
+      "type": "bar",
+      "data": [95, 60, 75, 100, 35, 85, 55, 30, 25],
+      "itemStyle": {
+        "color": {
+          "type": "linear",
+          "x": 0, "y": 0, "x2": 0, "y2": 1,
+          "colorStops": [
+            {"offset": 0, "color": "#6090c0"},
+            {"offset": 1, "color": "#203050"}
+          ]
+        }
+      },
+      "barWidth": "20%"
+    }
+  ]
+};
+
+chart.setOption(option);
+</script>
+
+</body>
+</html>

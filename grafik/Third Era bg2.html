@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>TES III Morrowind Narrative Flow</title>
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      background: #080305;
+      font-family: serif;
+    }
+    #chart {
+      width: 100%;
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+
+<div id="chart"></div>
+
+<script>
+  var chart = echarts.init(document.getElementById('chart'));
+
+  var option = {
+    backgroundColor: "#080305",
+    title: {
+      text: "TES III: Morrowind — Alur Naratif Utama",
+      subtext: "Hubungan antar-quest dan perkembangan karakter Nerevarine",
+      left: "center",
+      top: 10,
+      textStyle: {
+        color: "#c05030",
+        fontFamily: "serif",
+        fontSize: 14
+      },
+      subtextStyle: {
+        color: "#802010",
+        fontFamily: "serif",
+        fontSize: 10,
+        fontStyle: "italic"
+      }
+    },
+    tooltip: {
+      trigger: "item",
+      backgroundColor: "#100508",
+      borderColor: "#c05030",
+      textStyle: {
+        color: "#e0d5c0",
+        fontFamily: "serif",
+        fontSize: 10
+      }
+    },
+    series: [
+      {
+        type: "sankey",
+        layout: "none",
+        emphasis: {
+          focus: "adjacency"
+        },
+        nodeAlign: "left",
+        data: [
+          {name: "Tiba di\nSeyda Neen", itemStyle: {color: "#c4a35a"}},
+          {name: "Caius\nCosades", itemStyle: {color: "#a08040"}},
+          {name: "Ashlander\nTrials", itemStyle: {color: "#8060a0"}},
+          {name: "Great House\nHortator", itemStyle: {color: "#c4a35a"}},
+          {name: "Moon-and-Star\nFound", itemStyle: {color: "#c060c0"}},
+          {name: "Corprus\nCured (Fyr)", itemStyle: {color: "#4080c0"}},
+          {name: "Tools of\nKagrenac", itemStyle: {color: "#c4a35a"}},
+          {name: "Red Mountain\nEntered", itemStyle: {color: "#c05030"}},
+          {name: "Dagoth Ur\nDefeated", itemStyle: {color: "#ff4400"}},
+          {name: "Heart\nDestroyed", itemStyle: {color: "#cc2200"}},
+          {name: "Tribunal DLC:\nMournhold", itemStyle: {color: "#8060a0"}},
+          {name: "Almalexia\nDefeated", itemStyle: {color: "#602080"}},
+          {name: "Bloodmoon DLC:\nSolstheim", itemStyle: {color: "#4070a0"}},
+          {name: "Hircine's\nHunt", itemStyle: {color: "#305080"}},
+          {name: "Nerevarine\nsails to Akavir", itemStyle: {color: "#606060"}}
+        ],
+        links: [
+          {source: "Tiba di\nSeyda Neen", target: "Caius\nCosades", value: 5},
+          {source: "Caius\nCosades", target: "Ashlander\nTrials", value: 4},
+          {source: "Caius\nCosades", target: "Great House\nHortator", value: 4},
+          {source: "Ashlander\nTrials", target: "Moon-and-Star\nFound", value: 4},
+          {source: "Great House\nHortator", target: "Moon-and-Star\nFound", value: 4},
+          {source: "Moon-and-Star\nFound", target: "Corprus\nCured (Fyr)", value: 4},
+          {source: "Corprus\nCured (Fyr)", target: "Tools of\nKagrenac", value: 4},
+          {source: "Tools of\nKagrenac", target: "Red Mountain\nEntered", value: 4},
+          {source: "Red Mountain\nEntered", target: "Dagoth Ur\nDefeated", value: 4},
+          {source: "Dagoth Ur\nDefeated", target: "Heart\nDestroyed", value: 4},
+          {source: "Heart\nDestroyed", target: "Tribunal DLC:\nMournhold", value: 3},
+          {source: "Heart\nDestroyed", target: "Bloodmoon DLC:\nSolstheim", value: 3},
+          {source: "Tribunal DLC:\nMournhold", target: "Almalexia\nDefeated", value: 3},
+          {source: "Bloodmoon DLC:\nSolstheim", target: "Hircine's\nHunt", value: 3},
+          {source: "Almalexia\nDefeated", target: "Nerevarine\nsails to Akavir", value: 2},
+          {source: "Hircine's\nHunt", target: "Nerevarine\nsails to Akavir", value: 2}
+        ],
+        lineStyle: {
+          color: "source",
+          opacity: 0.4,
+          curveness: 0.5
+        },
+        label: {
+          color: "#ccc",
+          fontFamily: "serif",
+          fontSize: 9
+        },
+        left: "5%",
+        right: "5%",
+        top: "15%",
+        bottom: "10%",
+        nodeWidth: 20,
+        nodeGap: 15
+      }
+    ]
+  };
+
+  chart.setOption(option);
+
+  window.addEventListener('resize', function () {
+    chart.resize();
+  });
+</script>
+
+</body>
+</html>

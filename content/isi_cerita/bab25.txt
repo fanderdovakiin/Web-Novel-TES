@@ -1,0 +1,196 @@
+<h2><b>I. PRAELUDIUM — DI LUAR PETA YANG DIKENAL</b></h2>
+
+Ada sebuah tradisi di kalangan para pelaut Tamriel yang sangat tua — tradisi yang mungkin sudah ada sejak sebelum ada yang bisa menulis untuk mencatatnya — tentang cara memperlakukan bagian peta yang tidak diketahui. Di berbagai era, berbagai pelaut dan kartografer memiliki cara yang berbeda:
+
+Beberapa menulis "Here be dragons" — ungkapan yang mengimplikasikan bahaya tanpa informasi lebih lanjut. Beberapa menulis "Unknown territories" yang lebih netral namun juga tidak lebih informatif. Dan beberapa, yang paling jujur, hanya membiarkan bagian itu kosong — selembar vellum putih yang lebih akurat dari tulisan mana pun tentang apa yang mereka tidak ketahui.
+
+Namun ada kelompok keempat yang, dalam perspektif kosmologis, paling tepat: mereka yang menulis "Here be the rest of Nirn" — pengingat bahwa ketidaktahuan kita bukan berarti ketiadaan, bahwa di luar tepi peta kita bukan ada jurang melainkan ada lebih banyak dunia.
+
+Nirn jauh lebih besar dari Tamriel. Paling tidak ada empat benua lain yang diketahui namanya — Akavir, Atmora, Yokuda, dan Pyandonea — ditambah pulau-pulau dan kepulauan yang lebih kecil yang jumlahnya tidak pernah dihitung secara definitif. Dan masing-masing dari wilayah-wilayah ini, dalam cara yang sering tidak kita sadari, telah mempengaruhi sejarah Tamriel dengan cara yang sangat nyata.
+
+
+
+<h2><b>II. AKAVIR — BENUA YANG SELALU DATANG MENYERANG</b></h2>
+
+Akavir adalah benua yang, jika dilihat dari perspektif sejarah Tamriel, selalu hadir dalam satu cara: sebagai invader. Berkali-kali sepanjang sejarah yang tercatat, kekuatan-kekuatan dari Akavir menyeberangi Laut Bernapas (Breathing Sea) dan mencoba untuk menaklukkan atau mengintegrasikan Tamriel ke dalam sistem kekuasaan mereka.
+
+Namun penting untuk dipahami bahwa Akavir bukan entitas tunggal. Ia adalah benua yang dihuni oleh empat ras yang sangat berbeda — lebih berbeda satu sama lain, dalam banyak hal, daripada perbedaan antara semua ras Tamriel digabungkan.
+
+Tsaesci — Ular yang Memakan Manusia:
+
+Tsaesci adalah ras yang paling banyak berinteraksi dengan Tamriel — dan interaksi itu selalu dalam kapasitas sebagai kekuatan yang superior secara militer dan politis. Nama mereka berarti "Ular dalam Gelap" dalam terjemahan yang paling umum diterima, dan penampilan fisik mereka adalah subyek dari banyak spekulasi karena sangat sedikit yang pernah melihat mereka dan kembali untuk melaporkan.
+
+Yang paling sering disebut dalam laporan-laporan historis adalah bahwa Tsaesci adalah "manusia ular" — namun apakah ini berarti mereka secara harfiah adalah makhluk dengan tubuh bawah ular dan tubuh atas humanoid (seperti nāga dalam mitologi lain), atau apakah ini adalah metafora budaya yang menggambarkan sifat-sifat mereka, masih diperdebatkan.
+
+Yang tidak diperdebatkan adalah apa yang mereka lakukan kepada manusia Akavir: mereka memakannya. Seluruh populasi manusia yang pernah menghuni Akavir sudah tidak ada — dimakan oleh Tsaesci, menurut catatan yang paling banyak diterima. Apakah "dimakan" ini harfiah (memakan daging manusia) atau metaforis (mengabsorpsi budaya manusia ke dalam mereka dengan cara yang membuat manusia sebagai kategori terpisah tidak ada lagi) adalah pertanyaan yang sarjana masih perdebatkan.
+
+Yang membuat Tsaesci sangat relevan bagi sejarah Tamriel adalah Akaviri Potentate yang memerintah dari 2E 1 hingga 2E 430 — seperti yang kita bahas di Bab 10. Versidue-Shaie dan Savirien-Chorak, keduanya Tsaesci, memerintah Kekaisaran Tamriel selama lebih dari empat ratus tahun tanpa pernah mengklaim gelar "Kaisar" — cukup bijaksana untuk memahami bahwa legitimasi di Tamriel bergantung pada hal-hal yang tidak bisa mereka miliki dengan mudah.
+
+Dari Tsaesci juga berasal Akaviri Dragonguard — pasukan elite yang dibentuk dari Tsaesci yang ditaklukkan oleh Reman Dynasty dan yang kemudian berevolusi menjadi Blades, organisasi yang masih ada hingga Fourth Era.
+
+Ka Po'Tun — Harimau yang Bermimpi Menjadi Naga:
+
+Ka Po'Tun adalah ras harimau-humanoid yang, di antara semua ras di Akavir, paling dekat dengan sikap manusiawi yang bisa dipahami. Mereka adalah penyembah naga — namun bukan dalam cara Dragon Cult Skyrim yang tunduk dan melayani. Mereka menyembah naga karena mereka ingin menjadi naga, karena mereka percaya bahwa dengan meditasi, latihan, dan transformasi spiritual yang cukup mendalam, mereka bisa mencapai kondisi yang setara dengan naga.
+
+Pemimpin Ka Po'Tun yang paling terkenal adalah Tosh Raka — yang, menurut laporan yang sangat langka dan sangat sulit diverifikasi, berhasil mentransformasi dirinya menjadi seekor naga. Jika ini benar, ia adalah satu-satunya makhluk non-naga yang berhasil melakukan ini, dan implikasinya tentang sifat naga sangat mendalam.
+
+Tang Mo — Seribu Suku Kera:
+
+Tang Mo adalah ras yang paling sulit untuk dideskripsikan karena mereka tidak monolitik — nama "Tang Mo" adalah nama kolektif yang diberikan oleh bangsa lain untuk ratusan atau mungkin ribuan suku kera yang berbeda di Akavir, yang berbicara dalam bahasa yang berbeda-beda, memiliki tradisi yang berbeda-beda, dan tidak selalu sepakat satu sama lain tentang hal-hal yang fundamental.
+
+Yang menyatukan berbagai suku Tang Mo adalah musuh bersama mereka: Tsaesci. Tang Mo adalah ras yang paling aktif dalam melawan Tsaesci, yang paling sering bersekutu dengan Ka Po'Tun melawan mereka, dan yang kehidupan kolektifnya sebagian besar didefinisikan oleh perlawanan ini.
+
+Kamal — Iblis Salju:
+
+Kamal adalah ras yang paling sedikit diketahui oleh Tamriel — mungkin karena mereka hampir tidak pernah berinteraksi dengan Tamriel dengan cara yang memungkinkan pertukaran informasi yang damai. Mereka tidur selama musim dingin (dalam kondisi yang lebih mendalam dari tidur biasa, lebih seperti hibernasi supranatural) dan bangun di musim panas untuk melakukan satu hal: menyerang.
+
+Ketika Kamal bangun, mereka menyerang apa pun yang bisa mereka serang — Tsaesci, Tang Mo, Ka Po'Tun, dan secara periodik Tamriel. Serangan Kamal bukan invasi yang terencana dengan tujuan kolonialisasi; mereka lebih seperti bencana alam musiman yang harus dihadapi oleh semua orang.
+
+Selama ESO era (2E 572), Kamal melakukan invasi besar-besaran ke timur laut Tamriel — menyerang wilayah yang kemudian menjadi Pact Ebonheart. Ancaman ini adalah salah satu faktor yang memaksa Nord, Dunmer, dan Argonian untuk membentuk aliansi yang tidak biasa tersebut.
+
+Ekspedisi Uriel V — Kisah Peringatan:
+
+Tidak ada episode dalam sejarah interaksi Tamriel dengan Akavir yang lebih mengajarkan tentang betapa berbahayanya menganggap remeh kekuatan asing dari ekspedisi Uriel Septim V ke Akavir pada 3E 271.
+
+Uriel V adalah kaisar yang, dalam banyak aspek, sangat berbeda dari pendahulunya: ambisius, militeristik, dan percaya bahwa ekspansi adalah cara terbaik untuk membuktikan kehebatan Kekaisaran. Setelah menguasai beberapa pulau di Laut Bernapas, ia memutuskan untuk mengambil langkah yang tidak pernah berhasil dilakukan oleh siapa pun sebelumnya: menginvasi Akavir sendiri.
+
+Ekspedisinya mendarat di pantai Akavir dengan pasukan yang besar dan moral yang tinggi. Beberapa pertempuran awal menghasilkan kemenangan — cukup untuk membuat Uriel V semakin yakin bahwa ia membuat keputusan yang benar. Namun semakin jauh ia masuk ke pedalaman Akavir, semakin jelas bahwa ia tidak memahami apa yang ia hadapi.
+
+Uriel V meninggal di Akavir pada 3E 290, hampir dua puluh tahun setelah ekspedisi dimulai. Sisa-sisa pasukannya kembali ke Tamriel dengan laporan yang sangat tidak konsisten tentang apa yang terjadi — bukan karena mereka berbohong, melainkan karena apa yang terjadi di Akavir benar-benar di luar kerangka pemahaman yang mereka miliki.
+
+
+
+<h2><b>III. ATMORA — TANAH LELUHUR YANG MEMBEKU</b></h2>
+
+Atmora adalah tanah yang paling dikenal oleh bangsa Nord — atau lebih tepatnya, paling diingat dalam cara yang mitos selalu diingat: fragmentaris, sebagian akurat, sebagian tidak bisa dipisahkan dari harapan dan ketakutan kolektif.
+
+Kondisi Sekarang — Gurun Es:
+
+Atmora pada masa kini, berdasarkan laporan-laporan eksplorasi yang sangat langka (beberapa dari era Uriel V, beberapa dari ekspedisi yang lebih baru yang tidak mendapat banyak publisitas), adalah daratan yang sepenuhnya tertutup es. Tidak ada vegetasi. Tidak ada hewan besar yang terlihat. Tidak ada tanda-tanda kehidupan selain angin yang bertiup melintasi permukaan salju.
+
+Namun di bawah es itu — di bawah lapisan yang tebalnya tidak bisa diperkirakan — ada kemungkinan bahwa sisa-sisa peradaban Nordic kuno masih ada dalam kondisi yang dipreservasi oleh dingin. Kota-kota yang dibangun sebelum Ysgramor berlayar ke Tamriel. Kuil-kuil Dragon Cult yang lebih tua dari semua yang ada di Skyrim. Dan mungkin, menurut spekulasi yang paling gelap, jiwa-jiwa yang terjebak di sana ketika pembekuan menghancurkan peradaban yang tidak bisa melarikan diri.
+
+Mengapa Atmora Membeku:
+
+Ini adalah salah satu misteri historis yang paling sulit dipecahkan di seluruh sejarah Tamriel. Beberapa kemungkinan:
+
+Hipotesis Perang Dragon Cult: Dragon War di Skyrim pada akhir Merethic Era dan awal First Era tidak hanya terjadi di Skyrim — ia mungkin dimulai di Atmora, di mana hubungan antara manusia dan naga pertama kali berkembang dan pertama kali rusak. Pertempuran menggunakan Thu'um dalam skala yang sangat besar di Atmora mungkin menghasilkan kerusakan lingkungan yang tidak terpulihkan.
+
+Hipotesis Aetherius: Ketika Dragon Priests memperkuat kekuasaan mereka di Skyrim, mereka mungkin menarik energi Aetherius yang mengalir melalui "lubang-lubang" Atmora (bintang-bintang yang relatif lebih banyak terlihat di langit utara) dengan cara yang mengubah iklim. Kekurangan energi Aetherius yang mengalir ke tanah bisa, dalam teori yang sangat spekulatif, menyebabkan pendinginan.
+
+Hipotesis Natural: Atmora selalu berada di zona iklim yang sangat rentan terhadap glaciation. Mungkin tidak ada penyebab supernatural sama sekali — hanya perubahan iklim alami yang mempercepat oleh berbagai faktor, termasuk aktivitas vulkanik global yang berubah seiring Red Mountain di Morrowind menjadi lebih aktif.
+
+Warisan Atmoran di Tamriel:
+
+Walau Atmora sendiri sudah tidak bisa dihuni, warisan budayanya sangat terasa di Skyrim dan di seluruh tradisi Nordic. Struktur-struktur yang ditemukan di dalam Saarthal — kota pertama yang dibangun oleh Ysgramor di Skyrim — menunjukkan teknik konstruksi yang berbeda dari yang kemudian berkembang di Skyrim, teknik yang lebih menyerupai tradisi "Atmoran". Bahasa Nordic Kuno — yang terukir di dinding-dinding kuburan kuno — memiliki elemen-elemen yang, menurut analisis linguistik Psijic, menunjukkan akar dari tradisi lisan yang lebih tua dari keberadaan manusia di Tamriel.
+
+Dan Dragon Cult yang memengaruhi begitu banyak aspek sejarah Skyrim — yang membentuk arsitektur kuburan Draugr, yang menciptakan tradisi Dragon Priest, yang menghasilkan sistem Shout yang kemudian diambil alih oleh Tongues dan Greybeards — berasal dari interaksi antara Atmorans dan naga yang sudah terjadi di Atmora sebelum migrasi besar ke Tamriel.
+
+
+
+<h2><b>IV. YOKUDA — BENUA YANG MENGORBANKAN DIRINYA SENDIRI</b></h2>
+
+Tidak ada tempat di Nirn yang kisah keruntuhannya lebih dramatis dan lebih mengungkap tentang hubungan antara kekuasaan dan kehancuran dari Yokuda — benua yang, dalam satu peristiwa yang berlangsung dalam waktu geologis yang sangat singkat, tenggelam ke dalam lautan.
+
+Peradaban yang Menghancurkan Dirinya Sendiri:
+
+Yokuda adalah tempat di mana Sword-Singing dikembangkan — seni pertempuran yang, dalam tingkatan tertingginya, memungkinkan praktisinya untuk menggunakan energi spiritual mereka sebagai senjata yang lebih tajam dan lebih kuat dari baja mana pun.
+
+Namun Sword-Singing, seperti semua kekuasaan yang melampaui batas alami, memiliki batas yang tidak seharusnya dilampaui. Dan para Sword-Singer Yokuda, dalam konflik internal yang meletup dari ketegangan yang sudah lama menumpuk antara kelas prajurit Ra Gada dan kelas-kelas lain dalam masyarakat Yokudan, melampaui batas itu.
+
+Ketika yang paling kuat di antara mereka menggunakan Shehai — pedang roh yang materinya adalah kehendak murni — untuk menyerang musuh-musuh mereka, mereka tidak hanya menyerang manusia. Mereka menyerang fondasi Yokuda itu sendiri — formasi batuan bawah tanah yang menopang benua, jalur tektonik yang sudah berumur ribuan tahun, stabilitas geologis yang tidak bisa dipulihkan setelah terganggu.
+
+Proses tenggelamnya Yokuda — yang oleh sejarawan diperkirakan berlangsung dalam hitungan minggu, bukan tahun atau abad — adalah sesuatu yang tidak ada yang bisa dijadikan analogi yang tepat. Bayangkan seluruh benua yang, dalam hitungan waktu yang sangat singkat secara geologis, miring ke dalam lautan. Air yang membanjiri dari segala arah. Tanah yang tenggelam di bawah gelombang. Seluruh peradaban — semua arsitektur, semua seni, semua sejarah yang belum sempat ditulis — dibawa ke bawah.
+
+Yang selamat adalah mereka yang sudah di atas kapal: Ra Gada yang, dalam ironi yang kejam, sedang dalam ekspedisi militer ke luar Yokuda ketika kehancuran terjadi. Mereka berlayar ke timur, ke pantai yang kemudian dikenal sebagai Hammerfell, dan membangun peradaban baru dari puing-puing identitas yang tersisa.
+
+Orichalc Tower dan Apa yang Hilang:
+
+Di antara semua hal yang tenggelam bersama Yokuda, yang paling signifikan secara kosmologis adalah Orichalc Tower — salah satu Tower yang menopang Mundus. Dengan tenggelamnya Tower ini, satu jangkar dari realitas Mundus hilang.
+
+Ini menjelaskan sesuatu tentang kondisi dunia setelah tenggelamnya Yokuda: bahwa Mundus sedikit lebih tidak stabil, bahwa ada ketidakseimbangan kosmologis kecil yang telah ada sejak 1E 808 dan yang kumulatif kontribusinya terhadap berbagai anomali yang terjadi setelahnya mungkin lebih besar dari yang kita sadari.
+
+Apa yang Tersisa:
+
+Bawah permukaan Eltheric Ocean di lokasi di mana Yokuda pernah berdiri, ada kemungkinan bahwa reruntuhan-reruntuhan masih ada dalam kondisi yang dipreservasi oleh air dingin di kedalaman laut. Beberapa ekspedisi menyelam yang disponsori oleh Arcane University — ekspedisi yang hasilnya tidak pernah sepenuhnya dipublikasikan — mengklaim menemukan struktur-struktur di dasar lautan yang tidak bisa dijelaskan oleh formasi geologis alami.
+
+Namun apakah ada yang akan pernah mencapai situs itu, apalagi mengeksplorasi dan melaporkannya, adalah pertanyaan yang jawabannya bergantung pada kemajuan teknologi magis yang belum tercapai pada masa yang kita dokumentasikan di sini.
+
+
+
+<h2><b>V. PYANDONEA — KEPULAUAN YANG MENYEMBUNYIKAN DIRI DARI DUNIA</b></h2>
+
+Pyandonea adalah salah satu tempat yang paling misterius di Nirn — bukan karena tidak ada yang pernah menemukannya, melainkan karena siapa pun yang menemukannya biasanya kembali dalam kondisi yang tidak memungkinkan laporan yang koheren.
+
+Maormer — Elf yang Terbuang:
+
+Maormer — atau Sea Elves dalam bahasa Tamriellic — adalah ras Elf yang, menurut kosmologi Altmeri, adalah Aldmer yang dibuang dari Aldmeris karena kejahatan yang tidak pernah sepenuhnya didokumentasikan dalam sumber yang tersedia untuk umum. Pemimpin mereka, Orgnum — yang oleh Altmer digambarkan sebagai penipu dan pengkhianat — membawa pengikutnya ke kepulauan Pyandonea di selatan Tamriel, di mana mereka membangun peradaban yang, dari semua laporan yang tersedia, sangat berbeda dari peradaban Mer lain mana pun.
+
+Maormer secara fisik berbeda dari Altmer dan Mer lainnya: kulit yang lebih pucat, hampir putih dalam beberapa deskripsi; mata yang hampir tidak berwarna, atau dalam kondisi tertentu sepenuhnya putih; dan kemampuan supranatural untuk berinteraksi dengan makhluk-makhluk laut yang tidak dimiliki oleh Elf mana pun di Tamriel. Mereka bisa memanggil ular laut raksasa dari kedalaman lautan, bisa berkomunikasi dengan berbagai makhluk laut, dan kapal-kapal mereka — yang bisa muncul tiba-tiba dari kabut yang menutupi Pyandonea — menjadi momok bagi pelaut Summerset selama ribuan tahun.
+
+Perang Tak Berkesudahan dengan Summerset:
+
+Hubungan antara Pyandonea dan Summerset Isles adalah hubungan perang yang hampir tidak pernah berhenti sejak zaman yang tidak bisa ditentukan. Maormer menyerang Summerset secara periodik — kadang-kadang dalam serangan kecil-kecilan yang bisa diatasi oleh pertahanan lokal, kadang-kadang dalam invasi besar-besaran yang memerlukan seluruh kekuatan militer Summerset untuk ditolak.
+
+Mengapa perang ini tidak pernah berakhir secara definitif? Dua kemungkinan: pertama, bahwa Orgnum — jika legenda Altmer bahwa ia adalah immortal benar — tidak pernah kehilangan motivasi untuk membalas pengusiran leluhurnya dari Aldmeris. Kedua, bahwa keberhasilan untuk sepenuhnya menaklukkan Pyandonea tidak mungkin karena kabut supranatural yang menutupi kepulauan itu membuat invasi dari luar hampir tidak mungkin. Kamu tidak bisa menyerang target yang tidak bisa kamu temukan.
+
+Kabut Pyandonea:
+
+Ini adalah aspek yang paling menarik dari geografi Pyandonea: kepulauan itu tersembunyi oleh kabut yang tidak pernah terangkat. Bukan kabut biasa — pelaut yang mencoba untuk menavigasi melaluinya menemukan bahwa kompas tidak berfungsi dengan benar, bahwa bintang-bintang tampak bergerak dengan cara yang berbeda dari biasanya, dan bahwa perjalanan yang seharusnya berlangsung satu jam bisa berlangsung berhari-hari atau bahkan berujung di tempat yang sama mereka mulai, tanpa ada penjelasan yang bisa diberikan.
+
+Ini adalah kabut yang diciptakan dan dipertahankan oleh sihir — mungkin oleh Orgnum sendiri, mungkin oleh sistem pertahanan kolektif Maormer yang tidak memiliki analogi di tempat lain. Dan selama kabut itu ada, Pyandonea tidak bisa diserang secara konvensional, dan informasi tentang kondisi di dalamnya tidak bisa dikumpulkan dari luar.
+
+
+
+<h2><b>VI. PULAU-PULAU DAN WILAYAH LAIN — YANG KECIL NAMUN TIDAK TIDAK PENTING</b></h2>
+
+Di antara benua-benua besar yang kita sudah bahas, Nirn juga dihiasi oleh berbagai pulau dan kepulauan yang memiliki signifikansi mereka masing-masing:
+
+Thras — kepulauan karang di selatan Tamriel yang dihuni oleh Sload — makhluk yang, dari semua ras cerdas di Nirn, mungkin yang paling tidak menyenangkan untuk dibicarakan karena sifat-sifat mereka yang hampir tidak memiliki kualitas yang bisa disebut positif bahkan dengan standar paling lenient sekalipun.
+
+Sload adalah makhluk yang bentuk fisiknya mirip dengan siput atau slug raksasa — tidak memiliki bentuk yang teratur, bergerak perlahan, dan dengan metabolisme yang sangat lambat yang berarti bahwa apa yang mereka rencanakan seringkali berlangsung selama berabad-abad. Mereka adalah necromancer alami yang menggunakan mayat-mayat makhluk lain (termasuk, secara preferensi, makhluk yang pernah hidup dan cerdas) sebagai sumber daya. Mereka tidak memiliki konsep tentang perasaan makhluk lain sebagai sesuatu yang relevan — bukan karena mereka secara aktif sadistis, melainkan karena konsep itu tidak ada dalam kerangka kognitif mereka.
+
+Roscrea, Cathnoquey, dan Esroniet — tiga gugus pulau yang terletak di Laut Bernapas antara Tamriel dan Akavir, yang semuanya sempat dikunjungi (dan dalam kasus Cathnoquey, dikuasai) oleh ekspedisi Uriel V. Laporan tentang penduduk pulau-pulau ini sangat langka dan saling bertentangan.
+
+Aldmeris — yang sudah kita bahas panjang lebar di Bab 7 tentang asal-usul Aldmer. Lokasi fisiknya tidak bisa dikonfirmasi, dan ada perdebatan tentang apakah ia pernah eksis sebagai tempat fisik atau hanya sebagai konsep spiritual.
+
+
+
+<h2><b>VII. KOSMOLOGI GLOBAL — NIRN SEBAGAI SATU KESATUAN</b></h2>
+
+Dari perspektif kosmologis yang kita bangun sepanjang kompendium ini, sangat penting untuk memahami bahwa Nirn — seluruhnya, tidak hanya Tamriel — adalah satu entitas kosmologis. Semua Tower yang menopang Mundus tidak semuanya ada di Tamriel. Orichalc Tower ada di Yokuda (dan sekarang tenggelam). Tower-tower lain yang keberadaannya hanya diketahui melalui inferensi teoritis mungkin ada di benua-benua lain.
+
+Ini berarti bahwa ketika Yokuda tenggelam dan Orichalc Tower hilang, seluruh Nirn merasakan dampaknya — bukan hanya wilayah yang secara geografis dekat. Bahwa Crystal Tower hancur di Summerset mempengaruhi stabilitas realitas di seluruh planet. Bahwa Heart of Lorkhan dihancurkan di Red Mountain mempengaruhi kondisi di Akavir, di Atmora, di mana pun.
+
+Ini juga berarti bahwa ancaman dan peristiwa yang terjadi di luar Tamriel bisa memiliki konsekuensi kosmologis yang jauh melampaui batas geografis mereka. Jika Kamal berhasil menghancurkan sesuatu yang penting di Tamriel utara, konsekuensinya tidak hanya dirasakan oleh Nord dan Dunmer. Jika Maormer berhasil menyerang Crystal Tower sebelum Oblivion Crisis menghancurkannya, mungkin hasilnya tidak akan lebih baik namun cara kerusakannya berbeda.
+
+Nirn adalah satu sistem. Dan sistem yang kompleks selalu merasakan gangguan di satu bagiannya di seluruh bagian lainnya — hanya terkadang dengan jeda, hanya terkadang dalam cara yang tidak langsung terlihat.
+
+
+
+<h2><b>VIII. PENUTUP — MELAMPAUI TEPI PETA</b></h2>
+
+Kita sudah sampai di tepi dari apa yang bisa diketahui — atau lebih tepatnya, di tepi dari apa yang dicatat dan bisa diakses. Di luar Tamriel, di luar pulau-pulau yang kita sudah dokumentasikan, di luar benua-benua yang sudah diberi nama dan sedikit dipahami — ada lebih banyak Nirn.
+
+Lautan yang membentang di sebelah selatan Elsweyr dan Black Marsh — Lautan Padomaik yang besar — belum pernah benar-benar dieksplorasi. Ada teori bahwa di sisi lain lautan itu ada tanah lain, benua-benua lain, mungkin ras-ras yang tidak pernah berinteraksi dengan Tamriel dan yang karena itu tidak tercatat dalam sejarah mana pun. Mungkin mereka memiliki Tower mereka sendiri, perjanjian mereka sendiri dengan kekuatan-kekuatan kosmis, sejarah mereka sendiri yang berlangsung sejajar dengan sejarah Tamriel tanpa pernah bersilangan.
+
+Atau mungkin tidak. Mungkin Tamriel dan sekitarnya adalah seluruh dunia yang berpenghuni, dan lautan-lautan yang belum dijelajahi hanya menyimpan lautan dan tidak ada apa pun di baliknya kecuali lebih banyak lautan.
+
+Kita tidak tahu. Dan dalam ketidaktahuan itu terletak salah satu hal yang paling berharga dalam seluruh kosmologi Aurbis yang sudah kita jelajahi: kemungkinan. Bahwa ada lebih dari yang kita ketahui. Bahwa peta yang kita miliki, sebaik apa pun, tidak pernah menangkap seluruh wilayah. Bahwa di tepi setiap peta — termasuk peta dari Nirn itu sendiri — ada yang belum dijelajahi, yang belum dipahami, yang menunggu.
+
+Dan selama ada yang menunggu, selama ada yang belum diketahui, selama ada tepi peta di mana seseorang bisa berdiri dan melihat ke kejauhan dan bertanya "apa yang ada di sana?" — selama itu, ada alasan untuk terus menjelajahi.
+
+<i>"Seorang pelaut Redguard, tua dan penuh dengan bekas luka dari laut,
+pernah ditanya oleh muridnya:
+'Guru, apa yang ada di seberang lautan terluar?'
+Dan sang guru menatap ke laut untuk waktu yang sangat lama
+sebelum menjawab:
+'Aku tidak tahu.'
+'Tapi bukankah kamu sudah berlayar ke sana?'
+'Aku berlayar jauh. Namun tidak cukup jauh.
+Dan itu,' katanya, sambil tersenyum,
+'adalah alasan mengapa aku masih berlayar.'"
+
+— Kumpulan Kisah Pelaut Redguard, dikumpulkan oleh Lentulus Inventius,
+2E 488, dipersembahkan kepada Perpustakaan Imperial</i>
+

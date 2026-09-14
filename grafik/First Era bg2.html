@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Battle of Red Mountain</title>
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      background: #080305;
+      font-family: serif;
+    }
+    #chart {
+      width: 100%;
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+
+<div id="chart"></div>
+
+<script>
+  const chart = echarts.init(document.getElementById('chart'));
+
+  const option = {
+    backgroundColor: "#080305",
+    title: {
+      text: "Battle of Red Mountain — Dampak dan Konsekuensi",
+      subtext: "1E 700 — Peristiwa yang mengubah wajah Morrowind dan Tamriel",
+      left: "center",
+      top: 10,
+      textStyle: {
+        color: "#c05030",
+        fontFamily: "serif",
+        fontSize: 15
+      },
+      subtextStyle: {
+        color: "#882200",
+        fontFamily: "serif",
+        fontSize: 10,
+        fontStyle: "italic"
+      }
+    },
+    tooltip: {
+      trigger: "item",
+      backgroundColor: "#100508",
+      borderColor: "#c05030",
+      borderWidth: 1,
+      textStyle: {
+        color: "#e0d5c0",
+        fontFamily: "serif",
+        fontSize: 10
+      },
+      formatter: function(params) {
+        return params.name + "<br/>Kontribusi: " + params.percent + "%";
+      }
+    },
+    series: [
+      {
+        type: "pie",
+        radius: ["25%", "55%"],
+        center: ["50%", "55%"],
+        roseType: "area",
+        label: {
+          color: "#ccc",
+          fontFamily: "serif",
+          fontSize: 10,
+          formatter: "{b}\n{d}%"
+        },
+        labelLine: {
+          lineStyle: { color: "#555" }
+        },
+        itemStyle: {
+          borderRadius: 5,
+          borderColor: "#100508",
+          borderWidth: 2
+        },
+        emphasis: {
+          itemStyle: {
+            borderColor: "#c05030",
+            borderWidth: 2
+          }
+        },
+        data: [
+          {
+            value: 25,
+            name: "Dwemer Vanish\n(entire race)",
+            itemStyle: { color: "#907050" }
+          },
+          {
+            value: 20,
+            name: "Tribunal Rise\n(false gods)",
+            itemStyle: { color: "#8060a0" }
+          },
+          {
+            value: 15,
+            name: "Nerevar Dies\n(how unknown)",
+            itemStyle: { color: "#4070a0" }
+          },
+          {
+            value: 15,
+            name: "Chimer → Dunmer\n(Azura's curse)",
+            itemStyle: { color: "#606060" }
+          },
+          {
+            value: 12,
+            name: "Dagoth Ur\n(corrupted, waits)",
+            itemStyle: { color: "#c05050" }
+          },
+          {
+            value: 8,
+            name: "Heart of Lorkhan\n(remains active)",
+            itemStyle: { color: "#cc2200" }
+          },
+          {
+            value: 5,
+            name: "Numidium\n(incomplete → later used)",
+            itemStyle: { color: "#c4a35a" }
+          }
+        ]
+      }
+    ]
+  };
+
+  chart.setOption(option);
+
+  // Responsive
+  window.addEventListener('resize', function () {
+    chart.resize();
+  });
+</script>
+
+</body>
+</html>

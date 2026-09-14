@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Morrowind Chart</title>
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      background: #080505;
+      font-family: Georgia, serif;
+    }
+    #chart {
+      width: 100%;
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+
+<div id="chart"></div>
+
+<script>
+  const chart = echarts.init(document.getElementById('chart'));
+
+  const option = {
+    backgroundColor: "#080505",
+    title: {
+      text: "Morrowind: Sebelum dan Sesudah Red Year",
+      subtext: "Perbandingan kondisi provinsi — 3E 427 vs 4E 10",
+      left: "center",
+      top: 20,
+      textStyle: {
+        color: "#c05030",
+        fontFamily: "Georgia, serif",
+        fontSize: 13
+      },
+      subtextStyle: {
+        color: "#802010",
+        fontFamily: "Georgia, serif",
+        fontSize: 10,
+        fontStyle: "italic"
+      }
+    },
+    tooltip: {
+      trigger: "item",
+      backgroundColor: "#100508",
+      borderColor: "#c05030",
+      textStyle: {
+        color: "#e0d5c0",
+        fontFamily: "Georgia, serif",
+        fontSize: 10
+      }
+    },
+    legend: {
+      data: ["Before (3E 427)", "After (4E 10)"],
+      bottom: 20,
+      textStyle: {
+        color: "#aaa",
+        fontFamily: "Georgia, serif",
+        fontSize: 10
+      }
+    },
+    radar: {
+      indicator: [
+        {name: "Population", max: 100},
+        {name: "Military", max: 100},
+        {name: "Economy", max: 100},
+        {name: "Spiritual", max: 100},
+        {name: "Territory", max: 100},
+        {name: "Stability", max: 100},
+        {name: "Culture", max: 100},
+        {name: "Diplomacy", max: 100}
+      ],
+      center: ["50%", "58%"],
+      radius: "52%",
+      axisName: {
+        color: "#c05030",
+        fontFamily: "Georgia, serif",
+        fontSize: 8
+      },
+      axisLine: {
+        lineStyle: { color: "#2a1510" }
+      },
+      splitLine: {
+        lineStyle: { color: "#1a0d0a" }
+      },
+      splitArea: {
+        areaStyle: {
+          color: ["rgba(10,5,5,0.5)", "rgba(15,8,8,0.5)"]
+        }
+      }
+    },
+    series: [
+      {
+        type: "radar",
+        data: [
+          {
+            name: "Before (3E 427)",
+            value: [75, 65, 70, 80, 85, 60, 90, 55],
+            symbolSize: 5,
+            lineStyle: { color: "#c4a35a", width: 2 },
+            areaStyle: { color: "rgba(196,163,90,0.2)" },
+            itemStyle: { color: "#c4a35a" }
+          },
+          {
+            name: "After (4E 10)",
+            value: [25, 30, 15, 45, 40, 35, 50, 20],
+            symbolSize: 5,
+            lineStyle: { color: "#c05030", width: 2, type: "dashed" },
+            areaStyle: { color: "rgba(192,80,48,0.15)" },
+            itemStyle: { color: "#c05030" }
+          }
+        ]
+      }
+    ]
+  };
+
+  chart.setOption(option);
+
+  window.addEventListener('resize', () => {
+    chart.resize();
+  });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,241 @@
+<h2><b>I. PRAELUDIUM — SUARA DARI BAWAH</b></h2>
+
+Ada suatu malam di Cyrodiil kuno — malam yang tidak dicatat oleh kalender mana pun, malam yang berlalu tanpa catatan sejarah, malam yang hanya diingat oleh tanah itu sendiri — ketika seorang perempuan muda bernama Alessia berlutut di atas tanah lembap di sudut kandang budak dan berdoa.
+
+Ia berdoa kepada dewa-dewa yang namanya ia dengar dari bisikan sesama budak. Bukan dewa-dewa Ayleid — bukan Meridia yang cahayanya menyinari menara-menara tuan mereka, bukan Molag Bal yang kekuatannya menjaga perbudakan tetap berjalan. Ia berdoa kepada dewa yang, menurut bisikan-bisikan itu, pernah menjaga manusia sebelum manusia lupa bahwa mereka pernah dijaga.
+
+Ia berdoa kepada Akatosh.
+
+Doanya tidak elegan. Tidak terstruktur menurut liturgi yang benar. Tidak diucapkan dalam bahasa Aldmeri yang halus atau bahasa Ayleid yang rumit. Ia diucapkan dalam bahasa budak — bahasa Nedic yang kasar, yang sudah tercampur dengan kosakata Ayleid yang dipelajari dari perintah-perintah tuan mereka, bahasa yang tidak memiliki kata untuk "kebebasan" karena kebebasan adalah konsep yang tidak dikenal oleh populasi yang sudah diperbudak selama ratusan tahun.
+
+Namun doa itu memiliki sesuatu yang tidak dimiliki oleh liturgi mana pun yang pernah diucapkan di kuil-kuil Ayleid yang megah: ketulusan absolut. Ketulusan dari seseorang yang tidak memiliki apa-apa — tidak memiliki harta, tidak memiliki status, tidak memiliki senjata, tidak memiliki harapan — yang satu-satunya hal yang tersisa padanya adalah suaranya, dan ia memilih untuk menggunakan suara itu bukan untuk menjerit atau menangis, melainkan untuk berdoa.
+
+<i>"The Song of Pelinal"</i> — yang mencatat peristiwa-peristiwa seputar Alessian Revolt — merekonstruksi doa Alessia dengan kata-kata yang telah menjadi liturgi resmi Alessian Order dan kemudian diadopsi oleh Imperial Cult:
+
+<i>"Ada-i Kota Perang-ku, Akan kau lepas aku?
+Ada-i Kota Perang-ku, Akan kau dengar aku?
+Aku yang tidak memiliki nama yang diizinkan,
+aku yang tidak memiliki tanah yang diakui,
+aku yang kulitnya ditandai oleh rantai bukan oleh berkah —
+aku memohon kepadamu, AKATOSH,
+Bapak Naga, Tuan Waktu:
+BEBASKAN KAMI."</i>
+
+Dan Akatosh mendengar.
+
+
+
+<h2><b>II. CYRODIIL DI BAWAH KEKUASAAN AYLEID — NERAKA YANG DIBANGUN OLEH KEINDAHAN</b></h2>
+
+Untuk memahami kedalaman penderitaan yang mendorong Alessia hingga berlutut dan berdoa kepada dewa yang belum ia kenal, kita perlu memahami seperti apa kehidupan di bawah kekuasaan Ayleid.
+
+Ayleid — "Wild Elves" atau lebih tepatnya "Heartland High Elves" — adalah kelompok Aldmer yang bermigrasi ke wilayah tengah Tamriel yang kemudian disebut Cyrodiil. Di sana, mereka membangun peradaban yang, dari sudut pandang estetika dan teknis, adalah salah satu yang paling menakjubkan yang pernah ada di Nirn.
+
+Kota-kota Ayleid dibangun dari batu putih yang dipoles hingga bersinar seperti susu beku, diterangi oleh Welkynd Stones yang memancarkan cahaya biru yang tidak pernah padam, dan dihiasi oleh Varla Stones yang menyimpan magicka dalam jumlah besar. Arsitektur mereka memadukan keanggunan Aldmeri dengan inovasi lokal yang unik — lengkungan-lengkungan yang tampak menentang gravitasi, menara-menara yang melilit seperti tanaman merambat yang dibuat dari kristal, dan taman-taman bawah tanah yang disinari oleh cahaya buatan yang mensimulasikan matahari, bulan, dan bintang.
+
+Namun di balik keindahan itu tersembunyi kekejaman yang membuat bahkan Daedric Prince bergidik.
+
+Ayleid mempraktikkan perbudakan manusia dalam skala yang masif. Populasi Nedic — manusia asli Cyrodiil, keturunan dari Wandering Ehlnofey — diperbudak oleh Ayleid dan digunakan untuk segala hal: sebagai pekerja pembangunan, sebagai pelayan domestik, sebagai tentara paksa, dan — yang paling mengerikan — sebagai persembahan ritual.
+
+Banyak raja Ayleid adalah penyembah Daedric Prince, dan beberapa dari mereka melakukan ritual yang melibatkan penyiksaan dan pembunuhan budak manusia sebagai persembahan kepada dewa-dewa mereka. Teks-teks kuno mencatat beberapa praktik yang, bahkan dalam konteks dunia yang penuh dengan kekejaman, menonjol karena kesedingannya:
+
+"The Flesh Gardens" — taman-taman di mana budak manusia dipotong-potong secara hidup-hidup dan bagian tubuh mereka "ditanam" dalam formasi yang dianggap estetis oleh tuan Ayleid mereka. Dua kota Ayleid — Vindasel dan Varsa Baalim — dikenal karena praktik ini.
+
+"The Burning" — ritual di mana budak manusia dibakar hidup-hidup di atas altar Meridia sebagai persembahan cahaya. Ironisnya, Meridia — Prince of Light yang membenci undead — menerima persembahan ini, yang menunjukkan bahwa "kebaikan" Daedric Prince selalu bersifat relatif.
+
+"The Gut Garden of Sedor" — yang deskripsinya, bahkan dalam teks-teks kuno yang mencatatnya, disertai dengan peringatan untuk tidak dibaca saat makan, cukuplah untuk mengatakan bahwa Sedor adalah nama seorang raja Ayleid yang menemukan cara-cara baru dan kreatif untuk menggunakan organ dalam manusia sebagai dekorasi.
+
+Tidak semua raja Ayleid sekeji ini. Ada di antara mereka yang memperlakukan budak mereka dengan relatif "baik" — yang tidak menyiksa mereka secara aktif, yang memberi mereka makanan yang cukup, yang bahkan mengajarkan mereka membaca dan menulis dalam bahasa Ayleid. Raja-raja ini, yang kemudian disebut sebagai "Ayleid Rebels", kelak akan memainkan peran penting dalam Alessian Revolt sebagai sekutu yang tidak terduga.¹
+
+<i>¹ Catatan Lore: Fakta bahwa beberapa raja Ayleid membantu Alessia dalam pemberontakannya sering dilupakan dalam narasi populer tentang Alessian Revolt, yang cenderung menyederhanakan konflik menjadi "manusia vs. Elf". Dalam kenyataannya, koalisi Alessia mencakup beberapa kota-kota Ayleid yang memberontak terhadap otoritas Ayleid sentral — sebagian karena alasan moral (mereka menolak perbudakan dan penyiksaan manusia), sebagian karena alasan politik (mereka ingin merdeka dari kekuasaan raja-raja yang lebih kuat). Setelah kemenangan Alessia, kota-kota Ayleid yang membantunya diberikan otonomi untuk sementara waktu — sebelum Alessian Order yang fanatik kemudian menghancurkan mereka juga.</i>
+
+
+
+<h2><b>III. KONTEKS SEJARAH — FIRST ERA SEBELUM ALESSIA</b></h2>
+
+Sebelum kita masuk ke kisah pemberontakan Alessia, ada baiknya menempatkannya dalam konteks peristiwa-peristiwa First Era yang mendahuluinya.
+
+1E 0 — Camoran Dynasty didirikan di Valenwood oleh Eplear Camoran, menjadi dinasti kerajaan pertama yang tercatat dalam sejarah Tamriel. Tanggal ini secara konvensional digunakan sebagai titik awal First Era, walau signifikansinya bagi dunia di luar Valenwood terbatas pada saat itu. Camoran Dynasty akan bertahan selama ribuan tahun dalam berbagai bentuk — sebuah pencapaian yang luar biasa mengingat volatilitas politik Tamriel pada umumnya.
+
+1E 143 — King Harald menyatukan Skyrim untuk pertama kalinya di bawah satu mahkota. Harald adalah High King pertama Skyrim yang berhasil menyatukan sembilan Hold — dari Whiterun di tengah hingga Solitude di barat laut dan Riften di tenggara — di bawah satu otoritas politik. Ini bukan proses yang mudah: setiap Hold memiliki Jarl-nya sendiri, tradisi-nya sendiri, dan kecenderungan keras kepala-nya sendiri. Harald menggunakan kombinasi dari diplomasi (ia sangat pandai bernegosiasi), pernikahan politik (ia menikahi putri dari beberapa Jarl terkuat), dan kekerasan terbatas (ia tidak ragu untuk menghancurkan pihak yang menolak untuk bergabung) untuk mencapai penyatuan.
+
+1E 221 — Empire of the Nords mencapai puncak ekspansinya. Pada titik ini, kekuasaan Nordic sudah meluas jauh melampaui batas-batas Skyrim — ke utara hingga Solstheim, ke timur hingga sebagian Morrowind utara, ke selatan hingga sebagian besar High Rock. Ini adalah masa ketika budaya Nordic mendominasi Tamriel utara — masa ketika Thu'um masih digunakan secara bebas sebagai senjata perang, masa ketika Tongues bisa menghancurkan benteng dengan satu teriakan, masa ketika Jarl-Jarl Nord bersaing satu sama lain bukan hanya dalam perang melainkan juga dalam Tongue-Duels — kompetisi berteriak yang, jika dilakukan oleh Tongues yang cukup kuat, bisa mengubah geografi sekitarnya.
+
+Namun pada saat Alessia mulai berdoa di kandang budaknya di Cyrodiil, Empire of the Nords sudah melewati puncaknya. Kekuasaan mereka mulai menyusut, suku-suku perbatasan mulai memberontak, dan perhatian internal terbagi antara ambisi-ambisi yang saling bertentangan. Namun tradisi militer Nordic yang kuat tetap hidup — dan kelak, bantuan militer dari Skyrim akan menjadi salah satu faktor penting dalam kemenangan Alessia.
+
+
+
+<h2><b>IV. DEWA-DEWA MENJAWAB — AMULET OF KINGS DAN DRAGONFIRES</b></h2>
+
+Kembali kepada Alessia yang berlutut di kandang budak.
+
+Doanya didengar. Bukan oleh Akatosh saja — melainkan, menurut tradisi yang paling banyak diterima, oleh Shezarr (Lorkhan versi Imperial) juga. Dan jika teori tentang Shezarrine benar — yaitu bahwa Lorkhan secara periodik mengirimkan inkarnasi atau "aspek" dirinya ke Mundus untuk membantu manusia pada momen-momen krisis — maka respons terhadap doa Alessia datang dalam bentuk yang sangat nyata.
+
+Pertama: Akatosh mengirimkan Amulet of Kings — artefak suci yang terbuat dari sebuah permata yang, menurut legenda, mengandung "setetes darah Akatosh". Amulet ini bukan sekadar perhiasan yang indah; ia adalah kunci kosmologis yang memungkinkan pemegangnya untuk menyalakan Dragonfires — api-api suci di kuil Imperial City yang, selama menyala, memperkuat Liminal Barriers antara Mundus dan Oblivion, mencegah invasi Daedric berskala besar.
+
+Perjanjian yang terbentuk antara Akatosh dan Alessia — yang kemudian dikenal sebagai "Covenant of Akatosh" atau "Pact of Akatosh" — memiliki persyaratan yang sangat spesifik: selama keturunan Alessia memerintah dan selama mereka menyalakan Dragonfires di awal pemerintahan mereka, Akatosh akan menjaga Mundus dari invasi Oblivion. Jika garis keturunan terputus atau Dragonfires padam, perlindungan itu akan berakhir.
+
+Pact ini — yang berlangsung selama lebih dari tiga ribu tahun, dari First Era hingga akhir Third Era — adalah fondasi dari seluruh legitimasi Kekaisaran Tamriel. Bukan kekuatan militer, bukan kekayaan ekonomi, bukan penguasaan magis yang menjadikan seorang Kaisar sebagai Kaisar. Melainkan Amulet of Kings — kemampuannya untuk memegangnya dan kemampuannya untuk menyalakan Dragonfires. Tanpa keduanya, seorang penguasa hanyalah seorang penguasa biasa. Dengan keduanya, ia adalah penjaga Mundus.²
+
+<i>² Catatan Lore: Pact of Akatosh berakhir selama Oblivion Crisis di 3E 433, ketika Martin Septim menghancurkan Amulet of Kings untuk memanifestasikan avatar Akatosh dan mengusir Mehrunes Dagon. Setelah itu, Liminal Barriers dijaga oleh mekanisme yang berbeda — yang sifatnya masih diperdebatkan oleh para sarjana. Mede Dynasty yang menggantikan Septim Dynasty tidak memiliki Amulet of Kings, dan legitimasi mereka, dengan demikian, tidak bersandar pada Pact of Akatosh melainkan pada kekuatan militer dan politik biasa.</i>
+
+Kedua: Dewa-dewa mengirimkan dua champion untuk membantu Alessia di medan perang — karena doa saja, betapapun kuatnya, tidak cukup untuk mengalahkan kekuatan militer Ayleid yang telah berdiri selama berabad-abad. Kedua champion ini menjadi tokoh-tokoh legendaris yang namanya masih diingat sampai hari ini:
+
+Pelinal Whitestrake dan Morihaus.
+
+
+
+<h2><b>V. PELINAL WHITESTRAKE — KSATRIA YANG BUKAN MANUSIA BIASA</b></h2>
+
+Pelinal Whitestrake adalah salah satu tokoh paling misterius, paling menakutkan, dan paling membingungkan dalam seluruh sejarah Tamriel. Ia muncul dari entah mana — tidak ada catatan tentang kelahirannya, masa kecilnya, atau kehidupannya sebelum muncul sebagai champion Alessia — dan menghilang dengan cara yang sama spektakulernya.
+
+<i>"The Song of Pelinal"</i>, yang mencatat tindakan-tindakannya selama Alessian Revolt, mendeskripsikan makhluk yang, bahkan oleh standar Tamriel yang penuh dengan keajaiban dan keanehan, sangat tidak biasa:
+
+<i>"Pelinal yang datang di hari-hari Alessia, yang di antara nama-namanya tersembunyi sebuah nama yang tidak bisa diucapkan. Ia datang dalam armor putih yang bersinar seperti bulan, dan di tangannya ada pedang yang tidak memiliki nama karena ia menolak untuk memberi nama kepada sesuatu yang digunakan untuk membunuh. Dan di dadanya ada tanda yang bersilang, dan tanda itu — kata sebagian — adalah simbol Shezarr, yang lain mengatakan itu simbol yang belum dikenal oleh manusia."</i>
+
+Ada beberapa hal tentang Pelinal yang membuat para sarjana tidak pernah berhenti berdebat:
+
+Pertama: Pelinal tampaknya bukan manusia biasa. Teks "Song of Pelinal" secara eksplisit menyatakan bahwa ia "tidak sepenuhnya manusia" — bahwa ada sesuatu tentangnya yang melampaui apa yang mungkin bagi makhluk fana. Beberapa teori menyebutkan bahwa ia adalah Shezarrine — inkarnasi atau aspek dari Lorkhan/Shezarr yang dikirim ke Mundus untuk membantu manusia pada momen krisis. Teori lain menyebutkan bahwa ia adalah semacam automaton ilahi — konstruk yang dibuat oleh dewa-dewa untuk tujuan tertentu dan yang "diaktifkan" ketika dibutuhkan.
+
+Ada satu bagian dari "Song of Pelinal" yang sangat membingungkan dan yang telah menghasilkan ribuan halaman spekulasi: deskripsi bahwa Pelinal memiliki "tangan kiri yang terbuat dari cahaya bintang" atau, dalam versi lain, "bagian tubuhnya yang terbuat dari sesuatu yang bukan daging — sesuatu yang bersinar dari dalam". Beberapa sarjana menginterpretasi ini secara harfiah — bahwa bagian tubuh Pelinal benar-benar bukan organik, melainkan semacam konstruk magis atau teknologis. Ini mendukung teori bahwa Pelinal mungkin adalah semacam anachronism — sesuatu dari masa depan atau dari dimensi lain yang muncul di masa ini.³
+
+<i>³ Catatan Lore: Ada referensi yang sangat samar dalam "Song of Pelinal" yang menyebutkan Pelinal "meneriakkan hal-hal tentang Reman dan Tiber" — kedua nama ini merujuk pada tokoh-tokoh yang belum lahir pada zaman Alessia. Ini mendukung teori bahwa Pelinal mungkin memiliki pengetahuan tentang masa depan, atau bahwa ia berasal dari masa depan, atau bahwa ia adalah entitas yang ada di luar waktu linear. Beberapa sarjana bahkan menduga koneksi dengan Numidium atau teknologi Dwemer, namun buktinya sangat tipis.</i>
+
+Kedua: Pelinal adalah pejuang yang sangat efektif — namun juga sangat tidak stabil. Ia memiliki apa yang "Song of Pelinal" sebut sebagai "Madness" — serangan kegilaan berserker di mana ia kehilangan kemampuan untuk membedakan kawan dan lawan, membunuh siapa saja yang ada di dekatnya. Serangan-serangan ini terjadi terutama setelah pertempuran besar, ketika adrenalin kosmis yang menggerakkan Pelinal tidak memiliki target yang sah dan berbalik ke dalam.
+
+Momen paling gelap dari Madness Pelinal tercatat dengan jujur yang mengerikan dalam "Song of Pelinal":
+
+<i>"Dan setelah ia menghabisi terakhir dari prajurit Ayleid di dataran itu, Pelinal tidak berhenti. Ia berbelok — matanya putih seperti bintang dan dari mulutnya keluar suara yang bukan suara manusia — dan ia membunuh. Ia membunuh burung-burung yang terbang. Ia membunuh pohon-pohon yang berdiri. Ia membunuh tanah itu sendiri. Dan ketika Morihaus datang dan mencoba menghentikannya, Pelinal nyaris membunuhnya juga — hanya teriakan Alessia yang memanggilnya kembali dari jurang kegilaannya."</i>
+
+Ketiga: Pelinal membenci Ayleid dengan intensitas yang melampaui apa yang bisa dijelaskan oleh kebencian personal. Ia tidak membenci mereka karena apa yang mereka lakukan kepada manusia — walau itu juga menjadi faktor. Ia membenci mereka karena apa yang mereka adalah: Mer, keturunan dari makhluk-makhluk yang, dalam pandangan Shezarr, bertanggung jawab atas penderitaan Lorkhan. Kebenciannya terhadap Mer — semua Mer, bukan hanya Ayleid — begitu mendalam sehingga para Khajiit, yang saat itu masih bersekutu dengan beberapa kerajaan Ayleid, juga menjadi target kemarahannya. Ia membantai seluruh komunitas Khajiit di Cyrodiil pada satu titik dalam kampanye, dan hanya intervensi Morihaus dan Alessia yang mencegahnya mengubah pembebasan manusia menjadi genosida terhadap semua non-manusia.
+
+
+
+<h2><b>VI. MORIHAUS — SANG BANTENG BERSAYAP</b></h2>
+
+Jika Pelinal adalah kekuatan destruktif yang mengerikan — yang sangat efektif namun yang perlu dikendalikan agar tidak menghancurkan semua yang dijumpainya — maka Morihaus adalah kekuatan yang lebih terukur, lebih bijaksana, dan dalam banyak hal lebih penting bagi keberhasilan jangka panjang pemberontakan.
+
+Morihaus — yang nama lengkapnya adalah Morihaus-Breath-of-Kyne — adalah demigod: makhluk setengah ilahi yang, menurut tradisi, merupakan putra dari Kynareth (Kyne dalam pantheon Nordic). Ia tidak sepenuhnya manusia, namun juga tidak sepenuhnya dewa. Ia berada di antara kedua dunia — cukup ilahi untuk memiliki kekuatan yang melampaui manusia biasa, namun cukup fana untuk bisa berdiri bersama manusia, bertempur bersama mereka, menderita bersama mereka.
+
+Secara fisik, Morihaus dideskripsikan sebagai makhluk yang sebagian manusia dan sebagian banteng — dengan kepala banteng (atau helm yang berbentuk kepala banteng, sumber-sumber tidak sepakat), tanduk yang besar, tubuh yang sangat besar dan kuat, dan — dalam beberapa deskripsi — sayap yang memungkinkannya terbang, walau sayap-sayap itu mungkin metaforis atau hanya bisa digunakan dalam kondisi tertentu.
+
+Hubungan Morihaus dengan Alessia adalah hubungan yang melampaui aliansi militer dan politik biasa. Menurut tradisi, mereka adalah kekasih — Morihaus jatuh cinta kepada Alessia, dan Alessia membalas cintanya. Dari hubungan mereka, menurut beberapa sumber, lahirlah keturunan yang menjadi dinasti pertama penguasa manusia di Cyrodiil — dan menurut sumber lain yang lebih kontroversial, keturunan mereka adalah Minotaur — makhluk setengah manusia setengah banteng yang kemudian hari menjadi monster yang ditakuti di wilayah liar Cyrodiil.⁴
+
+<i>⁴ Catatan Lore: Teori bahwa Minotaur adalah keturunan Morihaus dan Alessia adalah teori yang sangat kontroversial namun yang didukung oleh beberapa bukti in-game — termasuk fakta bahwa Minotaur di TES IV: Oblivion kadang-kadang ditemukan di dekat reruntuhan kuil yang didedikasikan untuk Morihaus atau Alessia. Jika benar, ini berarti bahwa Minotaur bukan "monster" dalam pengertian yang biasa — mereka adalah keturunan dari pendiri Kekaisaran, yang telah didegradasi dan dilupakan oleh sejarah.</i>
+
+
+
+<h2><b>VII. PEMBERONTAKAN — 1E 242: KETIKA RANTAI PATAH</b></h2>
+
+Dan akhirnya, pada tahun 1E 242 — setelah bertahun-tahun persiapan, setelah doa-doa yang tak terhitung, setelah konsolidasi dukungan yang melibatkan negosiasi rahasia dengan suku-suku Nedic, dengan beberapa raja Ayleid yang memberontak, dengan kerajaan Nordic di utara, dan dengan kekuatan-kekuatan supernatural yang merespons doa Alessia — pemberontakan dimulai.
+
+Pemberontakan ini — yang dikenal secara formal sebagai Alessian Slave Rebellion atau hanya The Rebellion — bukanlah pemberontakan spontan yang dilakukan oleh sekelompok budak yang kebetulan menemukan senjata. Ini adalah operasi militer terorganisir yang sudah direncanakan selama bertahun-tahun, dengan jaringan informasi, rantai komando, dan strategi yang membuktikan bahwa Alessia bukan hanya pemimpin spiritual tetapi juga komandan militer yang sangat cakap.
+
+Pemberontakan dimulai secara serentak di beberapa lokasi di Cyrodiil — tidak hanya di satu kota atau satu wilayah. Ini mengindikasikan bahwa Alessia dan para pembantunya telah berhasil membangun jaringan bawah tanah yang membentang di seluruh Cyrodiil — jaringan yang beroperasi di bawah hidung tuan-tuan Ayleid yang, karena keangkuhan mereka, tidak pernah membayangkan bahwa budak-budak mereka bisa mengorganisir perlawanan dalam skala seperti ini.
+
+Peristiwa-peristiwa kunci dari pemberontakan:
+
+Fase Pertama — Pemberontakan Awal (1E 242):
+Budak-budak di beberapa kota Ayleid serentak memberontak pada hari yang sama — membunuh penjaga-penjaga mereka, membakar kandang budak, dan merebut senjata dari gudang-gudang militer Ayleid. Kekacauan yang dihasilkan memecah kemampuan Ayleid untuk merespons secara terkoordinasi — setiap kota harus menghadapi pemberontakannya sendiri, tanpa bisa mengirim bantuan ke kota lain.
+
+Fase Kedua — Konsolidasi (1E 242-243):
+Setelah pemberontakan awal berhasil di beberapa lokasi, Alessia mulai mengkonsolidasikan kekuatan. Pasukan budak yang sudah merdeka bergabung dengan suku-suku Nedic yang belum pernah dijinakkan oleh Ayleid dan dengan pasukan bantuan dari Skyrim yang dikirimkan oleh raja-raja Nordic yang melihat peluang untuk melemahkan Mer. Pelinal dan Morihaus memimpin pasukan-pasukan ini dalam serangan-serangan yang menghancurkan kota-kota Ayleid satu per satu.
+
+Fase Ketiga — Perang Terbuka dan Kematian Pelinal (1E 243):
+Perang berkembang menjadi konflik terbuka berskala besar di seluruh Cyrodiil. Ayleid, yang pada awalnya terperangah oleh pemberontakan, mulai mengorganisir perlawanan yang lebih terkoordinasi. Raja-raja Ayleid yang masih setia kepada otoritas sentral membentuk koalisi militer yang dipimpin oleh Umaril the Unfeathered — makhluk setengah Ayleid setengah Daedra yang memiliki kekuatan yang mendekati keilahian.
+
+Pertempuran terakhir antara Pelinal dan Umaril adalah salah satu momen paling epik dalam seluruh sejarah First Era:
+
+<i>"Mereka bertemu di dataran yang kemudian tidak bernama karena tidak ada yang berani memberikan nama kepada tempat di mana begitu banyak darah tertumpah. Pelinal yang Putih dan Umaril yang Bersayap — cahaya dan kegelapan, kegilaan dan keangkuhan, pedang yang tidak bernama dan tombak yang terbuat dari sinar bulan."
+
+"Pertarungan mereka berlangsung tiga hari tiga malam — atau satu saat, tergantung siapa yang menceritakannya — dan di akhirnya, Pelinal memenangkan pertarungan. Ia membunuh tubuh fisik Umaril. Namun Umaril memiliki trik terakhir: jiwanya, yang setengah Daedric, melarikan diri ke Oblivion, di mana ia akan bertahan — hidup namun tidak bisa mati, ada namun tidak bisa bertindak — sampai ribuan tahun kemudian, ketika Champion of Cyrodiil akan menyelesaikan apa yang Pelinal mulai."
+
+"Dan Pelinal, yang sudah terluka parah dari pertempuran, tidak punya kekuatan untuk mengejar jiwa Umaril ke Oblivion. Ia berdiri di atas tubuh musuhnya yang hancur, pedang putihnya berlumuran darah emas Ayleid, dan kemudian — ia jatuh."</i>
+
+Pelinal mati. Atau lebih tepatnya, bagian fana dari dirinya mati. Apa yang terjadi pada bagian non-fana-nya — pada aspek Shezarrine yang mungkin ia bawa — adalah misteri yang tidak pernah terpecahkan.⁵
+
+<i>⁵ Catatan Lore: Kematian Pelinal dan kelangsungan jiwa Umaril di Oblivion membentuk plot dasar dari DLC "Knights of the Nine" di TES IV: Oblivion. Dalam DLC tersebut, Umaril akhirnya kembali dari Oblivion ribuan tahun setelah kematian fisiknya, dan Champion of Cyrodiil — menggunakan artefak-artefak suci yang disebut "Crusader's Relics" yang dulunya milik Pelinal — harus mengalahkan Umaril untuk kedua dan terakhir kalinya, kali ini juga di Oblivion untuk memastikan ia tidak bisa kembali lagi.</i>
+
+
+
+<h2><b>VIII. JATUHNYA WHITE-GOLD TOWER — 1E 243</b></h2>
+
+Dengan Umaril dikalahkan dan Pelinal gugur, kampanye militer masih belum selesai. Masih ada satu target yang harus direbut sebelum kemenangan bisa dianggap lengkap: White-Gold Tower — menara raksasa di jantung Cyrodiil yang menjadi pusat kekuasaan Ayleid.
+
+White-Gold Tower — yang oleh Ayleid disebut sebagai "Tower of the White Gold" — adalah struktur yang, seperti Adamantine Tower di High Rock, memiliki signifikansi kosmologis. Ia bukan sekadar bangunan; ia adalah jangkar kosmis — salah satu Tower yang menopang realitas Mundus. Dibangun oleh Ayleid di atas lokasi yang memiliki konsentrasi energi ilahi sangat tinggi, White-Gold Tower menjadi pusat dari imperium Ayleid baik secara politik maupun metafisik.
+
+Penyerbuan White-Gold Tower dipimpin oleh Morihaus — yang, dengan kekuatan setengah ilahi-nya, memimpin dari depan, menerobos pertahanan Ayleid yang bertubi-tubi. Pertempuran di dalam dan di sekitar menara berlangsung selama beberapa hari — pertarungan yang melibatkan magicka tingkat tinggi, serangan Daedra yang dipanggil oleh pendeta Ayleid, dan kekuatan fisik brute-force dari pasukan Nedic yang sudah tidak memiliki apa-apa yang bisa kehilangan.
+
+Dan pada akhirnya — pada hari yang kemudian disebut sebagai "Liberation Day" dan yang masih dirayakan di kalender Imperial ribuan tahun kemudian — White-Gold Tower jatuh.
+
+Alessia — yang selama pertempuran tetap berada di belakang garis, bukan karena pengecut melainkan karena perannya terlalu penting untuk dipertaruhkan di medan perang — memasuki menara setelah pertempuran selesai. Ia berjalan melewati koridor-koridor yang berlumuran darah — darah manusia dan darah Elf, bercampur di lantai yang dulu dilapisi kristal — dan naik ke atas, ke ruang tahta yang telah kosong dari penghuni terakhirnya.
+
+Di sanalah ia duduk. Bukan di tahta Ayleid — yang dihancurkan oleh Morihaus sebagai simbol penolakan terhadap kekuasaan lama — melainkan di bangku sederhana yang dibawa oleh salah satu pengikutnya dari kandang budak di mana ia pernah berlutut dan berdoa.
+
+Dan dengan duduknya Alessia di bangku itu, di puncak White-Gold Tower yang sudah ditaklukkan, dengan Amulet of Kings di lehernya yang diberikan oleh Akatosh sendiri — Alessian Empire dimulai.
+
+
+
+<h2><b>IX. COVENANT OF AKATOSH — PERJANJIAN YANG MENJAGA DUNIA</b></h2>
+
+Setelah White-Gold Tower jatuh, Alessia melakukan sesuatu yang cemerlang secara teologis — sesuatu yang menunjukkan bahwa ia bukan hanya pemimpin militer yang hebat tetapi juga teolog dan diplomat yang jenius.
+
+Ia harus menyatukan populasinya — yang terdiri dari beragam latar belakang: budak Nedic yang menyembah dewa-dewa manusia, pejuang Nordic yang menyembah pantheon Nordic, dan bahkan beberapa Ayleid yang memberontak yang masih memiliki tradisi keagamaan mereka sendiri. Untuk melakukan ini, ia menciptakan Eight Divines — pantheon baru yang merupakan kompromi antara tradisi-tradisi yang berbeda.
+
+Eight Divines menggabungkan dewa-dewa dari pantheon Nordic (Kyne → Kynareth, Shor → diredam dan kemudian dihilangkan sama sekali dari daftar resmi, Mara tetap Mara) dengan dewa-dewa dari pantheon Aldmeri/Ayleid (Auri-El → Akatosh, Xarxes → Arkay, dan seterusnya). Hasilnya adalah pantheon yang cukup familiar bagi semua pihak untuk diterima, namun cukup baru untuk tidak sepenuhnya "milik" salah satu tradisi.
+
+Yang paling penting dari negosiasi teologis ini adalah peran sentral yang diberikan kepada Akatosh — Naga Waktu, gabungan dari Auri-El (Aldmeri) dan versi Nordic. Dengan meletakkan Akatosh di puncak pantheon, Alessia memastikan bahwa Pact yang telah ia terima — Amulet of Kings, Dragonfires, perlindungan Mundus dari invasi Oblivion — memiliki dasar teologis yang kuat dan yang diterima oleh semua rakyatnya.
+
+Momen puncak dari penyusunan ini adalah penyalaan Dragonfires pertama oleh Alessia di White-Gold Tower. Api-api suci menyala — cahaya emas yang tidak bisa dihasilkan oleh kayu atau minyak biasa, cahaya yang memancar bukan dari api melainkan dari koneksi langsung antara Amulet of Kings dan Akatosh — dan dengan menyalanya api itu, Liminal Barriers antara Mundus dan Oblivion menguat secara dramatis.
+
+
+
+<h2><b>X. WARISAN ALESSIA — LEBIH DARI SEKADAR KEKAISARAN</b></h2>
+
+Alessia meninggal — menurut tradisi, secara damai, di ranjangnya di White-Gold Tower, pada usia yang sudah cukup tua — dan dengan kematiannya, sesuatu yang luar biasa terjadi. Menurut teks-teks kuno, pada saat Alessia menghembuskan napas terakhirnya, Akatosh sendiri turun — atau setidaknya, manifestasi dari Akatosh turun — dan mengambil jiwanya, mengangkatnya ke tingkat keilahian.
+
+Alessia menjadi Saint Alessia — dan dalam beberapa tradisi, ia bahkan dianggap sebagai aspek dari Mara yang menjelma menjadi manusia untuk membebaskan umat manusia. Tubuhnya dimakamkan di Sancre Tor — tempat suci yang kemudian menjadi salah satu situs ziarah paling penting di seluruh Kekaisaran.
+
+Warisan Alessia jauh melampaui pendirian Kekaisaran:
+
+Covenant of Akatosh — perjanjian antara manusia dan dewa yang menjaga Mundus selama lebih dari tiga ribu tahun. Tanpa Alessia, perjanjian ini tidak akan ada.
+
+Eight Divines — pantheon yang menyatukan tradisi keagamaan berbagai ras manusia dan yang menjadi fondasi spiritual Kekaisaran. Tanpa Alessia, setiap suku akan menyembah dewa mereka sendiri tanpa kerangka umum.
+
+Penghapusan perbudakan manusia — walau ini memerlukan waktu yang lama untuk sepenuhnya terlaksana, Alessia meletakkan fondasi moral dan hukum untuk menghapus perbudakan manusia oleh Mer di Cyrodiil.
+
+White-Gold Tower sebagai pusat kekuasaan manusia — yang tetap menjadi kursi Kekaisaran dari First Era hingga Fourth Era, melintasi perubahan dinasti dan krisis kosmis.
+
+Dan mungkin yang paling penting: contoh bahwa seorang budak bisa mengubah dunia. Tidak dengan pedang (walau pedang juga diperlukan). Tidak dengan sihir (walau bantuan ilahi juga hadir). Melainkan dengan doa — dengan keyakinan yang tidak goyah bahwa suatu kekuatan yang lebih besar dari semua tuan dan semua rantai mendengarkan, dan bahwa kekuatan itu akan merespons jika diminta dengan hati yang tulus.
+
+
+
+<h2><b>XI. PENUTUP — API YANG TIDAK PERNAH PADAM</b></h2>
+
+Di Imperial City, di jantung White-Gold Tower, Dragonfires dulunya menyala tanpa henti. Setiap Kaisar baru — dari Alessia pertama hingga Martin Septim terakhir — menyalakan api itu dengan Amulet of Kings, memperbaharui perjanjian dengan Akatosh, menjaga Mundus dari kegelapan Oblivion.
+
+Api itu kini padam. Amulet of Kings hancur. Garis Septim berakhir. Dan Liminal Barriers, walau masih utuh, tidak lagi dijaga oleh perjanjian kuno yang Alessia tulis dengan doa dan air matanya.
+
+Namun warisan Alessia tidak terletak pada api itu. Api bisa padam. Amulet bisa hancur. Dinasti bisa berakhir.
+
+Warisan Alessia terletak pada sesuatu yang lebih kuat dari semua itu: pada bukti bahwa berdoa tidaklah sia-sia. Bahwa seorang budak yang tidak memiliki apa-apa — yang hanya memiliki suaranya dan keyakinannya — bisa mengubah jalan sejarah. Bahwa langit memang mendengar ketika tanah berteriak.
+
+Dan selama ada seseorang di suatu tempat di Tamriel yang cukup putus asa untuk berlutut dan berdoa — tidak kepada dewa yang kuat, tidak kepada dewa yang memberi hadiah, melainkan kepada dewa yang mau mendengar — maka warisan Alessia masih hidup.
+
+Masih menyala.
+
+Seperti Dragonfires yang dulu tidak pernah padam.
+
+<i>"Ia bukan ratu sejak lahir.
+Ia tidak memiliki darah bangsawan.
+Ia tidak memiliki pedang atau perisai atau pasukan.
+Yang ia miliki hanyalah dua lutut yang lelah dan satu suara yang serak.
+Dan dengan itu — hanya itu — ia mengubah segalanya.
+Jangan pernah meremehkan seseorang yang berlutut.
+Karena berlutut bukan tanda kelemahan.
+Berlutut adalah tanda bahwa seseorang tahu
+kepada siapa ia harus berbicara."
+
+— Dari "The Homily of Saint Alessia", dibacakan di setiap kuil Akatosh
+pada hari Liberation Day, tradisi yang dimulai di 1E 244
+dan tidak pernah terputus sejak saat itu</i>

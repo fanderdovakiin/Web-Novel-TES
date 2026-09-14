@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Oblivion Realms Chart</title>
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      background: #040406;
+      font-family: serif;
+    }
+    #chart {
+      width: 100%;
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+
+<div id="chart"></div>
+
+<script>
+  var chart = echarts.init(document.getElementById('chart'));
+
+  var option = {
+    backgroundColor: "#040406",
+
+    title: {
+      text: "Oblivion Realms — Karakteristik Perbandingan",
+      subtext: "Bahaya, aksesibilitas, dan signifikansi masing-masing realm",
+      left: "center",
+      top: 10,
+      textStyle: {
+        color: "#8040c0",
+        fontFamily: "serif",
+        fontSize: 14
+      },
+      subtextStyle: {
+        color: "#502080",
+        fontFamily: "serif",
+        fontSize: 10,
+        fontStyle: "italic"
+      }
+    },
+
+    tooltip: {
+      trigger: "item",
+      backgroundColor: "#080310",
+      borderColor: "#8040c0",
+      textStyle: {
+        color: "#e0d5c0",
+        fontFamily: "serif",
+        fontSize: 10
+      }
+    },
+
+    legend: {
+      data: ["Coldharbour", "Apocrypha", "The Deadlands", "Shivering Isles", "Soul Cairn"],
+      bottom: 10,
+      textStyle: {
+        color: "#aaa",
+        fontFamily: "serif",
+        fontSize: 10
+      }
+    },
+
+    radar: {
+      indicator: [
+        { name: "Danger to\nVisitors", max: 10 },
+        { name: "Known\nLore Depth", max: 10 },
+        { name: "Game\nAppearances", max: 10 },
+        { name: "Thematic\nComplexity", max: 10 },
+        { name: "Connection to\nMundus Plot", max: 10 },
+        { name: "Unique Visual\nIdentity", max: 10 }
+      ],
+      center: ["50%", "55%"],
+      radius: "60%",
+      axisName: {
+        color: "#8040c0",
+        fontFamily: "serif",
+        fontSize: 10
+      },
+      axisLine: { lineStyle: { color: "#2a1040" } },
+      splitLine: { lineStyle: { color: "#1a0828" } },
+      splitArea: {
+        areaStyle: {
+          color: ["rgba(8,4,16,0.5)", "rgba(12,6,24,0.5)"]
+        }
+      }
+    },
+
+    series: [
+      {
+        type: "radar",
+        data: [
+          {
+            name: "Coldharbour",
+            value: [9, 9, 8, 9, 10, 8],
+            lineStyle: { color: "#6030a0" },
+            areaStyle: { color: "rgba(96,48,160,0.2)" }
+          },
+          {
+            name: "Apocrypha",
+            value: [7, 10, 8, 10, 8, 10],
+            lineStyle: { color: "#30a040" },
+            areaStyle: { color: "rgba(48,160,64,0.2)" }
+          },
+          {
+            name: "The Deadlands",
+            value: [10, 8, 9, 8, 9, 9],
+            lineStyle: { color: "#cc2200" },
+            areaStyle: { color: "rgba(204,34,0,0.2)" }
+          },
+          {
+            name: "Shivering Isles",
+            value: [6, 9, 7, 10, 7, 10],
+            lineStyle: { color: "#9050d0" },
+            areaStyle: { color: "rgba(144,80,208,0.2)" }
+          },
+          {
+            name: "Soul Cairn",
+            value: [7, 7, 5, 8, 8, 7],
+            lineStyle: { color: "#4060a0", type: "dashed" },
+            areaStyle: { color: "rgba(64,96,160,0.2)" }
+          }
+        ]
+      }
+    ]
+  };
+
+  chart.setOption(option);
+</script>
+
+</body>
+</html>

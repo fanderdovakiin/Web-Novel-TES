@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Legendary Artifacts — Elder Scrolls</title>
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      background: #040406;
+      font-family: serif;
+    }
+    #chart {
+      width: 100%;
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+<div id="chart"></div>
+
+<script>
+var chart = echarts.init(document.getElementById('chart'));
+
+var option = {
+  backgroundColor: "#040406",
+
+  title: {
+    text: "Legendary Artifacts — Kekuatan, Bahaya, dan Sejarah",
+    subtext: "Perbandingan artefak dari tiga kategori utama",
+    left: "center",
+    top: 10,
+    textStyle: { color: "#c4a35a", fontFamily: "serif", fontSize: 14 },
+    subtextStyle: { color: "#806030", fontSize: 10, fontStyle: "italic" }
+  },
+
+  tooltip: {
+    trigger: "axis",
+    axisPointer: { type: "shadow" },
+    backgroundColor: "#080510",
+    borderColor: "#c4a35a",
+    textStyle: { color: "#e0d5c0" }
+  },
+
+  legend: {
+    data: ["Raw Power", "Historical Impact", "Moral Danger", "Narrative Significance"],
+    bottom: 8,
+    textStyle: { color: "#aaa" }
+  },
+
+  grid: {
+    left: "20%",
+    right: "5%",
+    top: "18%",
+    bottom: "15%"
+  },
+
+  xAxis: {
+    type: "value",
+    max: 10,
+    axisLabel: { color: "#666" },
+    axisLine: { lineStyle: { color: "#2a2030" } },
+    splitLine: { lineStyle: { color: "#111" } }
+  },
+
+  yAxis: {
+    type: "category",
+    inverse: true,
+    data: [
+      "Wabbajack","Ring of Namira","Sanguine Rose","Masque of Clavicus",
+      "Volendrung","Mehrunes' Razor","Ebony Blade","Mace of Molag Bal",
+      "Oghma Infinium","Azura's Star","Dawnbreaker","Auriel's Bow",
+      "Staff of Chaos","Tools of Kagrenac","Amulet of Kings","Numidium","Elder Scrolls"
+    ],
+    axisLabel: { color: "#c4a35a", fontSize: 9 },
+    axisLine: { lineStyle: { color: "#2a2030" } }
+  },
+
+  series: [
+    {
+      name: "Raw Power",
+      type: "bar",
+      data: [6,4,5,4,7,7,6,8,6,5,7,9,8,9,8,10,10],
+      itemStyle: {
+        color: "#c05050"
+      },
+      emphasis: {
+        itemStyle: {
+          shadowBlur: 10,
+          shadowColor: "rgba(192,80,80,0.5)"
+        }
+      }
+    },
+    {
+      name: "Historical Impact",
+      type: "bar",
+      data: [4,3,4,3,5,7,5,7,5,5,6,9,9,10,10,10,10],
+      itemStyle: {
+        color: "#c4a35a"
+      },
+      emphasis: {
+        itemStyle: {
+          shadowBlur: 10,
+          shadowColor: "rgba(196,163,90,0.5)"
+        }
+      }
+    },
+    {
+      name: "Moral Danger",
+      type: "bar",
+      data: [5,8,6,7,4,8,9,9,6,4,3,5,5,8,6,10,9],
+      itemStyle: {
+        color: "#8040c0"
+      },
+      emphasis: {
+        itemStyle: {
+          shadowBlur: 10,
+          shadowColor: "rgba(128,64,192,0.5)"
+        }
+      }
+    },
+    {
+      name: "Narrative Significance",
+      type: "bar",
+      data: [7,5,5,6,5,8,7,8,8,7,7,10,9,10,10,10,10],
+      itemStyle: {
+        color: "#4080c0"
+      },
+      emphasis: {
+        itemStyle: {
+          shadowBlur: 10,
+          shadowColor: "rgba(64,128,192,0.5)"
+        }
+      }
+    }
+  ]
+};
+
+chart.setOption(option);
+</script>
+</body>
+</html>

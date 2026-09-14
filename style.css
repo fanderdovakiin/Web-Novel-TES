@@ -1,0 +1,303 @@
+/* =========================================
+   TEMA: MIDNIGHT SLATE & IMPERIAL GOLD (TES UI)
+   Didesain khusus untuk kenyamanan membaca
+========================================= */
+
+/* VARIABEL WARNA (Agar mudah diubah nanti) */
+:root {
+  --bg-main: #111115; /* Abu-abu batu sangat gelap (Bukan hitam pekat) */
+  --bg-card: #1a1a22; /* Abu-abu kertas malam */
+  --text-read: #cfc9c0; /* Abu-abu hangat (Sangat nyaman untuk mata) */
+  --gold-tes: #c4a35a; /* Emas klasik Elder Scrolls */
+  --gold-dim: #8a733f; /* Emas redup untuk border */
+  --accent-red: #8b0000; /* Merah darah naga */
+}
+
+/* PENGATURAN UMUM */
+body {
+  margin: 0;
+  background-color: var(--bg-main);
+  color: var(--text-read);
+  font-family: 'Poppins', sans-serif;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Cinzel', serif;
+  color: var(--gold-tes);
+  font-weight: normal;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+/* =========================================
+   CUSTOM SCROLLBAR (Gaya TES) 
+========================================= */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-main);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--gold-dim);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--gold-tes);
+}
+
+/* =========================================
+   HEADER & TOMBOL
+========================================= */
+.header {
+  padding: 20px;
+  background: linear-gradient(to bottom, #0a0a0d, transparent);
+  text-align: center;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  border-bottom: 1px solid rgba(196, 163, 90, 0.3);
+  backdrop-filter: blur(5px);
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 28px;
+  letter-spacing: 2px;
+}
+
+.back-btn {
+  position: absolute;
+  left: 20px;
+  top: 25px;
+  background: transparent;
+  color: var(--text-read);
+  font-family: 'Cinzel', serif;
+  font-size: 14px;
+  font-weight: bold;
+  border: 1px solid var(--gold-dim);
+  padding: 6px 15px;
+  cursor: pointer;
+  transition: 0.3s;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.back-btn:hover {
+  background: var(--gold-tes);
+  color: #000;
+  box-shadow: 0 0 10px var(--gold-tes);
+}
+
+/* =========================================
+   HALAMAN INDEX (DAFTAR BUKU)
+========================================= */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 25px;
+  padding: 40px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.card {
+  background: var(--bg-card);
+  padding: 15px;
+  border: 1px solid #333;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+  position: relative;
+}
+
+/* Efek Sorotan ala Buku Sihir */
+.card:hover {
+  transform: translateY(-5px);
+  border-color: var(--gold-tes);
+  box-shadow: 0 8px 20px rgba(196, 163, 90, 0.15);
+}
+
+.card h3 {
+  font-size: 16px;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  line-height: 1.4;
+}
+
+.card img {
+  border-bottom: 2px solid var(--gold-dim);
+  border-radius: 2px;
+}
+
+/* =========================================
+   HALAMAN DAFTAR BAB (Gaya Quest Log)
+========================================= */
+.chapter-container { 
+  max-width: 800px; 
+  margin: auto; 
+  padding: 20px; 
+}
+
+.chapter { 
+  margin: 15px 0; 
+  padding: 15px 20px; 
+  background: transparent;
+  border-left: 3px solid #333;
+  cursor: pointer; 
+  transition: 0.3s; 
+  position: relative;
+}
+
+.chapter h3 {
+  color: var(--text-read);
+  transition: 0.3s;
+}
+
+/* Animasi Panah saat disorot */
+.chapter::before {
+  content: '▶';
+  position: absolute;
+  left: -20px;
+  top: 15px;
+  color: var(--gold-tes);
+  opacity: 0;
+  transition: 0.3s;
+  font-size: 14px;
+}
+
+.chapter:hover { 
+  border-left: 3px solid var(--gold-tes);
+  background: linear-gradient(to right, rgba(196,163,90,0.1), transparent);
+}
+
+.chapter:hover h3 {
+  color: var(--gold-tes);
+}
+
+.chapter:hover::before {
+  opacity: 1;
+  left: 5px;
+}
+
+/* =========================================
+   HALAMAN MEMBACA (KENYAMANAN MATA)
+========================================= */
+.reader {
+  max-width: 850px;
+  margin: 40px auto;
+  padding: 50px;
+  background: var(--bg-card);
+  border-top: 3px solid var(--gold-dim);
+  border-bottom: 3px solid var(--gold-dim);
+  box-shadow: inset 0 0 50px rgba(0,0,0,0.5), 0 10px 30px rgba(0,0,0,0.8);
+  border-radius: 4px;
+}
+
+/* Judul Buku di Reader */
+#novel-title {
+  font-size: 32px;
+  text-align: center;
+  border-bottom: 1px solid #333;
+  padding-bottom: 20px;
+  margin-bottom: 30px;
+}
+
+/* Gambar Ilustrasi Cerita */
+.novel-image {
+  width: 100%;
+  max-height: 450px;
+  object-fit: cover;
+  display: block;
+  margin: 30px auto;
+  border: 2px solid var(--gold-dim);
+  border-radius: 4px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.6);
+  opacity: 0.9; /* Sedikit diredupkan agar tidak silau */
+  transition: 0.3s;
+}
+.novel-image:hover {
+  opacity: 1;
+}
+
+/* Teks Cerita (Anti-Lelah) */
+.novel-text {
+  font-family: 'Merriweather', serif;
+  font-size: 17px; /* Ukuran ideal membaca jarak jauh */
+  line-height: 1.85; /* Jarak antar baris lebar, mata mudah turun */
+  white-space: pre-wrap;
+  text-align: justify;
+  color: var(--text-read);
+}
+
+/* Sub-Judul di dalam Cerita (Teks <h2> di dalam file txt) */
+.novel-text h2 {
+  font-family: 'Cinzel', serif;
+  color: var(--gold-tes);
+  text-align: center;
+  font-size: 22px;
+  margin-top: 50px;
+  margin-bottom: 25px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-bottom: 1px dashed var(--gold-dim);
+  padding-bottom: 10px;
+}
+
+/* Sorotan untuk huruf tebal & miring */
+.novel-text b {
+  color: #fff; /* Teks tebal dibuat sedikit lebih putih agar menonjol */
+}
+.novel-text i {
+  color: #b0a595; /* Teks miring (lore/mantra) agak pudar */
+}
+/* =========================================
+   FITUR LANJUTKAN MEMBACA (BOOKMARK)
+========================================= */
+.continue-card {
+  background: linear-gradient(135deg, rgba(139, 0, 0, 0.3), var(--bg-card));
+  border: 1px solid var(--gold-tes);
+  border-left: 5px solid var(--accent-red);
+  border-radius: 6px;
+  padding: 15px 25px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  transition: 0.3s;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+}
+
+.continue-card:hover {
+  background: linear-gradient(135deg, rgba(139, 0, 0, 0.5), var(--bg-card));
+  box-shadow: 0 4px 20px rgba(196, 163, 90, 0.3);
+  transform: translateY(-2px);
+}
+
+.bookmark-icon { font-size: 28px; }
+
+.continue-text {
+  flex-grow: 1;
+  text-align: left;
+  padding: 0 20px;
+}
+
+.continue-text small {
+  color: var(--gold-dim);
+  font-family: 'Cinzel', serif;
+  letter-spacing: 1px;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.continue-text strong {
+  color: var(--text-read);
+  font-size: 18px;
+}
+
+.play-icon {
+  color: var(--gold-tes);
+  font-size: 20px;
+}

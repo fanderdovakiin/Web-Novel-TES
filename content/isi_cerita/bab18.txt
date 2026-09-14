@@ -1,0 +1,313 @@
+<h2><b>I. PRAELUDIUM — PERTANYAAN YANG TIDAK ADA JAWABAN MUDAHNYA</b></h2>
+
+Ada sebuah adegan di TES V: Skyrim yang sangat sedikit dibicarakan namun yang, jika dilihat dengan teliti, menyimpan kebenaran tentang Perang Saudara yang jauh lebih dalam dari semua pidato dan propaganda yang dilepaskan oleh kedua kubu:
+
+Seseorang yang bertempur di satu sisi perang melihat seorang prajurit dari sisi lawan jatuh. Dan prajurit itu — sebelum meninggal — tidak mengumpat musuhnya, tidak menyebut nama pemimpin politisnya. Ia menyebut nama seseorang yang dicintainya. Seorang anak. Seorang istri. Seorang teman yang sedang menunggunya pulang.
+
+Tidak ada bedanya apakah ia mengenakan biru Stormcloak atau merah Imperial. Di bawah armor itu ada seseorang yang tidak ingin mati. Seseorang yang pergi berperang bukan karena cinta akan perang melainkan karena tidak bisa melihat jalan lain.
+
+Itulah Perang Saudara Skyrim dalam hakikatnya yang paling manusiawi — ribuan seseorang yang percaya bahwa mereka bertempur untuk sesuatu yang penting, yang kadang-kadang benar dan kadang-kadang salah tentang kepentingan itu, yang sering salah tentang cara terbaik untuk memperjuangkannya, namun yang motivasi dasarnya — keinginan untuk hidup dalam dunia yang lebih baik, untuk melindungi apa yang mereka cintai, untuk mewariskan sesuatu yang layak kepada generasi berikutnya — adalah motivasi yang tidak bisa dengan mudah dikategorikan sebagai murni baik atau murni jahat.
+
+Untuk memahami Perang Saudara Skyrim secara benar — bukan sebagai narasi yang sederhana tentang pahlawan dan villain, melainkan sebagai konflik yang kompleks dengan argumen yang valid di kedua sisi dan dengan konsekuensi yang jauh melampaui apa yang bisa diantisipasi oleh siapa pun yang terlibat — kita harus melihatnya dari banyak perspektif sekaligus.
+
+
+
+<h2><b>II. ULFRIC STORMCLOAK — LEBIH DARI YANG TAMPAK</b></h2>
+
+Ulfric Stormcloak adalah salah satu karakter yang paling sering disalahpahami dalam seluruh TES V. Ia terlalu mudah untuk dikategorikan sebagai "nationalist yang fanatik" atau "hero yang berjuang untuk kebebasan", tergantung pada perspektif siapa yang menceritakannya. Kenyataannya jauh lebih berlapis.
+
+Ulfric lahir ke dalam House Stormcloak — salah satu keluarga paling berkuasa dan paling bergengsi di Skyrim, dengan hubungan ke House Nordic yang berlangsung selama berabad-abad. Ia tumbuh dengan pemahaman bahwa kekuasaan, kehormatan, dan tanggung jawab adalah hal-hal yang terkait erat — bahwa orang-orang seperti dirinya lahir untuk memimpin, dan bahwa memimpin adalah tugas, bukan privilege.
+
+Titik balik dalam hidupnya adalah Great War. Sebagai pemuda, Ulfric berperang untuk Kekaisaran melawan Aldmeri Dominion — dan ia berperang dengan baik, dengan keberanian yang menghasilkan penghargaan dan reputasi. Namun kemudian ia ditangkap. Elenwen — Thalmor Justiciars yang kelak menjadi Ambassador ke Skyrim — memimpin "wawancara" terhadap Ulfric yang, menurut berkas Thalmor sendiri yang ditemukan Dragonborn dalam Embassy quest, termasuk metode-metode yang tidak bisa disebut "sopan".
+
+Ulfric akhirnya dibebaskan — namun bagaimana dan mengapa ia dibebaskan adalah sesuatu yang berkas Thalmor sebutkan dengan cara yang sangat mengkhawatirkan: ia dibebaskan pada waktu yang "berguna" untuk Thalmor, dalam situasi di mana "kebisingan" yang akan dibuatnya bisa mengalihkan perhatian dari hal-hal lain yang Thalmor inginkan.
+
+Apakah ini berarti Ulfric adalah agen Thalmor yang sadar? Hampir pasti tidak. Ulfric membenci Thalmor dengan intensitas yang terlalu dalam untuk berpura-pura; itu bukan sesuatu yang bisa dimainkan. Namun apakah ia adalah agen tidak sadar — seseorang yang ambisi dan keyakinannya secara tidak sengaja melayani tujuan Thalmor? Bukti yang ada, termasuk Thalmor Dossier yang sangat spesifik, menunjukkan bahwa jawabannya adalah ya.
+
+Ini adalah salah satu tragedi paling dalam dari karakter Ulfric: kemungkinan bahwa apa yang paling ia benci — Thalmor — adalah pihak yang paling diuntungkan oleh apa yang paling ia cintai — Perang Saudara demi kebebasan Skyrim.
+
+Kisah Torygg:
+
+Pembunuhan High King Torygg oleh Ulfric adalah peristiwa yang memulai Perang Saudara secara resmi, dan ia adalah peristiwa yang bisa diinterpretasikan dengan cara yang sangat berbeda tergantung pada kerangka hukum dan moral mana yang digunakan.
+
+Dari perspektif hukum Nordic tradisional — yang Ulfric klaim sebagai kerangkanya — ia melakukan "duel yang sah". Ia menantang Torygg secara terbuka, di hadapan saksi, sesuai dengan adat kuno Nord yang berlaku jauh sebelum Kekaisaran ada. Menggunakan Thu'um dalam duel adalah senjata yang sah selama ada yang memilikinya — dan Ulfric memilikinya.
+
+Dari perspektif Imperial Law — yang Tullius klaim sebagai kerangkanya — itu adalah pembunuhan berencana yang licik. Torygg adalah High King yang sah dari Skyrim yang memerintah dengan mandat Imperial. Membunuhnya berarti memberontak terhadap Kekaisaran dan melakukan pengkhianatan. Lebih jauh: Torygg adalah pemimpin yang jauh lebih muda dan tidak berpengalaman dari Ulfric, yang menggunakan senjata yang Torygg tidak bisa lawan (Thu'um), yang membuatnya bukan duel yang adil melainkan eksekusi yang terencana.
+
+Siapa yang benar? Ini adalah pertanyaan yang tidak ada jawabannya yang final, karena jawabannya bergantung pada hukum mana yang dianggap sah — dan pertanyaan tentang hukum mana yang sah adalah pertanyaan yang merupakan inti dari Perang Saudara itu sendiri.¹
+
+<i>¹ Catatan Lore: Torygg sendiri, dalam dialog yang diperoleh jika pemain mengunjungi Sovngarde, menyatakan bahwa ia tidak menyimpan amarah terhadap Ulfric — ia menerima duelnya sebagai sah, dan bahwa ia mati dengan martabat. Namun ini tidak menyelesaikan pertanyaan tentang legalitasnya dari perspektif Imperial Law.</i>
+
+Ulfric dan Talos:
+
+Motivasi paling publik Ulfric — pemulihan pemujaan Talos yang dilarang oleh White-Gold Concordat — adalah yang paling mudah untuk dipahami dan yang paling mudah untuk bersimpati. Ini bukan hanya tentang satu dewa tertentu; ini tentang identitas. Talos — Tiber Septim — adalah dewa yang manusiawi dalam cara yang tidak dimiliki oleh dewa mana pun lainnya dalam pantheon. Ia membuktikan bahwa manusia bisa naik ke keilahian melalui usaha dan kehendak, bukan melalui kelahiran. Bagi Nord yang seluruh filosofinya berpusat pada penghargaan terhadap keberanian dan pencapaian, larangan terhadap Talos bukan sekadar penghinaan religius — ini adalah serangan terhadap konsep dasar bahwa usaha manusia bermakna.
+
+Namun ada juga lapisan lain. Ulfric menggunakan isu Talos dengan sangat efektif sebagai alat rekrutmen dan sebagai cara untuk mempolarisasi opini publik. Seberapa besar motivasi religiusnya yang tulus dan seberapa besar yang merupakan kalkulasi politik? Tidak ada jawaban yang jelas, karena keduanya mungkin benar secara bersamaan — seseorang bisa benar-benar percaya pada sesuatu dan juga menggunakannya secara strategis.
+
+Ulfric dan Rasisme:
+
+Ini adalah aspek yang paling tidak nyaman dari Stormcloak sebagai gerakan. Di Windhelm, yang merupakan markas Ulfric, terdapat Gray Quarter — distrik di mana Dunmer pengungsi tinggal dalam kondisi yang jauh lebih buruk dari populasi Nord setempat, diperlakukan sebagai warga kelas dua, dan menghadapi diskriminasi terbuka yang tidak ada yang benar-benar menindaknya.
+
+Ulfric tidak memerintahkan diskriminasi ini secara eksplisit — namun ia juga tidak menghentikannya. Dan dalam beberapa dialog, ia membuat komentar tentang prioritas Nord atas kepentingan "pendatang" yang tidak pernah sepenuhnya memisahkan gerakan politiknya dari sentimen nasionalis yang lebih gelap.
+
+Ini adalah kelemahan fundamental dalam posisi moral Stormcloak: bahwa "Skyrim for the Nords" — frasa yang digunakan sebagai rallying cry — secara implisit mendiskriminasi non-Nord yang sudah hidup di Skyrim selama generasi-generasi, yang membangun rumah dan bisnis dan keluarga di sana, dan yang tidak dianggap sebagai bagian dari "Skyrim" yang diperjuangkan oleh gerakan ini.²
+
+<i>² Catatan Lore: Isu rasisme dalam Stormcloak adalah salah satu aspek yang paling diperdebatkan oleh komunitas penggemar Skyrim. Beberapa berpendapat bahwa ini adalah kelemahan fundamental yang mendiskreditkan gerakan secara keseluruhan. Beberapa lain berpendapat bahwa ini adalah kelemahan dari beberapa anggota gerakan, bukan dari ideologi intinya — bahwa ada Stormcloak yang tulus dalam keyakinan mereka tentang kemerdekaan tanpa agenda diskriminatif. Dalam lore game sendiri, kedua perspektif ini direpresentasikan oleh karakter-karakter yang berbeda.</i>
+
+
+
+<h2><b>III. GENERAL TULLIUS — PRIA YANG TIDAK MENGERTI SKYRIM</b></h2>
+
+General Tullius adalah salah satu karakter yang paling sering dipandang sebagai "sisi yang lebih realistis" dalam konflik — seseorang yang berpikir dingin, strategis, dan pragmatis, berbeda dari emosionalisme yang ia lihat dalam gerakan Stormcloak.
+
+Ia berasal dari Cyrodiil, bukan Skyrim. Ia tidak berbicara bahasa Nord, tidak mengerti tradisi Nord, dan yang paling penting — tidak benar-benar mencoba untuk mengerti. Baginya, Skyrim adalah satu lagi provinsi yang perlu diatur, satu lagi masalah militer yang perlu diselesaikan dengan efisiensi dan presisi.
+
+Kecerdasan strategisnya tidak diragukan. Tullius adalah seorang jenderal yang sangat kompeten — rencana-rencananya selama Civil War konsisten menunjukkan pemikiran taktis yang jauh melampaui apa yang dimiliki oleh kebanyakan lawan-lawannya. Serangannya ke Windhelm pada akhir kampanye Imperial adalah operasi yang terencana dengan baik dan dieksekusi dengan presisi.
+
+Namun kecakapan militer tidak setara dengan pemahaman tentang mengapa orang berperang. Dan Tullius tidak memahami ini. Ia memandang Perang Saudara sebagai pemberontakan kriminal yang perlu ditumpas — bukan sebagai ekspresi dari keluhan-keluhan yang nyata yang berakar dalam pengalaman nyata rakyat Skyrim.
+
+Dalam percakapan dengan Dragonborn, Tullius mengungkapkan sesuatu yang paling jelas tentang keterbatasan perspektifnya:
+
+<i>"Ulfric menggunakan dewa yang mati untuk membenarkan ambisinya. Aku tidak peduli dengan teologi — aku peduli dengan ketertiban dan kesetiaan."
+
+"Talos bukan mati bagi orang-orang yang menyembahnya."
+
+"Teroris juga percaya pada kebenaran perjuangan mereka. Kepercayaan tidak membuat sesuatu benar."
+
+"Tidak. Tapi ia membuat sesuatu nyata bagi orang yang merasakannya. Dan kamu tidak bisa menyelesaikan perang dengan mengabaikan apa yang membuat orang berperang."</i>
+
+Tullius tidak punya respons yang memuaskan untuk ini. Karena ia tidak bisa merespons — ia benar bahwa kepercayaan tidak otomatis membuat sesuatu benar, namun ia salah dalam mengabaikan kekuatan kepercayaan itu sebagai kenyataan politik yang harus dihadapi, bukan diabaikan.
+
+Tullius dan White-Gold Concordat:
+
+Tullius adalah pendukung Concordat — bukan karena ia percaya bahwa Talos bukan dewa, melainkan karena ia percaya bahwa Kekaisaran tidak dalam kondisi untuk menantang Dominion tentang apapun pada saat ini. Ini adalah posisi yang secara strategis masuk akal namun yang secara moral sangat bermasalah: ia meminta orang-orang untuk mengorbankan keyakinan mereka demi kesatuan politik yang manfaat jangka panjangnya tidak pasti.
+
+<i>"Kita bisa memperdebatkan teologi setelah kita menang melawan Dominion. Untuk sekarang, kita harus mempertahankan apa yang masih kita miliki."
+
+"Dan jika tidak ada yang tersisa dari apa yang kita miliki pada saat itu?"</i>
+
+Pertanyaan yang diajukan Dragonborn kepada Tullius ini tidak pernah benar-benar dijawab dengan memuaskan. Dan ketidakmampuan untuk menjawabnya adalah kelemahan fundamental dalam posisi Imperial — bahwa "tunggu sampai kondisi lebih baik" adalah strategi yang hanya berhasil jika kondisi memang menjadi lebih baik, dan tidak ada jaminan bahwa akan demikian.
+
+Elisif dan Legitimasi Imperial:
+
+Jarl Elisif the Fair — janda dari High King Torygg yang dibunuh Ulfric — memerintah Haafingar dengan dukungan Imperial. Ia adalah sosok yang menggugah simpati: perempuan muda yang kehilangan suaminya dengan cara yang keji, yang mencoba untuk mempertahankan integritas provinsi yang dipercayakan kepadanya, yang tidak menginginkan perang namun yang tidak punya pilihan selain menghadapinya.
+
+Elisif adalah wajah manusiawi dari sisi Imperial — seseorang yang berperang bukan karena ambisi atau ideologi abstrak, melainkan karena orang yang dicintainya dibunuh dan ia tidak bisa membiarkan kematian itu tanpa konsekuensi.
+
+Namun bahkan dalam kesederhanaan motivasinya, ada komplikasi: dukungan Imperial untuk Elisif tidak sepenuhnya murni. Ia berguna bagi Kekaisaran sebagai simbol legitimitas — sebagai ratu yang "sah" yang menentang pemimpin yang membunuh suaminya yang "sah". Apakah Kekaisaran benar-benar peduli dengan kesejahteraan Elisif, atau ia hanya instrumen propaganda? Jawabannya mungkin adalah keduanya, dalam proporsi yang tidak pernah bisa dipastikan.
+
+
+
+<h2><b>IV. ELENWEN — PENGAMAT YANG PALING BERBAHAYA</b></h2>
+
+Di antara semua karakter dalam Perang Saudara Skyrim, tidak ada yang lebih berbahaya — dan lebih dingin — dari Elenwen, First Emissary of the Aldmeri Dominion di Skyrim.
+
+Elenwen bukan hanya diplomat. Ia adalah pemimpin aparatus intelijen Thalmor di Skyrim — kepala jaringan agen yang memantau setiap perkembangan penting di provinsi itu, yang menjaga catatan rinci tentang setiap orang yang mungkin berguna atau berbahaya, yang mengarahkan Justiciars dalam penegakan pelarangan Talos.
+
+Namun yang paling menakutkan tentang Elenwen bukan kekuasaan yang ia miliki — melainkan cara ia menggunakannya. Ia tidak memerintah melalui ancaman kasar atau kekerasan terbuka. Ia memerintah melalui keanggunan dingin — undangan ke pesta yang tidak bisa ditolak, percakapan yang tampak sopan namun yang setiap kata-nya mengandung makna tersembunyi, senyum yang tidak pernah mencapai matanya yang mengobservasi segalanya dengan presisi yang hampir bukan manusiawi.
+
+Pesta di Thalmor Embassy yang dikunjungi Dragonborn dalam quest penyelidikan tentang Mythic Dawn adalah gambaran sempurna tentang bagaimana Elenwen beroperasi: ia adalah tuan rumah yang sempurna, yang membuat semua tamu merasa dihargai dan diperlakukan dengan baik, sementara seluruh lingkungan — arsitekturnya, pencahayaannya, pengaturan tempat duduknya — dirancang untuk menciptakan kondisi psikologis yang paling menguntungkan bagi Elenwen untuk mengekstrak informasi dan membangun hubungan yang berguna.
+
+Dossier Ulfric:
+
+Dokumen yang paling mengungkap tentang strategi Thalmor adalah Thalmor Dossier on Ulfric Stormcloak — catatan internal yang Dragonborn bisa temukan jika cukup teliti dalam misi penyusupan ke Embassy:
+
+<i>"Status aset: Kelas C, membutuhkan pemeliharaan periodik.
+
+Ringkasan: Stormcloak Rebellion memberikan dua manfaat strategis: ia mengalihkan sumber daya Imperial yang seharusnya bisa digunakan untuk menantang Dominion, dan ia memperlemah Skyrim sebagai provinsi jika invasi masa depan diperlukan.
+
+Ulfric tidak sadar tentang perannya dalam rencana kami. Keyakinannya adalah tulus — yang menjadikannya lebih efektif dan lebih bisa diandalkan. Agen yang tidak tahu bahwa ia adalah agen tidak pernah bisa mengungkap sumber-sumber intel mereka.
+
+Catatan penting: Kemenangan Stormcloak TIDAK dikehendaki. Ulfric yang memegang kekuasaan atas Skyrim yang merdeka kemungkinan akan menyatukan Nord lebih efektif melawan Dominion dari yang bisa dilakukan Kekaisaran. Kondisi ideal adalah status quo yang berkelanjutan — perang yang tidak pernah menang oleh siapa pun.
+
+Rekomendasi: Jangan ada tindakan langsung terhadap Ulfric. Biarkan ia terus membakar Skyrim dari dalam."</i>
+
+Dokumen ini adalah salah satu yang paling mengerikan dalam seluruh TES V — bukan karena kekerasan yang dikandungnya, melainkan karena dinginnya kalkulasi yang diperlihatkannya. Ribuan orang mati. Keluarga-keluarga hancur. Kota-kota dibakar. Dan dari perspektif Thalmor, semua itu adalah "data yang berguna" dan "kondisi yang ideal".
+
+Ini adalah mengapa Elenwen adalah karakter yang jauh lebih berbahaya dari Ulfric atau bahkan Alduin dalam konteks jangka panjang. Alduin ingin memakan dunia — ambisi yang cukup mudah dipahami dan dilawan. Ulfric ingin membebaskan Skyrim — motivasi yang bisa diperdebatkan. Namun Elenwen ingin memastikan bahwa tidak ada yang menang — strategi yang jauh lebih sulit untuk dilawan karena ia tidak terlihat sebagai serangan, hanya sebagai kebijakan luar negeri yang normal.
+
+
+
+<h2><b>V. KARAKTER-KARAKTER PENDUKUNG — WAJAH-WAJAH YANG MEMBUAT ABSTRAK MENJADI NYATA</b></h2>
+
+Perang Saudara Skyrim bukan hanya tentang Ulfric dan Tullius. Ia hidup melalui karakter-karakter pendukung yang masing-masing membawa satu sudut pandang yang berbeda, yang masing-masing menjadikan konflik yang besar dan abstrak menjadi sesuatu yang terasa nyata dan personal.
+
+Galmar Stone-Fist — Housecarl dan penasihat paling setia Ulfric, komandan lapangan Stormcloak yang paling ditakuti. Galmar adalah perwakilan dari sisi Stormcloak yang paling keras dan paling tidak bisa dikompromikan — seseorang yang melihat semua masalah melalui lensa hitam-putih, yang tidak punya kesabaran untuk nuansa, dan yang keyakinannya tentang superioritas Nord atas semua ras lain tidak ia sembunyikan dengan baik.
+
+Galmar adalah orang yang membuat Ulfric terlihat moderat. Dan ini adalah masalah, karena Galmar bukan sosok marjinal dalam gerakan Stormcloak — ia adalah salah satu pemimpin utamanya.
+
+Dialog dengan Galmar ketika bergabung dengan Stormcloak adalah salah satu yang paling mengungkap tentang karakter gerakan:
+
+<i>"Mengapa kamu mau bergabung? Apakah kamu Nord?"
+
+"Apakah itu persyaratannya?"
+
+"Aku lebih suka seseorang yang memiliki alasan untuk bertarung untuk tanah ini. Non-Nord bisa bergabung, tapi aku butuh tahu bahwa kamu tidak akan kabur di tengah pertempuran."
+
+"Dan Nord pasti tidak kabur?"
+
+"Nord memiliki sesuatu untuk dipertahankan."
+
+"Semua orang memiliki sesuatu untuk dipertahankan."</i>
+
+Galmar tidak punya jawaban yang baik untuk ini. Yang ia miliki hanyalah keyakinan yang dipegang dengan sangat kuat tentang identitas etnis yang memberikan hak — keyakinan yang tidak bisa dipertanyakan tanpa merusak fondasi dari pandangan dunianya.
+
+Legate Rikke — salah satu perwira senior Imperial Legion di Skyrim, dan secara menarik, seorang Nord. Rikke adalah karakter yang paling menarik di sisi Imperial justru karena ia Nord yang memilih untuk melayani Kekaisaran — artinya ia terus-menerus harus menghadapi pertanyaan tentang kesetiaan dan identitas yang Stormcloak tidak pernah menghadapinya.
+
+Percakapan antara Rikke dan Ulfric di akhir kampanye Imperial — tepat sebelum eksekusi Ulfric — adalah salah satu yang paling mengharukan dalam seluruh TES V:
+
+<i>"Rikke. Tidak perlu kamu ada di sini untuk ini."
+
+"Ya, perlu. Aku ingin kamu mengetahuinya — bahwa ini bukan tentang siapa yang menang atau kalah. Ini tentang Skyrim. Tentang apa yang terbaik untuk orang-orang kita."
+
+"Orang-orang kita membutuhkan kebebasan, Rikke. Bukan rantai Imperial."
+
+"Orang-orang kita butuh hidup. Perang ini membunuh mereka."
+
+"Beberapa hal layak untuk mati demi."
+
+"Ya. Tapi bukan ini, Ulfric. Bukan sekarang, bukan dengan cara ini."</i>
+
+Kemudian eksekusi. Dan Rikke menangis — bukan untuk Ulfric, melainkan untuk Skyrim, untuk semua yang bisa berbeda jika pilihan-pilihan yang berbeda dibuat di titik-titik yang berbeda dalam sejarah.
+
+Balgruuf the Greater — Jarl Whiterun, sosok yang paling dengan tegas menolak untuk memilih antara kedua sisi. Balgruuf adalah contoh dari pemimpin yang memahami kompleksitas situasi dan yang tidak mau menyederhanakan dirinya agar cocok dalam narasi yang sederhana.
+
+Namun pada akhirnya, bahkan ia dipaksa untuk memilih. Perang tidak memberi kemewahan kepada mereka yang menolak untuk memihak — pada akhirnya, tidak memihak adalah juga sebuah pilihan, dan pilihan dengan konsekuensinya sendiri.
+
+
+
+<h2><b>VI. HOLD-HOLD YANG TERBAGI — GEOGRAFI SEBAGAI NASIB</b></h2>
+
+Salah satu aspek yang paling sering diabaikan dalam analisis Perang Saudara Skyrim adalah bagaimana geografi menentukan kesetiaan politik dengan cara yang lebih fundamental dari ideologi.
+
+Hold-hold yang pro-Stormcloak — Eastmarch, The Rift, Winterhold Hold, Pale, Hjaalmarch — adalah hold-hold yang secara historis lebih terpinggirkan dari pusat kekuasaan Imperial. Mereka lebih Nord dalam karakter budaya mereka, lebih jauh dari jalan-jalan perdagangan utama, lebih bergantung pada tradisi lokal daripada pada institusi Imperial.
+
+Hold-hold yang pro-Imperial — Haafingar, Whiterun (awalnya netral), The Reach — adalah hold-hold yang lebih terintegrasi dengan ekonomi dan budaya Kekaisaran. Solitude, sebagai ibukota Skyrim dan kota terbesar, adalah kota yang paling kosmopolitan dan paling "Imperial" dalam karakternya.
+
+Ini bukan kebetulan. Orang-orang yang paling diuntungkan oleh koneksi ke Kekaisaran — yang bisnis dan matapencahariannya bergantung pada jalur perdagangan Imperial, yang status sosialnya berasal dari afiliasi dengan institusi Imperial — secara alami cenderung mendukung Kekaisaran. Orang-orang yang merasa paling terpinggirkan oleh integrasi Imperial — yang melihat hanya regulasi dan pajak dan larangan tanpa manfaat yang proporsional — secara alami cenderung mendukung independensi.
+
+Markarth adalah kasus yang paling kompleks. Ibukota The Reach yang diperintah oleh Jarl Igmund — yang pro-Imperial — adalah kota yang sudah berabad-abad menghadapi masalah yang jauh lebih dalam dari Perang Saudara: Forsworn, keturunan dari Reachmen (suku asli yang menghuni The Reach sebelum Nord mengambilnya dari mereka), yang melancarkan pemberontakan yang tidak pernah benar-benar padam.
+
+Situasi Forsworn adalah yang paling tidak nyaman untuk dihadapi oleh kedua sisi konflik — karena jika Nord mengklaim Skyrim adalah milik mereka atas dasar "perjuangan dan sejarah", maka Reachmen memiliki argumen yang sama tentang The Reach, dengan sejarah yang lebih panjang. Dan jika Kekaisaran mengklaim bahwa hukum dan institusi adalah landasan dari kepemilikan wilayah yang sah, maka situasi Forsworn menunjukkan bahwa hukum dan institusi sering kali dibangun di atas fondasi yang tidak sah.
+
+Tidak ada yang benar-benar ingin menghadapi implikasi dari hal ini. Stormcloak mengabaikan Forsworn sebagai "bandit". Imperial memperlakukan mereka sebagai masalah keamanan yang perlu diatasi. Dan Forsworn terus bertempur, bukan karena ideologi yang abstrak, melainkan karena tanah yang pernah menjadi milik mereka sekarang milik orang lain, dan tidak ada kekuasaan yang cukup besar yang mereka percayai untuk membela kepentingan mereka.
+
+
+
+<h2><b>VII. ANALISIS STRATEGIS — SIAPA YANG BENAR-BENAR MENANG?</b></h2>
+
+Untuk memahami Perang Saudara Skyrim secara penuh, kita perlu keluar dari narasi masing-masing pihak dan melihat situasi dari perspektif yang lebih dingin dan lebih strategis.
+
+Pertanyaan kunci yang harus dijawab:
+
+Apakah kemenangan Stormcloak membawa manfaat yang mereka klaim? Skyrim yang merdeka, dengan kemampuan untuk menyembah Talos, dengan kebanggaan nasional yang dipulihkan — ini semua nyata dan bermakna. Namun Skyrim yang merdeka juga lebih lemah secara militer, lebih terisolasi secara diplomatik, dan lebih rentan terhadap invasi Thalmor yang tidak bisa dihadapi sendirian.
+
+Apakah kemenangan Imperial membawa manfaat yang mereka klaim? Skyrim yang tetap menjadi bagian dari Kekaisaran memberikan kerangka keamanan yang lebih besar, akses ke sumber daya Imperial yang lebih luas, dan posisi yang lebih baik untuk menghadapi Thalmor secara kolektif. Namun ia juga memaksa orang-orang untuk terus mematuhi Concordat yang mereka anggap sebagai penghinaan.
+
+Thalmor Dossier memberikan jawabannya:
+
+Kedua hasil ini memiliki kelemahan yang bisa dieksploitasi Thalmor. Skyrim yang merdeka adalah target yang lebih mudah untuk ditaklukkan secara militer. Skyrim yang tetap Imperial adalah bagian dari Kekaisaran yang terus melemah yang pada akhirnya mungkin tidak bisa bertahan.
+
+Kondisi yang paling tidak menguntungkan Thalmor adalah Kekaisaran yang kuat yang bersatu kembali setelah Perang Saudara — Kekaisaran yang tidak lagi terbebani oleh Concordat, yang memiliki Skyrim sebagai sekutu yang setia, dan yang siap untuk menghadapi Dominion dalam konflik berikutnya.
+
+Namun kondisi ini memerlukan sesuatu yang tidak ada dalam jangkauan langsung: waktu, pemulihan, dan kepemimpinan yang mampu mempersatukan semua pihak yang telah dibagi oleh perang. Dan sementara itu, Thalmor terus membangun kekuatan mereka.
+
+
+
+<h2><b>VIII. KEADILAN SEBAGAI KORBAN PERTAMA PERANG</b></h2>
+
+Di antara semua kerugian yang dihasilkan oleh Perang Saudara Skyrim — nyawa yang hilang, kota yang rusak, hubungan yang pecah — yang paling tidak terlihat namun paling permanen adalah keadilan.
+
+Dalam perang, keadilan menjadi korban pertama — bukan dalam pengertian bahwa tidak ada yang benar atau salah lagi, melainkan dalam pengertian bahwa mekanisme untuk mengevaluasi apa yang benar dan apa yang salah, dan untuk memberikan konsekuensi yang proporsional, sudah tidak berfungsi.
+
+Dunmer di Gray Quarter yang menghadapi diskriminasi — mereka tidak mendapat keadilan dari sisi mana pun. Stormcloak tidak peduli; Imperial sudah tidak lagi berkuasa di Windhelm untuk menegakkan standar mereka.
+
+Forsworn yang berjuang untuk tanah mereka — mereka diklasifikasikan sebagai penjahat oleh kedua sisi, dan tidak ada yang benar-benar menyelidiki apakah tuntutan mereka mungkin memiliki dasar yang sah.
+
+Anak-anak prajurit yang gugur di kedua sisi — mereka yang ditinggal oleh orang tua yang pergi berperang karena keyakinan atau kewajiban atau tidak punya pilihan lain. Tidak ada keadilan yang bisa diberikan kepada mereka; tidak ada apologi yang cukup.
+
+Dan Ulfric sendiri, jika versi Thalmor tentang perannya tidak sengajanya benar — seseorang yang dengan tulus memperjuangkan sesuatu yang ia percayai, yang menghabiskan hidupnya untuk tujuan yang mungkin tidak pernah bisa ia sadari sedang dimanipulasi untuk melayani kepentingan yang paling ia benci.
+
+
+
+<h2><b>IX. KEDUA ENDING — DAN YANG DATANG SETELAHNYA</b></h2>
+
+Jika Stormcloak menang:
+
+Ulfric dan Galmar memimpin serangan ke Solitude. Pertempuran di Solitude adalah pertempuran di kota paling megah dan paling kosmopolitan di Skyrim, dan ada sesuatu yang sangat tragis tentang melihat kota itu diporak-porandakan oleh perang — seolah-olah keindahan yang dibangun selama berabad-abad dihancurkan oleh satu keputusan kolektif yang dibuat dalam amarah.
+
+General Tullius, terjebak di Castle Dour, menghadapi akhirnya dengan cara yang — terlepas dari semua kekurangannya — membuktikan bahwa ia adalah prajurit dalam pengertian yang paling mendasar. Ia tidak memohon belas kasihan. Ia tidak mencoba melarikan diri. Ia hanya mengambil posisinya dan menunggu.
+
+Ulfric mengeksekusi Tullius secara personal — dan ini adalah momen yang lebih kompleks dari yang tampak. Ulfric menang. Namun dalam kemenangannya, ada seseorang yang mati karena keyakinannya juga, seseorang yang berperang untuk apa yang ia percaya benar juga.
+
+<i>"Tingkatkan pedangmu untuk Skyrim yang bebas!"</i> teriak Ulfric kepada rakyat Solitude yang menyaksikan. Dan mereka bersorak — namun tidak semua bersorak dengan ketulusan yang sama.
+
+Jika Imperial menang:
+
+Ulfric, terjebak di Palace of the Kings di Windhelm, menghadapi akhirnya dengan caranya sendiri. Dialognya dengan Legate Rikke adalah yang paling mengharukan — dua Nord yang percaya pada hal yang berbeda, yang mengikuti jalan yang membawa mereka ke titik ini, yang menyadari bahwa tidak ada cara untuk membatalkan pilihan-pilihan yang sudah dibuat.
+
+Tullius mengeksekusi Ulfric — dan sebelum itu, ada momen di mana Ulfric berkata kepada Tullius:
+
+<i>"Aku ingin Rikke yang melakukannya. Bukan kamu."
+
+"Mengapa?"
+
+"Karena jika seorang Nord yang membunuhku, setidaknya ini berakhir dengan kehormatan."</i>
+
+Tullius menolak. Dan eksekusi dilakukan.
+
+Apa yang terjadi setelahnya:
+
+Terlepas dari siapa yang menang, Skyrim memasuki era baru — namun bukan era yang bebas dari masalah. Bekas luka perang tidak sembuh dalam semalam. Keluarga-keluarga yang dipecah oleh perang tidak secara otomatis berdamai. Dan Thalmor — yang menang dalam kedua skenario, karena mereka tidak berpartisipasi langsung dalam konflik dan tidak kehilangan apa pun — terus membangun kekuatan mereka.
+
+Pertanyaan besar yang ditinggalkan oleh Perang Saudara Skyrim adalah pertanyaan yang tidak terjawab dalam game: apa yang terjadi selanjutnya dengan Kekaisaran vs Dominion?
+
+Beberapa teori tentang kemungkinan masa depan Tamriel — yang akan menjadi setting potensial untuk TES VI — menyebutkan bahwa konflik antara Kekaisaran yang baru dipersatukan (setelah menyelesaikan Perang Saudara) dan Aldmeri Dominion kemungkinan besar akan meletus. Dan dalam konflik itu, Skyrim — yang sudah habis oleh perang saudara — akan memainkan peran yang sangat berbeda tergantung pada siapa yang menang dalam Perang Saudara dan bagaimana luka-luka itu disembuhkan.
+
+
+
+<h2><b>X. REFLEKSI — TENTANG PERANG YANG TIDAK BISA DIMENANGKAN</b></h2>
+
+Ada teks kecil yang bisa ditemukan di Whiterun — di antara tumpukan surat-surat yang dibawa seorang kurir yang gugur — yang tidak pernah diserahkan kepada siapa pun:
+
+<i>"Ayah,
+
+Aku menulis ini dari kamp kami di selatan Whiterun, di mana kami akan menyerang besok. Aku tidak tahu apa yang akan terjadi. Aku tidak tahu apakah ini surat terakhirku.
+
+Aku bergabung karena aku percaya pada apa yang kami perjuangkan. Aku masih percaya — tapi sekarang aku juga tahu bahwa yang ada di seberang juga percaya. Mereka juga punya keluarga. Mereka juga takut mati.
+
+Mengapa kami bertempur satu sama lain? Mengapa bukan bersama, melawan orang-orang yang benar-benar ingin melihat kami semua jatuh?
+
+Aku tidak tahu jawabannya. Aku hanya tahu bahwa besok aku harus berdiri dan bertempur dan mencoba untuk tidak mati.
+
+Doakan aku.
+
+Dengan cinta,
+[nama tidak terbaca]"*</i>
+
+Surat ini tidak bertanda dari sisi mana. Tidak ada yang tahu apakah ia menulis dari kamp Stormcloak atau kamp Imperial. Tidak ada yang tahu apakah ia selamat dari pertempuran esok harinya.
+
+Dan mungkin itulah pointnya. Bahwa di level paling manusiawi — di bawah semua retorika tentang kebebasan dan kesetiaan dan kehormatan dan hukum — yang ada hanyalah seseorang yang takut mati dan yang tidak sepenuhnya mengerti mengapa ia ada di sana.
+
+Perang Saudara Skyrim adalah, dalam pengertian yang paling fundamental, sebuah tragedi. Bukan karena tidak ada yang benar di dalamnya — ada. Bukan karena semua motivasinya kotor — tidak semua. Melainkan karena bahkan dengan semua niat baik di kedua sisi, dengan semua keyakinan yang tulus, dengan semua pengorbanan yang nyata — hasilnya adalah kehancuran yang paling banyak menyentuh mereka yang paling sedikit bertanggung jawab untuk menyebabkannya.
+
+Dan satu-satunya pihak yang benar-benar menang adalah yang tidak bertempur sama sekali.
+
+<i>"Tidak ada perang yang sederhana.
+Tidak ada sisi yang sepenuhnya benar.
+Tidak ada kemenangan yang tidak membawa abu bersamanya.
+Yang bisa kita lakukan adalah berdiri di antara semua itu
+dan mencoba untuk membuat pilihan
+yang bisa kita pertanggungjawabkan kepada diri sendiri
+ketika semuanya sudah selesai.
+Dan kemudian hidup dengan konsekuensinya.
+Setiap hari. Sampai akhir.
+Itulah yang dimaksud dengan berperang.
+Bukan momen kemenangan atau kekalahan.
+Melainkan sisa waktu yang dihabiskan bersama memori
+dari orang-orang yang tidak kembali."
+
+— Dari tulisan tak bertanda pada dinding Fort Greymoor,
+ditemukan setelah pertempuran terakhir di sana,
+tidak diketahui dari sisi mana penulisnya</i>
+

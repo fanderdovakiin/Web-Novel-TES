@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Kronologi First Era</title>
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      background: #050208;
+      font-family: serif;
+    }
+    #chart {
+      width: 100%;
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+
+<div id="chart"></div>
+
+<script>
+  const chart = echarts.init(document.getElementById('chart'));
+
+  const option = {
+    backgroundColor: "#050208",
+    title: {
+      text: "Kronologi First Era Bagian 1: Dari Camoran hingga Alessia",
+      subtext: "1E 0 — 1E 243 · Peristiwa-peristiwa kunci yang membentuk Kekaisaran pertama",
+      left: "center",
+      top: 10,
+      textStyle: {
+        color: "#b89a5a",
+        fontFamily: "serif",
+        fontSize: 14
+      },
+      subtextStyle: {
+        color: "#705530",
+        fontFamily: "serif",
+        fontSize: 10,
+        fontStyle: "italic"
+      }
+    },
+    tooltip: {
+      trigger: "item",
+      backgroundColor: "#0a0508",
+      borderColor: "#8a7040",
+      borderWidth: 1,
+      textStyle: {
+        color: "#d8ccb5",
+        fontFamily: "serif",
+        fontSize: 10
+      }
+    },
+    grid: {
+      left: "15%",
+      right: "8%",
+      top: "18%",
+      bottom: "12%"
+    },
+    xAxis: {
+      type: "value",
+      name: "First Era Year",
+      nameLocation: "middle",
+      nameGap: 30,
+      nameTextStyle: {
+        color: "#777",
+        fontFamily: "serif",
+        fontSize: 10,
+        fontStyle: "italic"
+      },
+      min: 0,
+      max: 260,
+      axisLabel: {
+        color: "#777",
+        fontFamily: "serif",
+        formatter: "1E {value}"
+      },
+      axisLine: {
+        lineStyle: { color: "#2a1a10" }
+      },
+      splitLine: {
+        lineStyle: { color: "#10080a" }
+      }
+    },
+    yAxis: {
+      type: "category",
+      data: [
+        "White-Gold Falls → Alessian Empire",
+        "Pelinal vs Umaril (Pelinal dies)",
+        "Alessian Revolt begins",
+        "Morihaus & Pelinal arrive",
+        "Alessia prays to Akatosh",
+        "Ayleid slave oppression peak",
+        "Nordic Empire expansion (1E 221)",
+        "King Harald unites Skyrim",
+        "Camoran Dynasty founded"
+      ],
+      axisLabel: {
+        color: "#b89a5a",
+        fontFamily: "serif",
+        fontSize: 9
+      },
+      axisLine: {
+        lineStyle: { color: "#2a1a10" }
+      }
+    },
+    series: [
+      {
+        type: "scatter",
+        symbolSize: function(data) {
+          return data[2] * 2;
+        },
+        data: [
+          [243, "White-Gold Falls → Alessian Empire", 18],
+          [243, "Pelinal vs Umaril (Pelinal dies)", 16],
+          [242, "Alessian Revolt begins", 17],
+          [240, "Morihaus & Pelinal arrive", 14],
+          [238, "Alessia prays to Akatosh", 15],
+          [200, "Ayleid slave oppression peak", 12],
+          [221, "Nordic Empire expansion (1E 221)", 10],
+          [143, "King Harald unites Skyrim", 11],
+          [0, "Camoran Dynasty founded", 10]
+        ],
+        itemStyle: {
+          color: function(params) {
+            const colors = [
+              "#d4c080", "#d06040", "#a04030",
+              "#7090b0", "#d4c070", "#503820",
+              "#5070a0", "#305080", "#508030"
+            ];
+            return colors[params.dataIndex % colors.length];
+          }
+        },
+        label: {
+          show: true,
+          position: "right",
+          color: "#999",
+          fontFamily: "serif",
+          fontSize: 9,
+          formatter: function(params) {
+            return "1E " + params.data[0];
+          }
+        }
+      }
+    ]
+  };
+
+  chart.setOption(option);
+
+  // Responsive
+  window.addEventListener('resize', function () {
+    chart.resize();
+  });
+</script>
+
+</body>
+</html>

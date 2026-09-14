@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Dragon Breaks Tamriel</title>
+  <script src="https://cdn.jsdelivr.net/npm/echarts/dist/echarts.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      background: #050208;
+    }
+    #chart {
+      width: 100%;
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+
+<div id="chart"></div>
+
+<script>
+var chart = echarts.init(document.getElementById('chart'));
+
+var option = {
+  "backgroundColor": "#050208",
+  "title": {
+    "text": "Dragon Breaks Dalam Sejarah Tamriel",
+    "subtext": "Peristiwa ketika Linear Time terganggu — durasi dan dampak",
+    "left": "center",
+    "top": 10,
+    "textStyle": {
+      "color": "#c4a35a",
+      "fontFamily": "serif",
+      "fontSize": 16
+    },
+    "subtextStyle": {
+      "color": "#7a6030",
+      "fontFamily": "serif",
+      "fontSize": 11,
+      "fontStyle": "italic"
+    }
+  },
+  "tooltip": {
+    "trigger": "axis",
+    "backgroundColor": "#0a0515",
+    "borderColor": "#8060a0",
+    "textStyle": {
+      "color": "#e0d5c0",
+      "fontFamily": "serif",
+      "fontSize": 11
+    },
+    "axisPointer": {
+      "type": "shadow",
+      "shadowStyle": {
+        "color": "rgba(128, 96, 160, 0.1)"
+      }
+    }
+  },
+  "grid": {
+    "left": "12%",
+    "right": "8%",
+    "top": "20%",
+    "bottom": "20%"
+  },
+  "xAxis": {
+    "type": "category",
+    "data": [
+      "Middle Dawn\n(Dawn Era)",
+      "ME ~1000\n(Est.)",
+      "1E 2920\n(End 1st Era)",
+      "3E 417\nWarp in West",
+      "4E 98-100\nVoid Nights",
+      "4E 201\n(Potential?)"
+    ],
+    "axisLabel": {
+      "color": "#8060a0",
+      "fontFamily": "serif",
+      "fontSize": 9,
+      "interval": 0,
+      "rotate": 0
+    },
+    "axisLine": {
+      "lineStyle": { "color": "#2a1540" }
+    }
+  },
+  "yAxis": [
+    {
+      "type": "value",
+      "name": "Durasi Relatif\n(Mythic Years)",
+      "nameTextStyle": {
+        "color": "#c4a35a",
+        "fontFamily": "serif",
+        "fontSize": 10,
+        "fontStyle": "italic"
+      },
+      "axisLabel": {
+        "color": "#7a6030",
+        "fontFamily": "serif",
+        "fontSize": 10
+      },
+      "axisLine": {
+        "lineStyle": { "color": "#2a1540" }
+      },
+      "splitLine": {
+        "lineStyle": { "color": "#0d0820" }
+      }
+    },
+    {
+      "type": "value",
+      "name": "Dampak\n(1-10)",
+      "nameTextStyle": {
+        "color": "#8060a0",
+        "fontFamily": "serif",
+        "fontSize": 10,
+        "fontStyle": "italic"
+      },
+      "axisLabel": {
+        "color": "#604080",
+        "fontFamily": "serif",
+        "fontSize": 10
+      },
+      "axisLine": {
+        "lineStyle": { "color": "#1a0d30" }
+      },
+      "splitLine": { "show": false },
+      "max": 10
+    }
+  ],
+  "legend": {
+    "data": ["Durasi (Mythic Years)", "Dampak Kosmis (1-10)", "Kepastian Sejarah (%)"],
+    "bottom": 10,
+    "textStyle": {
+      "color": "#aaa",
+      "fontFamily": "serif",
+      "fontSize": 10
+    }
+  },
+  "series": [
+    {
+      "name": "Durasi (Mythic Years)",
+      "type": "bar",
+      "data": [1008, 500, 120, 1, 2, 0],
+      "itemStyle": {
+        "color": {
+          "type": "linear",
+          "x": 0, "y": 0, "x2": 0, "y2": 1,
+          "colorStops": [
+            {"offset": 0, "color": "#c4a35a"},
+            {"offset": 1, "color": "#604010"}
+          ]
+        }
+      },
+      "label": {
+        "show": true,
+        "position": "top",
+        "color": "#c4a35a",
+        "fontFamily": "serif",
+        "fontSize": 9,
+        "formatter": function(params) {
+          if (params.value === 0) return "?";
+          return params.value + "y";
+        }
+      },
+      "barWidth": "30%"
+    },
+    {
+      "name": "Dampak Kosmis (1-10)",
+      "type": "line",
+      "yAxisIndex": 1,
+      "data": [10, 8, 6, 9, 4, 7],
+      "smooth": true,
+      "lineStyle": {
+        "color": "#8060a0",
+        "width": 2.5
+      },
+      "itemStyle": {
+        "color": "#a080c0",
+        "borderColor": "#8060a0",
+        "borderWidth": 2
+      },
+      "symbolSize": 10,
+      "symbol": "diamond"
+    },
+    {
+      "name": "Kepastian Sejarah (%)",
+      "type": "line",
+      "yAxisIndex": 1,
+      "data": [10, 25, 45, 92, 88, 15],
+      "smooth": true,
+      "lineStyle": {
+        "color": "#5090c0",
+        "width": 2,
+        "type": "dashed"
+      },
+      "itemStyle": {
+        "color": "#6090c0"
+      },
+      "symbolSize": 8
+    }
+  ]
+};
+
+chart.setOption(option);
+</script>
+
+</body>
+</html>

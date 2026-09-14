@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<title>TES IV Oblivion FIX</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=EB+Garamond&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+
+<style>
+body {
+  margin: 0;
+  background: #050108;
+  font-family: 'EB Garamond', serif;
+}
+#chart {
+  width: 100%;
+  height: 100vh;
+}
+</style>
+</head>
+<body>
+
+<div id="chart"></div>
+
+<script>
+var chart = echarts.init(document.getElementById('chart'));
+
+var option = {
+  backgroundColor: "#050108",
+
+  title: {
+    text: "TES IV: Oblivion",
+    subtext: "Questlines — Oblivion Crisis",
+    left: "center",
+    textStyle: {
+      color: "#ff6a2a",
+      fontFamily: "Cinzel",
+      fontSize: 18
+    },
+    subtextStyle: {
+      color: "#b06a40",
+      fontSize: 12
+    }
+  },
+
+  tooltip: {
+    trigger: "item"
+  },
+
+  series: [{
+    type: "sunburst",
+    radius: ["20%", "80%"],
+
+    minAngle: 6, // 🔥 penting (node kecil disembunyikan labelnya)
+
+    label: {
+      rotate: "radial",
+      color: "#ddd",
+      fontFamily: "EB Garamond",
+      fontSize: 10,
+
+      overflow: "break",   // 🔥 auto turun baris
+      width: 80,           // 🔥 batas lebar
+      ellipsis: "...",     // 🔥 kalau kepanjangan
+      lineHeight: 12
+    },
+
+    labelLayout: function () {
+      return {
+        hideOverlap: true // 🔥 cegah tabrakan teks
+      };
+    },
+
+    itemStyle: {
+      borderColor: "#050108",
+      borderWidth: 2
+    },
+
+    data: [
+      {
+        name: "Main Quest",
+        value: 10,
+        children: [
+          { name: "Uriel VII dies", value: 3 },
+          { name: "Kvatch & Martin", value: 3 },
+          { name: "Mankar Camoran", value: 3 },
+          { name: "Battle of Bruma", value: 3 },
+          { name: "Martin's Sacrifice", value: 4 }
+        ]
+      },
+      {
+        name: "Knights of the Nine",
+        value: 6,
+        children: [
+          { name: "Crusader Relics", value: 3 },
+          { name: "Umaril defeated", value: 3 }
+        ]
+      },
+      {
+        name: "Shivering Isles",
+        value: 8,
+        children: [
+          { name: "Mania & Dementia", value: 3 },
+          { name: "Greymarch", value: 3 },
+          { name: "Become Sheogorath", value: 4 }
+        ]
+      },
+      {
+        name: "Fighters Guild",
+        value: 5,
+        children: [
+          { name: "Blackwood Company", value: 5 }
+        ]
+      },
+      {
+        name: "Mages Guild",
+        value: 5,
+        children: [
+          { name: "Necromancers", value: 5 }
+        ]
+      },
+      {
+        name: "Thieves Guild",
+        value: 5,
+        children: [
+          { name: "Gray Fox", value: 5 }
+        ]
+      },
+      {
+        name: "Dark Brotherhood",
+        value: 7,
+        children: [
+          { name: "Lucien Lachance", value: 4 },
+          { name: "The Traitor", value: 3 }
+        ]
+      }
+    ]
+  }]
+};
+
+chart.setOption(option);
+</script>
+
+</body>
+</html>

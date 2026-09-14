@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Second Era Political Map</title>
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      background: #030408;
+      font-family: serif;
+    }
+    #chart {
+      width: 100%;
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+
+<div id="chart"></div>
+
+<script>
+  var chart = echarts.init(document.getElementById('chart'));
+
+  var option = {
+    backgroundColor: "#030408",
+    title: {
+      text: "Second Era: Peta Kekuasaan dari Interregnum ke Unifikasi",
+      subtext: "Distribusi kekuatan politik — perkiraan berbagai periode 2E",
+      left: "center",
+      top: 10,
+      textStyle: {
+        color: "#c4a35a",
+        fontFamily: "serif",
+        fontSize: 14
+      },
+      subtextStyle: {
+        color: "#806030",
+        fontFamily: "serif",
+        fontSize: 10,
+        fontStyle: "italic"
+      }
+    },
+    tooltip: {
+      trigger: "axis",
+      backgroundColor: "#0a0808",
+      borderColor: "#c4a35a",
+      textStyle: {
+        color: "#e0d5c0",
+        fontFamily: "serif",
+        fontSize: 10
+      },
+      axisPointer: {
+        type: "cross"
+      }
+    },
+    legend: {
+      data: [
+        "Interregnum/Warlords",
+        "Potentate Control",
+        "Alliance Wars (ESO)",
+        "Tiber Septim Dominion",
+        "Chaos/Instability Index"
+      ],
+      bottom: 10,
+      textStyle: {
+        color: "#aaa",
+        fontFamily: "serif",
+        fontSize: 9
+      }
+    },
+    grid: {
+      left: "10%",
+      right: "5%",
+      top: "20%",
+      bottom: "18%"
+    },
+    xAxis: {
+      type: "category",
+      data: ["2E 1","2E 100","2E 230","2E 309","2E 430","2E 560","2E 582","2E 630","2E 700","2E 830","2E 852","2E 896"],
+      axisLabel: {
+        color: "#888",
+        fontFamily: "serif",
+        fontSize: 9
+      },
+      axisLine: {
+        lineStyle: { color: "#2a2030" }
+      }
+    },
+    yAxis: {
+      type: "value",
+      name: "Political Control (%)",
+      nameTextStyle: {
+        color: "#888",
+        fontFamily: "serif",
+        fontSize: 10,
+        fontStyle: "italic"
+      },
+      max: 100,
+      axisLabel: {
+        color: "#666",
+        fontFamily: "serif"
+      },
+      axisLine: {
+        lineStyle: { color: "#2a2030" }
+      },
+      splitLine: {
+        lineStyle: { color: "#111" }
+      }
+    },
+    series: [
+      {
+        name: "Interregnum/Warlords",
+        type: "bar",
+        stack: "political",
+        data: [60,55,50,55,80,60,30,45,40,25,15,0],
+        itemStyle: {
+          color: {
+            type: "linear",
+            x: 0, y: 0, x2: 0, y2: 1,
+            colorStops: [
+              {offset: 0, color: "#883333"},
+              {offset: 1, color: "#441111"}
+            ]
+          }
+        }
+      },
+      {
+        name: "Potentate Control",
+        type: "bar",
+        stack: "political",
+        data: [35,40,35,30,0,0,0,0,0,0,0,0],
+        itemStyle: {
+          color: {
+            type: "linear",
+            x: 0, y: 0, x2: 0, y2: 1,
+            colorStops: [
+              {offset: 0, color: "#6080a0"},
+              {offset: 1, color: "#304060"}
+            ]
+          }
+        }
+      },
+      {
+        name: "Alliance Wars (ESO)",
+        type: "bar",
+        stack: "political",
+        data: [0,0,10,10,15,30,65,45,40,30,10,0],
+        itemStyle: {
+          color: {
+            type: "linear",
+            x: 0, y: 0, x2: 0, y2: 1,
+            colorStops: [
+              {offset: 0, color: "#8060a0"},
+              {offset: 1, color: "#402060"}
+            ]
+          }
+        }
+      },
+      {
+        name: "Tiber Septim Dominion",
+        type: "bar",
+        stack: "political",
+        data: [0,0,0,0,0,0,0,0,10,35,70,95],
+        itemStyle: {
+          color: {
+            type: "linear",
+            x: 0, y: 0, x2: 0, y2: 1,
+            colorStops: [
+              {offset: 0, color: "#f5e08a"},
+              {offset: 1, color: "#806030"}
+            ]
+          }
+        }
+      },
+      {
+        name: "Chaos/Instability Index",
+        type: "line",
+        data: [85,75,70,72,90,95,80,70,60,50,35,10],
+        smooth: true,
+        lineStyle: {
+          color: "#c05050",
+          width: 2.5,
+          type: "dashed"
+        },
+        itemStyle: {
+          color: "#e06060"
+        },
+        symbolSize: 8
+      }
+    ]
+  };
+
+  chart.setOption(option);
+
+  window.addEventListener('resize', function() {
+    chart.resize();
+  });
+</script>
+
+</body>
+</html>

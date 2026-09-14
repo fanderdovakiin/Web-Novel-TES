@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<title>Cyrodiil Cities Chart</title>
+<script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+
+<style>
+  body {
+    margin: 0;
+    background: #040608;
+    font-family: Georgia, "Times New Roman", serif;
+  }
+
+  #chart {
+    width: 100%;
+    height: 100vh;
+  }
+</style>
+</head>
+
+<body>
+<div id="chart"></div>
+
+<script>
+var chart = echarts.init(document.getElementById('chart'));
+
+var option = {
+  backgroundColor: "#040608",
+
+  title: {
+    text: "Cyrodiil — 8 Kota Utama",
+    subtext: "Populasi · Kemakmuran · Korupsi · Signifikansi Strategis",
+    left: "center",
+    top: 10,
+    textStyle: {
+      color: "#c4a35a",
+      fontFamily: "Georgia, serif",
+      fontSize: 16
+    },
+    subtextStyle: {
+      color: "#806030",
+      fontFamily: "Georgia, serif",
+      fontSize: 11,
+      fontStyle: "italic"
+    }
+  },
+
+  tooltip: {
+    trigger: "axis",
+    backgroundColor: "#080510",
+    borderColor: "#c4a35a",
+    textStyle: {
+      color: "#e0d5c0",
+      fontFamily: "Georgia, serif",
+      fontSize: 11
+    },
+    axisPointer: { type: "shadow" }
+  },
+
+  legend: {
+    bottom: 10,
+    textStyle: {
+      color: "#aaa",
+      fontFamily: "Georgia, serif",
+      fontSize: 10
+    }
+  },
+
+  grid: {
+    left: "10%",
+    right: "6%",
+    top: "22%",
+    bottom: "18%"
+  },
+
+  xAxis: {
+    type: "category",
+    data: [
+      "Anvil", "Kvatch*", "Skingrad", "Chorrol",
+      "Bruma", "Cheydinhal", "Bravil", "Leyawiin"
+    ],
+    axisLabel: {
+      color: "#c4a35a",
+      fontFamily: "Georgia, serif",
+      fontSize: 10,
+      interval: 0,
+      rotate: 15   // 🔥 cegah tabrakan
+    },
+    axisLine: {
+      lineStyle: { color: "#2a1a10" }
+    }
+  },
+
+  yAxis: {
+    type: "value",
+    max: 100,
+    axisLabel: {
+      color: "#777",
+      fontFamily: "Georgia, serif"
+    },
+    axisLine: {
+      lineStyle: { color: "#2a1a10" }
+    },
+    splitLine: {
+      lineStyle: { color: "#111" }
+    }
+  },
+
+  series: [
+    {
+      name: "Populasi",
+      type: "bar",
+      data: [65,0,55,50,45,60,40,55],
+      barWidth: "16%",
+      itemStyle: { color: "#6090c0" }
+    },
+    {
+      name: "Kemakmuran",
+      type: "bar",
+      data: [75,0,85,70,60,65,25,55],
+      barWidth: "16%",
+      itemStyle: { color: "#c4a35a" }
+    },
+    {
+      name: "Korupsi",
+      type: "bar",
+      data: [55,0,20,35,30,40,90,65],
+      barWidth: "16%",
+      itemStyle: { color: "#c05050" }
+    },
+    {
+      name: "Strategis",
+      type: "line",
+      data: [80,40,60,65,85,70,45,75],
+      smooth: true,
+      lineStyle: {
+        color: "#60a040",
+        width: 3
+      },
+      itemStyle: {
+        color: "#80c060"
+      },
+      symbolSize: 7
+    }
+  ]
+};
+
+chart.setOption(option);
+
+// RESPONSIVE
+window.addEventListener('resize', function () {
+  chart.resize();
+});
+</script>
+
+</body>
+</html>

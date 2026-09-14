@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<title>Skyrim Holds Radar</title>
+<script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+
+<style>
+  body {
+    margin: 0;
+    background: #050810;
+    font-family: Georgia, "Times New Roman", serif;
+  }
+
+  #chart {
+    width: 100%;
+    height: 100vh;
+  }
+</style>
+</head>
+
+<body>
+<div id="chart"></div>
+
+<script>
+var chart = echarts.init(document.getElementById('chart'));
+
+var option = {
+  backgroundColor: "#050810",
+
+  title: {
+    text: "Skyrim — Sembilan Hold",
+    subtext: "Ukuran · Populasi · Ekonomi · Kesetiaan Politik (4E 201)",
+    left: "center",
+    top: 10,
+    textStyle: {
+      color: "#c4a35a",
+      fontFamily: "Georgia, serif",
+      fontSize: 16
+    },
+    subtextStyle: {
+      color: "#806030",
+      fontFamily: "Georgia, serif",
+      fontSize: 11,
+      fontStyle: "italic"
+    }
+  },
+
+  tooltip: {
+    trigger: "item",
+    backgroundColor: "#080510",
+    borderColor: "#6090c0",
+    textStyle: {
+      color: "#e0d5c0",
+      fontFamily: "Georgia, serif",
+      fontSize: 11
+    }
+  },
+
+  legend: {
+    bottom: 10,
+    textStyle: {
+      color: "#aaa",
+      fontFamily: "Georgia, serif",
+      fontSize: 10
+    }
+  },
+
+  radar: {
+    center: ["50%", "58%"],
+    radius: "50%",   // 🔥 diperkecil biar label tidak keluar
+
+    indicator: [
+      {name: "Haafingar", max: 100},
+      {name: "Reach", max: 100},
+      {name: "Hjaalmarch", max: 100},
+      {name: "Pale", max: 100},
+      {name: "Winterhold", max: 100},
+      {name: "Eastmarch", max: 100},
+      {name: "Whiterun", max: 100},
+      {name: "Rift", max: 100},
+      {name: "Falkreath", max: 100}
+    ],
+
+    axisName: {
+      color: "#c4a35a",
+      fontFamily: "Georgia, serif",
+      fontSize: 10,
+      overflow: "break",
+      width: 70,        // 🔥 biar teks kepotong rapi kalau panjang
+      lineHeight: 12
+    },
+
+    axisLine: {
+      lineStyle: { color: "#2a2a40" }
+    },
+
+    splitLine: {
+      lineStyle: { color: "#1a1a30" }
+    },
+
+    splitArea: {
+      areaStyle: {
+        color: ["rgba(10,10,25,0.5)", "rgba(15,15,35,0.5)"]
+      }
+    }
+  },
+
+  series: [
+    {
+      type: "radar",
+
+      data: [
+        {
+          name: "Ukuran",
+          value: [45,75,55,80,65,60,50,55,60],
+          lineStyle: { color: "#4070a0", width: 2 },
+          areaStyle: { color: "rgba(64,112,160,0.15)" }
+        },
+        {
+          name: "Populasi",
+          value: [80,55,20,30,15,75,85,60,25],
+          lineStyle: { color: "#c4a35a", width: 2 },
+          areaStyle: { color: "rgba(196,163,90,0.12)" }
+        },
+        {
+          name: "Ekonomi",
+          value: [90,70,25,40,20,65,80,55,35],
+          lineStyle: { color: "#60a040", width: 2 },
+          areaStyle: { color: "rgba(96,160,64,0.12)" }
+        },
+        {
+          name: "Stormcloak",
+          value: [10,25,55,85,90,95,40,70,50],
+          lineStyle: { color: "#c06060", width: 2, type: "dashed" },
+          areaStyle: { color: "rgba(192,96,96,0.1)" }
+        }
+      ]
+    }
+  ]
+};
+
+chart.setOption(option);
+
+// RESPONSIVE
+window.addEventListener('resize', function () {
+  chart.resize();
+});
+</script>
+
+</body>
+</html>

@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Skyrim Civil War Chart</title>
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      background: #040308;
+      font-family: Georgia, "Times New Roman", serif;
+    }
+
+    #chart {
+      width: 100%;
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+
+<div id="chart"></div>
+
+<script>
+var chart = echarts.init(document.getElementById('chart'));
+
+var option = {
+  backgroundColor: "#040308",
+
+  title: {
+    text: "Skyrim Civil War — Analisis Kekuatan dan Dukungan",
+    subtext: "Hold Skyrim dan kesetiaan mereka · Faktor yang mempengaruhi konflik",
+    left: "center",
+    top: 10,
+    textStyle: {
+      color: "#c4a35a",
+      fontFamily: "Georgia, serif",
+      fontSize: 16
+    },
+    subtextStyle: {
+      color: "#806030",
+      fontFamily: "Georgia, serif",
+      fontSize: 11,
+      fontStyle: "italic"
+    }
+  },
+
+  tooltip: {
+    trigger: "item",
+    backgroundColor: "#080510",
+    borderColor: "#888",
+    textStyle: {
+      color: "#e0d5c0",
+      fontFamily: "Georgia, serif",
+      fontSize: 11
+    }
+  },
+
+  legend: {
+    orient: "vertical",
+    right: 10,
+    top: "center",
+    width: 140,
+    textStyle: {
+      color: "#aaa",
+      fontFamily: "Georgia, serif",
+      fontSize: 10,
+      overflow: "break",
+      width: 120
+    }
+  },
+
+  series: [
+    {
+      name: "Hold Loyalty",
+      type: "pie",
+      radius: ["25%", "55%"],
+      center: ["30%", "55%"],
+
+      label: {
+        color: "#ccc",
+        fontFamily: "Georgia, serif",
+        fontSize: 10,
+        overflow: "break",
+        width: 110,
+        lineHeight: 14,
+        formatter: function(params){
+          return params.name + "\n" + params.percent + "%";
+        }
+      },
+
+      data: [
+        {
+          value: 4,
+          name: "Stormcloak Holds\n(Eastmarch, Rift, Winterhold, Pale)",
+          itemStyle: { color: "#3a6cb0" }
+        },
+        {
+          value: 3,
+          name: "Imperial Holds\n(Haafingar, Reach, Falkreath)",
+          itemStyle: { color: "#c4a35a" }
+        },
+        {
+          value: 1,
+          name: "Contested\n(Whiterun, Hjaalmarch)",
+          itemStyle: { color: "#666666" }
+        },
+        {
+          value: 1,
+          name: "Thalmor Influence",
+          itemStyle: { color: "#a09030" }
+        }
+      ]
+    },
+
+    {
+      name: "War Impact",
+      type: "pie",
+      radius: ["25%", "55%"],
+      center: ["72%", "55%"],
+
+      label: {
+        color: "#ccc",
+        fontFamily: "Georgia, serif",
+        fontSize: 10,
+        overflow: "break",
+        width: 110,
+        lineHeight: 14,
+        formatter: function(params){
+          return params.name + "\n" + params.percent + "%";
+        }
+      },
+
+      data: [
+        {
+          value: 45,
+          name: "Thalmor Benefit\n(War weakens both)",
+          itemStyle: { color: "#a09030" }
+        },
+        {
+          value: 25,
+          name: "Stormcloak Gain\n(Talos, nationalism)",
+          itemStyle: { color: "#3060c0" }
+        },
+        {
+          value: 20,
+          name: "Imperial Gain\n(Stability, control)",
+          itemStyle: { color: "#c4a35a" }
+        },
+        {
+          value: 10,
+          name: "Civilians Lose",
+          itemStyle: { color: "#880000" }
+        }
+      ]
+    }
+  ]
+};
+
+chart.setOption(option);
+
+// AUTO RESIZE (biar tidak rusak di layar kecil)
+window.addEventListener('resize', function() {
+  chart.resize();
+});
+</script>
+
+</body>
+</html>

@@ -1,0 +1,320 @@
+<h2><b>I. PRAELUDIUM — SEBELUM ADA YANG MEMILIKI NAMA</b></h2>
+
+Ada sebuah pertanyaan yang tampaknya sederhana, namun yang telah menghabiskan tinta lebih banyak dari semua pertempuran di Tamriel digabungkan: Apakah para dewa itu nyata?
+
+Seorang petani Nord di ladangnya, yang setiap pagi memanjatkan doa kepada Kynareth agar angin membawa musim tanam yang baik, tidak pernah meragukan jawabannya. Seorang jenderal Imperial yang, sebelum pertempuran, memohon berkat Stendarr atas pedangnya dan perlindungan Akatosh atas pasukannya, tidak pernah mempertanyakannya. Seorang inisiat Dark Brotherhood yang berbisik di kuping Night Mother memohon restu Sithis sebelum membunuh, tidak memerlukannya untuk dibuktikan secara filosofis.
+
+Namun bagi seorang sarjana — bagi kita yang menghabiskan hidup kita di antara buku-buku, yang mencoba memahami bukan hanya apa yang terjadi tetapi mengapa dan bagaimana — pertanyaan itu jauh lebih kompleks dari yang tampaknya. Karena "nyata" adalah kata yang sangat ambigu ketika berbicara tentang entitas yang ada di luar parameter normalitas yang biasanya kita gunakan untuk mendefinisikan "kenyataan".
+
+Apakah Akatosh nyata? Ia tentu saja berpengaruh — ada terlalu banyak laporan langsung tentang intervensinya dalam urusan fana untuk diabaikan begitu saja. Pada akhir Oblivion Crisis, ribuan orang di Imperial City menyaksikan dengan mata kepala sendiri manifestasi fisik Akatosh — avatar naga yang menyala dalam cahaya emas — berdiri di atas White-Gold Tower dan mengalahkan Mehrunes Dagon. Itu terjadi. Tidak ada yang bisa menyangkalnya.
+
+Namun apakah Akatosh itu sadar? Apakah ia peduli tentang kita? Apakah doa-doa yang dipanjatkan oleh jutaan pemeluknya benar-benar didengar oleh sesuatu yang berpikir dan merasakan? Atau apakah "Akatosh" hanyalah nama yang kita berikan kepada serangkaian gaya kosmis yang impersonal — kekuatan-kekuatan yang ada dan beroperasi, namun tidak lebih "sadar" dari gravitasi atau api?
+
+Pertanyaan-pertanyaan ini tidak bisa dijawab secara memuaskan. Dan mungkin memang tidak seharusnya bisa dijawab. Karena Et'Ada — entitas-entitas yang kelak menjadi Aedra dan Daedra — ada di tingkat realitas yang begitu berbeda dari kita, sehingga konsep-konsep kita tentang "kesadaran", "kehendak", dan "kepedulian" mungkin tidak relevan sama sekali ketika diterapkan kepada mereka.
+
+Namun kita bisa mencoba untuk memahami asal-usul mereka. Dan asal-usul Et'Ada — Original Spirits, makhluk-makhluk pertama — adalah salah satu kisah paling menakjubkan di seluruh Aurbis.
+
+
+
+<h2><b>II. KELAHIRAN ET'ADA — DARI INTERPLAY YANG TAK DAPAT DIJELASKAN</b></h2>
+
+Kita telah membahas di Bab 1 bagaimana Interplay antara Anu dan Padomay melahirkan Nir, dan bagaimana kehancuran Nir serta Dua Belas Dunia Penciptaan menghasilkan percampuran "esensi" Anu dan Padomay di seluruh Aurbis. Et'Ada terlahir dari percampuran ini.
+
+Namun apa persisnya yang terjadi? Bagaimana "esensi" yang tersebar di seluruh Aurbis bisa mengorganisir diri menjadi entitas-entitas yang memiliki — atau setidaknya tampak memiliki — kesadaran, identitas, dan kehendak?
+
+Tidak ada jawaban yang memuaskan. Namun ada beberapa teori yang layak dipertimbangkan.
+
+Teori Pertama: Kondensasi Spontan. Sama seperti uap air bisa berkondensasi menjadi tetesan air ketika kondisi tepat, esensi Anu-Padomay yang tersebar di Aurbis mulai "berkondensasi" menjadi titik-titik konsentrasi ketika jumlah dan kepadatan esensi di satu area mencapai ambang batas tertentu. Titik-titik konsentrasi ini adalah Et'Ada. Mereka "terlahir" bukan melalui proses biologis, bukan melalui keputusan sadar dari Anu atau Padomay, melainkan melalui proses fisika kosmis yang impersonal — sama seperti galaksi terbentuk dari awan gas dan debu kosmis yang mulai berputar dan mengompres.
+
+Jika teori ini benar, maka Et'Ada pada mulanya bukanlah entitas yang sadar. Mereka adalah "gumpalan" esensi yang terorganisir — memiliki identitas yang berbeda satu sama lain (karena proporsi Anu-Padomay dalam setiap gumpalan berbeda), namun belum memiliki "kesadaran diri" dalam pengertian yang kita kenal. Kesadaran itu baru muncul kemudian, secara bertahap, saat Et'Ada semakin kompleks dan saat mereka mulai berinteraksi satu sama lain.
+
+Teori Kedua: Ekspresi Sengaja. Versi yang lebih "teistik" ini berpendapat bahwa Et'Ada adalah ekspresi sengaja dari Anu dan/atau Padomay. Anu, dalam tidurnya yang panjang setelah mengalahkan Padomay, "bermimpi" dan mimpinya mewujud sebagai Et'Ada — masing-masing mimpi menjadi satu entitas. Padomay, terlempar ke Void namun tidak sepenuhnya tereliminasi, juga "beresonansi" dan menghasilkan Et'Ada-nya sendiri.
+
+Teori ini populer di kalangan teolog Altmer, yang cenderung memandang Et'Ada sebagai "pikiran-pikiran Anu" yang mengambil wujud independen. Namun ia memiliki masalah logis: jika Et'Ada adalah "pikiran" Anu, mengapa begitu banyak dari mereka bertindak berlawanan dengan apa yang kita anggap sebagai kepentingan Anu? Mengapa Lorkhan — yang oleh Altmer dianggap sebagai Et'Ada yang paling destruktif — terlahir dari proses yang sama dengan Auri-El yang mereka puja?
+
+Teori Ketiga: Emergent Self-Organization. Teori paling modern, yang dikembangkan oleh sarjana-sarjana Psijic dan beberapa filsuf Dunmer, berpendapat bahwa Et'Ada "terlahir" bukan dari proses kondensasi pasif atau dari ekspresi sengaja, melainkan dari sesuatu yang jauh lebih menarik: kompleksitas yang muncul secara alami (emergent complexity).
+
+Ketika esensi Anu dan Padomay — dua kekuatan yang secara fundamental saling berlawanan — dipaksa berdampingan di dalam Aurbis, mereka tidak bisa tidak berinteraksi. Dan setiap interaksi menghasilkan pola-pola. Pola-pola yang cukup kompleks menghasilkan struktur. Struktur yang cukup stabil mulai "bertahan" terhadap gangguan. Struktur yang cukup lama bertahan mulai mengembangkan semacam "preferensi" — kecenderungan untuk melakukan hal-hal tertentu yang memperkuat stabilitasnya sendiri. Dan "preferensi" yang cukup kompleks menjadi, pada titik tertentu yang tidak bisa didefinisikan secara tepat, kehendak.
+
+Teori ini menarik karena ia menjelaskan keberagaman yang luar biasa di antara Et'Ada — dari yang paling mirip Anu (seperti Akatosh-Auri-El) hingga yang paling mirip Padomay (seperti Sithis), dengan semua nuansa di antaranya. Setiap Et'Ada adalah "pola" unik yang muncul dari interaksi lokal antara esensi Anu dan Padomay dalam proporsi dan konfigurasi yang berbeda. Dan karena interaksi itu tidak terjadi secara seragam di seluruh Aurbis, setiap Et'Ada berbeda dari yang lain.
+
+Apa pun teori yang kita pilih, fakta yang tidak bisa disangkal adalah ini: pada suatu titik dalam Dawn Era, Et'Ada ada. Ribuan — mungkin jutaan — entitas dari berbagai ukuran, kekuatan, dan karakter, bergerak di dalam Aurbis yang belum sepenuhnya terbentuk, menjelajahi eksistensi baru mereka, berinteraksi satu sama lain, membentuk aliansi dan konflik, dan secara bertahap menemukan siapa dan apa mereka.
+
+Dan dari kerumunan Et'Ada yang tak terhitung ini, tiga kelompok besar mulai terbentuk — tiga jalan yang bisa dipilih oleh Et'Ada ketika Lorkhan datang dengan proposalnya yang gila. Tiga jalan yang akan menentukan nasib seluruh Aurbis untuk selama-lamanya.
+
+
+
+<h2><b>III. ANU-EL DAN SITHIS — JIWA-JIWA DARI PRINSIP-PRINSIP</b></h2>
+
+Sebelum kita membahas ketiga kelompok besar Et'Ada, kita perlu memahami dua entitas khusus yang berada di tingkat yang berbeda dari Et'Ada lainnya: Anu-El dan Sithis.
+
+Keduanya bukan Et'Ada biasa. Mereka adalah apa yang bisa disebut sebagai "jiwa" dari Prinsip-Prinsip Fundamental — manifestasi sadar dari Anu dan Padomay di dalam Aurbis. Mereka seperti Et'Ada dalam pengertian bahwa mereka adalah entitas yang memiliki identitas dan kehendak, namun mereka jauh lebih tua, jauh lebih fundamental, dan jauh lebih dekat kepada Prinsip-Prinsip yang melahirkan mereka.
+
+Anu-El adalah jiwa Anu. Ia adalah "Anu yang sudah bisa berpikir tentang dirinya sendiri" — versi Stasis yang memiliki kesadaran diri. Anu-El dikenal dalam hampir semua tradisi teologi Tamriel, walau sering dengan nama yang berbeda-beda:
+
+Dalam tradisi Altmer dan sebagian besar tradisi Mer: Anu-El, yang kemudian "turun" menjadi Auri-El, Et'Ada yang paling kuat yang terlibat dalam penciptaan Mundus.
+Dalam tradisi Imperial: Akatosh, Naga Waktu, yang merupakan pemimpin Eight Divines.
+Dalam tradisi Nordic: Alduin/Auri-El, dengan hubungan yang lebih kompleks dan lebih ambiguous antara "Naga Pertama" dan "Dewa Waktu".
+Dalam tradisi Khajiit: Ahnurr, prinsip maskulin dari Anu, yang berpasangan dengan Fadomai (Padomay).
+Anu-El — atau Auri-El, atau Akatosh, tergantung perspektif dan era — adalah Et'Ada yang paling dekat dengan "Stasis yang Murni". Ia adalah waktu itu sendiri — atau lebih tepatnya, ia adalah kesadaran yang membuat waktu linear. Tanpa Anu-El/Akatosh, waktu tidak mengalir dari masa lalu ke masa depan dalam satu arah; ia bercabang, berbalik, berulang, dan bertabrakan — Dragon Break adalah gambaran tentang apa yang terjadi ketika Akatosh terluka atau terganggu.¹
+
+<i>¹ Catatan Lore: Hubungan antara Anu-El, Auri-El, dan Akatosh adalah salah satu isu paling diperdebatkan dalam kosmologi Elder Scrolls. Satu interpretasi menyatakan bahwa ketiganya adalah "aspek" yang berbeda dari entitas yang sama, dilihat dari tradisi yang berbeda. Interpretasi lain menyatakan bahwa mereka adalah entitas yang berbeda namun saling terhubung — Anu-El adalah "jiwa Anu", Auri-El adalah "jiwa Anu-El", dan Akatosh adalah "jiwa Auri-El yang termanifestasi di Mundus". Dalam kompendium ini, kami menggunakan ketiganya sebagai nama alternatif untuk entitas yang sama, dengan catatan bahwa perbedaan-perbedaan nuansanya memang ada.</i>
+
+Sithis, di sisi lain, adalah jiwa Padomay. Ia adalah "Padomay yang sudah bisa berpikir tentang dirinya sendiri" — versi Perubahan yang memiliki kesadaran diri. Namun di sini, kita masuk ke wilayah yang jauh lebih kontroversial.
+
+Sithis — berbeda dengan Anu-El — tidak memiliki "versi" yang diterima secara luas di berbagai tradisi. Ia dikenal hampir eksklusif melalui dua jalur: tradisi Dunmer/Argonian, dan Dark Brotherhood.
+
+Dalam tradisi Dunmer — khususnya dalam teks-teks kuno dari sebelum Tribunal mengambil alih agama Dunmer — Sithis adalah kekuatan kosmis yang netral: bukan baik, bukan jahat, melainkan perlu. Sithis adalah "penyeimbang" — ia memastikan bahwa tidak ada yang hidup selamanya, tidak ada yang bertahan tanpa berubah, tidak ada yang menjadi begitu stagnan sehingga menolak kehendak Perubahan. Dalam pandangan ini, kematian — yang sering dikaitkan dengan Sithis — bukanlah hal yang jahat, melainkan hal yang alami. Tanpa kematian, tidak ada ruang untuk yang baru. Tanpa penghancuran, tidak ada fondasi untuk penciptaan.
+
+Dark Brotherhood memiliki pandangan yang lebih... berwarna tentang Sithis. Bagi mereka, Sithis adalah dewa pembunuhan — entitas yang haus darah dan memerlukan kematian sebagai persembahan. Night Mother, medium komunikasi Brotherhood, konon bisa "mendengar" doa-doa para klien dan menyampaikannya kepada Sithis (atau setidaknya kepada anggota Brotherhood yang paling senior, Listener). Namun seberapa banyak dari klaim ini yang merupakan teologi sejati dan seberapa banyak yang merupakan mitologi organisasi yang dirancang untuk membenarkan praktik pembunuhan — ini adalah pertanyaan yang tetap terbuka.
+
+Yang paling menarik tentang Sithis adalah hubungannya dengan Void. Berbeda dengan Anu-El yang memanifestasikan dirinya dalam Mundus (sebagai Akatosh), Sithis tampaknya menolak untuk memanifestasikan dirinya. Ia tetap di Void — atau lebih tepatnya, ia adalah Void. Ketika makhluk-makhluk yang terbunuh oleh Dark Brotherhood "dikirimkan ke Void", ke mana persisnya mereka pergi? Apakah ada "alam" di Void yang dikuasai oleh Sithis? Atau apakah mereka sekadar berhenti ada dalam pengertian yang paling absolut?
+
+Para teolog Argonian — yang mungkin memiliki pemahaman paling mendalam tentang Sithis di antara semua ras — menyebut alam di mana jiwa-jiwa yang "dikirim ke Sithis" berakhir sebagai The Void Spaces — tempat di luar Oblivion, di luar Aetherius, di luar segalanya. Bukan surga, bukan neraka, melainkan sesuatu yang melampaui kedua konsep itu. Sebuah kembali kepada keheningan yang mendahului segala suara.
+
+
+
+<h2><b>IV. MAGNA-GE — MEREKA YANG MELARIKAN DIRI</b></h2>
+
+Dari sekian banyak kelompok Et'Ada, ada satu kelompok yang keputusannya membentuk dunia kita secara paling harfiah — namun yang paling jarang mendapat perhatian dalam kronik-kronik sejarah: Magna-Ge, atau "Anak-Anak Magnus".
+
+Kisah mereka adalah kisah tentang ketakutan, pelarian, dan konsekuensi tidak terduga dari pilihan yang dibuat karena panik.
+
+Ketika Lorkhan — Et'Ada yang paling misterius, paling berani, dan paling kontroversial — mulai mengartikulasikan rencananya untuk menciptakan Mundus, banyak Et'Ada yang tertarik. Ide Lorkhan memiliki daya tarik yang sulit ditolak: sebuah dunia baru, sebuah arena di mana jiwa-jiwa bisa mengalami sesuatu yang tidak pernah ada sebelumnya, sebuah eksperimen kosmis yang tidak ada presedennya. Bagi Et'Ada yang bosan dengan ketidakterbatasan Aurbis yang tanpa bentuk — yang telah ada selama "selamanya" tanpa perubahan yang bermakna — proposal Lorkhan terdengar seperti petualangan.
+
+Magnus adalah salah satu yang paling antusias. Ia bukan sekadar pendukung biasa — ia adalah arsitek utama proyek ini, desainer yang merancang hukum-hukum fisika Mundus, yang memikirkan bagaimana magicka akan mengalir melalui dunia baru itu, yang merancang sistem bintang dan planet yang akan mengorbit Nirn. Magnus bekerja keras bersama para Et'Ada lain untuk membangun fondasi konseptual dari Mundus.
+
+Namun ada sebuah masalah yang menjadi semakin jelas seiring proses penciptaan berlangsung: menciptakan dunia fisik yang permanen memerlukan pengorbanan. Bukan pengorbanan dalam artian ritual simbolis — melainkan pengorbanan literal. Para Et'Ada yang terlibat harus menyerahkan bagian dari esensi ilahi mereka — kekuatan dan kebebasan mereka yang tak terbatas — untuk ditenun ke dalam struktur Mundus. Semakin banyak yang diserahkan, semakin stabil dan semakin nyata dunia itu menjadi.
+
+Bagi beberapa Et'Ada — khususnya mereka yang kelak disebut Aedra — ini adalah harga yang bisa diterima, bahkan diterima dengan sukarela. Mereka memahami — atau setidaknya berharap — bahwa pengorbanan mereka akan menghasilkan sesuatu yang indah, sesuatu yang bermakna.
+
+Namun bagi Magnus dan ribuan Et'Ada lainnya... ketika momen pengorbanan itu tiba, ketika mereka merasakan betapa besarnya apa yang harus mereka lepaskan — bukan hanya sebagian kecil kekuatan mereka, melainkan sebagian besar dari siapa mereka, esensi fundamental dari eksistensi ilahi mereka — mereka panik.
+
+The Anuad menggambarkan momen ini dengan cara yang menusuk jantung:
+
+<i>"Magnus melihat apa yang harus diberikan, dan merasakannya terlalu besar untuk ditanggung. Ia adalah yang paling besar di antara para pencipta, dan harganya bagi dia lebih besar dari yang lain. Ia berdiri di tepi pengorbanan, menatap ke dalam jurang, dan bertanya kepada dirinya sendiri: 'Apakah ada yang tersisa dari Magnus, jika aku memberikan apa yang harus diberikan?' Dan jawaban yang ia terima dari kedalaman dirinya sendiri mengisi dirinya dengan rasa takut yang tidak pernah ia rasakan sebelumnya."
+
+"Maka Magnus berbalik dan berlari."</i>
+
+Keputusannya untuk melarikan diri — untuk merobek jalan keluar dari Mundus yang sedang terbentuk dan kembali ke Aetherius — adalah keputusan yang mengubah wajah seluruh realitas.
+
+Robekan yang ditinggalkan Magnus adalah Matahari — lubang terbesar di langit Mundus, sumber cahaya dan magicka yang paling kuat. Matahari bukan bola api; ia adalah luka di kain realitas, tempat di mana seorang Et'Ada yang ketakutan merobek jalan keluarnya sendiri.
+
+Dan Magnus tidak berlari sendirian. Ribuan Et'Ada yang lebih kecil — yang juga telah mulai terlibat dalam proyek penciptaan Mundus namun juga belum siap untuk membuat pengorbanan penuh — mengikutinya. Mereka berlari, satu per satu dan dalam kelompok-kelompok, masing-masing merobek lubang kecil mereka sendiri di langit Mundus.
+
+Lubang-lubang kecil itu adalah bintang-bintang.
+
+Setiap bintang yang kau lihat di langit malam Tamriel adalah bukti dari momen kepanikan kosmis ini — ribuan Et'Ada yang memilih untuk melarikan diri daripada berkorban. Setiap konstelasi adalah pola dari kelompok-kelompok yang melarikan diri bersama. Lyra, The Warrior, The Mage, The Thief, The Lady, The Lord, The Steed — semua konstelasi ini adalah "jejak" dari pelarian massal Magna-Ge.
+
+Lorkhan menyaksikan kepergian mereka dengan... apa? Kemarahan? Kesedihan? Penghinaan? Teks-teks kuno tidak sepakat. Beberapa mengatakan bahwa Lorkhan tertawa — karena kepergian Magnus membantu Mundus terbentuk dengan cara yang tidak terduga. Lubang-lubang yang ditinggalkan oleh Magna-Ge menciptakan aliran magicka yang terus-menerus dari Aetherius ke Mundus, yang memberikan dunia baru itu energi untuk berkembang dan bertahan tanpa memerlukan pengorbanan Et'Ada yang tersisa sebanyak yang awalnya direncanakan.²
+
+<i>² Catatan Lore: Ada teori yang menarik tentang ini, yang disebut "Lorkhan's Gamble". Teori ini berpendapat bahwa Lorkhan selalu tahu bahwa sebagian Et'Ada akan melarikan diri, dan ia bahkan mungkin mendorong Magnus untuk memimpin proyek penciptaan secara spesifik karena ia tahu bahwa Magnus akan lari pada momen kritis, merobek lubang yang akan menjadi sumber magicka abadi bagi Mundus. Jika ini benar, maka pelarian Magna-Ge bukan bencana yang tidak terduga — ia adalah bagian dari rencana Lorkhan sejak awal.</i>
+
+Namun ada harga dari kepergian Magna-Ge selain bintang-bintang. Kepergian mereka meninggalkan ketidakseimbangan dalam struktur Mundus yang masih terbentuk. Dunia itu tidak pernah sepenuhnya "selesai" — ada aspek-aspek tertentu dari rancangan Magnus yang tidak pernah diimplementasikan, karena ia kabur sebelum menyelesaikan pekerjaannya. Para Altmer menyebut ketidaksempurnaan ini sebagai "Mundus yang cacat" — dunia yang seharusnya lebih baik dari yang ada sekarang, yang seharusnya memiliki lebih banyak magicka, lebih sedikit penderitaan, lebih banyak kemungkinan, jika saja Magnus tidak kabur.
+
+Magna-Ge yang tinggal di Aetherius sekarang — ribuan atau mungkin jutaan Et'Ada yang melarikan diri — jarang berkomunikasi dengan Mundus. Mereka hidup di alam cahaya yang tak terbatas, mungkin merenungkan pilihan mereka, mungkin tidak. Beberapa teks esoteris menyebutkan bahwa mereka bisa berkomunikasi — bahwa pola-pola bintang yang mereka tinggalkan bukan hanya lubang acak, melainkan pesan-pesan yang dikodekan yang bisa dibaca oleh mereka yang tahu caranya. Itulah mengapa astrologi di Tamriel bukan sekadar takhayul: konstelasi-konstelasi yang dilihat oleh para astrologer adalah, dalam pengertian tertentu, tulisan dari makhluk-makhluk ilahi.
+
+Ada satu anggota Magna-Ge yang perlu disebutkan secara khusus: Mnemo-Li, yang dalam beberapa teks Psijic disebut sebagai "Ibu Waktu" — Et'Ada perempuan yang melarikan diri bersama Magnus namun yang, dari Aetherius, terus memantau perkembangan Mundus. Mnemo-Li konon adalah entitas yang "mengingat" seluruh sejarah Aurbis — setiap peristiwa, setiap pilihan, setiap kehidupan yang pernah ada — dan yang menyimpan ingatan-ingatan itu dalam bentuk Elder Scrolls. Jika teori ini benar, maka Elder Scrolls bukan hanya artefak misterius — mereka adalah memori Mnemo-Li, catatan yang ia buat tentang semua yang pernah terjadi dan semua yang mungkin terjadi.³
+
+<i>³ Catatan Lore: Teori tentang Mnemo-Li dan hubungannya dengan Elder Scrolls tidak secara eksplisit disebutkan di dalam game, namun ia konsisten dengan apa yang kita ketahui tentang sifat Elder Scrolls: bahwa mereka "mencatat" kemungkinan-kemungkinan dari berbagai perspektif, bahwa membacanya memberi penglihatan tentang masa depan dan masa lalu, dan bahwa konsekuensi membacanya (kebutaan bertahap bagi Moth Priest) menunjukkan bahwa informasi yang terkandung di dalamnya berasal dari sumber yang melampaui kemampuan pikiran fana untuk diproses.</i>
+
+
+
+<h2><b>V. AEDRA — MEREKA YANG MEMBERI</b></h2>
+
+Kini kita sampai pada kelompok Et'Ada yang paling dikenal — paling disembah, paling didoakan, paling diandalkan oleh makhluk-makhluk fana di seluruh Tamriel: Aedra, atau "Para Pelopor" dalam bahasa Ehlnofey kuno.
+
+Nama "Aedra" berasal dari kata Ehlnofey aedra, yang berarti "nenek moyang" atau "leluhur" — nama yang dipilih karena Aedra adalah, secara harfiah, nenek moyang dari semua kehidupan di Mundus. Mereka adalah Et'Ada yang memilih untuk memberikan bagian dari diri mereka untuk menciptakan Mundus, dan dalam proses itu, mereka menjadi sesuatu yang berbeda dari yang mereka dulunya — kurang tak terbatas, lebih terdefinisi, lebih terikat, namun juga, dalam beberapa cara, lebih nyata.
+
+Apa yang Aedra korbankan? Para sarjana menggunakan berbagai cara untuk mendeskripsikannya, namun yang paling tepat mungkin adalah ini: mereka mengorbankan prerogative mereka untuk berubah. Sebelum penciptaan Mundus, Et'Ada yang kelak menjadi Aedra bisa berubah bentuk sesuka hati, bisa menjadi apa pun, bisa ada di mana pun secara bersamaan, bisa membatalkan setiap keputusan dan memulai ulang. Mereka adalah entitas yang benar-benar tak terbatas.
+
+Namun untuk menciptakan Mundus — untuk membuat dunia yang permanen, yang nyata, yang memiliki hukum-hukum yang konsisten dan tidak berubah sesuai kehendak penciptanya — mereka harus "menenun" bagian dari esensi mereka ke dalam fondasi dunia itu. Dan begitu esensi itu ditenun ke dalam Mundus, ia tidak bisa ditarik kembali. Aedra tidak bisa "meminta balik" apa yang telah mereka berikan. Mereka terikat kepada Mundus, untuk selamanya — dalam arti yang paling literal: sebagian besar dari siapa mereka sekarang adalah Mundus.
+
+Inilah mengapa Aedra tampak "lemah" dibandingkan Daedra kepada mereka yang tidak memahami kosmologi: karena Aedra lebih kecil dari apa yang dulunya mereka. Kekuatan ilahi mereka yang tak terbatas sebagian besar sudah menjadi tanah di bawah kaki kita, lautan yang kita berlayari, langit yang kita hirup. Apa yang tersisa dari mereka sebagai "entitas individual" hanyalah... sebagian kecil dari apa yang dulunya ada.
+
+Namun "sebagian kecil" dari Et'Ada yang dulunya tak terbatas masih sangat jauh dari jangkauan pemahaman kita.
+
+Tradisi Imperial mengenal Delapan Aedra yang menjadi Eight Divines — dan kemudian Sembilan Divines setelah Tiber Septim diangkat menjadi Talos. Namun perlu dipahami bahwa "Delapan" ini adalah kategori yang sangat terbatas dan sangat dipengaruhi oleh perspektif manusia Imperial. Dalam kenyataannya, jumlah Et'Ada yang mengorbankan diri untuk Mundus jauh lebih banyak — namun sebagian besar dari mereka sudah menyerahkan begitu banyak dari diri mereka sehingga "sisa" yang bisa bertindak sebagai entitas independen terlalu kecil untuk dikenal secara individual. Mereka menjadi bagian dari "alam" — angin, batu, api, air — tanpa nama dan tanpa kesadaran individual yang cukup untuk berinteraksi dengan makhluk fana.
+
+Delapan Aedra yang tersisa sebagai entitas yang bisa dikenal adalah:
+
+Akatosh (dalam bahasa Altmer: Auri-El, dalam bahasa Nordic: Alduin/Akatosh, dalam bahasa Khajiit: Alkosh) — Naga Waktu, paling kuat dari Delapan, yang keberadaannya membuat waktu linier mungkin. Akatosh adalah "poros roda" — tanpa ia, realitas Mundus tidak bisa bertahan. Ia digambarkan sebagai naga emas yang abadi, dan koneksinya dengan Dragonborn — manusia-manusia pilihan yang bisa menggunakan kekuatan naga — adalah salah satu misteri terbesar dalam sejarah Tamriel.
+
+Arkay (dalam bahasa Altmer: Xarxes, dalam bahasa Khajiit: Arkay juga) — Dewa Kelahiran dan Kematian, Penjaga Siklus. Arkay adalah dewa yang paling sering disalahpahami: ia bukan "dewa kematian" dalam artian gelap — ia adalah dewa siklus, yang memastikan bahwa kehidupan dan kematian berputar dengan tertib. Hubungannya dengan Sithis kompleks dan paradoksal: Arkay mengatur siklus yang Sithis manifestasikan.
+
+Dibella (dalam bahasa Altmer: Dibella, dalam bahasa Nordic: Dibella) — Dewi Keindahan, Cinta, dan Seni. Dibella adalah salah satu Aedra yang paling sering disalahpahami sebagai "dewi cinta fisik" semata — namun kultusnya yang paling tua menyembahnya sebagai dewi dari semua bentuk keindahan: keindahan alam, keindahan seni, keindahan emosi manusia. Templar Dibella dikenal bukan hanya karena kecantikan fisik mereka tetapi karena kemampuan mereka untuk melihat keindahan dalam hal-hal yang tersembunyi dari mata orang biasa.
+
+Julianos (dalam bahasa Altmer: Jhunal, dalam bahasa Nordic: Jhunal juga) — Dewa Kebijaksanaan, Logika, dan Pengetahuan. Julianos adalah pelindung para penyihir, sarjana, dan filsuf. College of Winterhold dan Arcane University keduanya, dalam tradisi yang berbeda, mengakui hutang mereka kepada Julianos. Yang menarik tentang Julianos adalah bahwa ia adalah salah satu Aedra yang paling "tidak antropomorfis" — pemujaannya jarang melibatkan doa-doa personal atau permintaan-permintaan kepada entitas yang "mendengarkan", melainkan dedikasi kepada prinsip kebijaksanaan itu sendiri.
+
+Kynareth (dalam bahasa Altmer: Kyne, dalam bahasa Nordic: Kyne) — Dewi Angin, Alam, dan Langit. Kynareth adalah Aedra yang paling dekat dengan Nirn dalam pengertian elemental: ia adalah angin yang bertiup, hujan yang turun, badai yang menerjang. Para pelaut memohon berkahnya sebelum berlayar. Para petani berdoa kepadanya agar hujan datang tepat waktu. Dan para pejuang Nordic yang mengikuti "Way of the Voice" — thu'um, seni berteriak dalam bahasa naga — percaya bahwa kekuatan suara mereka adalah hadiah dari Kyne.
+
+Mara (dalam bahasa Altmer: Mara, dalam bahasa Nordic: Mara juga) — Dewi Kasih Sayang, Cinta, dan Keluarga. Mara adalah Aedra yang paling universal — hampir semua ras di Tamriel memiliki bentuk pemujaan terhadap dewi kasih sayang, walau dengan nama yang berbeda. Di Skyrim, kuil Mara adalah tempat di mana pernikahan dilangsungkan. Di Morrowind, ia dikenal sebagai pelindung para ibu. Di Hammerfell, ia adalah dewi yang menjaga mereka yang terluka hatinya.
+
+Stendarr (dalam bahasa Altmer: Stendarr, dalam bahasa Nordic: Stuhn) — Dewa Belas Kasihan, Keadilan, dan Pertahanan. Stendarr adalah dewa yang paling kompleks dari Eight Divines: ia adalah dewa belas kasihan, namun pengikutnya yang paling fanatik — Vigilants of Stendarr — dikenal karena kekerasan mereka terhadap makhluk-makhluk supernatural (vampire, werewolf, Daedra). Paradoks ini — belas kasihan yang diterapkan melalui kekerasan — adalah inti dari teologi Stendarr yang paling dalam.
+
+Zenithar (dalam bahasa Altmer: Zenithar, dalam bahasa Nordic: Tsun sebagian) — Dewa Kerja, Perdagangan, dan Kemakmuran. Zenithar adalah dewa yang paling "duniawi" dari Eight Divines — ia peduli dengan urusan sehari-hari: perdagangan yang adil, kerja keras yang dihargai, kemakmuran yang dibagi. Pedagang-pedagang Imperial sebelum menandatangani kontrak besar sering berdoa kepada Zenithar. Para pengrajin memohon berkahnya atas karya mereka. Dan penghitungan tertentu di antara para sarjana menyebutkan bahwa Zenithar adalah Aedra yang paling "dekat" dengan kehidupan fana sehari-hari — yang paling sering memberikan petunjuk-petunjuk praktis kepada pemujaannya, bukan dalam bentuk mukjizat besar, melainkan dalam bentuk keberuntungan kecil yang menumpuk menjadi kemakmuran.
+
+Kita akan membahas setiap Aedra ini secara jauh lebih mendalam di Bab 26. Untuk saat ini, yang paling penting untuk dipahami adalah hakikat pengorbanan mereka dan apa artinya bagi kita.
+
+
+
+<h2><b>VI. DAEDRA — MEREKA YANG TIDAK MEMBERI<b></h2>
+
+Di sisi lain spektrum dari Aedra terdapat Daedra — Et'Ada yang memilih jalan yang berbeda. Nama "Daedra" berasal dari kata Ehlnofey daedroth, yang berarti "tidak pernah ada" atau "yang berasal dari luar" — sebuah nama yang agak paradoksal, karena Daedra jelas-jelas ada.
+
+Namun nama itu mencerminkan sesuatu yang penting tentang sifat Daedra: mereka tidak pernah berpartisipasi dalam penciptaan Mundus. Ketika Lorkhan mengundang para Et'Ada untuk berkontribusi dalam proyeknya, Daedra — atau Et'Ada yang kelak menjadi Daedra — menolak. Beberapa menolak karena takut kehilangan kekuatan mereka, seperti Magna-Ge. Namun berbeda dengan Magna-Ge yang kabur ke Aetherius, Daedra tidak kabur — mereka menolak secara aktif dan sadar, dan tetap tinggal di Aurbis, mengklaim wilayah-wilayah mereka sendiri (yang kelak menjadi realm-realm Oblivion) dan terus eksis sebagai entitas ilahi yang sepenuhnya utuh.
+
+Inilah perbedaan fundamental antara Aedra dan Daedra yang paling sering disalahpahami oleh makhluk fana: ini bukan tentang baik dan jahat. Ini tentang apakah mereka berkontribusi pada penciptaan Mundus atau tidak.
+
+Aedra tidak secara inheren "baik" — mereka bisa kejam, tidak peduli, bahkan destruktif dalam cara mereka sendiri. Daedra tidak secara inheren "jahat" — beberapa dari mereka, seperti Azura dan Meridia, sering membantu makhluk fana dan bahkan bisa dikategorikan sebagai "baik" dalam perspektif tertentu.
+
+Perbedaannya adalah ini: karena Daedra tidak mengorbankan bagian dari diri mereka untuk Mundus, mereka masih utuh. Mereka masih memiliki kekuatan ilahi penuh mereka, kebebasan penuh mereka, ketidakterbatasan penuh mereka. Mereka bisa mengubah wujud, bisa ada di mana pun, bisa membalikkan keputusan mereka. Mereka tidak terikat kepada Mundus dengan cara yang sama seperti Aedra terikat.
+
+Inilah mengapa Daedra tampak "lebih kuat" dari Aedra dalam interaksi sehari-hari. Bukan karena mereka sejatinya lebih kuat — Aedra yang dalam keadaan penuh (sebelum pengorbanan) setidaknya sebanding dengan Daedra — melainkan karena kekuatan Aedra sebagian besar "terkunci" di dalam struktur Mundus dan tidak bisa digunakan secara bebas.
+
+Namun ada harga yang dibayar oleh Daedra untuk mempertahankan kekuasaan penuh mereka: ketidakmampuan untuk berubah secara fundamental. Daedra, menurut teks kunci "On Oblivion" yang ditemukan di Arcane University, adalah entitas yang:
+
+<i>"...tidak bisa berbohong dalam arti yang paling dalam — tidak bisa menyangkal sifat mereka sendiri. Molag Bal selalu mendominasi; ia tidak bisa menjadi kelembutan. Mehrunes Dagon selalu menghancurkan; ia tidak bisa menjadi penciptaan. Hermaeus Mora selalu mencari pengetahuan; ia tidak bisa berhenti ingin tahu. Mereka adalah essensi yang terpatok — bebas dalam segala hal kecuali dalam hal yang paling fundamental: mereka tidak bisa menjadi sesuatu yang mereka bukan."</i>
+
+Inilah paradoks terbesar Daedra: mereka tampaknya memiliki kebebasan yang tak terbatas, namun sesungguhnya mereka terikat oleh sifat mereka sendiri lebih kuat dari belenggu apa pun. Molag Bal tidak memilih untuk mendominasi — ia adalah dominasi. Mehrunes Dagon tidak memilih untuk menghancurkan — ia adalah kehancuran. Kebebasan sejati — kemampuan untuk memilih menjadi sesuatu yang berbeda dari apa yang kau adalah — adalah sesuatu yang justru dimiliki oleh makhluk fana.
+
+Para Sixteen Daedric Prince adalah Daedra yang paling kuat dan paling dikenal. Mereka masing-masing menguasai satu realm di Oblivion dan merepresentasikan satu konsep atau aspek dari realitas:
+
+Azura — Fajar dan Senja, Transisi, Keangkuhan yang Elegan. Azura adalah Prince yang paling sering digambarkan secara positif dalam lore Tamriel — ia membantu Dunmer pada momen-momen kritis, ia memperingatkan tentang pengkhianatan, ia memandu mereka yang mencari kebenaran. Namun "kebaikannya" selalu datang dengan harga: kesetiaan total, pemujaan yang tak pernah goyah, dan kesediaan untuk digunakan dalam permainan yang lebih besar yang tidak selalu selaras dengan kepentingan individual.
+
+Boethiah — Tipu Muslihat, Konspirasi, Ambisi, dan Kekuatan Melalui Pengkhianatan. Boethiah mengajarkan bahwa kejayaan diperoleh bukan melalui kesetiaan tetapi melalui kemampuan untuk melampaui batasan-batasan yang diberlakukan oleh orang lain — termasuk batasan-batasan moralitas. Dalam legenda Dunmer, Boethiah memakan Trinimac — Et'Ada yang kuat, dewa keperwiraan Altmer — dan dari tubuhnya yang telah dicerna melahirkan Malacath.
+
+Clavicus Vile — Kekuasaan, Perjanjian, dan Keinginan. Clavicus Vile adalah master dari permainan kata — ia memberikan apa yang kau minta, bukan apa yang kau inginkan, dan perbedaan itu hampir selalu fatal bagi pihak yang meminta. Ia digambarkan sebagai anak kecil yang tampak tidak berbahaya namun yang senyumnya menyembunyikan kedalaman kelicikan yang tak terukur.
+
+Hermaeus Mora — Pengetahuan, Takdir, dan Ingatan. Ia yang tahu segalanya dan tidak peduli dengan apa yang ia tahu. Hermaeus Mora tidak jahat dalam artian aktif mencari kehancuran — ia hanyalah mengumpulkan, mencatat, mengarsipkan. Setiap rahasia, setiap kebenaran tersembunyi, setiap momen dari semua sejarah yang pernah ada — semuanya tersimpan di Apocrypha. Dan harga untuk mengaksesnya biasanya adalah sesuatu yang tidak bisa dikembalikan.
+
+Hircine — Perburuan, Binatang, dan Transformasi. Hircine adalah Prince yang paling "alami" dari semuanya — ia tidak mewakili konsep abstrak melainkan naluri yang paling primitif: naluri predator, naluri mangsa, tatapan antara yang mengintai dan yang diintai, momen sebelum cengkeraman dan momen setelah taring menggigit. Ia tidak jahat; ia hanyalah alam dalam bentuknya yang paling murni dan paling kejam.
+
+Jyggalag — Keteraturan, Logika, dan Ketat. Jyggalag adalah Prince yang paling berbeda dari semua Daedra karena ia mewakili bukan kekacauan atau ketidakpastian, melainkan tatanan yang sempurna. Ia begitu kuat sehingga Daedric Prince lainnya — takut dengan ekspansi realmnya yang terus-menerus dan metodis — bersekongkol untuk mengutuknya, mengubahnya menjadi Sheogorath, Prince of Madness. Sebuah ironi kosmis yang kejam: Prince of Order dikutuk menjadi Prince of Madness. Namun pada akhir Third Era, kutukan itu patah — Jyggalag bebas, dan Sheogorath perlu pengganti baru.
+
+Malacath — Orang-Orang yang Terbuang, Pengkhianatan, dan Sumpah Darah. Malacath lahir dari Trinimac yang dimakan oleh Boethiah — transformasi dari dewa keperwiraan menjadi dewa kemarahan dan pengasingan. Para Orc menyembahnya karena ia memahami apa artinya ditolak, dibuang, dan dipandang rendah — dan mengajarkan bahwa kekuatan sejati tidak datang dari penerimaan masyarakat, melainkan dari kemampuan untuk bertahan tanpa penerimaan itu.
+
+Mehrunes Dagon — Kehancuran, Revolusi, dan Perubahan Melalui Kekerasan. Dagon adalah Prince yang ambisinya paling sering berbenturan dengan Mundus: ia ingin menghancurkan dan membangun kembali, lagi dan lagi, tanpa henti. Oblivion Crisis — serangan besarnya terhadap Mundus di 3E 433 — bukan satu-satunya upayanya; ada bukti intervensinya dalam beberapa katastrofe sejarah sebelumnya, termasuk kemungkinan keterlibatannya dalam peristiwa yang mengakhiri Merethic Era.
+
+Mephala — Tipu Daya, Rahasia, Seks, dan Pembunuhan. Mephala dikenal di antara Dunmer kuno sebagai Webspinner — penenun jaring intrik yang merentang di antara ras-ras dan kerajaan-kerajaan. Ia mengajarkan seni rahasia — bagaimana memanipulasi tanpa terlihat memanipulasi, bagaimana membunuh tanpa meninggalkan jejak, bagaimana mengendalikan tanpa tampak mengendalikan. Morag Tong — gilda pembunuh resmi Morrowind — mengklaim dirinya sebagai organisasi asli Mephala, berbeda dari Dark Brotherhood yang mereka anggap sebagai schisma yang sesat.
+
+Meridia — Cahaya, Kehidupan, dan Kebencian terhadap Kematian Tidak Alami. Meridia adalah salah satu Daedric Prince yang paling sering "bersekutu" dengan kepentingan fana — ia membenci undead dengan intensitas yang tidak bisa dijelaskan oleh kebanyakan teolog. Kuil-kuilnya tersebar di seluruh Tamriel, dan Dawnbreaker — pedang sucinya — adalah senjata yang paling efektif melawan undead yang pernah dibuat. Namun "kebaikan" Meridia selalu datang dengan nada fanatik yang tidak nyaman.
+
+Molag Bal — Dominasi, Perbudakan, Korupsi, dan Kekuasaan atas Jiwa. Molag Bal adalah Prince yang paling secara aktif bermusuhan dengan Mundus dan makhluk-makhluknya. Ia menciptakan vampire pertama sebagai agen korupsinya di Mundus. Ia menciptakan soul gem sebagai alat untuk menjebak jiwa-jiwa fana. Dan dalam era ESO, ia mencoba untuk secara literal menggabungkan Coldharbour dengan Nirn melalui Planemeld — invasi kosmis yang, jika berhasil, akan menjadikan seluruh Mundus sebagai bagian dari realmnya.
+
+Namira — Kerusakan, Kegelapan, dan Hal-Hal yang Membuatmu Jijik. Namira adalah Prince yang paling tidak dikenal dan mungkin paling tidak nyaman untuk dibicarakan. Ia mewakili semua hal yang dijauhi peradaban — pembusukan, kotoran, kanibalisme, kehancuran yang merangkak pelan. Pengikutnya — cultist yang makan daging manusia — tidak banyak, namun kehadiran mereka menjadi pengingat bahwa bahkan aspek-aspek paling gelap dari eksistensi memiliki Prince-nya sendiri.
+
+Nocturnal — Malam, Bayangan, dan Nasib. Nocturnal adalah Prince yang paling misterius — bahkan di antara sesama Daedric Prince, ia dikenal sebagai sosok yang tidak pernah sepenuhnya bisa dipahami. Ia adalah "Original Void" — bukan dalam artian Sithis, melainkan dalam artian bahwa ia mewakili potensi yang belum terwujud, kemungkinan yang belum menjadi kenyataan. Nightingales, agennya di Mundus, bertugas setelah kematian mereka di Evergloam — bukan sebagai hukuman, menurut Nocturnal, melainkan sebagai "kontrak abadi".
+
+Peryite — Wabah, Keteraturan dalam Kekacauan, dan Penyakit. Peryite sering dianggap sebagai Daedric Prince yang paling lemah — yang paling mudah diabaikan, yang paling jarang mendapat pemujaan yang serius. Ia tampak seperti naga kecil yang kelabu dan tidak mengancam. Namun dalam realitas, ia adalah penguasa dari aspek keteraturan yang paling fundamental: siklus biologis. Wabah dan penyakit bukan hanya kekacauan — mereka memiliki logika mereka sendiri, pola penyebaran, mekanisme seleksi. Dan Peryite adalah penguasa dari "logika tersembunyi" ini.
+
+Sanguine — Dosa, Kesenangan, dan Penistaan Norma Sosial. Sanguine adalah Prince yang paling "menyenangkan" untuk dihadapi — setidaknya tampaknya demikian. Ia adalah Prince of Debauchery, pelindung semua kesenangan yang dianggap terlarang oleh masyarakat yang taat aturan. Sanguine Rose — artefaknya — adalah bukti dari selera humornya yang gelap: sebuah hadiah yang terlihat murah hati namun yang selalu berakhir dengan komplikasi.
+
+Sheogorath — Kegilaan, Absurditas, dan Kebenaran yang Tersembunyi di Balik Kegilaan. Sheogorath adalah favorit para penutur kisah dan paling sering dipanggil dalam anekdot-anekdot komedi tentang dewa-dewa. Namun di balik perilakunya yang aneh dan tampaknya tidak berbahaya tersembunyi sesuatu yang jauh lebih dalam: kegilaan sebagai jalan menuju kebenaran yang tidak bisa dicapai oleh akal sehat. Beberapa kebijaksanaan paling mendalam dalam seluruh lore Tamriel datang dari mulut Sheogorath.
+
+Vaermina — Mimpi Buruk, Teror Psikologis, dan Panen Ingatan. Vaermina adalah Prince yang realmnya — Quagmire — adalah tempat yang paling dijauhi dari semua Oblivion: alam mimpi buruk yang terus berubah, di mana setiap kali korban merasa sudah memahami situasinya, situasi itu berubah menjadi sesuatu yang lebih mengerikan. Ia memanen ingatan dari orang-orang yang tertidur, menggunakannya untuk membuat mimpi buruk yang lebih personal dan lebih efektif.
+
+Kita akan membahas setiap Daedric Prince ini secara ekstensif di Bab 27 — termasuk sejarah, artefak, realm, dan interaksi mereka dengan Mundus. Untuk saat ini, yang penting dipahami adalah bahwa keenambelas Prince ini adalah Et'Ada yang masih utuh — kekuatan asli mereka tidak dikurangi oleh pengorbanan, dan ini membuat mereka jauh lebih mudah berinteraksi dengan dunia fana daripada Aedra yang kekuatannya sudah "tertanam" di Mundus.⁴
+
+<i>⁴ Catatan Lore: Ada perdebatan di kalangan sarjana tentang apakah benar-benar ada 16 Daedric Prince, atau apakah jumlahnya berbeda. Beberapa sumber menyebutkan lebih banyak Prince (Mehrunes Dagon dalam beberapa teks dianggap sebagai "aspek" dari Prince lain, misalnya). Ada juga teori bahwa beberapa Prince adalah "aspek" dari satu entitas yang sama dilihat dari perspektif berbeda. Namun "Sixteen Princes" telah menjadi angka kanonik dalam tradisi akademis Tamriel.</i>
+
+
+
+<h2><b>VII. LORKHAN — ET'ADA YANG TIDAK COCOK DI MANA-MANA</b></h2>
+
+Dan kemudian ada Lorkhan.
+
+Jika Ada dan Daedra adalah dua kutub dari spektrum Et'Ada, dan Magna-Ge adalah mereka yang memilih untuk tidak memilih, maka Lorkhan adalah sesuatu yang sama sekali berbeda. Ia bukan Aedra, bukan Daedra, bukan Magna-Ge. Ia adalah... Lorkhan. Kategori dirinya sendiri. Anomali kosmis yang, tergantung siapa yang menceritakannya, adalah pahlawan terbesar atau penjahat terbesar yang pernah ada di Aurbis.
+
+The Monomyth — teks yang mencoba untuk merekonsiliasi berbagai versi cosmogony dari berbagai tradisi — mendeskripsikan Lorkhan dengan cara yang paling netral namun paling menusuk:
+
+<i>"Ada Et'Ada yang disebut Lorkhan. Sebagian mengatakan ia terlahir dari sisi gelap Anu; sebagian mengatakan ia adalah ekspresi Padomay yang paling murni; sebagian lagi mengatakan ia tidak terlahir sama sekali — ia selalu ada, menunggu, seperti lubang di tengah sesuatu yang seharusnya utuh. Namun semua sepakat tentang satu hal: Lorkhan memiliki ide. Dan ide itu mengubah segalanya."</i>
+
+Ide Lorkhan adalah menciptakan Mundus — sebuah dunia fana di tengah Aurbis, sebuah arena di mana sesuatu yang baru bisa terjadi. Mengapa? Motivasinya bergantung sepenuhnya pada siapa yang menceritakannya:
+
+Altmer: Lorkhan adalah penipu jahat yang membohongi para Et'Ada agar mengorbankan kekuatan mereka, menciptakan "jebakan" kosmis untuk memenjarakan jiwa-jiwa yang seharusnya bebas.
+Nordic: Lorkhan adalah pahlawan yang tragis yang menciptakan arena ujian untuk jiwa-jiwa — tempat di mana keberanian sejati bisa dibuktikan.
+Dunmer: Lorkhan adalah kekuatan yang tidak bisa dihindari — bukan baik, bukan jahat, melainkan perlu, seperti Sithis yang perlu.
+Imperial: Lorkhan adalah Shezarr, Dewa yang Hilang — yang mana kehilangannya adalah tragedi yang harus diratapi dan yang kepentingannya terhadap manusia harus diakui.
+Khajiit: Lorkhan adalah Lorkhaj, Jantung Kecil — anak bungsu Fadomai yang lahir dari kegelapan dan membawa kegelapan ke dalam dunia, namun yang juga memberikan Nirni (Nirn) sebuah "jantung" — Red Mountain yang berdetak di tengah-tengahnya.
+Kisah Lorkhan — rencananya, Convention, hukumannya, dan nasib jantungnya — akan menjadi seluruh fokus Bab 4. Untuk sekarang, yang perlu dipahami adalah bahwa Lorkhan adalah Et'Ada yang paling penting dari semua Et'Ada, karena keputusannya menciptakan Mundus — tanpanya, tidak ada Nirn, tidak ada Tamriel, tidak ada kita.
+
+
+
+<h2><b>VIII. HIERARKI DI ANTARA ET'ADA — KEKUATAN DAN KEBEBASAN</b></h2>
+
+Salah satu pertanyaan yang paling sering diajukan oleh para mahasiswa teologi adalah: "Mengapa para dewa tidak menyelesaikan semua masalah kita? Jika mereka begitu kuat, mengapa mereka membiarkan perang, wabah, dan penderitaan berlanjut?"
+
+Jawaban untuk pertanyaan ini terletak pada pemahaman tentang hierarki kekuatan dan kebebasan di antara Et'Ada, dan bagaimana masing-masing kelompok terikat oleh batasan-batasan yang berbeda.
+
+Untuk Daedra: Mereka paling bebas untuk bertindak langsung di Mundus, namun ada beberapa pembatasan. Pertama, Liminal Barriers yang dibahas di Bab 2 membatasi kehadiran fisik mereka. Kedua — dan ini lebih fundamental — hukum kosmis yang tidak tertulis melarang Daedric Prince untuk secara langsung berinteraksi dengan Mundus tanpa mediasi: artefak, avatar, kontrak dengan makhluk fana, atau undangan yang sah. Mereka bisa berbisik, bisa mengirim agen, bisa memberikan kekuatan melalui perjanjian — namun untuk masuk ke Mundus dalam wujud asli mereka memerlukan keadaan yang sangat luar biasa.
+
+Inilah mengapa, selama Oblivion Crisis, Mehrunes Dagon tidak segera muncul di Imperial City begitu Oblivion Gate pertama terbuka: ia harus menunggu sampai kondisi kosmis cukup lemah (Dragonfires padam, Liminal Barriers melemah) untuk bisa memanifestasikan diri. Dan bahkan ketika ia akhirnya muncul — dengan tubuh raksasanya di halaman White-Gold Tower — ia tidak bisa bertahan lama: Akatosh mengusirnya kembali ke Deadlands.
+
+Untuk Aedra: Situasinya lebih kompleks dan lebih menyedihkan. Karena sebagian besar kekuatan mereka sudah "tertanam" di struktur Mundus, mereka tidak bisa bertindak bebas seperti Daedra. Setiap kali Aedra mencoba untuk "mengambil kembali" kekuatan yang telah mereka sumbangkan untuk Mundus — untuk mewujudkan diri secara penuh di dunia fana — itu sama artinya dengan menarik fondasi dari bawah dunia itu sendiri. Jika Akatosh memanifestasikan diri sepenuhnya di Nirn, ia akan menarik begitu banyak substansi dari Mundus sehingga waktu di sekitarnya akan berhenti, realitas akan runtuh, dan Dragon Break akan terjadi.
+
+Inilah mengapa Aedra hampir selalu berinteraksi dengan Mundus melalui avatar — proyeksi yang jauh lebih lemah dari diri asli mereka — atau melalui berkah, tanda, dan pengaruh tidak langsung. Ketika Kynareth mengabulkan doa seorang petani dengan mengirimkan hujan, ia tidak "mengirimkan" hujan dari luar Mundus — hujan itu adalah bagian darinya yang sudah ada di Mundus, yang ia arahkan melalui perhatiannya yang terfokus. Ketika Akatosh muncul sebagai avatar selama Oblivion Crisis, avatar itu hanyalah sebagian kecil dari dirinya — cukup besar untuk mengalahkan Dagon, namun jauh dari kepenuhan Akatosh yang sejati.
+
+Untuk Magna-Ge: Mereka hampir tidak bisa berinteraksi dengan Mundus sama sekali. Setelah melarikan diri ke Aetherius, mereka ada di "sisi lain" dari Mundus — jauh sekali, dipisahkan oleh Liminal Barriers yang tidak bisa ditembus dari arah itu. Satu-satunya cara mereka berinteraksi adalah melalui cahaya yang memancar dari lubang-lubang yang mereka tinggalkan — bintang-bintang. Dan jika teori tentang konstelasi sebagai "pesan" benar, maka itu adalah satu-satunya komunikasi yang bisa mereka lakukan.
+
+Untuk makhluk fana: Dan di sinilah paradoks terbesar dari seluruh kosmologi Aurbis: makhluk-makhluk yang tampaknya paling lemah — manusia, Mer, Khajiit, Argonian, dan ras-ras lain yang menghuni Nirn — adalah yang paling bebas. Mereka tidak terikat oleh sifat fundamental mereka seperti Daedra. Mereka tidak terikat oleh pengorbanan yang telah membuat sebagian besar kekuatan mereka menjadi bagian dari dunia seperti Aedra. Mereka tidak terjebak di alam yang terpisah seperti Magna-Ge.
+
+Makhluk fana bisa memilih. Bisa berubah. Bisa menjadi sesuatu yang berbeda dari apa yang mereka lahir sebagai. Dan pilihan-pilihan itu — pilihan-pilihan kecil dari makhluk-makhluk kecil yang hidup hanya beberapa dekade — kadang-kadang memiliki konsekuensi kosmis yang jauh melampaui apa yang bisa dicapai oleh dewa mana pun melalui intervensi langsung.
+
+CHIM. Mantling. Apotheosis. Semua konsep ini adalah tentang makhluk fana yang melampaui batasan mereka — bukan menjadi dewa, melainkan menjadi sesuatu yang bahkan dewa tidak bisa menjadi: entitas yang dengan sadar memilih untuk menjadi apa yang mereka adalah, yang memahami sifat Mimpi namun memilih untuk terus bermimpi, yang memegang paradoks "aku adalah bagian dari segalanya dan segalanya adalah bagian dari aku" tanpa kehilangan diri mereka dalam proses itu.
+
+Ini, mungkin, adalah alasan sebenarnya mengapa Lorkhan menciptakan Mundus. Bukan untuk menjebak jiwa-jiwa ilahi. Bukan untuk menciptakan penjara. Melainkan untuk menciptakan panggung di mana kebebasan sejati bisa muncul — di mana makhluk-makhluk yang cukup kecil dan cukup sementara bisa melakukan sesuatu yang tidak bisa dilakukan oleh entitas tak terbatas mana pun: menjadi lebih dari diri mereka sendiri.
+
+
+
+<h2><b>IX. PERTARUNGAN ANTARA ET'ADA — PERANG YANG MEMBENTUK SEJARAH</b></h2>
+
+Sebelum Mundus ada — bahkan sebelum penciptaan Mundus dimulai — para Et'Ada sudah berperang satu sama lain. Konflik di antara mereka mendahului semua konflik lain di Aurbis, dan banyak konflik fana yang tampaknya tentang politik atau agama atau wilayah sebenarnya adalah kelanjutan dari perang-perang kosmis yang dimulai jauh sebelum ada ras fana untuk melawannya.
+
+Salah satu konflik paling awal yang dicatat adalah antara Auri-El (Akatosh) dan Lorkhan. Ketika Lorkhan mengajukan rencana Mundus, Auri-El — yang paling dekat dengan "Stasis" di antara semua Et'Ada — awalnya menolak keras. Bagi Auri-El, Mundus adalah ancaman terhadap kesempurnaan Aurbis: sebuah "noda" di kain yang sempurna, sebuah kekacauan yang tidak perlu di dalam tatanan yang sudah ada. Ia membutuhkan waktu — dan bujukan yang sangat, sangat sabar dari Lorkhan — untuk akhirnya menerima terlibat.
+
+Namun bahkan setelah Auri-El setuju, ia tidak pernah benar-benar mempercayai Lorkhan. Dan ketika Convention terjadi — ketika para Aedra menyadari bahwa Lorkhan telah menipu mereka (atau memberi mereka informasi yang tidak lengkap) tentang harga penciptaan Mundus — Auri-El adalah yang paling keras dalam menuntut hukuman.
+
+Ada juga konflik antara Trinimac dan Boethiah — konflik yang, dalam satu momen mengerikan, menghasilkan transformasi Trinimac menjadi Malacath. Trinimac adalah Et'Ada yang kuat, dewa keperwiraan dan kekuatan bagi para Aldmer kuno — seorang panglima ilahi yang membenci Lorkhan dan yang membantu Auri-El dalam menuntut hukuman atas Lorkhan. Namun Boethiah — Prince of Deceit — memakannya, mencernanya, dan menghembuskan "sisa-sisa" yang tidak bisa dicerna menjadi Malacath, dewa murka dan pengasingan.⁵
+
+<i>⁵ Catatan Lore: Kisah Trinimac/Malacath adalah salah satu yang paling menarik dan paling ambigu dalam seluruh lore Elder Scrolls. Apakah Malacath benar-benar "sisa-sisa" Trinimac yang dicerna oleh Boethiah? Atau apakah ini mitologi yang diciptakan untuk menjelaskan mengapa Orsimer (Orc) — yang menyembah Malacath — dulunya menyembah Trinimac sebelum "dikutuk" oleh Boethiah? Para Orc sendiri memiliki pandangan yang kompleks: banyak dari mereka menganggap Malacath sebagai entitas yang berbeda dari Trinimac, bukan transformasi dari Trinimac. Dan Malacath sendiri, dalam dialog yang sangat jarang, tampaknya tidak senang dengan perbandingan antara dirinya dan Trinimac.</i>
+
+Konflik-konflik lain antara Et'Ada — terlalu banyak untuk didaftar secara lengkap — menghasilkan pembagian-pembagian lebih lanjut dalam kelompok-kelompok besar. Daedra yang berperang satu sama lain. Aedra yang tidak setuju tentang bagaimana Mundus seharusnya dibentuk. Magna-Ge yang kabur dalam gelombang-gelombang terpisah, masing-masing membentuk konstelasi mereka sendiri.
+
+Dan dari semua konflik ini, satu yang akan memiliki dampak paling besar pada masa depan Tamriel: konflik antara Naga dan manusia di Skyrim kuno. Namun itu adalah kisah untuk Bab 7 dan seterusnya.
+
+
+
+<h2><b>X. PENUTUP — ANTARA DEWA DAN MANUSIA</b></h2>
+
+Kita telah bertemu Et'Ada. Kita telah melihat bagaimana mereka terlahir dari Interplay antara Anu dan Padomay. Kita telah memahami pilihan-pilihan yang membagi mereka: menjadi Aedra yang mengorbankan diri, Daedra yang menolak mengorbankan diri, atau Magna-Ge yang melarikan diri.
+
+Dan kita telah bertemu Lorkhan — sang anomali, sang katalis, sang yang bertanggung jawab atas semuanya.
+
+Kisah Et'Ada adalah kisah tentang pilihan pertama — pilihan yang dibuat sebelum ada konsekuensi yang bisa dipahami sepenuhnya, sebelum ada preseden yang bisa dijadikan panduan, sebelum ada pengalaman untuk mengajarkan tentang konsekuensi jangka panjang. Pilihan yang dibuat dalam kegelapan, dengan harapan yang sangat kuat tentang cahaya yang ada di ujungnya.
+
+Dan dari pilihan-pilihan itu, lahirlah segalanya. Para dewa. Para makhluk. Peradaban-peradaban. Perang-perang. Kisah-kisah cinta dan pengkhianatan dan kepahlawanan dan keputusasaan yang memenuhi kronik-kronik sejarah Tamriel. Semuanya berakar pada momen ketika sekelompok entitas kosmis — beberapa dengan sengaja, beberapa dengan terpaksa, beberapa dengan panik — memutuskan untuk menciptakan sesuatu yang baru.
+
+Sesuatu yang akhirnya menjadi kita.
+
+Bab berikutnya akan menceritakan rencana Lorkhan — bagaimana ia meyakinkan para Et'Ada untuk terlibat dalam proyek penciptaan Mundus, apa yang ia sembunyikan, apa yang akhirnya terungkap, dan harga mengerikan yang harus ia bayar ketika kebenaran diketahui.
+
+Jantungnya akan dirobek.
+
+Namun dunia yang ia ciptakan akan tetap ada.
+
+Dan kita, keturunan dari kekacauan dan cahaya dan kehancuran dan cinta yang membentuk penciptaan itu — kita akan terus berjalan di atas tanah yang terbuat dari pengorbanannya.
+
+<i>"Mereka adalah Pertama.
+Mereka datang sebelum nama-nama.
+Sebelum waktu, sebelum ruang, sebelum kemungkinan untuk tidak ada.
+Beberapa memberi segalanya.
+Beberapa tidak memberi apa pun.
+Dan satu dari mereka memberi sesuatu yang tidak pernah dimintanya:
+Sebuah dunia untuk dihuni.
+Sebuah arena untuk bermain.
+Sebuah mimpi untuk dijalani.
+Kita hidup di dalam mimpinya.
+Dan kita tidak pernah bertanya apakah ia ingin kita di sini."</i>
+
+— Prasasti anonim di Septimus Signus's Outpost, ditemukan setelah kematiannya. Bahasanya tidak dikenal.

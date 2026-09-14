@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>ECharts - Kronologi Mundus</title>
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+  <style>
+    html, body {
+      margin: 0;
+      height: 100%;
+      background: #000;
+    }
+    #chart {
+      width: 100%;
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+
+<div id="chart"></div>
+
+<script>
+const chart = echarts.init(document.getElementById('chart'));
+
+const option = {
+  "backgroundColor": {
+    "type": "radial",
+    "x": 0.3,
+    "y": 0.3,
+    "r": 0.8,
+    "colorStops": [
+      { "offset": 0, "color": "#1a0a0a" },
+      { "offset": 0.5, "color": "#0d0505" },
+      { "offset": 1, "color": "#000000" }
+    ]
+  },
+  "title": {
+    "text": "⧖ Kronologi Penciptaan Mundus ⧖",
+    "subtext": "Urutan Peristiwa di Dawn Era — Sebelum Waktu Linear Terbentuk",
+    "left": "center",
+    "top": "2%",
+    "textStyle": {
+      "color": "#f0d78c",
+      "fontFamily": "Cinzel, Georgia, serif",
+      "fontSize": 24,
+      "fontWeight": "bold",
+      "textShadowColor": "#c4a35a",
+      "textShadowBlur": 15,
+      "textShadowOffsetY": 2
+    },
+    "subtextStyle": {
+      "color": "#9a7a5a",
+      "fontFamily": "Crimson Text, Georgia, serif",
+      "fontSize": 13,
+      "fontStyle": "italic",
+      "lineHeight": 22
+    }
+  },
+  "tooltip": {
+    "trigger": "item",
+    "backgroundColor": "rgba(20, 10, 8, 0.95)",
+    "borderColor": "#d46060",
+    "borderWidth": 2,
+    "textStyle": {
+      "color": "#f5e6d3",
+      "fontFamily": "Crimson Text, Georgia, serif",
+      "fontSize": 13
+    },
+    "extraCssText": "box-shadow: 0 0 25px rgba(192, 80, 80, 0.5); backdrop-filter: blur(10px); padding: 12px;",
+    "formatter": function(params) {
+      const descriptions = [
+        "💔 <b>Jantung Lorkhan jatuh ke Red Mountain</b><br/><span style='color:#c08080'>Tempat kekuatan masa depan — Heart of the World</span>",
+        "🏹 <b>Auri-El melepaskan Jantung dengan Busurnya</b><br/><span style='color:#c08080'>Panah yang menentukan takdir Tamriel</span>",
+        "⚔ <b>Trinimac merobek Jantung Lorkhan</b><br/><span style='color:#c08080'>Hukuman untuk Trickster God</span>",
+        "✦ <b>Magna-Ge melarikan diri ke Aetherius</b><br/><span style='color:#f5e08a'>Bintang-bintang lahir — lubang di langit</span>",
+        "⚠ <b>Pengorbanan semakin tak terkendali</b><br/><span style='color:#c08080'>Aedra kehilangan kontrol atas esensi mereka</span>",
+        "✟ <b>Aedra mulai berkorban</b><br/><span style='color:#c4a35a'>Esensi divine mengalir ke Mundus</span>",
+        "🌍 <b>Mundus mulai terbentuk</b><br/><span style='color:#7ca5c0'>Nirn — tanah, laut, dan langit terwujud</span>",
+        "🤝 <b>Et'Ada setuju ikut serta</b><br/><span style='color:#8a9a6a'>Koalisi terbentuk — perjanjian yang mengikat</span>",
+        "🗣 <b>Lorkhan melobi Et'Ada satu per satu</b><br/><span style='color:#a08040'>Benih persuasi ditanam</span>",
+        "💡 <b>Lorkhan merumuskan ide Mundus</b><br/><span style='color:#c05050'>Genesis — visi dunia fana</span>"
+      ];
+      return descriptions[params.dataIndex];
+    }
+  },
+  "grid": {
+    "left": "28%",
+    "right": "6%",
+    "top": "20%",
+    "bottom": "6%"
+  },
+  "xAxis": {
+    "type": "value",
+    "min": 0,
+    "max": 10,
+    "show": false
+  },
+  "yAxis": {
+    "type": "category",
+    "data": [
+      "⦿ Jantung → Red Mountain",
+      "◈ Convention — Hukuman",
+      "⚔ Trinimac merobek jantung",
+      "✦ Magna-Ge melarikan diri",
+      "⚠ Pengorbanan semakin besar",
+      "✟ Aedra mulai berkorban",
+      "🌍 Mundus mulai terbentuk",
+      "⚖ Et'Ada setuju ikut serta",
+      "⟡ Lorkhan melobi Et'Ada",
+      "◉ Lorkhan merumuskan ide"
+    ]
+  },
+  "series": [
+    {
+      "type": "bar",
+      "data": [10,9,8,7,6,5,4,3,2,1],
+      "barWidth": 22
+    }
+  ]
+};
+
+chart.setOption(option);
+</script>
+
+</body>
+</html>

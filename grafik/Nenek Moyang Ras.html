@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Silsilah Ras Tamriel</title>
+  <script src="https://cdn.jsdelivr.net/npm/echarts/dist/echarts.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      background: #050a05;
+    }
+    #chart {
+      width: 100%;
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+
+<div id="chart"></div>
+
+<script>
+var chart = echarts.init(document.getElementById('chart'));
+
+var option = {
+  "backgroundColor": "#050a05",
+  "title": {
+    "text": "Silsilah Ras-Ras Tamriel",
+    "subtext": "Dari Ehlnofey hingga ras-ras modern (sangat disederhanakan)",
+    "left": "center",
+    "top": 10,
+    "textStyle": {
+      "color": "#5a9040",
+      "fontFamily": "serif",
+      "fontSize": 16
+    },
+    "subtextStyle": {
+      "color": "#3a6020",
+      "fontFamily": "serif",
+      "fontSize": 11,
+      "fontStyle": "italic"
+    }
+  },
+  "tooltip": {
+    "trigger": "item",
+    "backgroundColor": "#0a150a",
+    "borderColor": "#3a6020",
+    "textStyle": {
+      "color": "#c0e0b0",
+      "fontFamily": "serif",
+      "fontSize": 11
+    }
+  },
+  "series": [
+    {
+      "type": "tree",
+      "data": [/* isi JSON kamu tetap sama, tidak diubah */ 
+      {
+        "name": "Et'Ada\n(Penciptaan Mundus)",
+        "value": 1,
+        "itemStyle": {"color": "#c4a35a"},
+        "children": [
+          {
+            "name": "HIST\n(Pre-Dawn / Unknown)",
+            "value": 1,
+            "itemStyle": {"color": "#2d5a1a"},
+            "children": [
+              {
+                "name": "Argonian\n(An-Xileel)",
+                "value": 1,
+                "itemStyle": {"color": "#3a7020"}
+              }
+            ]
+          },
+          {
+            "name": "EHLNOFEY\n(First Children of Nirn)",
+            "value": 1,
+            "itemStyle": {"color": "#8a7040"},
+            "children": [
+              {
+                "name": "OLD EHLNOFEY\n(Stayed)",
+                "value": 1,
+                "itemStyle": {"color": "#c4a35a"},
+                "children": [
+                  {
+                    "name": "Aldmer\n(First Elves)",
+                    "value": 1,
+                    "itemStyle": {"color": "#d4b060"},
+                    "children": [
+                      {"name": "Altmer\n(High Elf)", "value": 1, "itemStyle": {"color": "#e0c070"}},
+                      {"name": "Bosmer\n(Wood Elf)", "value": 1, "itemStyle": {"color": "#60a040"}},
+                      {"name": "Dunmer\n(Dark Elf)", "value": 1, "itemStyle": {"color": "#8060a0"}},
+                      {"name": "Dwemer †\n(Dwarf)", "value": 1, "itemStyle": {"color": "#806040"}},
+                      {"name": "Orsimer\n(Orc)", "value": 1, "itemStyle": {"color": "#60a060"}},
+                      {"name": "Ayleid †\n(Wild Elf)", "value": 1, "itemStyle": {"color": "#a09060"}},
+                      {"name": "Snow Elf →\nFalmer", "value": 1, "itemStyle": {"color": "#a0c0d0"}}
+                    ]
+                  },
+                  {
+                    "name": "Khajiit\n(Azurah's Gift)",
+                    "value": 1,
+                    "itemStyle": {"color": "#d09040"}
+                  }
+                ]
+              },
+              {
+                "name": "WANDERING EHLNOFEY\n(Walked Far)",
+                "value": 1,
+                "itemStyle": {"color": "#5090c0"},
+                "children": [
+                  {
+                    "name": "Atmorans\n(Atmora)",
+                    "value": 1,
+                    "itemStyle": {"color": "#70a0d0"},
+                    "children": [
+                      {"name": "Nord\n(Skyrim)", "value": 1, "itemStyle": {"color": "#80b0e0"}}
+                    ]
+                  },
+                  {
+                    "name": "Nedes\n(Tamriel)",
+                    "value": 1,
+                    "itemStyle": {"color": "#6090b0"},
+                    "children": [
+                      {"name": "Imperial\n(Cyrodiil)", "value": 1, "itemStyle": {"color": "#c4a35a"}},
+                      {"name": "Breton\n(High Rock)", "value": 1, "itemStyle": {"color": "#9090c0"}}
+                    ]
+                  },
+                  {
+                    "name": "Yokudans\n(Yokuda †)",
+                    "value": 1,
+                    "itemStyle": {"color": "#c07040"},
+                    "children": [
+                      {"name": "Redguard\n(Hammerfell)", "value": 1, "itemStyle": {"color": "#d08050"}}
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }],
+      "top": "8%",
+      "left": "5%",
+      "bottom": "5%",
+      "right": "15%",
+      "symbolSize": 10,
+      "orient": "LR",
+      "label": {
+        "position": "right",
+        "verticalAlign": "middle",
+        "align": "left",
+        "fontSize": 9,
+        "fontFamily": "serif",
+        "color": "#c0d0b0"
+      },
+      "leaves": {
+        "label": {
+          "position": "right",
+          "verticalAlign": "middle",
+          "align": "left",
+          "color": "#a0c090"
+        }
+      },
+      "lineStyle": {
+        "color": "#2a4a1a",
+        "width": 1.5,
+        "curveness": 0.5,
+        "opacity": 0.6
+      },
+      "emphasis": {
+        "focus": "descendant"
+      },
+      "expandAndCollapse": false,
+      "animationDuration": 550,
+      "animationDurationUpdate": 750
+    }
+  ]
+};
+
+chart.setOption(option);
+</script>
+
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Daftar Bab - Lore Edition</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&family=Merriweather&family=Cinzel&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <style>
+    .chapter-container { max-width: 800px; margin: auto; padding: 20px; }
+    .chapter { margin: 10px 0; padding: 15px; background: #1c1c2a; cursor: pointer; border-radius: 8px; transition: 0.2s; }
+    .chapter:hover { background: #2a2a40; transform: scale(1.02); }
+  </style>
+</head>
+<body>
+  <header class="header">
+    <button onclick="window.location.href='index.html'" class="back-btn">⬅ Kembali ke Beranda</button>
+    <h1 id="book-title">Memuat Buku...</h1>
+  </header>
+
+  <main class="chapter-container" id="chapter-list">
+    </main>
+
+  <script src="chapter.js"></script>
+</body>
+</html>

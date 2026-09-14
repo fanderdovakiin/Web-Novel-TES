@@ -1,0 +1,265 @@
+<h2><b>I. PRAELUDIUM — KEKAISARAN YANG MEWARISI MIMPI</b></h2>
+
+Ketika Tiber Septim meninggal pada 3E 38 dan — menurut kepercayaan yang dipegang oleh jutaan pemeluknya — mengalami apotheosis, menjadi Talos, Dewa Kesembilan dari Tamriel, ia meninggalkan bukan sekadar sebuah kekaisaran. Ia meninggalkan standar — ukuran tentang apa yang seharusnya seorang kaisar itu adalah, seberapa besar impian yang seharusnya ia miliki, seberapa jauh jangkauan yang seharusnya ia capai.
+
+Standar itu mustahil untuk dipenuhi. Tidak oleh siapa pun yang pernah dilahirkan setelahnya.
+
+Penerus-penerus Tiber Septim selama tiga ratus tahun berikutnya — mulai dari Pelagius I yang memerintah hanya tiga tahun sebelum terbunuh, hingga Kintyra I, Uriel I, Uriel II, Pelagius II, Antiochus, Kintyra II, Uriel III, Cephorus I, Magnus, Pelagius III (yang terkenal karena kegilaannya), Katariah, Cassynder, Uriel IV, Cephorus II, Uriel V, Uriel VI, dan akhirnya Uriel VII — semuanya hidup dalam bayangan panjang Tiber Septim, berusaha untuk memerintah kekaisaran yang ia bangun, untuk mempertahankan Pax Imperialis yang ia janjikan, untuk menjadi yang ia pernah.
+
+Beberapa berhasil lebih baik dari yang lain. Beberapa gagal secara spektakuler. Dan beberapa — seperti Pelagius III yang gila — menjadi bahan cerita yang selalu hidup di bibir para bard, kisah-kisah tentang betapa berbedanya manusia-manusia yang mewarisi takhta dari mereka yang pertama kali merebut takhta itu.
+
+Namun sebelum kita membahas Simulacrum — krisis terbesar yang melanda Septim Dynasty di Third Era — ada baiknya kita memahami konteks dari tiga ratus tahun pertama Third Era, periode yang oleh sejarawan sering diabaikan karena dianggap "relatif damai" namun yang dalam kenyataannya penuh dengan intrik, perang saudara, dan perjuangan untuk mempertahankan warisan yang terlalu besar untuk satu dinasti.
+
+
+
+<h2><b>II. TIGA RATUS TAHUN PERTAMA — PAX IMPERIALIS DAN BENIH-BENIH KEHANCURAN</b></h2>
+
+Secara keseluruhan, tiga ratus tahun pertama Third Era adalah periode yang bisa disebut sebagai Pax Imperialis — perdamaian Imperial. Bukan perdamaian tanpa konflik — ada perang-perang kecil di perbatasan, ada pemberontakan internal, ada pergantian kekuasaan yang kadang-kadang berdarah. Namun dibandingkan dengan kekacauan Second Era yang berlangsung selama hampir sembilan ratus tahun, bahkan konflik-konflik paling serius di awal Third Era terasa seperti badai yang terkontrol dibandingkan dengan badai semesta.
+
+Pelagius III — Kaisar yang Gila:
+
+Di antara semua kaisar Third Era sebelum Uriel VII, tidak ada yang lebih terkenal — atau lebih terkenal buruk — dari Pelagius Septim III, yang memerintah dari 3E 145 hingga 3E 153. Pelagius naik takhta sebagai orang yang tampak sehat namun yang dengan sangat cepat menunjukkan tanda-tanda ketidakstabilan mental yang semakin tidak bisa disembunyikan.
+
+Dalam delapan tahun pemerintahannya, Pelagius mengeluarkan dekret-dekret yang semakin aneh: ia memerintahkan seluruh populasi tikus di Imperial City diundang ke jamuan makan malam resmi di palace. Ia mendeklarasikan perang terhadap cuaca buruk dan mendirikan pasukan yang bertugas "menyerang badai petir". Ia menolak tidur di dalam ruangan karena ia percaya bahwa langit-langit kamarnya berencana untuk jatuh menimpanya ketika ia tidak waspada.
+
+Kondisi Pelagius memburuk hingga ia harus secara resmi dinonaktifkan — ia ditempatkan di perawatan selama sisa hidupnya di sebuah sanatorium mewah di pulau terpencil. Setelah kematiannya, istrinya Katariah — perempuan Dunmer yang oleh banyak orang dianggap sebagai kaisar de facto selama bertahun-tahun sebelum suaminya secara resmi dinyatakan tidak mampu memerintah — secara resmi naik takhta, menjadi Empress Katariah I.
+
+Signifikansi Pelagius III untuk lore melebihi sekadar anekdot tentang kegilaan seorang kaisar. Pertama, ia menjadi salah satu subplot menarik dalam TES V: Skyrim, di mana Sheogorath mengklaim memiliki hubungan khusus dengan Pelagius — koneksi yang mengimplikasikan bahwa kegilaan Pelagius mungkin bukan hanya penyakit mental biasa melainkan ada unsur pengaruh Daedric di dalamnya. Kedua, kisahnya tentang seorang kaisar yang dianggap gila namun yang — menurut beberapa interpretasi — justru bisa "melihat" aspek-aspek realitas yang tersembunyi dari orang normal, adalah refleksi dari tema berulang dalam lore TES bahwa "kegilaan" dan "kebijaksanaan tersembunyi" kadang-kadang sulit dibedakan.¹
+
+<i>¹ Catatan Lore: Quest "The Mind of Madness" di TES V: Skyrim membawa pemain ke dalam Pelagius's Mind — alam pikiran Pelagius yang masih "ada" di dalam sebuah Wabbajack, disimpan oleh Sheogorath. Alam pikiran ini dipenuhi dengan manifestasi dari ketakutan-ketakutan dan obsesi-obsesi Pelagius: raksasa yang mengejar dia, sisi gelapnya yang mendominasi, Bane of Pelagius yang menyerang. Sheogorath mengklaim bahwa ia dan Pelagius adalah sahabat lama, yang mengimplikasikan bahwa Prince of Madness mengunjungi kaisar selama hidupnya dan bahwa beberapa dari "kegilaan" Pelagius sebenarnya adalah sisa-sisa dari interaksi dengan Daedric Prince.</i>
+
+Empress Katariah dan Pertanyaan Legitimasi:
+
+Aksesi Katariah I setelah kematian Pelagius III menimbulkan kontroversi yang tidak pernah sepenuhnya mereda. Katariah adalah seorang Dunmer — perempuan Elf dari Morrowind — dan banyak pihak di Kekaisaran yang mempertanyakan legitimasi seorang non-manusia sebagai pemimpin dari kekaisaran yang dibangun oleh Tiber Septim.
+
+Namun Katariah adalah administrator yang sangat cakap. Selama pemerintahannya yang panjang — dari 3E 153 hingga 3E 200 — ia mereformasi administrasi Kekaisaran, memperluas jalur perdagangan, dan — yang paling penting — membuktikan bahwa kecakapan memerintah tidak bergantung pada ras. Ketika ia meninggal, bahkan para kritikus paling keras dari aksesinya harus mengakui bahwa Kekaisaran dalam kondisi yang jauh lebih baik daripada ketika ia menerima takhta dari tangan suaminya yang gila.
+
+Kisah Katariah dan penerimaan — atau penolakan — terhadapnya sebagai Empress adalah mikrokosmos dari tegangan yang selalu ada dalam Kekaisaran: antara inklusivitas yang diperlukan untuk memerintah wilayah yang begitu beragam dan eksklusivitas yang dicita-citakan oleh mereka yang memandang Kekaisaran sebagai proyek manusia — khususnya manusia Cyrodiilic — yang tidak seharusnya berbagi kekuasaan dengan siapa pun.
+
+Uriel I hingga VI — Para Kaisar Pekerja:
+
+Kaisar-kaisar bernama "Uriel" dalam Third Era adalah kelompok yang, secara keseluruhan, memerintah dengan kompetensi yang solid namun tanpa brilliance yang membakar. Mereka menjaga Kekaisaran berjalan — memperluas hukum, membangun infrastruktur, mengelola konflik-konflik internal — tanpa melakukan sesuatu yang akan diingat berabad-abad kemudian.
+
+Kecuali Uriel V — yang memimpin Third Akaviri Invasion pada 3E 271, ekspedisi militer ke Akavir yang hasilnya adalah bencana. Uriel V mati di Akavir pada 3E 290, dan pasukannya nyaris dihancurkan oleh kekuatan-kekuatan yang mereka tidak mengerti dan tidak siap untuk menghadapi. Sisa-sisa pasukannya yang kembali membawa bukan kemenangan melainkan trauma — dan membawa juga laporan-laporan tentang Akavir yang selama berabad-abad masih membuat para sarjana bergidik.
+
+
+
+<h2><b>III. URIEL SEPTIM VII — KAISAR YANG PALING DICINTAI DAN PALING MENDERITA</b></h2>
+
+Uriel Septim VII naik takhta pada 3E 368 dan memerintah — dengan interupsi yang sangat penting yang akan kita bahas — hingga 3E 433. Dalam total enam puluh lima tahun pemerintahannya, ia menjadi kaisar yang paling banyak terlibat dalam peristiwa-peristiwa besar Third Era: ia yang dipenjara oleh Jagar Tharn, ia yang kemudian diselamatkan oleh Hero of Kvatch, dan ia yang pada akhirnya dibunuh oleh assassin Mythic Dawn di ambang krisis terbesar yang pernah melanda Tamriel.
+
+Uriel VII adalah kaisar yang tidak biasa dalam hal karakter personal. Dalam semua catatan yang tersisa tentangnya — termasuk dialog-dialog yang dicatat oleh saksi mata selama berbagai momen penting — ia tampil sebagai figur yang sangat sadar akan beban dan tanggung jawab jabatannya, namun yang menanggung beban itu bukan dengan keperkasaan heroik melainkan dengan kelelahan yang terhormat. Ia tahu apa yang harus dilakukan, ia tahu betapa sulit melakukannya, dan ia melakukannya tetap saja — bukan karena ia tidak merasakan beratnya, melainkan karena tidak ada pilihan lain.
+
+Ketika ia mengatakan kepada Hero of Kvatch — untuk terakhir kalinya — "I place my trust in you. My son is out there, somewhere. Find him. This Amulet of Kings ... take it. Take it and close shut the jaws of Oblivion," ia tidak berbicara sebagai raja yang memerintah pahlawannya. Ia berbicara sebagai seorang yang lelah, yang tahu bahwa ia sudah hampir di ujung perjalanannya, yang mempercayakan satu-satunya hal yang masih bisa ia lakukan kepada seseorang yang dipercayainya.
+
+Namun sebelum momen terakhir itu, ada Jagar Tharn.
+
+
+
+<h2><b>IV. JAGAR THARN — PENGKHIANATAN DARI DALAM</b></h2>
+
+Jagar Tharn adalah salah satu karakter paling menarik dan paling mengerikan dalam seluruh sejarah Third Era — bukan karena ia adalah villain yang paling kuat atau yang paling jahat, melainkan karena ia adalah villain yang paling bisa dipercaya. Ia adalah orang kepercayaan Uriel VII selama bertahun-tahun. Ia adalah Imperial Battlemage — penyihir paling kuat di Kekaisaran, orang yang diberi akses ke segala sesuatu, yang rahasia-rahasia paling dalam Kekaisaran dipercayakan kepadanya.
+
+Dan ia mengkhianati semua itu.
+
+Siapa Jagar Tharn? Secara demografis, ia adalah setengah Bosmer, setengah Dunmer — keturunan campuran yang cukup jarang dan yang memberinya penampilan yang eksosentris: jauh lebih tinggi dari Bosmer biasa, jauh lebih gelap dari Dunmer yang paling gelap, dengan mata yang menurut beberapa deskripsi berubah warna tergantung suasana hatinya. Secara akademis, ia adalah salah satu mage terkuat yang pernah ada — ahli dalam ilusi, dalam manipulasi, dalam sihir transformasi yang memungkinkan seseorang untuk terlihat persis seperti orang lain.
+
+Dalam hal motivasi — dan ini adalah area yang membuat studinya sangat menarik — Jagar Tharn adalah contoh dari seseorang yang ambisius bukan dalam cara yang sederhana dan mudah dipahami. Ia bukan sekadar ingin kekuasaan; ia sudah memiliki kekuasaan yang cukup sebagai Imperial Battlemage. Ia bukan sekadar ingin kekayaan; ia sudah sangat kaya. Yang ia inginkan adalah sesuatu yang jauh lebih fundamental: validasi. Pengakuan bahwa ia — setengah Bosmer, setengah Dunmer, produk dari warisan yang oleh standar Tamriellic dianggap "campuran" — adalah yang paling besar, yang paling kuat, yang paling tidak tergantikan.
+
+Dan validasi itu, yang tidak pernah diberikan kepadanya dengan cara yang memuaskan selama bertahun-tahun menjadi Battlemage, ia putuskan untuk mengambil sendiri.
+
+Rencananya, yang dieksekusi dengan ketelitian yang mengerikan selama bertahun-tahun persiapan, melibatkan dua komponen utama:
+
+Pertama: Staff of Chaos. Artefak kuno yang kekuatannya melampaui pemahaman kebanyakan penyihir — Staff yang, menurut legenda, dibuat oleh salah satu Et'Ada pada Dawn Era dan yang tersimpan di tempat-tempat suci yang terlindungi oleh sihir yang seharusnya tak tertembus. Jagar Tharn, dengan aksesnya ke catatan rahasia Imperial, menemukan cara untuk menemukan dan mengambil Staff of Chaos. Dengan Staff itu, ia bisa membuka portal ke Plane of Oblivion yang disesuaikan — satu pocket realm yang ia ciptakan dan kendalikan sepenuhnya — dan memenjarakan seseorang di sana tanpa kemungkinan melarikan diri.
+
+Kedua: Ilusi Sempurna. Menggunakan kemampuan sihir ilusinya yang sangat canggih — yang diperkuat oleh Staff of Chaos — Tharn mengambil wajah Uriel VII. Bukan sekadar kesamaan superfisial; ia benar-benar menjadi Uriel VII secara fisik. Suaranya, caranya berjalan, cara ia memegang garpu saat makan, ekspresi kecil di sudut matanya ketika ia mendengar sesuatu yang mengganggunya — semua detail itu direplikasi dengan sempurna. Selama sepuluh tahun, tidak ada seorang pun — tidak pejabat paling senior, tidak pelayan paling setia, tidak pendeta paling bijaksana — yang menyadari bahwa kaisar yang mereka layani adalah palsu.
+
+Malam eksekusi rencananya terjadi pada 3E 389. Uriel VII sedang dalam pertemuan private dengan Tharn ketika Tharn mengaktifkan Staff of Chaos, membuka portal, dan mendorong Uriel ke dalamnya. Portal menutup. Uriel hilang. Dan Tharn, dalam hitungan menit, telah berubah menjadi sosok Uriel yang sempurna, berjalan keluar dari ruangan private itu dengan senyum kaisar di wajahnya.
+
+
+
+<h2><b>V. SEPULUH TAHUN SIMULACRUM — PENIPUAN TERBESAR</b></h2>
+
+Sepuluh tahun. Dari 3E 389 hingga 3E 399.
+
+Selama sepuluh tahun itu, Jagar Tharn — dalam wajah Uriel Septim VII — memerintah Kekaisaran Tamriel. Dan ia melakukannya dengan cukup baik untuk tidak menimbulkan kecurigaan yang serius. Ini adalah hal yang paling menakutkan dari kisah Simulacrum: bukan bahwa ia gagal menyamar, melainkan bahwa ia berhasil. Bahwa selama satu dekade penuh, sistem yang seharusnya melindungi Kekaisaran dari tirani internal — sistem pengawasan, para penasihat, Imperial Battlemages lain, pendeta-pendeta Eight Divines — semua gagal mendeteksi bahwa orang yang duduk di Ruby Throne bukanlah siapa yang mereka pikir.
+
+Apa yang berbeda selama Simulacrum?
+
+Kebijakan-kebijakan mulai bergeser — secara halus, secara perlahan, dengan cara yang bisa dijelaskan oleh perubahan pandangan seorang kaisar yang semakin tua. Kontrak-kontrak tertentu dibatalkan. Perjanjian-perjanjian tertentu diperbarui dengan syarat-syarat yang sedikit berbeda. Orang-orang tertentu dipromosikan, orang-orang tertentu disingkirkan — selalu dengan alasan yang masuk akal, selalu dengan cara yang tidak langsung menimbulkan konflik.
+
+Jagar Tharn menikmati kekuasaannya — mungkin inilah yang paling menonjol bagi mereka yang mengetahui kejahatan ini. Ia tidak hanya memerintah; ia benar-benar menikmati memerintah, dengan cara yang aneh dan sedikit menyedihkan. Setelah bertahun-tahun berada di bayang-bayang kaisar, akhirnya berdiri di bawah cahaya sorotan — dan cahaya itu, walau dicuri, tetap terasa hangat.
+
+Satu kesalahan — itu yang akhirnya mengakhiri Simulacrum. Atau mungkin bukan kesalahan; mungkin ada sesuatu yang lebih dalam yang beroperasi di balik layar. Seorang penyihir muda bernama Ria Silmane — asisten Tharn yang, selama bertahun-tahun, menganggap dirinya sebagai orang kepercayaannya — mulai mencurigai sesuatu. Apa yang ia curigai, bagaimana kecurigaan itu mulai, tidak sepenuhnya jelas. Namun ketika ia mulai menyelidiki terlalu dekat, Tharn membunuhnya.
+
+Dan di situlah ia membuat kesalahan fundamental. Karena dalam membunuh Ria Silmane — menggunakan cara yang menghancurkan tubuh fisiknya namun tidak sepenuhnya mengurung jiwanya — Tharn tanpa sengaja memungkinkan jiwa Ria untuk bertahan dalam kondisi setengah-ada, sebagai sesuatu yang bukan sepenuhnya hantu namun bukan pula sepenuhnya mati. Dan jiwa yang setengah-ada itu, yang tidak punya lagi yang bisa kehilangan, yang kebencian terhadap pengkhianatan Tharn membakarnya seperti api yang tidak padam — mulai mencari cara untuk membalaskan dendamnya.
+
+Ria Silmane menemukan seseorang. Seseorang yang dipenjara oleh Tharn di Imperial Dungeons — dipenjara dengan alasan yang tidak masuk akal, oleh ordo Tharn yang beroperasi di balik nama Uriel VII palsu. Seseorang yang namanya tidak diketahui sejarah, yang ras dan gendernya tidak dicatat, yang masa lalunya tidak terungkap. Seseorang yang, dalam tradisi kisah-kisah heroik Tamriel, hanya disebut sebagai "The Hero" atau "The Eternal Champion".
+
+
+
+<h2><b>VI. THE HERO DAN QUEST STAFF OF CHAOS — TES I: ARENA</b></h2>
+
+"Kamu adalah seorang tahanan yang tidak mengetahui kesalahanmu. Namun aku mengenalmu. Aku tahu kamu tidak bersalah, dan aku tahu bahwa hanya kamu yang bisa menyelamatkan Kekaisaran. Dengarkan aku, karena waktuku di dunia ini sangat terbatas, dan ada banyak yang harus kuceritakan."
+
+Demikianlah Ria Silmane muncul dalam mimpi Hero of Arena untuk pertama kalinya — bayangan berkilap dari wanita yang pernah ada, suara dari balik Veil kematian yang tidak sepenuhnya menutup. Dan dari situ, dimulailah satu petualangan yang akan berlangsung selama bertahun-tahun dan yang akan membawa Hero ke setiap sudut Tamriel.
+
+Elder Scrolls I: Arena — game pertama dalam seri ini, dirilis pada 1994 — menceritakan quest ini. Walau mekanismenya jauh berbeda dari game-game TES yang kemudian, narasi intinya adalah salah satu yang paling sederhana dan paling elegan dalam seluruh seri: delapan potongan Staff of Chaos, tersebar di delapan penjuru Tamriel, masing-masing dilindungi oleh tantangan yang berbeda.
+
+Struktur quest Staff of Chaos:
+
+Jagar Tharn, setelah memenjarakan Uriel VII, menghancurkan Staff of Chaos menjadi delapan bagian — bukan karena ia ingin mencegah orang menggunakannya (ia sudah mendapat apa yang ia mau), melainkan sebagai tindakan pengamanan. Staff of Chaos dalam kondisi utuh adalah terlalu berbahaya untuk disimpan di satu tempat; jika potongan-potongannya tersebar, bahkan jika seseorang menemukan satu potongan, mereka tidak akan bisa menggunakannya tanpa yang lain.
+
+Delapan potongan ini tersembunyi di delapan lokasi yang sangat berbeda:
+
+Potongan Pertama — di Hammerfell: Tersembunyi di kedalaman dungeon kuno yang dijaga oleh Raja Thagore dari Daggerfall — pemimpin yang korup yang bekerja untuk Tharn tanpa sepenuhnya mengerti konteks yang lebih besar.
+
+Potongan Kedua — di Skyrim: Di dalam Labyrinthian — reruntuhan kompleks yang dulunya adalah pusat Dragon Cult di Merethic Era, yang kini dijaga oleh undead yang bahkan para penyihir terkuat tidak berani mendekatinya.
+
+Potongan Ketiga — di High Rock: Tersembunyi di bawah kuil yang tidak aktif, dijaga oleh lich kuno yang waktunya telah melampaui pemahaman biasa.
+
+Potongan Keempat — di Morrowind: Di Daedric shrine yang aktif, di mana Daedra yang dipanggil oleh Tharn secara khusus untuk menjaga potongan ini tidak bisa diganggu dengan cara biasa.
+
+Potongan Kelima — di Elsweyr: Di dalam piramida bawah tanah yang dibangun oleh peradaban kuno yang tidak dikenal, dengan jebakan-jebakan yang oleh Hero digambarkan sebagai "bukan buatan tangan manusia atau Mer".
+
+Potongan Keenam — di Valenwood: Di tengah-tengah hutan yang tidak pernah bisa ditemukan oleh orang yang tidak tahu cara memasuki Green Way — jalur mistis di antara pohon-pohon yang hanya bisa dinavigasi oleh mereka yang memiliki hubungan dengan Y'ffre.
+
+Potongan Ketujuh — di Summerset Isles: Di tower Crystal yang tersembunyi, dijaga oleh Altmer fanatik yang melayani Tharn karena percaya bahwa ia adalah manifestasi dari kehendak Auri-El.
+
+Potongan Kedelapan — di Black Marsh: Di kedalaman rawa-rawa yang paling berbahaya, di wilayah di mana Hist sendiri memilih untuk tidak mengingatkan Argonian agar mendekatinya.
+
+Setiap potongan yang dikumpulkan Hero membawa mereka selangkah lebih dekat kepada konfrontasi terakhir — dan setiap potongan, ketika diperoleh, juga mengancam keamanan mereka, karena Tharn (yang, walau tidak tahu siapa yang mengumpulkan potongan-potongan itu, mengetahui bahwa sesuatu sedang terjadi) mulai mengirimkan agen-agen untuk menghentikan Hero.
+
+
+
+<h2><b>VII. KONEKSI DENGAN RIA SILMANE — DUA JIWA YANG BERJUANG BERSAMA</b></h2>
+
+Aspek yang paling mengharukan dari narasi Arena — yang sering tidak diperhatikan oleh pemain yang berfokus pada dungeon-crawling dan combat — adalah hubungan antara Hero dan Ria Silmane.
+
+Ria muncul hanya dalam mimpi. Setiap kali Hero tidur, setiap kali mereka menutup mata sejenak di antara pertempuran-pertempuran, Ria hadir — memberikan informasi tentang lokasi potongan berikutnya, memberikan konteks tentang apa yang sedang terjadi di Kekaisaran, dan kadang-kadang hanya ada — kehadiran yang, walau tidak bisa menyentuh, tidak bisa memeluk, tidak bisa berbuat sesuatu yang konkret kecuali berbicara, memberikan sesuatu yang lebih berharga dari semua itu: menemani.
+
+Hero of Arena berjuang sendiri. Tidak ada Companion permanen. Tidak ada guild yang mendukung mereka. Tidak ada peta yang lengkap. Tidak ada panduan tentang apa yang menunggu di balik setiap pintu. Hanya Ria — hantu yang semakin lemah setiap kali ia muncul, yang ekstra energi untuk hadir diambil dari sisa-sisa jiwa yang perlahan terkuras — dan tekad yang harus melampaui segala keterbatasan fisik dan batas kemampuan manusia.
+
+Ketika Hero akhirnya mengumpulkan semua delapan potongan dan memasuki Imperial Palace untuk menghadapi Jagar Tharn, Ria Silmane hadir untuk yang terakhir kalinya. Kondisinya sudah sangat lemah — dalam mimpi terakhir itu, ia tampak hampir transparan, suaranya hampir tidak terdengar. Dan ia tahu bahwa ini adalah terakhir kali.
+
+<i>"Kamu telah melakukan apa yang kupercayakan kepadamu. Staff sudah lengkap. Uriel Septim akan bebas. Tamriel akan selamat. Tapi aku tidak akan bisa melihatnya. Energi yang menahan aku di sini sudah hampir habis, dan ketika kamu memasuki throne room itu, aku tidak akan bisa mengikutimu. Ini adalah perpisahan kita."
+
+"Pergilah. Selesaikan ini. Dan ketahuilah bahwa di mana pun jiwaku berakhir — apakah di Aetherius atau di tempat yang lebih jauh — aku akan membawa serta ingatan tentang keberanian yang pernah kusaksi. Ingatan itu akan cukup untuk mengisi keabadian."</i>
+
+Dan Ria Silmane pergi. Untuk selamanya.
+
+
+
+<h2><b>VIII. PERTARUNGAN DENGAN JAGAR THARN — AKHIR SIMULACRUM</b></h2>
+
+Konfrontasi di Imperial Palace adalah klimaks dari seluruh narasi Arena. Hero, yang sudah menempuh perjalanan selama bertahun-tahun, yang sudah berjuang melalui delapan penjuru Tamriel, yang sudah kehilangan satu-satunya koneksi personal mereka dengan dunia yang lebih besar ketika Ria menghilang — berdiri di depan pintu menuju ruangan di mana Jagar Tharn menunggu.
+
+Tharn — yang sudah sepuluh tahun menikmati kekuasaan yang dicuri, yang sudah terbiasa dengan kemewahan tahta yang bukan miliknya — tidak kehilangan keangkuhan bahkan ketika Hero memasuki ruangannya dengan Staff of Chaos yang sudah lengkap di tangan.
+
+"Apa ini? Seorang tahanan yang melarikan diri, yang mengembara ke sudut-sudut dunia untuk mengumpulkan mainan yang kupecah-pecah? Kamu pikir sepotong kayu tua bisa menghentikanku? Aku adalah Jagar Tharn. Aku adalah Imperial Battlemage. Aku telah memerintah kekaisaran ini selama satu dekade, dan tidak seorang pun menyadarinya. Aku lebih besar dari kaisar mana pun yang pernah ada sebelumku."
+
+Pertarungan yang mengikuti adalah pertarungan antara dua jenis kekuatan yang sangat berbeda: kekuatan yang dicuri melawan kekuatan yang dibangun melalui perjuangan. Tharn memiliki semua kecanggihan akademis seorang Battlemage terkuat di Kekaisaran. Hero memiliki sesuatu yang lebih sederhana: pengalaman bertahun-tahun bertahan hidup di lingkungan yang paling keras di Tamriel, dan kecepatan adaptasi yang lahir bukan dari perpustakaan melainkan dari menghadapi hal-hal yang tidak ada di buku.
+
+Ketika Hero mengalahkan Tharn — ketika penyihir yang begitu yakin akan superioritas dirinya akhirnya jatuh — momen itu terjadi bukan dengan dramaturgi besar-besaran, melainkan dengan kesederhanaan yang hampir membingungkan. Tharn, yang terluka parah, masih mencoba untuk mengucapkan kata-kata terakhir yang meremehkan. Dan Hero, yang kelelahan namun tidak hancur, hanya mengakhirinya.
+
+Staff of Chaos kemudian digunakan untuk membuka portal tempat Uriel VII terkurung. Kaisar yang sejati, yang selama sepuluh tahun menanggung pengasingan di pocket realm yang diciptakan oleh pengkhianatnya sendiri, kembali ke Mundus.
+
+Uriel VII berdiri sejenak — menyesuaikan diri dengan cahaya, dengan udara, dengan rasa kulit kayu dari lantai di bawah sepatunya, semua hal-hal kecil yang pernah ia anggap sepele namun yang selama sepuluh tahun terakhir ia rindukan lebih dari yang pernah ia bayangkan mungkin. Kemudian ia melihat Hero.
+
+<i>"Aku tidak tahu siapa kamu. Aku tidak tahu dari mana kamu berasal atau mengapa kamu melakukan ini. Namun kamu telah melakukan apa yang tidak bisa dilakukan oleh siapa pun lain. Kamu telah mengembalikanku ke tahtaku dan menyelamatkan Kekaisaran dari penipu yang hampir tidak bisa dibedakan dari yang asli. Apapun yang kamu minta sebagai hadiah, aku akan memberikannya."</i>
+
+Hero menjawab — dan apa yang mereka katakan tidak dicatat oleh sejarah resmi. Namun dari keputusan mereka untuk tidak menetap di Imperial City, untuk tidak mengambil jabatan atau kehormatan yang ditawarkan, untuk memilih kebebasan daripada reward yang paling menggiurkan — tersirat sesuatu tentang karakter mereka yang lebih berbicara dari kata-kata apapun.
+
+
+
+<h2><b>IX. IMPLIKASI SIMULACRUM — APA YANG SEPULUH TAHUN ITU AJARKAN</b></h2>
+
+Ketika Uriel VII kembali dan Simulacrum berakhir pada 3E 399, dunia yang ia kembali ke dalamnya tidak sepenuhnya sama dengan dunia yang ia tinggalkan pada 3E 389. Sepuluh tahun adalah waktu yang cukup lama untuk perubahan-perubahan kecil menumpuk menjadi perubahan yang signifikan.
+
+Beberapa warisan jangka panjang dari Simulacrum yang tidak selalu terlihat di permukaan:
+
+Erosi kepercayaan terhadap institusi. Bahwa seorang penipu bisa duduk di atas tahta selama sepuluh tahun tanpa terdeteksi bukan hanya menunjukkan kecerdikan Tharn — ia juga menunjukkan kelemahan struktural dalam sistem pengawasan Kekaisaran. Orang-orang mulai mempertanyakan: jika ini bisa terjadi sekali, bisa terjadi lagi. Paranoia halus ini meresap ke dalam budaya Kekaisaran dan tidak pernah sepenuhnya hilang.
+
+Kerusakan yang tidak bisa diperbaiki dalam beberapa wilayah. Tharn, selama sepuluh tahun, membuat beberapa keputusan kebijakan yang secara khusus menguntungkan dirinya sendiri atau pihak-pihak yang ia buat kontrak rahasia dengan mereka. Beberapa dari keputusan ini — perjanjian perdagangan yang tidak seimbang, alokasi sumber daya yang tidak merata, pengangkatan pejabat-pejabat yang loyal kepada Tharn bukan kepada Kekaisaran — sudah tertanam begitu dalam sehingga tidak bisa dibatalkan begitu saja ketika Uriel kembali.
+
+Mannimarco mulai naik. Selama Simulacrum, Mannimarco — King of Worms, Altmer lich yang menjadi salah satu ancaman paling serius dalam Third Era — mulai membangun kekuatannya di balik layar. Tharn, yang tidak sepenuhnya menguasai semua aspek hubungan kosmis Kekaisaran, tanpa sadar membiarkan celah-celah yang dimanfaatkan Mannimarco. Kebangkitan Mannimarco yang berlangsung selama periode ini — dan yang menjadi salah satu plotline utama TES II: Daggerfall — sebagian adalah konsekuensi dari kelalaian Tharn.
+
+Uriel VII sendiri berubah. Sepuluh tahun di pocket realm — bukan penyiksaan aktif, Tharn tidak begitu keji, namun pengasingan yang mengisolasi dari semua yang familiar — mengubah Uriel VII dengan cara yang halus namun permanen. Ia kembali dengan pengertian yang lebih dalam tentang kerapuhan kekuasaan, tentang betapa tipis batas antara takhta dan penjara, tentang betapa sedikit yang benar-benar bisa dikendalikan oleh siapa pun yang mengira dirinya berkuasa.
+
+Perubahan ini — walau menyakitkan dalam prosesnya — mungkin membuat Uriel VII menjadi kaisar yang lebih bijaksana dan lebih rendah hati di tiga puluh empat tahun terakhir pemerintahannya. Dan kebijaksanaan serta kerendahan hati itulah yang membuat keputusan-keputusan terakhirnya — termasuk keputusan untuk mempercayai Hero of Kvatch dengan Amulet of Kings — menjadi keputusan yang tepat dalam momen yang paling kritis dari seluruh pemerintahannya.
+
+
+
+<h2><b>X. DAGGERFALL COVENANT DAN WARP IN THE WEST — TES II: DAGGERFALL</b></h2>
+
+Setelah kembali dari pengasingannya, Uriel VII menghadapi berbagai krisis yang melanda Kekaisaran — salah satunya adalah situasi yang semakin tidak stabil di Iliac Bay, wilayah antara Hammerfell dan High Rock yang diperintah oleh serangkaian kerajaan kecil yang saling bersaing.
+
+Krisis Iliac Bay — yang menjadi latar belakang TES II: Daggerfall — berpusat pada beberapa elemen yang saling berkaitan:
+
+Numidium yang hilang — atau lebih tepatnya, potongan-potongan Numidium yang tersebar setelah Tiber Septim mendismantilasi konstruk itu setelah penaklukan Summerset. Mantella — jiwa yang mengisi Numidium — entah bagaimana berakhir di suatu tempat di wilayah Daggerfall, dan berbagai pihak menginginkannya: Underking (yang ingin memulihkan Mantella agar ia bisa akhirnya beristirahat selamanya), Mannimarco (yang ingin menggunakannya untuk tujuannya sendiri yang gelap), berbagai kerajaan Iliac Bay (yang masing-masing ingin mengaktifkan Numidium untuk keunggulan militer atas tetangga mereka), Blades (yang ingin memastikan tidak ada pihak yang mendapatkannya), dan Uriel VII sendiri (yang mengirimkan agen ke wilayah itu, The Agent, protagonist TES II).
+
+Hantu Lysandus — mantan raja Daggerfall yang dibunuh secara misterius dan yang jiwanya tidak bisa beristirahat, yang penampakan-penampakannya menghantui kota Daggerfall dan meminta keadilan atas kematiannya.
+
+Intrik politik kompleks antara berbagai kerajaan — Daggerfall, Wayrest, Orsinium (kerajaan Orc yang sedang berjuang untuk pengakuan), Sentinel (kerajaan Redguard), dan lain-lain — yang semuanya mengejar tujuan mereka sendiri dengan cara yang saling bertentangan.
+
+Klimaks Daggerfall adalah salah satu yang paling inovatif secara naratif dalam seluruh seri TES: semua ending kemungkinan terjadi secara bersamaan. The Agent, tergantung pilihan yang dibuat sepanjang game, bisa memberikan Mantella kepada Underking, kepada Mannimarco, kepada Numidium yang kemudian dioperasikan oleh salah satu kerajaan, atau kepada Blades. Setiap ending mengimplikasikan konsekuensi yang sangat berbeda.
+
+Dan jawaban yang diberikan lore tentang "apa yang sebenarnya terjadi" adalah: semuanya. Semua ending terjadi secara bersamaan — Warp in the West, Dragon Break kecil yang terjadi pada 3E 417, memungkinkan semua versi realitas untuk koeksis sampai mereka "dilipat" menjadi satu sejarah yang koheren di mana Iliac Bay tiba-tiba memiliki batas-batas politik baru yang tidak bisa dijelaskan oleh satu rangkaian peristiwa tunggal. Kota-kota yang dulunya bersaing tiba-tiba berada di bawah satu monarki. Wilayah yang dulunya terpecah tiba-tiba memiliki penguasa yang tidak ada yang ingat bagaimana ia naik ke kekuasaan. Dan semua orang yang ditanya tentang apa yang terjadi memberikan jawaban yang sedikit berbeda.
+
+Warp in the West — dengan semua implikasinya tentang Dragon Break dan multiplicity of truth — adalah momen di mana lore TES paling secara eksplisit mengakui bahwa sejarahnya sendiri bersifat ambigu secara fundamental, bahwa "apa yang sebenarnya terjadi" adalah pertanyaan yang tidak selalu memiliki satu jawaban, dan bahwa dalam dunia di mana dewa-dewa ada dan waktu bisa patah, kebenaran historis adalah konsep yang lebih kompleks dari yang bisa dicatat dalam buku manapun.²
+
+<i>² Catatan Lore: Warp in the West / Dragon Break di 3E 417 adalah peristiwa yang paling eksplisit menyatakan bahwa berbagai game TES tidak perlu konsisten satu sama lain karena mereka semua "terjadi" di dalam konteks Dragon Break. Ini adalah keputusan desain yang brilian yang memungkinkan developer untuk tidak harus secara ketat konsisten antara game-game — jika ada kontradiksi, itu bisa selalu dijelaskan sebagai konsekuensi dari Dragon Break.</i>
+
+
+
+<h2><b>XI. ANTARA DAGGERFALL DAN MORROWIND — URIEL VII DI PUNCAK KEMAMPUANNYA</b></h2>
+
+Periode dari 3E 399 (kembalinya Uriel VII) hingga 3E 427 (awal peristiwa TES III: Morrowind) adalah periode di mana Uriel VII memerintah tanpa krisis besar yang langsung mengancam tahta. Ini adalah dekade-dekade di mana ia bisa memerintah dengan cara yang ia inginkan — dengan bijaksana, dengan kehati-hatian, dengan pemahaman yang telah diperdalam oleh pengalaman-pengalaman pahit sebelumnya.
+
+Selama periode ini, beberapa keputusan yang akan memiliki konsekuensi besar dibuat:
+
+Pembebasan tahanan dari Imperial Prison — keputusan yang tampaknya minor namun yang akan memiliki dampak kosmis. Pada 3E 427, Uriel VII memerintahkan pembebasan seorang tahanan yang tidak punya nama, tidak punya sejarah yang jelas, dan tidak ada yang bisa menjelaskan mengapa ia dipenjara. Tahanan itu dikirimkan ke Morrowind, dengan instruksi yang tidak jelas tentang apa yang harus ia lakukan di sana.
+
+Tahanan itu adalah Nerevarine — atau lebih tepatnya, seseorang yang akan menjadi Nerevarine. Dan apa yang terjadi di Morrowind setelah kedatangan tahanan itu adalah kisah untuk Bab 12.
+
+Penanganan Blades — selama periode pasca-Daggerfall, Uriel VII merestrukturisasi Blades sebagai organisasi, memperluas jaringan agen mereka, dan memberikan mereka mandat yang lebih luas untuk melindungi kepentingan Imperial di seluruh Tamriel. Keputusan ini akan memiliki implikasi panjang yang berlanjut hingga Oblivion Crisis dan bahkan ke Fourth Era.
+
+
+
+<h2><b>XII. PENUTUP — KAISAR YANG BERTAHAN</b></h2>
+
+Uriel Septim VII adalah, dalam banyak hal, kaisar yang tidak seharusnya bisa bertahan. Ia kehilangan sepuluh tahun kepada seorang penipu. Ia menghadapi Warp in the West di wilayah yang ia kirim agen rahasianya. Ia akan kehilangan anaknya kepada Oblivion Crisis. Ia akhirnya akan mati di pisau assassin Mythic Dawn.
+
+Dan namun, selama semua itu, ia bertahan. Tidak hanya bertahan secara fisik — bertahan dalam pengertian yang lebih dalam: mempertahankan kepercayaan bahwa Kekaisaran masih bermakna, bahwa perjanjian dengan Akatosh masih berlaku, bahwa ada sesuatu yang layak dilindungi bahkan di saat segala sesuatu tampak runtuh.
+
+Ketika ia berdiri di depan Oblivion Gate yang pertama dibuka di Kvatch dan berkata kepada Hero of Kvatch, "You have been chosen," ia tidak sedang membuat keputusan tanpa informasi. Ia sedang membuat keputusan berdasarkan intuisi yang telah diasah oleh bertahun-tahun kehilangan dan penderitaan dan kebangkitan — intuisi bahwa dalam semua kesuraman di sekitarnya, di depannya berdiri seseorang yang, untuk alasan yang tidak bisa dijelaskan sepenuhnya oleh logika, layak untuk dipercaya.
+
+Dan ia benar.
+
+Itulah kebijaksanaan tertinggi yang bisa dimiliki oleh seorang kaisar — bukan kekuatan untuk mencegah semua bencana, bukan kecerdasan untuk menyelesaikan semua masalah sendiri, melainkan kemampuan untuk mengenali, pada momen yang tepat, orang yang tepat untuk menghadapi masalah yang melampaui kemampuannya sendiri.
+
+Uriel VII melakukannya di Arena, ketika ia mengenal Hero yang membebaskannya.
+
+Dan ia melakukannya lagi di Oblivion Crisis, ketika ia mengenal Martin Septim — putranya yang tidak pernah ia kenal — dan Hero of Kvatch.
+
+Namun kisah Oblivion Crisis adalah kisah untuk Bab 13.
+
+<i>"Mereka bilang bahwa sepuluh tahun dalam penjara merubah manusia.
+Mereka benar.
+Ketika aku kembali, aku bukan lagi orang yang sama yang memasuki ruangan itu
+dan menemukan bahwa teman yang kupercaya bukan teman.
+Aku lebih kecil dalam beberapa hal — lebih rendah hati, lebih sadar akan batas.
+Aku lebih besar dalam hal lain — lebih sabar, lebih mau mendengar.
+Dan dalam keheningan malam, ketika dunia tidur dan hanya pikiran yang tetap terjaga,
+aku kadang-kadang berpikir:
+mungkin aku perlu sepuluh tahun itu.
+Mungkin aku perlu mengetahui rasa kehilangan segalanya
+untuk benar-benar menghargai apa yang kumiliki.
+Apakah harga yang terlalu mahal?
+Tanyakan kepada mereka yang mati selama Simulacrum.
+Mereka tidak bisa menjawab.
+Dan itulah jawabannya."
+
+— Rekonstruksi dari refleksi Uriel Septim VII, sebagaimana dicatat oleh
+penasihat pribadinya setelah kembalinya ia dari pengasingan</i>
+

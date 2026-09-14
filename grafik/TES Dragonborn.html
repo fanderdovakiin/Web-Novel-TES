@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>TES V Skyrim Graph</title>
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      background: #030408;
+      font-family: serif;
+    }
+    #chart {
+      width: 100%;
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+
+<div id="chart"></div>
+
+<script>
+const chart = echarts.init(document.getElementById('chart'));
+
+const option = {
+  backgroundColor: "#030408",
+
+  title: {
+    text: "TES V: Skyrim — Karakter Utama & Hubungan",
+    subtext: "Web of relationships that define 4E 201 in Skyrim",
+    left: "center",
+    textStyle: {
+      color: "#c4a35a",
+      fontFamily: "serif"
+    },
+    subtextStyle: {
+      color: "#806030",
+      fontStyle: "italic",
+      fontFamily: "serif"
+    }
+  },
+
+  tooltip: {
+    trigger: "item",
+    backgroundColor: "#080510",
+    borderColor: "#c4a35a",
+    textStyle: {
+      color: "#e0d5c0",
+      fontFamily: "serif"
+    }
+  },
+
+  series: [{
+    type: "graph",
+    layout: "force",
+
+    roam: true,
+
+    label: {
+      show: true,
+      position: "inside",
+      formatter: function(params){
+        return params.name.replace(/\n/g, "\n");
+      },
+      color: "#ddd",
+      fontSize: 9,
+      overflow: "break",
+      width: 60
+    },
+
+    force: {
+      repulsion: 350,
+      gravity: 0.08,
+      edgeLength: [100, 180]
+    },
+
+    data: [
+      {name: "DRAGONBORN", symbolSize: 50, itemStyle:{color:"#c4a35a"}},
+      {name: "ALDUIN", symbolSize: 45, itemStyle:{color:"#880000"}},
+      {name: "Paarthurnax", symbolSize: 32, itemStyle:{color:"#806040"}},
+      {name: "Greybeards\n(Arngeir)", symbolSize: 28, itemStyle:{color:"#d0d0e0"}},
+      {name: "Delphine", symbolSize: 24, itemStyle:{color:"#805040"}},
+      {name: "Esbern", symbolSize: 22, itemStyle:{color:"#604030"}},
+      {name: "Jarl Balgruuf", symbolSize: 24, itemStyle:{color:"#4060a0"}},
+      {name: "Ulfric\nStormcloak", symbolSize: 28, itemStyle:{color:"#802020"}},
+      {name: "Gen. Tullius", symbolSize: 24, itemStyle:{color:"#c4a35a"}},
+      {name: "Odahviing", symbolSize: 22, itemStyle:{color:"#406080"}},
+      {name: "Elenwen\n(Thalmor)", symbolSize: 28, itemStyle:{color:"#a09030"}},
+      {name: "Tsun", symbolSize: 20, itemStyle:{color:"#406080"}},
+      {name: "Ancient\nTongues", symbolSize: 20, itemStyle:{color:"#305060"}},
+      {name: "Maven\nBlack-Briar", symbolSize: 20, itemStyle:{color:"#303030"}}
+    ],
+
+    links: [
+      {source:"DRAGONBORN", target:"ALDUIN", lineStyle:{color:"#880000", width:3}},
+      {source:"DRAGONBORN", target:"Paarthurnax", lineStyle:{color:"#806040"}},
+      {source:"DRAGONBORN", target:"Greybeards\n(Arngeir)", lineStyle:{color:"#d0d0e0"}},
+      {source:"DRAGONBORN", target:"Delphine"},
+      {source:"DRAGONBORN", target:"Jarl Balgruuf"},
+      {source:"DRAGONBORN", target:"Ulfric\nStormcloak"},
+      {source:"DRAGONBORN", target:"Gen. Tullius"},
+      {source:"DRAGONBORN", target:"Odahviing"},
+      {source:"DRAGONBORN", target:"Elenwen\n(Thalmor)"},
+      {source:"DRAGONBORN", target:"Tsun"},
+      {source:"DRAGONBORN", target:"Ancient\nTongues"},
+
+      {source:"Paarthurnax", target:"ALDUIN", lineStyle:{type:"dashed"}},
+      {source:"Paarthurnax", target:"Greybeards\n(Arngeir)"},
+      {source:"Delphine", target:"Esbern"},
+      {source:"Ulfric\nStormcloak", target:"Gen. Tullius"},
+      {source:"Elenwen\n(Thalmor)", target:"Gen. Tullius"},
+      {source:"Odahviing", target:"ALDUIN", lineStyle:{type:"dashed"}},
+      {source:"Maven\nBlack-Briar", target:"Elenwen\n(Thalmor)"}
+    ],
+
+    lineStyle: {
+      opacity: 0.6,
+      curveness: 0.2
+    },
+
+    emphasis: {
+      focus: "adjacency",
+      lineStyle: { width: 4 }
+    }
+  }]
+};
+
+chart.setOption(option);
+
+// responsive
+window.addEventListener('resize', () => chart.resize());
+</script>
+
+</body>
+</html>

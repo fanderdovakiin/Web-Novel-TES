@@ -1,0 +1,164 @@
+<h2><b>I. ELDER SCROLLS — YANG TIDAK BISA DIPAHAMI, HANYA DIALAMI (Bab 48:Elder Scrolls)</b></h2>
+
+Ada sebuah paradoks yang ada di jantung dari Elder Scrolls sebagai artefak: semakin kamu tahu tentang mereka, semakin kamu menyadari bahwa tidak ada yang benar-benar tahu tentang mereka.
+
+Para sarjana Imperial yang menghabiskan hidup mereka mempelajari Elder Scrolls tidak bisa setuju bahkan tentang asal-usulnya. Moth Priests — yang paling dekat dengan Scrolls dari semua manusia — bisa "membaca" sebagian dari konten mereka namun tidak bisa menjelaskan bagaimana mereka membacanya atau apa yang sebenarnya mereka lihat. Dan makhluk-makhluk yang tampaknya memiliki perspektif yang lebih luas — Daedric Prince, Psijic Order — semua menolak untuk memberikan penjelasan yang memuaskan, masing-masing dengan alasannya sendiri.
+
+Apa yang kita ketahui dengan relatif pasti:
+
+Elder Scrolls bukan "buku" dalam pengertian konvensional. Mereka mengandung tulisan — atau sesuatu yang bisa diterjemahkan sebagai tulisan ketika seseorang yang terlatih "membacanya" — namun tulisan itu tidak linear, tidak konsisten, dan tidak bisa dibaca ulang dengan hasil yang sama. Setiap pembacaan menghasilkan interpretasi yang berbeda, karena apa yang ditampilkan oleh Scroll bergantung pada siapa yang membacanya, kapan mereka membacanya, dan apa yang sudah mereka ketahui sebelum membacanya.
+
+Mereka menampilkan kemungkinan, bukan kepastian. Ini adalah sumber dari kebingungan terbesar tentang Elder Scrolls: orang-orang mengira mereka adalah "buku ramalan" yang memberikan jawaban pasti tentang masa depan. Kenyataannya lebih kompleks. Sebuah Scroll tidak mengatakan "X akan terjadi" — ia menunjukkan semua cara yang mungkin di mana X bisa terjadi, semua cara yang mungkin di mana X tidak terjadi, dan semua cara di mana pertanyaan tentang X bahkan mungkin tidak relevan. Pembaca harus menginterpretasikan — dan interpretasi bergantung pada perspektif, yang membuat "membaca" Elder Scroll menjadi dialog antara Scroll dan pembacanya daripada penerimaan pasif dari informasi yang sudah jadi.
+
+Mereka mendahului bahkan konvensi temporal yang berlaku di Mundus. Beberapa sarjana menduga bahwa Elder Scrolls adalah sisa-sisa dari kondisi pre-Mundus — dari masa sebelum Akatosh "mengunci" waktu dalam aliran linear. Dalam kondisi itu, semua momen dalam waktu ada secara simultan, dan Elder Scroll adalah "jendela" ke kondisi itu — cara untuk melihat, sebentar dan dengan harga yang sangat mahal, sesuatu yang tidak seharusnya bisa dilihat oleh makhluk yang terikat oleh waktu linear.
+
+Penggunaan Elder Scroll dalam Skyrim:
+
+Dalam TES V: Skyrim, tiga Elder Scroll memainkan peran yang sangat spesifik:
+
+Elder Scroll (Dragon) — yang ditemukan di Alftand/Blackreach dan yang berisi informasi tentang Dragonrend — digunakan oleh Dragonborn untuk "mengunjungi" secara temporal momen di mana Ancient Tongues pertama kali menggunakan Dragonrend di Throat of the World, memungkinkan Dragonborn untuk mempelajari shout itu langsung dari sumbernya. Ini adalah penggunaan Elder Scroll yang paling langsung "benar" dalam konteks narasi: menggunakannya untuk mengakses momen sejarah yang tidak bisa diakses dengan cara lain.
+
+Elder Scroll (Sun) — yang ada di College of Winterhold dan kemudian digunakan dalam Dawnguard — digunakan untuk menemukan lokasi Auriel's Bow melalui Prophecy of the Tyranny of the Sun yang ada di dalamnya. Ini adalah penggunaan yang lebih konvensional sebagai "buku ramalan" namun yang tetap memerlukan interpretasi yang sangat spesifik.
+
+Elder Scroll (Blood) — yang dibawa oleh Serana selama ribuan tahun — berisi informasi tentang Tyranny of the Sun yang Harkon butuhkan untuk menyelesaikan rencananya.
+
+Yang menarik adalah bahwa ketiganya terhubung dalam cara yang tidak segera jelas: mereka semua berkaitan dengan aspek-aspek berbeda dari cahaya, waktu, dan nasib yang saling tumpang tindih di sekitar peristiwa-peristiwa yang diprediksi oleh masing-masing.
+
+Moth Priests dan Harga Penglihatan:
+
+Moth Priest adalah orde khusus yang mengabdikan diri untuk "membaca" Elder Scrolls. Proses pelatihan mereka berlangsung selama puluhan tahun dan melibatkan meditasi yang sangat intensif, latihan persepsi yang melampaui persepsi normal, dan pencelupan bertahap ke dalam kontak dengan Elder Scrolls di berbagai tingkatan.
+
+Harga dari kemampuan ini adalah kebutaan bertahap. Setiap kali seorang Moth Priest "membaca" Elder Scroll, sebagian kecil dari kapasitas penglihatan fisik mereka hilang. Ini bukan efek samping yang bisa dihindari — ini adalah mekanisme fundamental dari cara "pembacaan" bekerja. Untuk melihat lebih dalam ke dalam Scroll, seseorang harus mengorbankan kemampuan untuk melihat ke luar dari Scroll.
+
+Ironi yang mendalam: semakin buta seorang Moth Priest, semakin mereka bisa "melihat" di dalam Scroll. Kebutaan total — kondisi di mana tidak ada lagi input visual eksternal yang bisa mengganggu — secara paradoksal memungkinkan tingkat kejelasan tertinggi dalam pembacaan. Moth Priest yang paling buta adalah Moth Priest yang paling "lihat" dalam pengertian yang paling penting.
+
+Ini mencerminkan tema yang lebih luas dalam teologi Tamriel tentang hubungan antara pengorbanan dan kebijaksanaan — bahwa pemahaman yang paling dalam selalu datang dengan harga, dan harga itu sering kali adalah sesuatu yang orang lain anggap berharga namun yang bagi yang membayarnya tampak sebagai pertukaran yang sepadan.
+
+
+
+<h2><b>II. WHITE PHIAL — KESEMPURNAAN YANG TIDAK BISA DIPERTAHANKAN (Bab 49 Bagian 1)</b></h2>
+
+White Phial adalah artefak yang, lebih dari yang lain, menceritakan kisah tentang obsesi dan kematian. Ia bukan artefak yang membunuh musuhmu atau yang membuatmu lebih kuat dalam pertempuran. Ia adalah botol kecil yang diisi ulang setiap hari dengan substansi pilihan penggunanya.
+
+Dalam konteks ini, tampaknya remeh — sebuah "healing potion yang tidak habis" dalam istilah game yang paling sederhana. Namun lore di sekitarnya jauh lebih kaya.
+
+Nurelion — alchemist tua yang menjual barang-barang di Windhelm — sudah menghabiskan hidupnya mencari White Phial. Ia percaya bahwa artefak ini, yang menurut legenda dibuat oleh alchemist kuno yang menemukan cara untuk mengkristalisasi "kesempurnaan" dalam botol kaca, adalah puncak dari semua pencapaian alchemical. Ia percaya bahwa memiliki White Phial akan memvalidasi seluruh karir alchemisnya — bahwa ia akan meninggal sebagai orang yang berhasil, bukan sebagai orang yang gagal.
+
+Ketika Dragonborn akhirnya menemukan Phial untuk Nurelion — dalam kondisi yang retak, tidak sempurna — Nurelion mati beberapa waktu setelahnya, tepat setelah melihat artefak yang hidupnya ia habiskan untuk dikejar. Dan sebelum mati, dalam dialognya, ada sesuatu yang sangat tragis: ia tidak tahu apakah ia bahagia atau tidak. Ia mendapatkan apa yang selalu ia inginkan, namun dalam kondisi yang tidak sepenuhnya memuaskan harapannya.
+
+Dragonborn kemudian bisa memilih untuk memperbaiki Phial — proses yang melibatkan quest terpisah yang lebih panjang — menghasilkan versi yang berfungsi penuh. Namun Nurelion tidak pernah melihat versi yang diperbaiki. Ia mati dengan Phial yang retak di tangannya.
+
+Ini adalah kisah yang TES V: Skyrim ceritakan dengan sangat halus — bahwa pencarian obsesif terhadap sempurna sering kali menghasilkan versi yang tidak sempurna dari apa yang dicari, dan bahwa mungkin versi yang tidak sempurna itu sudah cukup, jika saja kita bisa mengakuinya.
+
+
+
+<h2><b>III. GAULDUR AMULET — KEJAHATAN YANG MENJADI MUSEUM (Bab 49 Bagian 2)
+
+Gauldur Amulet adalah artefak yang sejarahnya adalah tentang sebuah kejahatan, konsekuensinya, dan cara sebuah kerajaan mencoba untuk menghapus memori itu dari sejarah.
+
+Arch-Mage Gauldur hidup di First Era Skyrim — seseorang yang, menurut catatan, adalah penyihir yang sangat kuat yang kekuasaannya berasal tidak hanya dari kemampuan magisnya sendiri namun dari Amulet yang ia kenakan. Amulet itu bukan meminjamnya kekuatan dari luar; ia memfokuskan dan melipatgandakan kekuatan yang sudah ada dalam dirinya, menjadikannya salah satu penyihir paling kuat di Skyrim.
+
+Anak-anaknya — Mikrul, Sigdis, dan Jyrik — menginginkan kekuatan Amulet itu. Dan ketika mereka membunuh ayah mereka dan membagi Amulet menjadi tiga bagian, masing-masing membawa satu, mereka mendapat kekuatan yang mereka inginkan. Namun mereka juga mendapat sesuatu yang tidak mereka antisipasi: murka raja.
+
+High King pada masa itu memerintahkan tidak hanya eksekusi ketiga saudara tersebut — yang dilaksanakan — namun juga penghapusan total dari semua catatan tentang Gauldur, Amulet, dan pembunuhan itu. Alasannya tidak sepenuhnya jelas namun bisa diinferensikan: kisah ini terlalu memalukan, terlalu mengungkap tentang kelemahan manusia (bahwa anak-anak bisa membunuh ayah demi kekuasaan), atau mungkin kekuatan Amulet itu sendiri terlalu berbahaya untuk diketahui publik.
+
+Hasilnya: selama ribuan tahun, kisah Gauldur hampir terlupakan. Yang tersisa hanyalah fragmen-fragmen — dalam "The Legend of Gauldur Amulet", teks yang tampaknya tidak diketahui oleh hampir siapa pun yang Dragonborn temui — yang cukup untuk menentukan di mana ketiga bagian Amulet disimpan bersama jasad para pembunuhnya.
+
+Forbidden Legend quest di TES V: Skyrim adalah tentang merekonstruksi kisah yang sengaja dihapus ini — tentang mengikuti jejak-jejak yang hampir tidak ada, menemukan kebenaran yang raja kuno minta untuk tidak diketahui siapa pun, dan pada akhirnya memulihkan artefak yang seharusnya tidak ada yang tahu keberadaannya.
+
+
+
+<h2><b>IV. AETHERIUM FORGE DAN KRISTAL YANG TIDAK BISA DITAMBANG LAGI (Bab Bagian 3)</b></h2>
+
+Aetherium adalah material yang, bahkan oleh standar Dwemer yang sangat tinggi, dianggap sebagai sesuatu yang luar biasa. Ia adalah bentuk kristal dari Aetherius itu sendiri — energi dari sumber magicka yang mengalir dari lubang-lubang di langit (bintang-bintang) terkadang mengkristalisasi ketika kondisi-kondisi yang sangat spesifik terpenuhi.
+
+Dwemer menemukan cara untuk menambang kristal ini — dari lokasi-lokasi yang sangat spesifik, menggunakan teknik yang tidak sepenuhnya dipahami bahkan oleh standar pengetahuan Dwemer yang ada dalam rekaman — dan untuk memforgenya menjadi artefak menggunakan Aetherium Forge, yang terletak jauh di bawah Ruins of Bthalft di Skyrim.
+
+Namun ketika Dwemer menghilang pada 1E 700, pengetahuan tentang cara menambang dan memforge Aetherium menghilang bersama mereka. Tidak ada Aetherium baru yang pernah ditambang sejak saat itu — semua yang ada adalah sisa dari sebelum hilangnya Dwemer.
+
+Ini membuat artefak Aetherium — Aetherial Crown, Aetherial Shield, dan Aetherial Staff — unik bukan hanya dalam kemampuannya namun dalam kefanaannya yang paradoksal: mereka adalah benda-benda yang tidak bisa dibuat lagi, yang material pembuatnya sudah tidak bisa diakses, dan yang karena itu adalah benar-benar satu-satunya dari jenisnya yang akan pernah ada.
+
+Lost to the Ages — quest Dawnguard DLC yang mengikuti Dwarven scholar Katria dan misi akhir hidupnya untuk menemukan Aetherium Forge — adalah salah satu quest yang paling kaya lore dalam seluruh TES V. Katria menghabiskan hidupnya meneliti Aetherium, menemukan lokasinya, dan mati sebelum bisa menggunakannya. Rohnya terikat ke tempat-tempat penelitiannya, menunggu seseorang yang bisa menyelesaikan perjalanannya.
+
+Bahwa orang itu adalah Dragonborn — yang tidak tahu tentang Katria sebelum bertemu rohnya — adalah sesuatu yang Katria pada akhirnya menerima dengan kedamaian yang mengharukan: bahwa warisannya tidak akan menjadi namanya yang terukir di sejarah, melainkan artefak yang dibuat menggunakan pengetahuan yang ia temukan.
+
+
+
+<h2><b>V. BLOODSKAL BLADE — KETIKA SENJATA ADALAH KUNCI (Bab 49 Bagian 4)</b></h2>
+
+Bloodskal Blade adalah kasus yang menarik dalam taxonomi artefak: senjata yang juga merupakan kunci. Ia bukan hanya alat pertempuran yang kuat — ia dirancang secara eksplisit untuk berinteraksi dengan lingkungan spesifik di Solstheim.
+
+Bloodskal Barrow mengandung portal yang hanya bisa dibuka melalui serangkaian serangan energi dalam pola yang tepat — horizontal slash menghasilkan gelombang horizontal, vertical slash menghasilkan gelombang vertikal. Portal itu dirancang oleh pembuatnya untuk hanya bisa dibuka oleh seseorang yang memiliki Bloodskal Blade dan yang cukup paham untuk menggunakannya dengan benar.
+
+Ini adalah mechanic desain yang, dari perspektif lore, sangat masuk akal: bahwa ada tempat-tempat di Tamriel yang tidak bisa diakses hanya dengan kekuatan brute force, yang memerlukan artefak spesifik yang berfungsi sebagai kunci. Dan bahwa kunci itu bisa terlihat seperti senjata biasa kepada orang yang tidak tahu cara menggunakannya dengan benar.
+
+Bloodskal Blade ditemukan di dalam barrow itu sendiri — yang berarti bahwa siapa pun yang membangun portal tersebut sengaja meninggalkan kunci di dalamnya, hanya tersembunyi cukup dalam sehingga tidak semua orang bisa mencapainya. Ini mengimplikasikan bahwa builder ingin seseorang yang cukup tekun dan cukup kuat untuk menembus barrow bisa masuk ke area yang dilindungi — bukan keamanan absolut, melainkan seleksi berdasarkan kemampuan.
+
+
+
+<h2><b>VI. DRAGONBANE — SENJATA YANG NAMANYA ADALAH TAKDIRNYA (Bab 49 Bagian 5)</b></h2>
+
+Dragonbane adalah katana bergaya Akaviri yang tersimpan di Sky Haven Temple bersama dengan Alduin's Wall dan segala sesuatu yang Blades kumpulkan tentang naga. Ia tidak ditempatkan di sana secara sembarangan — Dragonbane adalah senjata yang dirancang dan dibuat secara eksplisit untuk menghadapi naga, dan menyimpannya di kuil yang didedikasikan untuk konflik Blades melawan naga adalah tindakan yang sangat disengaja.
+
+Bahwa senjata ini tersedia persis pada momen di mana Dragonborn mengetahui tugasnya — ketika mereka mengunjungi Sky Haven Temple dan menemukan Alduin's Wall — adalah detail yang bisa dibaca sebagai kebetulan narasi atau sebagai sesuatu yang lebih dalam.
+
+Blades, dalam pemahaman mereka tentang nubuat dan tentang peran Dragonborn, mungkin sudah menyimpan Dragonbane di sana dengan harapan bahwa suatu hari seorang Dragonborn akan datang dan memerlukannya. Bahwa hari itu akhirnya tiba ribuan tahun setelah Dragonbane pertama kali diletakkan di sana adalah testimony tentang kesabaran institusional yang luar biasa — atau, tergantung interpretasi, bukti bahwa Blades memiliki pemahaman tentang nubuat yang lebih dalam dari yang mereka ungkapkan secara publik.
+
+
+
+<h2><b>VII. KOMPENDIUM ARTEFAK MINOR — YANG KECIL NAMUN BERMAKNA</b></h2>
+
+Dunia TES dipenuhi dengan artefak yang lebih kecil — benda-benda yang tidak menentukan nasib Tamriel namun yang masing-masing memiliki kisah di baliknya yang layak untuk diketahui:
+
+Chillrend — pedang yang dulunya milik Gray Fox sebelum identitasnya dikembalikan, yang kemudian diambil oleh Maven Black-Briar sebagai kolateral untuk hutang yang tidak pernah dibayar oleh suaminya. Menemukan Chillrend dalam koleksi Black-Briar adalah petunjuk tentang berapa banyak transaksi gelap keluarga itu yang melibatkan artefak bermagicka sebagai alat tawar.
+
+Hircine's Ring — artefak yang memungkinkan Werewolf untuk mengontrol transformasi mereka dengan lebih baik, namun yang diperebutkan antara Dragonborn dan Sinding dalam quest Ill Met By Moonlight. Pilihan moral dalam quest itu — apakah membantu Sinding yang melarikan diri dari Hircine, atau membantu Hircine menangkap Sinding — adalah salah satu yang paling mengungkap tentang bagaimana TES menolak untuk membuat pilihan moral menjadi mudah.
+
+Shadowrend — sword yang muncul dalam ESO, berlatar belakang Vaermina's influence. Dalam ESO-era, artefak ini memiliki karakteristik yang membuatnya lebih kompleks dari sekadar "sword bermagicka dari Daedric Prince".
+
+Nettlebane — dagger yang digunakan untuk melukai Eldergleam, pohon suci dari Y'ffre. Quest yang melibatkan Nettlebane adalah tentang pilihan antara mengambil sap Eldergleam (yang melukai pohon suci tersebut) atau menemukan cara lain. Bahwa ada alternatif yang tidak memerlukan melukai pohon — namun yang memerlukan lebih banyak usaha — adalah detail yang menunjukkan bahwa TES sering memberikan jalan yang lebih sulit namun yang lebih tidak berkompromi secara moral.
+
+Ancient Shrouded Armor — satu set armor Dark Brotherhood yang jauh lebih tua dari armor Brotherhood yang umum digunakan, yang memiliki enchantment yang tidak bisa direplikasi menggunakan teknik modern. Siapa yang membuat set ini, kapan, dan dengan teknik apa — semua ini adalah pertanyaan yang lore tidak sepenuhnya menjawab, namun yang keberadaannya mengimplikasikan bahwa Dark Brotherhood pernah memiliki akses ke pengetahuan magis yang sudah tidak mereka miliki sekarang.
+
+
+
+<h2><b>VIII. TENTANG ARTEFAK DAN KEPEMILIKIAN</b></h2>
+
+Satu tema yang muncul berulang kali dalam semua artefak yang kita bahas — baik yang besar maupun yang kecil — adalah bahwa kepemilikan artefak adalah selalu sementara. Tidak ada yang "memiliki" artefak dalam pengertian yang permanen. Mereka berpindah dari tangan ke tangan, dari era ke era, meninggalkan jejak pada setiap pemilik dan terkadang membawa jejak setiap pemilik ke depan.
+
+Amulet of Kings berpindah dari Akatosh ke Alessia ke serangkaian kaisar ke Martin Septim yang menghancurkannya. Staff of Chaos dari pembuatnya ke Jagar Tharn yang memecahnya ke Hero of Arena yang menyatukannya kembali. Auriel's Bow dari Auri-El ke Gelebor ke Dragonborn. Setiap perpindahan tangan adalah sebuah kisah tentang bagaimana kondisi-kondisi berubah sedemikian rupa sehingga artefak yang dulunya dipegang oleh satu tangan sekarang perlu berada di tangan yang berbeda.
+
+Dan dalam semua perpindahan itu, ada satu konstanta: artefak hanya bermakna dalam konteks penggunanya. Auriel's Bow di tangan Gelebor yang tidak pernah bisa menggunakannya untuk tujuan yang tepat adalah sekadar benda bersejarah yang indah. Auriel's Bow di tangan Dragonborn adalah senjata yang menentukan nasib matahari Skyrim. Elder Scroll yang tersimpan di Imperial Library dan tidak pernah dibaca oleh siapa pun adalah potensi yang tidak pernah terealisasi. Elder Scroll yang dibaca oleh Ancient Tongues di Throat of the World adalah momentum yang mengubah siklus kosmis.
+
+Benda tidak memiliki makna. Orang yang menggunakan benda itulah yang menciptakan makna.
+
+
+
+<h2><b>IX. PENUTUP — YANG TERSISA KETIKA SEMUANYA PERGI</b></h2>
+
+Di antara semua artefak yang ada di Tamriel — dari yang paling kuat hingga yang paling humble — ada satu kategori yang paling menarik dari semuanya: artefak yang tidak ada yang tahu ada.
+
+Setiap peradaban yang pernah ada di Tamriel pasti meninggalkan benda-benda di baliknya — benda-benda yang, karena kondisi-kondisi yang tidak bisa diprediksi, belum ditemukan. Benda-benda Ayleid yang masih terkubur di bawah tanah Cyrodiil yang belum pernah digali. Teknologi Dwemer yang tersimpan di bagian-bagian kota bawah tanah yang belum pernah dijelajahi. Artefak-artefak dari peradaban-peradaban yang bahkan tidak kita ketahui keberadaannya karena mereka hilang terlalu lama yang lalu.
+
+Tamriel adalah, pada hakikatnya, tempat yang dipenuhi dengan sejarah yang belum ditemukan. Dan setiap artefak yang ditemukan oleh seorang penjelajah, setiap reruntuhan yang dibuka, setiap teks kuno yang diterjemahkan — semua itu adalah cara untuk mengangkat sedikit lebih banyak dari ketidaktahuan kita.
+
+Ini mungkin adalah warisan paling sejati dari semua artefak legendaris: bukan kekuatan yang mereka berikan kepada pemegang mereka, bukan sejarah yang mereka wakili, melainkan undangan untuk terus mencari. Bahwa ada lebih di luar sana. Bahwa setiap sudut Tamriel yang belum dieksplorasi menyimpan kemungkinan penemuan. Dan bahwa pencarian itu sendiri — bukan hanya temuannya — adalah sesuatu yang berharga.
+
+<i>"Di sini, di kamar ini, aku memegang sesuatu yang tiga ribu tahun lalu dipegang oleh tangan yang lain.
+Tangan itu sudah lama menjadi abu.
+Namun ini masih di sini.
+Ini adalah satu-satunya cara sesuatu bisa abadi —
+bukan dengan tidak hancur,
+melainkan dengan terus ada bahkan ketika yang membuatnya sudah tidak ada.
+Inilah mengapa kita membuat benda-benda.
+Bukan untuk kita sendiri.
+Melainkan agar ada sesuatu yang bertahan setelah kita.
+Sesuatu yang memberitahu orang-orang yang datang setelah kita:
+'Aku pernah di sini.
+Aku membuat ini.
+Aku peduli tentang sesuatu.'*
+Artefak adalah cara kita berbicara melampaui kematian."
+
+— Dari jurnal yang tidak bernama, ditemukan di antara reruntuhan Helgen
+setelah serangan Alduin, 4E 201
+penulisnya tidak diketahui dan tidak pernah bisa diidentifikasi</i>

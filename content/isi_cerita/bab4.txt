@@ -1,0 +1,308 @@
+<h2><b>I. PRAELUDIUM — SEBUAH IDE YANG TAK BISA DIHAPUS</b></h2>
+
+Ada satu pertanyaan yang tidak pernah bisa dijawab secara memuaskan oleh para teolog, filsuf, dan sejarawan Tamriel dari era mana pun: Apa yang ada di benak Lorkhan ketika ia pertama kali membayangkan Mundus?
+
+Bukan karena tidak ada yang mencoba menjawabnya. Sebaliknya — tidak ada topik lain dalam seluruh kosmologi Aurbis yang telah menghasilkan lebih banyak spekulasi, lebih banyak debat, lebih banyak teori yang saling bertentangan, dan lebih banyak peperangan yang dipicu oleh ketidaksepakatan. Altmer membenci pertanyaan itu karena jawabannya mengandung kebenaran tentang "kejatuhan" mereka dari kesempurnaan ilahi. Dunmer berdebat tentangnya selama ribuan tahun di Council of Great Houses. Para teolog Imperial menghabiskan seluruh karir akademis mereka mencoba merekonsiliasi versi-versi yang saling bertentangan dari kisah yang sama.
+
+Karena di sinilah letak paradoks yang paling mendasar dari seluruh eksistensi kita: Lorkhan mungkin adalah penyelamat terbesar dalam sejarah Aurbis, atau ia mungkin adalah penjahat kosmis yang belum tertandingi kejahatannya. Dan kemungkinan besar, ia adalah keduanya secara bersamaan — karena dalam hal kosmologi, hitam dan putih jarang sekali merupakan kategori yang cukup.
+
+Yang kita ketahui dengan pasti adalah ini: sebelum Lorkhan bertindak, tidak ada Tamriel. Tidak ada gunung-gunung Skyrim yang bersalju, tidak ada rawa-rawa Black Marsh yang menembus kabut, tidak ada pasir Hammerfell yang berkilau di bawah terik matahari, tidak ada jamur-jamur raksasa Morrowind yang menjulang ke langit abu. Tidak ada Dragonborn yang berdiri di puncak Throat of the World dan menggemakan Thu'um-nya ke seluruh penjuru dunia. Tidak ada kerajaan-kerajaan yang berdiri dan jatuh, tidak ada pahlawan yang mengangkat pedang melawan kegelapan, tidak ada pecinta yang menyebutkan nama kekasih dalam bisikan di kegelapan malam.
+
+Semuanya — <i>semuanya</i> — ada karena Lorkhan memiliki sebuah ide.
+
+Dan ia tidak menyimpan ide itu untuk dirinya sendiri.
+
+
+
+<h2><b>II. IDE PERTAMA — BISIKAN DI ANTARA PARA DEWA</b></h2>
+
+Para Et'Ada pada Dawn Era — masa sebelum waktu linier ada, masa di mana "sebelum" dan "sesudah" tidak berlaku dengan cara yang bisa kita pahami — eksis di dalam Aurbis yang masih cair dan belum terbentuk. Mereka bergerak, berinteraksi, membentuk aliansi dan persahabatan dan persaingan, menjelajahi kemungkinan-kemungkinan eksistensi yang tidak terbatas.
+
+Namun ada sesuatu yang, secara metaforis, bisa kita sebut sebagai "rasa bosan" yang merayapi Lorkhan. Atau mungkin bukan "rasa bosan" — kata itu terlalu kecil, terlalu manusiawi untuk mendeskripsikan apa yang dialami oleh Et'Ada yang melampaui manusia dalam segala hal. Mungkin yang lebih tepat adalah rasa haus — kehausan akan sesuatu yang baru, sesuatu yang belum pernah ada, sesuatu yang melampaui semua kemungkinan yang bisa dicapai oleh Et'Ada dalam kondisi mereka saat ini.
+
+Teks kunci dari The Monomyth menggambarkan Lorkhan sebagai entitas yang "selalu bergerak ke arah yang belum dikunjungi" — selalu mencari tepi dari apa yang sudah dikenal, selalu mendorong ke luar batas yang telah ditetapkan. Sifat ini — yang dalam perspektif Padomay bisa disebut sebagai ekspresi murni dari Perubahan — membuat Lorkhan selalu tidak puas dengan status quo. Sementara Et'Ada lain mungkin puas dengan eksistensi mereka yang tak terbatas di Aurbis yang tak terbatas, Lorkhan selalu memikirkan: Apa yang belum ada?
+
+Dan pada suatu titik — yang tidak bisa dilokalisasi dalam waktu karena waktu belum ada — ia menemukan jawabannya.
+
+<i>"Sebuah dunia fana. Sebuah Mundus. Arena di mana segala hal bisa terjadi yang tidak bisa terjadi di sini, di antara kita."</i>
+
+Lorkhan tidak segera mengumumkan idenya kepada semua Et'Ada. Ia cerdik — atau, dalam versi Altmer, ia licik. Ia mulai dengan berbisik-bisik kepada beberapa Et'Ada yang ia anggap paling mungkin tertarik, paling mungkin bersimpatik terhadap gagasannya. Ia datang kepada mereka satu per satu, dalam percakapan-percakapan private yang tidak ada saksinya, dan menceritakan visinya.
+
+<i>"Bayangkan sebuah tempat," bisik Lorkhan, "di mana segala kemungkinan bisa menjadi nyata. Bukan 'nyata' seperti kita nyata — seperti energi, seperti potensi, seperti mimpi yang menjadi dirinya sendiri. Melainkan 'nyata' dalam cara yang berbeda — padat, konkret, yang bisa disentuh dan dirasakan dan dialami. Sebuah arena di mana makhluk-makhluk bisa lahir, hidup, berjuang, mencintai, menciptakan, menghancurkan, dan mati — dan dalam semua itu, menemukan sesuatu yang tidak bisa ditemukan oleh entitas tak terbatas seperti kita: makna."</i>
+
+Teks Sancre Tor Apostolic — tulisan dari sebuah sekte kecil Imperial yang percaya bahwa Shezarr (Lorkhan versi Imperial) adalah dewa paling penting dari semua — merekonstruksi dialog ini dengan cara yang lebih dramatis:
+
+<i>"Lorkhan berkata kepada Kynareth: 'Kau adalah angin dan langit. Tapi angin di sini tidak ada ke mana yang dituju. Langit di sini tidak ada yang menatapnya dengan takjub. Berilah aku ruang, dan aku akan membuat tempat di mana anginmu akan berarti sesuatu, di mana langitmu akan membuat makhluk-makhluk menangis karena keindahannya.' Dan Kynareth mendengarkan."
+
+"Lorkhan berkata kepada Mara: 'Kau adalah kasih sayang. Tapi kasih sayang di antara kita yang tak terbatas tidak pernah benar-benar diuji. Bagaimana kau bisa membuktikan kasih sayangmu ketika tidak ada yang membutuhkan? Berilah aku kesempatan untuk menciptakan makhluk-makhluk yang akan membutuhkan kasih sayangmu, yang tanpanya mereka akan hancur, dan dengan adanya yang akan tumbuh dan menjadi lebih dari yang mereka sendiri bayangkan.' Dan Mara mendengarkan."
+
+"Lorkhan berkata kepada Stendarr: 'Kau adalah keadilan. Tapi keadilan tanpa yang tertindas tidak bermakna. Berilah aku panggung, dan aku akan mengisinya dengan konflik — dan dalam konflik itu, keadilanmu akan menjadi hal yang paling berharga di semua Aurbis.' Dan Stendarr mendengarkan."</i>
+
+Kisah ini — walau mungkin terlalu terpersonifikasi untuk akurat secara kosmologis — menangkap sesuatu yang penting tentang sifat persuasi Lorkhan: ia tidak memaksa. Ia tidak menipu secara langsung — setidaknya tidak pada tahap awal. Ia memberi setiap Et'Ada visi tentang apa yang bisa menjadi milik mereka jika mereka berpartisipasi. Kepada Kynareth, ia menjanjikan dunia di mana anginnya bermakna. Kepada Mara, dunia di mana kasih sayangnya dibutuhkan. Kepada setiap Et'Ada, ia menjanjikan sesuatu yang sesuai dengan sifat terdalam mereka.¹
+
+<i>¹ Catatan Lore: Ada perdebatan panjang tentang apakah Lorkhan "menipu" atau tidak dalam tahap ini. Argumen bahwa ia tidak menipu: ia menjanjikan apa yang memang terjadi — Kynareth memang mendapat dunia di mana anginnya bermakna, Mara memang mendapat makhluk yang membutuhkan kasih sayangnya. Argumen bahwa ia menipu: ia tidak mengungkapkan harga penuh dari keterlibatan — bahwa Et'Ada harus menyerahkan sebagian besar kekuatan ilahi mereka, bahwa mereka akan terikat kepada Mundus untuk selamanya, bahwa "pengorbanan" yang dimintanya jauh lebih besar dari yang ia implikasikan.</i>
+
+
+
+<h2><b>III. PERENCANAAN MUNDUS — ARSITEKTUR DARI SEBUAH IMPIAN</b></h2>
+
+Secara bertahap — dalam momen-momen yang tidak terlokalisasi dalam waktu — koalisi Et'Ada yang akan berpartisipasi dalam penciptaan Mundus mulai terbentuk. Dengan Magnus sebagai arsitek utama, mereka mulai merancang dunia yang hendak mereka ciptakan.
+
+Proses perencanaan ini berlangsung selama — dalam terminologi yang kita bisa gunakan, walau tidak sepenuhnya akurat — "ribuan tahun sebelum waktu ada". Mereka berdebat tentang setiap aspek dari Mundus yang akan datang:
+
+Hukum Fisika. Magnus merancang hukum-hukum yang akan mengatur Mundus: gravitasi, momentum, entropi, termologi. Hukum-hukum ini harus cukup konsisten untuk membuat dunia bisa diprediksi dan bisa dihuni, namun cukup fleksibel untuk memungkinkan adanya magicka — aliran energi dari Aetherius yang akan menjadi "celah" di mana kehendak bisa mempengaruhi realitas. Ini adalah keseimbangan yang sangat sulit, dan Magnus menghabiskan waktu yang sangat lama menyempurnakannya.
+
+Geografi. Berbagai Et'Ada menyumbangkan bagian-bagian dari esensi mereka untuk membentuk fitur-fitur geografis spesifik. Akatosh menyumbangkan "tulang" waktu untuk membentuk fondasi batuan. Kynareth menyumbangkan napasnya untuk membuat atmosfer. Stendarr menyumbangkan kekuatannya untuk membentuk lautan. Arkay menyumbangkan siklus hidupnya untuk menciptakan musim-musim. Setiap Et'Ada yang berpartisipasi meninggalkan jejak esensi mereka di dalam struktur fisik Mundus — inilah mengapa, ribuan tahun kemudian, seorang penyihir yang cukup kuat bisa "merasakan" kehadiran Aedra di dalam tanah itu sendiri, di dalam angin, di dalam air.
+
+Makhluk-Makhluk. Siapa yang akan menghuni Mundus? Ini adalah perdebatan yang paling sengit di antara semua perdebatan. Lorkhan ingin ada makhluk-makhluk fana — entitas yang lahir, hidup, dan mati dalam siklus yang terus berulang, yang tidak memiliki pengetahuan bawaan tentang Aurbis dan harus menemukan segalanya sendiri. Et'Ada lain memiliki pendapat yang berbeda-beda. Beberapa ingin membuat tiruan dari diri mereka sendiri di dalam Mundus. Beberapa ingin membuat makhluk-makhluk yang sepenuhnya berbeda.
+
+Pada akhirnya, solusi yang ditemukan adalah Ehlnofey — "Anak-Anak Et'Ada" atau "makhluk-makhluk yang paling mirip dengan pencipta mereka". Ehlnofey adalah prototipe dari semua ras yang kemudian menghuni Tamriel — nenek moyang dari Mer dan Man, dari makhluk-makhluk yang memiliki jiwa namun juga memiliki tubuh fana. Namun kisah Ehlnofey adalah kisah Bab 5; untuk sekarang, cukuplah dipahami bahwa penciptaan mereka adalah bagian dari rancangan Mundus.
+
+Magicka. Ini adalah inovasi paling brilian — dan paling kontroversial — dari rancangan Magnus. Magicka adalah "jembatan" antara Aetherius dan Mundus: aliran energi ilahi yang merembes melalui celah-celah di langit (yang akan menjadi bintang dan matahari) ke dalam dunia fana. Magicka memungkinkan makhluk-makhluk fana untuk, dalam batas-batas tertentu, mempengaruhi realitas dengan kehendak mereka — sesuatu yang hanya bisa dilakukan oleh Et'Ada di Aurbis yang belum terbentuk.
+
+Namun magicka juga memiliki harga: semakin banyak yang digunakan, semakin besar kelelahan. Semakin kuat spell yang dirapal, semakin besar risikonya. Magicka di Mundus selalu kekurangan, selalu tidak sempurna, selalu terbatas dibandingkan energi ilahi yang asli — karena ia harus melewati Liminal Barriers yang semakin menebal seiring Mundus semakin "mengeras" menjadi dunia yang nyata. Ini, menurut beberapa sarjana, adalah "fitur" bukan "bug" — Lorkhan tidak mau makhluk-makhluk fana memiliki akses tak terbatas ke kekuatan ilahi, karena itu akan mengalahkan tujuannya: menciptakan makhluk-makhluk yang harus berjuang untuk mencapai sesuatu yang berarti.
+
+
+
+<h2><b>IV. PENCIPTAAN MUNDUS — PENGORBANAN YANG TAK BISA DITARIK KEMBALI</b></h2>
+
+Dan kemudian tibalah saat yang paling menentukan.
+
+Setelah semua perencanaan, setelah semua diskusi, setelah semua perdebatan yang berlangsung dalam hitungan waktu yang tidak bisa diukur — tiba saatnya untuk membangun. Dan untuk membangun Mundus, para Et'Ada yang berpartisipasi harus mulai menyumbangkan esensi mereka.
+
+Prosesnya dimulai secara bertahap, hampir tidak terasa. Et'Ada menyumbangkan "sedikit" dari diri mereka — sebagian kecil dari kekuatan mereka, semacam "pembayaran muka" untuk memulai proses penciptaan. Dan hasilnya sangat menakjubkan: dari pengorbanan kecil itu, Nirn mulai mengambil bentuk. Tanah yang padat dan nyata mulai muncul. Air mulai mengalir. Angin mulai bertiup.
+
+Para Et'Ada terpesona oleh keindahan yang mereka ciptakan. Ini mendorong mereka untuk menyumbangkan lebih banyak lagi. Dan ketika mereka menyumbangkan lebih banyak, Mundus menjadi lebih nyata, lebih padat, lebih hidup — dan lebih banyak memerlukan sumbangan lebih lanjut untuk mempertahankan diri.
+
+Inilah jebakan yang — menurut versi Altmer — Lorkhan sembunyikan. Mundus adalah sistem yang "rakus": semakin banyak kekuatan yang dimasukkan ke dalamnya, semakin banyak yang diperlukannya untuk bertahan. Seperti api yang memerlukan bahan bakar lebih banyak semakin besar ia menyala. Para Et'Ada, tanpa sadar, sudah memberikan terlalu banyak untuk bisa kembali — ketika mereka akhirnya menyadari betapa besar pengorbanan yang diperlukan untuk menyelesaikan Mundus, kebanyakan dari mereka sudah terlalu terlibat untuk mundur tanpa menghancurkan apa yang sudah mereka bangun.
+
+The Monomyth mendeskripsikan momen kesadaran ini dengan kata-kata yang menggetarkan:
+
+<i>"Dan ketika Mundus hampir selesai, para pencipta merasakan sesuatu yang tidak pernah mereka rasakan sebelumnya: kehilangan. Mereka merasakan bagian dari diri mereka sudah tidak ada lagi — sudah menjadi bagian dari tanah dan langit dan laut dari ciptaan mereka. Dan beberapa dari mereka berteriak, tidak dengan suara melainkan dengan esensi mereka yang terluka, berteriak kepada Lorkhan: 'Berapa banyak lagi? Berapa banyak dari kami yang harus menjadi dunia ini?'"
+
+"Dan Lorkhan menjawab, atau tidak menjawab — sumber-sumber tidak sepakat — dan mereka tidak suka dengan apa yang mereka dengar, atau dengan ketiadaan jawaban yang mereka terima."</i>
+
+Beberapa Et'Ada, pada titik ini, memilih untuk pergi. Mereka adalah Magna-Ge — yang melarikan diri ke Aetherius, merobek lubang-lubang di langit yang menjadi bintang-bintang. Mereka melarikan diri sebelum pengorbanan mereka menjadi tak terpulihkan.
+
+Namun yang lain — yang kelak menjadi Aedra, Eight Divines — tetap tinggal. Entah karena mereka sudah menyumbang terlalu banyak untuk pergi, entah karena mereka benar-benar percaya pada visi Lorkhan, entah karena semacam kesetiaan kosmis yang tidak bisa mereka ingkari — mereka tetap, dan menyumbangkan sisa esensi yang diperlukan untuk menyelesaikan Mundus.
+
+Pengorbanan terakhir ini yang paling besar. Setiap Aedra menyerahkan prerogative mereka untuk berubah secara bebas — kebebasan fundamental yang telah mereka miliki sejak terlahir dari Interplay Anu-Padomay. Mereka memasukkan kebebasan itu ke dalam Mundus dan, dalam proses itu, terikat kepada Mundus untuk selamanya. Mereka masih eksis sebagai entitas — masih memiliki kesadaran, masih memiliki kehendak — namun mereka tidak lagi bebas dalam cara yang dulunya mereka bebas.
+
+Dan Mundus selesai. Nirn berdiri dalam kegelapan Aurbis, dikelilingi oleh delapan planet (tubuh Aedra), diterangi oleh Matahari (lubang Magnus), dan bersinar dengan potensial magicka yang mengalir dari bintang-bintang (lubang Magna-Ge). Tanah sudah padat. Lautan sudah mengalir. Gunung-gunung sudah berdiri. Kehidupan pertama sudah mulai muncul.
+
+Itu adalah momen yang paling indah dan paling menyedihkan dalam seluruh sejarah Aurbis.
+
+
+
+<h2><b>V. PENGKHIANATAN YANG TERUNGKAP — APA YANG DISEMBUNYIKAN LORKHAN</b></h2>
+
+Sekarang kita sampai pada inti dari kontroversi Lorkhan. Bukan soal apakah ia menciptakan Mundus — itu tidak diperdebatkan. Bukan soal apakah penciptaan Mundus memerlukan pengorbanan dari para Aedra — itu juga tidak diperdebatkan.
+
+Yang diperdebatkan adalah: Apakah Lorkhan tahu dan menyembunyikan skala penuh pengorbanan yang diperlukan?
+
+Dalam versi Altmer — yang paling keras dalam mengutuk Lorkhan — jawabannya adalah ya, tanpa keraguan. Lorkhan adalah penipu. Ia tahu sejak awal bahwa menciptakan Mundus yang permanen akan memerlukan Et'Ada yang berpartisipasi untuk menyerahkan sebagian besar kekuatan ilahi mereka. Ia sengaja tidak mengungkapkan ini karena ia tahu bahwa jika ia mengungkapkannya, tidak ada yang mau berpartisipasi. Ia memanipulasi para Et'Ada, satu per satu, dengan janji-janji yang indah yang menutupi kenyataan yang jauh lebih suram.
+
+Dalam versi Nordic — yang membela Lorkhan sebagai pahlawan — jawabannya adalah tidak, ia sama terkejutnya seperti yang lain. Lorkhan bermaksud baik; ia percaya bahwa pengorbanan yang diperlukan akan jauh lebih kecil dari yang ternyata terjadi. Ketika ia menyadari bahwa Mundus "rakus" — bahwa ia terus meminta lebih dan lebih — ia juga terkejut. Tetapi pada titik itu sudah terlambat untuk mundur tanpa menghancurkan segalanya. Lorkhan adalah korban dari idealismenya sendiri, bukan penjahat yang merencanakan kehancuran.
+
+Dalam versi Imperial — yang paling diplomatik dan paling ambigu — Lorkhan mungkin tahu bahwa pengorbanan itu besar, tetapi ia percaya bahwa hasilnya — Mundus, makhluk-makhluk fana, kebebasan sejati yang hanya bisa ada di dunia yang terbatas — sebanding dengan harganya. Ia bukan penipu dalam artian bahwa ia berbohong tentang tujuannya; tujuannya memang menciptakan Mundus. Namun ia menyembunyikan beberapa detail tentang prosesnya karena ia tahu bahwa jika diungkapkan sebelum waktunya, proyek itu tidak akan pernah dimulai.
+
+Ada versi keempat — yang paling esoteris dan paling jarang diketahui, namun mungkin yang paling mendekati kebenaran — yang menyatakan bahwa pertanyaan apakah Lorkhan "tahu atau tidak" adalah pertanyaan yang salah. Dalam pandangan ini, Lorkhan bukan entitas yang membuat "rencana" dalam artian manusiawi. Ia adalah ekspresi murni dari Padomay — Perubahan Primordial. Dan Perubahan tidak "merencanakan" atau "menipu"; ia hanya bergerak ke arah perubahan. Lorkhan menciptakan Mundus bukan karena ia memiliki agenda yang tersembunyi, melainkan karena itulah apa yang dilakukan oleh entitas yang merupakan Perubahan itu sendiri: mendorong ke arah yang belum pernah dikunjungi, menciptakan sesuatu yang belum pernah ada.²
+
+<i>² Catatan Lore: Teori keempat ini sering dikaitkan dengan Vivec dan tulisan-tulisannya dalam 36 Lessons. Vivec, yang sendiri adalah entitas yang sangat ambigu dan multidimensional, memandang Lorkhan dengan campuran hormat, kasihan, dan kekaguman — bukan sebagai villain atau pahlawan, melainkan sebagai "kekuatan alam kosmis yang tidak bisa tidak melakukan apa yang ia lakukan".</i>
+
+Apa pun kebenaran tentang motivasi Lorkhan, yang terjadi selanjutnya adalah: para Aedra menyadari — setelah Mundus selesai, setelah pengorbanan mereka sudah tidak bisa ditarik kembali — bahwa mereka tidak sepenuhnya memahami apa yang mereka setujui. Dan dalam kemarahan mereka yang memuncak, mereka mengadakan Convention.
+
+
+
+<h2><b>VI. CONVENTION DI ADAMANTINE TOWER — SIDANG KOSMIS TERBESAR</b></h2>
+
+Adamantine Tower — disebut juga Ada-Mantia dalam bahasa Ehlnofey, dan Direnni Tower dalam nama fana yang digunakannya ribuan tahun kemudian — adalah struktur pertama yang pernah berdiri di Nirn. Ia diciptakan bukan oleh manusia, bukan oleh Mer, melainkan oleh para Et'Ada sendiri sebagai monumen dari penciptaan Mundus dan sebagai tempat untuk pertemuan kosmis yang akan menentukan nasib dunia baru itu.
+
+Menara itu bukan sekadar bangunan. Ia adalah jangkar kosmis — paku yang menancapkan Mundus ke tempatnya di dalam Aurbis, yang memastikan bahwa dunia itu tidak melayang atau terurai kembali ke Kekacauan. Selama Adamantine Tower berdiri, Mundus memiliki fondasi. Dan fondasi itu memerlukan ada sesuatu di puncak menara — sebuah batu, yang oleh para sarjana disebut sebagai Zero Stone atau Ada-Mantia's Kel — yang berfungsi sebagai "kunci" dari jangkar itu. Tanpa Zero Stone, Menara akan kehilangan fungsinya.
+
+Di sinilah, di dalam aula puncak Adamantine Tower yang memancarkan cahaya emas yang tidak berasal dari api atau kristal melainkan dari esensi Aedra yang masih panas dari pengorbanan mereka, para Et'Ada berkumpul. Semua yang telah berpartisipasi dalam penciptaan Mundus hadir. Semua yang merasa dikhianati. Semua yang masih bisa merasakan betapa banyak yang sudah mereka korbankan dan betapa sedikit yang diketahui mereka tentang harga itu sebelumnya.
+
+Dan Lorkhan juga hadir, entah dipanggil atau datang sendiri.
+
+Apa yang terjadi di dalam aula itu — percakapan-percakapan, perdebatan-perdebatan, seruan-seruan — tidak pernah sepenuhnya direkam. Tidak ada yang bisa merekamnya: peristiwa itu terjadi pada level kosmis yang begitu tinggi sehingga bahkan jika ada saksi fana (yang tidak ada, karena fana belum eksis pada saat itu), mereka tidak akan bisa memproses apa yang terjadi. Semua yang kita miliki adalah rekonstruksi — dari teks-teks kuno, dari tradisi lisan, dari bisikan-bisikan Daedric Prince yang mungkin menyaksikan dari kejauhan, dari interpretasi para Moth Priest atas Elder Scroll yang mencatat peristiwa itu.
+
+Namun dari rekonstruksi-rekonstruksi ini, kita bisa mendapatkan gambaran tentang apa yang terjadi.
+
+Auri-El — yang paling marah, yang kehilangan paling banyak di antara semua Aedra karena keberadaannya sebagai Naga Waktu membuatnya terikat secara paling fundamental kepada Mundus — memimpin sidang. Dengan suara yang, menurut rekonstruksi dalam teks Altmeri kuno, "terdengar seperti seluruh sejarah yang pernah ada dan belum ada berbicara sekaligus", ia menuntut pertanggungjawaban.
+
+<i>"Lorkhan," kata Auri-El, "engkau datang kepada kami dengan visimu. Engkau menjanjikan sebuah dunia. Engkau berkata bahwa kita akan menjadi bagian dari sesuatu yang lebih besar dari diri kita sendiri. Dan kami percaya. Kami semua percaya. Dan sekarang lihatlah apa yang terjadi: kami lebih kecil dari diri kami sendiri. Kami kehilangan apa yang membuat kami menjadi apa yang kami adalah. Kami terikat kepada ciptaan ini, kepada dunia yang kau inginkan, tanpa kemampuan untuk melepaskan diri. Apa yang engkau katakan tentang ini?"</i>
+
+Lorkhan — menurut berbagai rekonstruksi — memberikan jawaban yang berbeda-beda tergantung sumbernya. Dalam versi Nordic, ia menjawab dengan kebanggaan dan kepercayaan diri: "Lihatlah apa yang kita ciptakan! Dunia ini indah! Makhluk-makhluk yang akan menghuninya akan menciptakan keindahan yang tidak pernah ada di Aurbis. Harga yang kau bayar — itu adalah investasi, bukan kerugian!"
+
+Dalam versi Altmer, ia menjawab dengan keheningan yang lebih mengusik dari kata-kata mana pun — keheningan yang, bagi para Aedra, mengkonfirmasi semua kecurigaan mereka.
+
+Dalam versi Dunmer — paling puitis dan paling ambigu — Lorkhan menjawab dengan sebuah tawa: "Aku memberi kalian tujuan. Sebelum ini, kalian adalah segala sesuatu dan karena itu bukan apa-apa. Sekarang kalian adalah sesuatu yang spesifik, sesuatu yang berharga, sesuatu yang bermakna. Kalian seharusnya berterima kasih."
+
+Apa pun jawaban yang diberikan Lorkhan — jika ia memberikan jawaban — tidak memuaskan para Aedra. Keputusan Convention adalah bulat: Lorkhan harus dihukum.
+
+Namun pertanyaan kemudian adalah: hukuman seperti apa?
+
+Beberapa Aedra ingin menghancurkannya sepenuhnya — mengembalikan esensinya ke Void, memastikan bahwa Lorkhan berhenti ada dalam pengertian apa pun. Namun ada komplikasi: Lorkhan, dengan cara yang tidak sepenuhnya dipahami, sudah menjadi bagian dari struktur Mundus yang baru diciptakan. Menghancurkannya sepenuhnya mungkin akan menghancurkan Mundus juga — dan Aedra, walau marah, sudah terlalu banyak mengorbankan untuk Mundus untuk membiarkannya hancur.
+
+Solusi yang ditemukan adalah keputusan yang, dalam ironinya yang kejam, menjadi salah satu momen paling dramatis dalam seluruh sejarah Aurbis.
+
+
+
+<h2><b>VII. HUKUMAN LORKHAN — PENGADILAN YANG MEMBELAH JIWA</b></h2>
+
+Trinimac — Et'Ada yang kuat, dewa keperwiraan bagi Aldmer kuno, seorang prajurit ilahi yang memiliki kekuatan fisik yang tidak tertandingi di antara para Aedra — menerima tugas dari Convention untuk mengeksekusi hukuman.
+
+Dan hukuman itu adalah ini: Jantung Lorkhan akan dirobek dari dadanya.
+
+Ini bukan hukuman mati. Ini bukan penghancuran. Ini adalah sesuatu yang jauh lebih subtil dan jauh lebih kejam: pemisahan. Jantung Lorkhan — inti dari esensinya, bagian paling fundamental dari siapa ia adalah — diambil dari tubuhnya dan dilemparkan pergi, ke tempat yang tidak bisa dijangkau oleh Lorkhan sendiri.
+
+Teks <i>"On the Nature of Lorkhan"</i> — salah satu dari sangat sedikit teks yang mencoba membahas peristiwa Convention secara langsung — mendeskripsikan momen eksekusi ini:
+
+<i>"Trinimac yang besar maju ke hadapan Lorkhan, dan dalam matanya yang menyala seperti bintang ada kemarahan yang tidak bisa diberi nama karena belum ada kata-kata untuk kemarahan kosmis. Dan Lorkhan tidak bergerak, tidak melarikan diri, tidak berjuang — entah karena ia menerima hukumannya, atau karena ia tidak bisa melawan kekuatan Convention, atau karena — ini adalah yang paling menakutkan untuk dipikirkan — ia menginginkan ini, karena dengan cara tertentu yang tidak bisa kita pahami, ini adalah bagian dari rencananya."
+
+"Tangan Trinimac menembus dada Lorkhan — bukan tangan fisik, karena fisik belum sepenuhnya ada pada saat itu, melainkan tangan esensi, tangan kehendak — dan mencengkeram sesuatu yang paling dalam, yang paling penting, yang merupakan inti dari segalanya. Dan Lorkhan — jika 'Lorkhan' masih bisa disebut sebagai entitas yang koheren setelah itu — mengeluarkan sesuatu yang bisa kita sebut sebagai teriakan. Teriakan yang bukan suara, yang bukan energi, yang bukan apa pun yang bisa didefinisikan — melainkan semata-mata: rasa sakit yang paling murni yang pernah ada di Aurbis."</i>
+
+Jantung dirobek. Dan Convention tidak berhenti di sana.
+
+Auri-El, dengan busurnya — Auriel's Bow, artefak ilahi yang merupakan perwujudan dari kekuatannya sebagai Naga Waktu — menembakkan jantung Lorkhan pergi. Jauh. Melintasi langit Mundus yang baru terbentuk, melintasi laut dan tanah dan angin, sampai ia jatuh di tempat yang tidak seorang pun — tidak Lorkhan sendiri, tidak Aedra lain, tidak siapa pun — yang memilihnya.
+
+Menurut The Monomyth, jantung itu jatuh ke dalam laut Indoril yang baru terbentuk, atau ke dalam padang Azura yang murni, atau ke dalam bumi yang belum bernama — setiap sumber memberikan lokasi yang sedikit berbeda, dan mungkin memang tidak ada "lokasi" yang tepat, karena dunia pada saat itu masih dalam proses terbentuk.
+
+Yang kita tahu adalah di mana ia akhirnya berada: di bawah gunung berapi yang kemudian dikenal sebagai Red Mountain, di pulau yang kemudian dinamai Vvardenfell, di provinsi yang kemudian dikenal sebagai Morrowind.
+
+Tempat di mana jantung Lorkhan jatuh adalah tempat di mana energi ilahinya paling terkonsentrasi, paling kuat, paling mentah. Tanah di sekitarnya bergetar dengan kekuatan yang tidak wajar. Abu vulkanis mulai menyembur. Gunung berapi lahir. Dan ribuan tahun kemudian, ketika Nerevar Indoril dan rekan-rekannya menemukan Heart of Lorkhan yang masih berdenyut di kedalaman Red Mountain, mereka menemukan sesuatu yang lebih dari sekadar artefak kosmis — mereka menemukan jantung dewa yang masih hidup, masih berdenyut, masih memancarkan energi yang bisa mengangkat manusia ke tingkat keilahian.
+
+Namun itu, seperti yang selalu kita katakan, adalah kisah untuk bab-bab yang akan datang.
+
+
+
+<h2><b>VIII. TUBUH LORKHAN — MASSER DAN SECUNDA</b></h2>
+
+Dengan jantungnya pergi, apa yang tersisa dari Lorkhan?
+
+Ini adalah pertanyaan yang tidak sesederhana kelihatannya, karena Lorkhan bukan entitas yang memiliki "tubuh" dalam pengertian fisik yang sederhana. Namun esensi yang tersisa dari Lorkhan setelah pengambilan jantungnya harus pergi ke suatu tempat — dan menurut kosmologi yang paling banyak diterima, ia pergi ke dua bulan yang mengorbit Nirn.
+
+Masser — bulan yang lebih besar, berwarna merah kecokelatan dan berlubang-lubang — adalah apa yang sering disebut sebagai "daging Lorkhan". Dalam tradisi Khajiit, Masser disebut Jode dan dianggap sebagai "Lunar Lattice" — jaring kosmis yang menentukan struktur dasar dari kenyataan fana. Masser lebih besar dan lebih kasar — seperti tubuh yang memar dan terluka, yang membawa jejak-jejak pertempuran yang telah lama berlalu.
+
+Secunda — bulan yang lebih kecil, berwarna putih keperakan — adalah apa yang sering disebut sebagai "darah Lorkhan" atau "semangat Lorkhan". Dalam tradisi Khajiit, Secunda disebut Jone dan dianggap sebagai pembawa "perubahan halus" yang melengkapi perubahan besar Masser. Secunda lebih kecil dan lebih bersih — seperti aspirasi Lorkhan, seperti visinya tentang apa yang Mundus bisa menjadi, terpisah dari kenyataan messy yang ia ciptakan.
+
+Bersama-sama, kedua bulan itu mengorbit Nirn dalam tarian yang konstan — tarian yang, bagi bangsa Khajiit, menentukan fase-fase kehidupan mereka secara harfiah. Setiap Khajiit yang lahir di bawah konfigurasi bulan yang berbeda lahir dengan furstock yang berbeda — sifat fisik dan kemampuan yang berbeda. Dengan cara ini, warisan Lorkhan terus mempengaruhi kehidupan setiap generasi Khajiit yang pernah ada.³
+
+<i>³ Catatan Lore: Hubungan antara Masser, Secunda, dan Lorkhan adalah salah satu aspek kosmologis yang paling menarik dari lore Elder Scrolls. Ini juga menjelaskan mengapa peristiwa Void Nights (4E 98-100) — ketika kedua bulan menghilang — begitu traumatis bagi Khajiit. Dari perspektif kosmologis, menghilangnya bulan-bulan adalah semacam "kematian kedua" dari Lorkhan — atau setidaknya, memudarnya pengaruhnya atas Mundus. Ada yang menduga bahwa Thalmor, yang mengklaim kredit atas kembalinya bulan-bulan, tidak benar-benar "mengembalikan" mereka melainkan hanya menunggu mereka kembali sendiri dan memanfaatkan momen itu secara politis.</i>
+
+Namun apakah Masser dan Secunda benar-benar "tubuh" Lorkhan dalam artian harfiah? Atau ini adalah metafora yang nyaman, cara pikiran fana menjelaskan fenomena kosmis yang sebenarnya jauh lebih kompleks?
+
+Para Dunmer memiliki pandangan yang berbeda. Bagi mereka, Lorkhan tidak "menjadi" Masser dan Secunda setelah hukumannya. Ia tetap eksis sebagai Missing God — dewa yang tidak hadir, dewa yang kekosongannya lebih terasa dari kehadiran dewa mana pun. Dalam tradisi Dunmer kuno, sebelum Tribunal mengambil alih agama mereka, Lorkhan dipuja bukan sebagai yang hadir melainkan sebagai yang tidak hadir — sebagaimana lubang dipuja bukan karena materi yang mengisinya melainkan karena kekosongannya. Kekosongan Lorkhan, kekosongan tempat jantungnya berada, adalah sesuatu yang nyata — lebih nyata dari kehadiran banyak dewa yang aktif.
+
+Dan ada Dunmer yang percaya — dan ini adalah kepercayaan yang paling berani dan paling sulit dibuktikan — bahwa Lorkhan masih hidup. Bahwa kehilangannya bukan kematian melainkan transformasi. Bahwa ia berkeliaran di tempat-tempat tak terlihat di Mundus, tanpa jantung, tanpa tubuh yang jelas, namun dengan kehendak yang masih bergerak dan masih mempengaruhi. Bahwa setiap kali ada revolusi besar, setiap kali ada pahlawan yang bangkit melawan apa yang tampaknya adalah nasib yang tidak bisa dielakkan, setiap kali ada momen di mana manusia melampaui batas-batas yang ditetapkan oleh alam semesta — di situlah jejak Lorkhan bisa terasa.
+
+
+
+<h2><b>IX. WARISAN LORKHAN — VERSI-VERSI DARI SANG DEWA YANG HILANG</b></h2>
+
+Warisan Lorkhan di Tamriel adalah warisan yang paling kompleks dari semua dewa. Ia disembah, dicaci, diratapi, dirayakan, dan diabaikan — seringkali secara bersamaan, seringkali oleh ras yang sama, tergantung periode sejarah dan interpretasi teologis.
+
+Sebagai Shor dalam tradisi Nordic: Shor adalah raja para dewa Nordic — dewa pejuang, dewa yang kalah dalam konflik dengan dewa-dewa lain namun yang kematiannya memberi manusia tanah untuk berdiri. Para Nord tidak menganggap penciptaan Mundus sebagai pengkhianatan; mereka menganggapnya sebagai hadiah. Shor memberikan kepada mereka Nirn, Skyrim, dan angin yang bertiup dari utara. Ia memberikan kepada mereka Sovngarde — alam akhirat di mana pahlawan-pahlawan yang telah gugur bisa beristirahat dalam kemuliaan. Kuil Shor tidak banyak di Skyrim (lebih banyak simbol dan referensi tak langsung), karena Shor adalah dewa yang "pergi" — yang kehadirannya dirayakan melalui kepahlawanan manusia, bukan melalui ritual keagamaan yang formal.
+
+Sebagai Shezarr dalam tradisi Imperial: Shezarr adalah dewa yang lebih misterius dan lebih melankolis dari Shor. Ia adalah "Yang Hilang" — dewa yang menciptakan Kekaisaran, yang menginspirasi para pahlawan manusia, namun yang kehadirannya selalu dirasakan hanya melalui ketidakhadirannya. Kultus Shezarr pernah kuat di Cyrodiil kuno, sebelum Alessia mendirikan Empire dan melakukan rekonsiliasi antara pantheon manusia dan Ayleid. Dalam tradisi kuno ini, Shezarr bukan sekadar dewa — ia adalah penghubung antara manusia dan takdir kosmis mereka, jiwa dari ambisi manusia untuk melampaui batasan mereka.
+
+Sebagai Lorkhaj dalam tradisi Khajiit: Lorkhaj adalah figur yang paling ambigu dalam pantheon Khajiit. Ia adalah "Jantung Kecil" — anak bungsu Fadomai (Padomay) yang lahir terlalu awal, yang membawa kegelapan dalam dirinya karena dilahirkan dari rahim yang sekarat. Khajiit memandang Lorkhaj bukan sebagai penjahat dan bukan sebagai pahlawan, melainkan sebagai korban dari keadaan kelahirannya. Ia tidak bisa tidak membawa kegelapan, karena ia lahir dari kegelapan. Namun dalam kegelapan itu ia juga membawa keinginan yang tulus untuk menciptakan sesuatu yang berarti — dan terkadang, keinginan yang tulus lahir dari tempat yang paling gelap sekalipun.
+
+Tradisi Khajiit juga memiliki konsep unik yang disebut "Moon Sugar and the Two Moons" — ritual penggunaan Moon Sugar (gula bulan, substansi halusinogenik yang sakral bagi Khajiit) adalah, dalam interpretasi teologis yang paling dalam, cara untuk "berkomunikasi" dengan esensi Lorkhaj yang tinggal di dalam Masser dan Secunda. Seorang Khajiit yang mengonsumsi Moon Sugar dan menatap bulan-bulan di langit malam dikatakan bisa "merasakan" denyut jantung Lorkhaj — yang bukan merupakan metafora, melainkan, dalam pandangan teolog Khajiit, pengalaman kosmologis yang nyata.
+
+Dalam tradisi Dunmer dan Altmer: Lorkhan adalah subjek yang memecah belah. Altmer membencinya tanpa syarat — ia adalah alasan mengapa mereka terjebak di Mundus, mengapa jiwa-jiwa mereka yang dulunya ilahi kini terkurung dalam tubuh yang fana. Setiap tahun, dalam ritual yang disebut Hylurgic Ceremony, para Altmer melakukan upacara simbolis yang mewakili "kemenangan atas Lorkhan" — walau kemenangan itu sudah berlangsung sejak Dawn Era dan tidak perlu dirayakan kembali dari sudut pandang logis. Namun ritual itu bukan tentang logika; ia tentang identitas, tentang ingatan kolektif tentang apa yang hilang.
+
+Dunmer, seperti yang dibahas di atas, memiliki hubungan yang lebih kompleks. Mereka tidak membenci Lorkhan, namun mereka juga tidak sepenuhnya membela dia. Ia adalah kekuatan yang harus dipahami dan diakui, bukan disembah atau dikutuk. Dan dengan munculnya Tribunal — Vivec, Almalexia, Sotha Sil — yang menggunakan Heart of Lorkhan untuk mengangkat diri mereka ke keilahian, warisan Lorkhan di Morrowind menjadi lebih kompleks lagi: Heart of Lorkhan adalah sumber dari kekuatan para dewa mereka. Tanpa Lorkhan, tidak ada Tribunal. Tanpa Tribunal, tidak ada Morrowind seperti yang dikenal selama ribuan tahun.⁴
+
+<i>⁴ Catatan Lore: Ironi terbesar dari sejarah Dunmer adalah bahwa dewa-dewa yang mereka sembah selama hampir tiga ribuan tahun — Vivec, Almalexia, Sotha Sil — mendapat kekuatan mereka dari entitas yang paling dibenci oleh Altmer (yang merupakan nenek moyang Dunmer). Tribunal terbentuk karena mereka menggunakan Heart of Lorkhan, dan ketika Heart itu dihancurkan oleh Nerevarine, Tribunal kehilangan kekuatan mereka. Ini adalah lingkaran yang sangat rapi dari sudut pandang kosmologis: anak-cucu dari mereka yang menghukum Lorkhan (Aldmer → Dunmer) akhirnya bergantung pada warisan Lorkhan untuk eksistensi dewa-dewa mereka.</i>
+
+
+
+<h2><b>X. KONTROVERSI TEOLOGIS — ADALAH MUNDUS SEBUAH HADIAH ATAU PENJARA?</b></h2>
+
+Pertanyaan ini — yang sederhana dalam rumusannya namun mengerikan dalam implikasinya — adalah pertanyaan yang telah membelah Tamriel selama ribuan tahun. Dan ia masih relevan pada masa kita, lebih dari yang kebanyakan orang sadari.
+
+Thalmor — organisasi Altmer yang fanatik yang mengendalikan Aldmeri Dominion di Fourth Era — tidak sekadar ingin menguasai Tamriel secara politik. Mereka percaya, dalam inti teologi mereka yang paling gelap, bahwa Mundus adalah penjara yang harus dibongkar. Bahwa tujuan akhir umat manusia — atau setidaknya, umat Mer — adalah untuk "membatalkan" penciptaan Mundus, mengembalikan jiwa-jiwa yang terjebak ke keadaan pra-Mundus mereka yang bebas dan ilahi. Inilah mengapa mereka melarang pemujaan Talos: bukan karena alasan politik semata, melainkan karena Talos (Lorkhan dalam salah satu manifestasinya, menurut beberapa interpretasi) adalah simbol dari Mundus itu sendiri — dewa yang menciptakan "penjara" dan yang harus dihapuskan dari ingatan kolektif sebelum "penjara" itu bisa dibongkar.
+
+Di sisi lain spektrum, Companions di Whiterun — para pejuang yang mengikuti tradisi Ysgramor — memiliki pandangan yang berlawanan secara diametral. Bagi mereka, Mundus adalah arena ujian yang diberikan oleh Shor (Lorkhan) kepada manusia. Setiap pertempuran, setiap perjuangan, setiap keberanian yang ditunjukkan di bawah langit Nirn adalah persembahan kepada Shor — penggunaan yang tepat dari hadiah yang ia berikan. Kematian dalam pertempuran bukan tragedi melainkan prestasi puncak, karena ia membawa jiwa ke Sovngarde di mana Shor sendiri (atau setidaknya, Tsun yang menjaga pintunya) menyambut para pahlawan yang telah membuktikan diri.
+
+Kedua pandangan ini — Mundus sebagai penjara vs. Mundus sebagai arena hadiah — tidak bisa didamaikan secara intelektual. Keduanya memiliki argumen yang kuat. Keduanya didukung oleh teks-teks kuno dan pengalaman mistis. Dan mungkin keduanya benar — mungkin Mundus memang penjara dan hadiah secara bersamaan, sesuai dengan paradoks yang menjadi ciri khas dari pemikiran kosmologis Tamriel.
+
+Ada satu teks yang, lebih dari teks lain mana pun, menangkap paradoks ini dengan kejelasan yang menyakitkan. Ia ditemukan di reruntuhan Ayleid di luar Imperial City, ditulis dalam bahasa yang campuran antara Ayleid kuno dan Proto-Cyrodiilic, dan diterjemahkan oleh sarjana Imperial abad kedua Reman:
+
+<i>"Lorkhan memberi kami dunia ini. Kami mengutuk dia karena itu.
+Lorkhan mengambil kebebasan kami. Kami meratap karena itu.
+Namun tanpa dunia ini, kami tidak ada untuk mengutuk siapa pun.
+Dan tanpa kehilangan kebebasan ilahi kami, kami tidak punya kebebasan untuk dipertahankan.
+Ia yang memberi kami segalanya juga mengambil segalanya.
+Dan kami tidak tahu apakah kami harus berterima kasih atau menuntut pertanggungjawaban.
+Maka kami melakukan keduanya, selamanya, tanpa solusi."</i>
+
+
+
+<h2><b>XI. SIGNIFIKANSI KOSMIS — MENGAPA CONVENTION MASIH PENTING SEKARANG</b></h2>
+
+Seseorang yang membaca kronik ini mungkin bertanya: "Mengapa ini penting? Peristiwa-peristiwa ini terjadi sebelum waktu ada. Apa relevansinya dengan kehidupan kita hari ini?"
+
+Jawabannya: segalanya. Convention, hukuman Lorkhan, dan hilangnya jantungnya bukan sekadar sejarah purba yang sudah tidak relevan. Ia adalah fondasi dari setiap krisis kosmis yang pernah terjadi di Tamriel.
+
+Heart of Lorkhan yang tertanam di Red Mountain adalah alasan mengapa Kagrenac membangun Tools-nya, mengapa Tribunal mendapat kekuatan mereka, mengapa Dagoth Ur bangkit kembali, mengapa Nerevarine harus lahir, mengapa Morrowind hampir hancur. Tanpa Convention, tidak ada Heart. Tanpa Heart, tidak ada sejarah Morrowind seperti yang kita kenal.
+
+Lorkhan sebagai Shezarr adalah inspirasi di balik ambisi manusia yang akhirnya menghasilkan Kekaisaran — dari Alessia yang membebaskan dirinya dari perbudakan Ayleid, hingga Tiber Septim yang menyatukan Tamriel pertama kali. Tanpa aspirasi Shezarrean ini, tidak ada Kekaisaran. Tanpa Kekaisaran, tidak ada Pax Tamrielica yang memungkinkan ratusan tahun kemajuan peradaban.
+
+Dan bulan-bulan — Masser dan Secunda, "tubuh" Lorkhan — adalah regulator kosmis yang menentukan bentuk setiap Khajiit yang pernah lahir. Ketika mereka menghilang selama Void Nights, seluruh sistem regulasi ini terganggu, menciptakan krisis yang hampir menghancurkan Elsweyr dan yang akhirnya memberi Thalmor legitimasi untuk memengaruhi Khajiit.
+
+Dan Adamantine Tower — menara tempat Convention berlangsung — masih berdiri di High Rock. Ia sudah berganti banyak nama dan banyak penguasa. Ia pernah menjadi benteng Direnni Elves. Ia pernah menjadi tempat perdebatan teologis yang dipimpin oleh para sarjana Breton. Ia masih berdiri sampai sekarang, di atas sebuah pulau di Iliac Bay. Dan selama ia berdiri, selama Zero Stone tetap di tempatnya, Mundus tetap terjangkar ke tempatnya di Aurbis. Selama ia berdiri, realitas tetap berfungsi.
+
+Mungkin itulah warisan Lorkhan yang paling nyata dan paling abadi: bukan Heart of Lorkhan yang berdenyut di kedalaman Red Mountain, bukan bulan-bulan yang mengorbit Nirn, bukan inspirasi untuk pahlawan-pahlawan manusia. Melainkan Menara itu sendiri — yang, dalam ketiadaan dirinya, Lorkhan tetap menyediakan fondasi untuk realitas yang ia ciptakan.
+
+Ia yang menciptakan dunia, dihukum atas penciptaannya, dan kemudian — melalui satu-satunya hal yang tersisa setelah semua diambil darinya — tetap menyangga dunia itu.
+
+
+
+<h2><b>XII. EPILOG — SUARA DARI KEKOSONGAN</b></h2>
+
+Ada sebuah teks yang sangat pendek, sangat gelap, dan sangat sedikit diketahui yang tersimpan di salah satu catatan paling tua yang ditemukan di Skyrim — ditemukan di sebuah Word Wall kuno di dekat Labyrinthian yang tidak diakui oleh Greybeard mana pun sebagai autentik, namun yang secara konsisten muncul dalam berbagai catatan perjalanan para peziarah selama berabad-abad.
+
+Teks itu tidak ditulis dalam Dovahzul. Tidak ditulis dalam bahasa Ehlnofey. Tidak ditulis dalam bahasa Aldmeri atau Imperial atau Nord kuno. Ia ditulis dalam bahasa yang tidak seorang sarjana pun bisa identifikasi — sebuah bahasa yang menurut beberapa ahli mendahului semua bahasa yang kita kenal.
+
+Terjemahan yang ada adalah rekonstruksi — dan mungkin tidak akurat. Namun kata-kata yang dihasilkan telah membuat lebih dari satu orang menghentikan napas dan tidak bisa menghembuskannya kembali selama beberapa saat:
+
+<i>"Mereka mengambil jantungku.
+Mereka melemparnya pergi seolah-olah ia adalah sesuatu yang bisa dibuang.
+Namun yang tidak mereka sadari — yang tidak pernah bisa mereka sadari —
+adalah bahwa jantungku bukan milikku.
+Ia tidak pernah milikku.
+Ia milik dunia.
+Dan selama dunia berdetak,
+aku berdetak bersamanya.
+Coba kalian hukum itu."</i>
+
+Tidak ada yang tahu apakah teks ini autentik. Tidak ada yang tahu apakah Lorkhan pernah mengucapkan kata-kata ini, atau apakah seseorang — penyair kuno, nabi yang terinspirasi, atau sekadar seseorang yang memahami ironii situasi — menuliskannya sebagai renungan atas nasib dewa yang hilang.
+
+Namun ada sesuatu dalam kata-kata itu yang terasa benar — dengan cara yang melampaui bukti dan logika, dengan cara yang menyentuh sesuatu yang sangat dalam di dalam jiwa yang membacanya.
+
+Lorkhan mungkin dihukum. Jantungnya mungkin dirobek dan dilempar. Tubuhnya mungkin menjadi bulan-bulan yang mengapung tanpa tujuan di langit malam.
+
+Namun selama Nirn berputar, selama Masser dan Secunda menari di langitnya, selama Red Mountain menghembuskan asap dari kedalaman di mana jantung yang hilang berdenyut —
+
+Lorkhan ada.
+
+Dan dunia yang ia ciptakan dengan harga yang begitu mahal masih berdiri.
+
+Masih bernapas.
+
+Masih berlanjut.
+
+<i>"Ia memberi kita dunia.
+Harganya adalah jantungnya.
+Kita hidup di atas tanah yang dibeli dengan darah dewa.
+Setiap hari yang kita jalani adalah bunga dari utang yang tidak pernah kita akui.
+Dan mungkin itu benar — bahwa hadiah terbesar tidak pernah bisa diakui
+karena mengakuinya berarti mengakui betapa besarnya yang telah dibayarkan untuknya.
+Dan betapa sedikit yang kita lakukan untuk merasionalisasi itu."
+
+— "Meditasi tentang Penciptaan", oleh seorang Moth Priest yang tidak bernama,
+ditulis setelah membaca Elder Scroll pertama dan terakhirnya,
+seminggu sebelum kebutaannya menjadi sempurna</i>
+

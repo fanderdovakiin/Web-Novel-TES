@@ -1,0 +1,294 @@
+<h2><b>I. PRAELUDIUM — KETIKA KEKAISARAN TIDAK ADA</b></h2>
+
+Bayangkanlah sebuah tubuh yang besar — sangat besar, membentang dari pantai Hammerfell di barat hingga pantai Morrowind di timur, dari tundra beku Skyrim di utara hingga hutan tropis Valenwood di selatan. Tubuh itu pernah memiliki kepala, memiliki otak, memiliki jantung yang memompa darah kehidupan ke setiap sudutnya. Tubuh itu disebut Kekaisaran Tamriel, dan selama ratusan tahun First Era di bawah Reman Dynasty, ia berfungsi — tidak sempurna, tidak tanpa rasa sakit, namun setidaknya berfungsi.
+
+Kemudian kepala itu dipotong.
+
+Pembunuhan kaisar terakhir Reman Dynasty pada 1E 2920 — bukan di medan perang melainkan di kamar tidurnya sendiri, oleh Morag Tong yang melakukan kontrak — meninggalkan kekosongan yang tidak bisa diisi oleh siapa pun. Bukan karena tidak ada yang mencoba — ada banyak yang mencoba — melainkan karena kekosongan yang ditinggalkan oleh tiga ribu tahun kekaisaran tidak bisa diisi dalam semalam, tidak bisa diisi dengan klaim belaka, dan tidak bisa diisi oleh siapa pun yang tidak memiliki sesuatu yang jauh melampaui ambisi dan kekuatan militer biasa.
+
+Second Era — yang dimulai pada 2E 1 dengan aksesi Akaviri Potentate — adalah era yang oleh banyak sejarawan digambarkan sebagai "Tamriel tanpa kepala". Bukan anarkis total — ada pemimpin-pemimpin, ada kerajaan-kerajaan, ada hukum-hukum yang berlaku di berbagai tempat. Namun tidak ada pusat — tidak ada tempat di mana semua garis kewenangan bertemu, tidak ada simbol yang diakui oleh semua pihak sebagai representasi dari sesuatu yang lebih besar dari kepentingan individual.
+
+Ini berlangsung selama hampir sembilan ratus tahun.
+
+Dan dalam sembilan ratus tahun itulah, hal-hal yang paling penting terjadi — organisasi-organisasi yang paling berpengaruh terbentuk, bencana-bencana yang paling menghancurkan melanda, dan konflik-konflik yang akan menentukan wajah Tamriel selama ribuan tahun ke depan diperjuangkan.
+
+
+
+<h2><b>II. AKAVIRI POTENTATE — KEKUASAAN ASING YANG SINGKAT</b></h2>
+
+Second Era secara resmi dimulai ketika Versidue-Shaie — orang Akaviri dari bangsa Tsaesci — mengambil alih kekuasaan de facto atas Kekaisaran yang sudah tidak memiliki kaisar. Ia tidak menyebut dirinya "Kaisar" — jabatan itu terlalu sarat dengan makna Imperial yang tidak ingin ia ambil secara langsung. Sebagai gantinya, ia menggunakan gelar "Potentate" — "Yang Berkuasa" — yang mengimplikasikan kekuasaan tanpa mengklaim legitimasi dinasti Cyrodiilic.
+
+Namun sebelum kita memahami Akaviri Potentate, kita perlu memahami siapa Tsaesci itu.
+
+Akavir — benua misterius di sebelah timur Tamriel yang dipisahkan oleh lautan yang luas dan ganas — dihuni oleh setidaknya empat ras yang diketahui: Tsaesci (ular manusia yang telah "memakan" seluruh ras manusia Akavir), Ka Po'Tun (harimau manusia), Tang Mo (kera-kera yang bergemuruh), dan Kamal (Snow Demons). Setiap ras ini sangat berbeda dari ras-ras yang dikenal di Tamriel, dan hubungan mereka dengan Tamriel selalu tegang — Tamriel telah diinvasi oleh Akaviri setidaknya dua kali yang tercatat, dan mungkin lebih yang tidak tercatat.
+
+Versidue-Shaie adalah Tsaesci — yang dalam imajinasinya yang paling penuh warna digambarkan sebagai makhluk setengah manusia setengah ular, dengan tubuh bawah seperti ular dan tubuh atas yang humanoid, mengenakan armor berlapis-lapis yang penuh dengan ukiran naga. Dalam kenyataan, penampilan fisik Tsaesci masih diperdebatkan oleh para sarjana — apakah mereka benar-benar "manusia ular" secara harfiah atau apakah ini adalah metafora budaya.
+
+Apa yang tidak diperdebatkan adalah bahwa Versidue-Shaie sangat cakap secara politis. Ia tidak memaksa diri ke tampuk kekuasaan melalui invasi militer; ia sudah ada di Tamriel sebagai bagian dari Akaviri Dragonguard — pelayan setia kaisar Reman yang terakhir. Ketika kaisar itu mati dan tidak ada pewaris yang sah, Versidue-Shaie hanya... tetap di tempatnya dan mulai mengisi kekosongan yang ditinggalkan.
+
+Selama masa Potentate, beberapa perubahan penting terjadi:
+
+Pembubaran tentara milisi — pada 2E 283, Versidue-Shaie secara resmi membubarkan tentara swasta dari kerajaan-kerajaan anggota Kekaisaran, menggantikannya dengan pasukan profesional yang loyal kepada Potentate. Ini adalah keputusan yang dipicu oleh serangkaian pemberontakan yang mengancam stabilitas, namun yang juga membuat banyak penguasa lokal merasa dikebiri.
+
+Munculnya guild-guild profesional — sebagai respons terhadap pembubaran milisi, banyak mantan prajurit bergabung ke dalam guild-guild bebas: Fighters Guild dan Mages Guild mulai mengambil bentuk yang kita kenal sekarang. Paradoks adalah bahwa kebijakan yang dimaksudkan untuk memusatkan kekuasaan militer pada akhirnya menciptakan organisasi-organisasi yang jauh lebih independen dari apa pun yang ada sebelumnya.
+
+Versidue-Shaie dibunuh pada 2E 324 — juga oleh Morag Tong, dalam ironi sejarah yang manis — dan digantikan oleh Savirien-Chorak, yang memerintah dengan jauh lebih sedikit kecakapan. Savirien-Chorak juga dibunuh, beserta semua anaknya, pada 2E 430 — mengakhiri Akaviri Potentate dan meninggalkan Tamriel dalam kondisi yang bahkan lebih kacau dari sebelumnya.¹
+
+<i>¹ Catatan Lore: Pembunuhan Savirien-Chorak beserta seluruh keturunannya adalah salah satu kontrak terbesar yang pernah dilakukan oleh Morag Tong. Identitas klien yang memesan kontrak tersebut tidak pernah terungkap secara publik — walau spekulasi menunjuk kepada koalisi kerajaan-kerajaan yang ingin bebas dari kendali Potentate. Pembunuhan ini juga dikatakan menjadi titik perpecahan antara Morag Tong dan Dark Brotherhood — Dark Brotherhood konon menolak untuk mengeksekusi kontrak karena melibatkan pembunuhan anak-anak tak bersalah, dan dari penolakan itulah konflik internal yang akhirnya memisahkan kedua organisasi menjadi entitas terpisah.</i>
+
+
+
+<h2><b>III. MORAG TONG DAN DARK BROTHERHOOD — KEMBAR YANG SALING MEMBENCI</b></h2>
+
+Tidak ada dua organisasi dalam sejarah Tamriel yang memiliki hubungan lebih kompleks dari Morag Tong dan Dark Brotherhood — keduanya adalah guild pembunuh, keduanya mengklaim warisan keagamaan yang sah, dan keduanya membenci yang lain dengan intensitas yang melampaui persaingan bisnis biasa.
+
+Morag Tong — yang namanya dalam bahasa Dunmer kuno berarti kira-kira "Pelayan Abadi Tuhan Laba-Laba" — adalah organisasi pembunuh tertua di Tamriel, didirikan di Morrowind pada sekitar 2E 230. Mereka mengklaim bahwa mereka adalah ciptaan Mephala — Daedric Prince of Secrets and Webs — dan bahwa setiap pembunuhan yang mereka lakukan adalah pelaksanaan kehendak ilahi Mephala.
+
+Yang membedakan Morag Tong dari pembunuh-pembunuh biasa adalah konsep "writ of execution" — surat perintah resmi yang, ketika dieksekusi dengan benar, melegalkan pembunuhan di depan hukum Morrowind. Morag Tong bukan organisasi kriminal dalam pengertian biasa; mereka adalah lembaga hukum yang diakui yang menyediakan jasa penyelesaian konflik melalui kekerasan yang tersanctioned. Di Morrowind, membunuh seseorang melalui Morag Tong dianggap lebih "sah" secara sosial daripada membunuh sendiri tanpa writ.
+
+Sistem ini — yang tampak aneh dari perspektif provinsi lain namun yang sangat konsisten dengan mentalitas Dunmer tentang pragmatisme dan kepraktisan — membuat Morrowind memiliki tingkat konflik terbuka yang lebih rendah daripada yang mungkin diperkirakan. Karena konflik bisa diselesaikan melalui writ daripada perang terbuka, House-House wars di Morrowind cenderung berskala lebih kecil dan lebih terlokalisasi.
+
+Dark Brotherhood — asal-usulnya jauh lebih gelap dan lebih kontroversial dari Morag Tong.
+
+Menurut tradisi yang diterima, Dark Brotherhood lahir dari sebuah peristiwa yang terjadi pada sekitar 2E 309 — peristiwa yang dikenal sebagai "The First Murder" atau lebih tepatnya sebagai kasus di mana seorang ibu yang putus asa membunuh kelima anaknya sendiri dan mempersembahkan mereka kepada Sithis, berharap bahwa pengorbanan itu akan memberikan ketenangan kepada jiwa-jiwa yang menderita.
+
+Wanita itu — yang dalam tradisi Dark Brotherhood disebut sebagai Night Mother — tidak mendapatkan ketenangan. Sebaliknya, ia mendapatkan sesuatu yang jauh lebih aneh: koneksi langsung dengan Sithis. Sithis — yang tidak pernah berbicara kepada makhluk fana melalui medium apapun sebelumnya — memilih tubuh Night Mother sebagai Listener pertamanya, medium di mana suara Sithis bisa diterima dan diinterpretasikan.
+
+Dari titik itu, Night Mother dan pengikut-pengikutnya mulai menerima kontrak pembunuhan melalui doa yang ditujukan kepada Sithis — ritual yang disebut "Black Sacrament". Siapa pun yang melakukan Black Sacrament dengan benar, menggunakan bahan-bahan ritual yang tepat dan dengan ketulusan yang cukup, akan didengar oleh Night Mother — dan Dark Brotherhood akan diutus untuk menyelesaikan kontrak tersebut.
+
+Perpecahan antara Morag Tong dan Dark Brotherhood — yang terjadi pada sekitar periode yang sama — berakar pada perbedaan teologis yang fundamental: Morag Tong melayani Mephala, yang menghendaki pembunuhan sebagai instrumen dari intrik dan kontrol sosial. Dark Brotherhood melayani Sithis, yang menghendaki pembunuhan sebagai persembahan kepada Kekosongan, sebagai pengiriman jiwa ke dalam pelukan Sang Ketiadaan.
+
+Kedua organisasi membenci satu sama lain karena masing-masing menganggap yang lain sebagai perampas identitas — Dark Brotherhood mengklaim bahwa Morag Tong hanyalah pengikut Daedra yang tidak benar-benar memahami hakikat pembunuhan. Morag Tong mengklaim bahwa Dark Brotherhood adalah schisma sesat yang memutarbalikkan ajaran Mephala.
+
+Konflik mereka — yang kadang-kadang meledak menjadi perang terbuka — berlangsung selama ribuan tahun, dengan fase-fase dominasi yang bergantian. Di Third Era, Dark Brotherhood menjadi lebih kuat di Cyrodiil dan provinsi-provinsi barat, sementara Morag Tong mempertahankan dominasi di Morrowind. Namun pada masa ESO di Second Era, situasinya lebih seimbang, dengan kedua organisasi beroperasi di wilayah yang sama dan sering kali saling menyabotase.
+
+
+
+<h2><b>IV. KNAHATEN FLU — WABAH YANG MEMAKAN TAMRIEL</b></h2>
+
+Pada 2E 560, Tamriel yang sudah kacau oleh ketiadaan Kekaisaran dilanda bencana tambahan yang, dalam hal jumlah korban jiwa, melampaui hampir semua perang yang pernah terjadi sebelumnya: Knahaten Flu.
+
+Asal-usul Knahaten Flu tidak sepenuhnya dipahami. Yang diketahui adalah bahwa ia muncul pertama kali di Black Marsh dan menyebar dengan kecepatan yang mengerikan ke seluruh Tamriel, membunuh dalam hitungan hari setelah infeksi. Patogen penyebabnya tidak pernah berhasil diidentifikasi oleh penyihir-penyihir maupun ahli alchemy terbaik di Tamriel — ia tidak berperilaku seperti penyakit biologis biasa, dan beberapa sarjana menduga bahwa ia memiliki komponen supernatural.
+
+Yang membuat Knahaten Flu sangat mengerikan bukan hanya kecepatan penyebarannya, melainkan selektivitasnya yang aneh:
+
+Flu ini membunuh hampir semua ras — Nord, Imperial, Breton, Redguard, Altmer, Bosmer, Dunmer, Orsimer, Khajiit. Tidak peduli usia, kondisi fisik, atau kekuatan magis — jika terekspos, kemungkinan kematian sangat tinggi.
+
+Kecuali Argonian. Tidak satu pun Argonian yang pernah terbukti mati akibat Knahaten Flu. Mereka terekspos, mereka membawa patogen dalam tubuh mereka — namun mereka tidak sakit. Imunitas lengkap yang tidak bisa dijelaskan oleh biologi atau magicka biasa, yang hanya bisa dijelaskan oleh hubungan mereka dengan Hist — pohon-pohon suci yang rupanya sudah mengantisipasi kedatangan flu ini dan menyiapkan pertahanan biologis dalam getah yang mereka masukkan ke dalam tubuh Argonian sejak sebelum wabah mulai.
+
+Ini memunculkan pertanyaan yang sangat tidak nyaman: jika Hist tahu bahwa Knahaten Flu akan datang, apakah mereka juga tahu dari mana ia berasal? Dan jika mereka tahu, mengapa mereka tidak memperingatkan ras-ras lain? Atau lebih mengganggu lagi: apakah Hist memiliki peran dalam kemunculan flu itu sendiri?
+
+Spekulasi ini tidak pernah bisa dibuktikan. Argonian membantah implikasi tersebut dengan keras. Dan Hist, tentu saja, tidak memberikan komentar. Namun ketidaknyamanan yang ditinggalkan oleh pertanyaan-pertanyaan ini tetap ada.
+
+Dampak demografis Knahaten Flu sangat besar:
+
+Kothringi — salah satu ras manusia purba yang menghuni rawa-rawa Tamriel bagian selatan — punah sepenuhnya. Seluruh populasi mereka dilenyapkan oleh flu dalam waktu kurang dari satu generasi. Ini adalah satu-satunya kehilangan ras yang bisa dikonfirmasi sebagai akibat langsung dari bencana historis yang spesifik dalam seluruh sejarah Tamriel.²
+
+Elsweyr kehilangan lebih dari separuh populasinya. Komunitas-komunitas Khajiit di daerah-daerah yang paling parah terkena dampak tidak pernah sepenuhnya pulih, dan kekosongan demografis yang ditinggalkan oleh wabah ini mempengaruhi struktur sosial Elsweyr selama berabad-abad.
+
+Cyrodiil mengalami keruntuhan sistem pertanian dan distribusi makanan akibat kematian massal petani dan pengrajin. Kelaparan yang mengikuti wabah membunuh setidaknya sebanyak wabah itu sendiri.
+
+Imperial City — yang dulunya berpenduduk ratusan ribu jiwa — turun ke puluhan ribu dalam beberapa dekade. Beberapa distrik kota besar menjadi ghost towns yang tidak pernah sepenuhnya dipopulasi kembali.
+
+Wabah berlangsung hingga 2E 603 — lebih dari empat dekade yang menghancurkan — sebelum akhirnya mereda karena kombinasi dari berkurangnya populasi inang yang rentan dan adaptasi imunologis dalam populasi yang selamat.
+
+<i>² Catatan Lore: Kothringi disebutkan dalam beberapa teks in-game sebagai ras manusia yang "punya kulit perak" dan yang tinggal di rawa-rawa Tamriel bagian selatan sebelum Knahaten Flu memusnahkan mereka. Mereka adalah contoh nyata dari ras yang benar-benar hilang dari sejarah — tidak terdegenerasi seperti Falmer, tidak menghilang secara misterius seperti Dwemer, melainkan sekadar mati karena wabah.</i>
+
+
+
+<h2><b>V. THREE-BANNERS WAR DAN ELDER SCROLLS ONLINE — PUNCAK KEKACAUAN</b></h2>
+
+Di antara semua peristiwa Second Era, yang paling dramatis dan paling kompleks adalah periode yang disebut sebagai Three-Banners War — konflik tiga pihak yang berlangsung selama beberapa dekade di sekitar 2E 582 dan yang menjadi latar belakang utama dari Elder Scrolls Online.
+
+Tiga aliansi besar terbentuk:
+
+Aldmeri Dominion — koalisi yang dipimpin oleh Altmer dari Summerset Isles, menggabungkan Bosmer dari Valenwood dan Khajiit dari Elsweyr. Ratu mereka adalah Ayrenn — Ratu Altmer yang muda, karismatik, dan sangat tidak konvensional untuk standar Altmer. Ayrenn percaya bahwa Dominion harus bersifat inklusif — bukan supremasi Altmer melainkan aliansi setara antara tiga ras. Ini membuatnya sangat tidak populer di kalangan tradisionalis Altmer yang menginginkan supremasi mutlak.
+
+Daggerfall Covenant — koalisi yang dipimpin oleh Breton dari High Rock, menggabungkan Redguard dari Hammerfell dan Orsimer dari Wrothgarian Mountains. Raja mereka adalah Emeric of Cumberland — pedagang yang menjadi raja melalui kombinasi kecerdasan bisnis dan pernikahan politik strategis. Daggerfall Covenant mengklaim bahwa mereka memiliki garis keturunan yang paling sah untuk tahta Imperial.
+
+Ebonheart Pact — aliansi yang paling tidak mungkin dari ketiganya, menggabungkan tiga ras yang secara historis bermusuhan: Nord dari Skyrim, Dunmer dari Morrowind, dan Argonian dari Black Marsh. Aliansi ini terbentuk karena ancaman Kamal (Snow Demons dari Akavir) yang menyerang Tamriel utara — ancaman yang cukup besar untuk mendorong bahkan musuh bebuyutan untuk bersatu. Pemimpin mereka adalah Jorunn the Skald-King — Nord yang memimpin dari medan perang, yang percaya bahwa kekuatan kolektif lebih penting dari kemurnian ras.
+
+Ketiga aliansi ini bersaing untuk satu tujuan: White-Gold Throne — kursi Kekaisaran yang telah kosong sejak jatuhnya Akaviri Potentate. Siapa pun yang berhasil menduduki White-Gold Tower dan menyalakan Dragonfires dengan cara yang diakui sah, akan menjadi Emperor atau Empress dari Tamriel yang bersatu kembali.
+
+Namun sebelum perang ini bisa diselesaikan, datanglah ancaman yang jauh lebih besar dari persaingan ketiga aliansi: Molag Bal.
+
+
+
+<h2><b>VI. PLANEMELD — KETIKA COLDHARBOUR MENCOBA MENELAN NIRN</b></h2>
+
+Molag Bal, Daedric Prince of Domination yang kerajaannya adalah Coldharbour — tiruan gelap dan busuk dari Nirn — sudah lama menginginkan sesuatu yang tampaknya mustahil: menggabungkan Coldharbour dengan Mundus. Bukan menginvasi Mundus seperti yang dilakukan Mehrunes Dagon selama Oblivion Crisis; Bal tidak hanya ingin menempatkan tentaranya di Nirn. Ia ingin menyatu — menggabungkan kedua plane of existence menjadi satu, menciptakan sebuah realm hibrida yang berada di bawah kendali absolutnya.
+
+Proyek ini — yang disebut sebagai Planemeld — adalah salah satu upaya Daedric yang paling ambisius dalam seluruh sejarah Tamriel. Untuk melaksanakannya, Bal memerlukan Mooring Stones — struktur kosmis yang, ketika ditempatkan di titik-titik strategis di Nirn, akan mulai "menarik" Nirn ke arah Coldharbour, seperti jangkar yang ditancapkan ke kapal dari kejauhan.
+
+Mooring Stones dibangun oleh agen-agen Bal yang tersebar di seluruh Tamriel — di terowongan-terowongan tersembunyi, di reruntuhan-reruntuhan yang terlupakan, di tempat-tempat yang paling jarang dikunjungi. Ketika cukup banyak Stones sudah aktif, efeknya mulai terasa: langit di beberapa tempat berubah warna menjadi ungu kemerahan yang khas Coldharbour, portal-portal kecil mulai terbuka secara spontan, dan Daedra Molag Bal mulai merembes masuk.
+
+Protagonis dari Elder Scrolls Online — Vestige — adalah makhluk yang sangat unik dalam konteks ini: seorang fana yang telah dikorbankan kepada Molag Bal dan yang jiwanya sudah dicuri oleh Prince itu. Vestige adalah manusia tanpa jiwa — atau lebih tepatnya, manusia yang jiwanya ada di Coldharbour sementara tubuhnya masih berjalan di Nirn. Kondisi ini membuat Vestige kebal terhadap beberapa efek Planemeld yang mempengaruhi makhluk normal, dan juga memberikan kemampuan untuk bergerak antara Nirn dan Coldharbour dengan cara yang tidak bisa dilakukan oleh makhluk lain.
+
+Perjalanan Vestige melibatkan:
+
+Mencari jiwa yang hilang — mengunjungi Coldharbour secara berulang untuk mengambil kembali kepingan-kepingan jiwanya yang tersebar di seluruh realm Molag Bal.
+
+Menghancurkan Mooring Stones — bekerja sama dengan Fighters Guild, Mages Guild, dan bahkan dengan seseorang yang sangat tidak terduga: Abnur Tharn — Kancellor Kekaisaran Cyrodiilic yang ambisius namun yang memiliki alasan tersendiri untuk tidak menginginkan Planemeld berhasil.
+
+Menghadapi Mannimarco — King of Worms, pemimpin Worm Cult, yang bekerja sama dengan Molag Bal namun yang memiliki agenda sendiri. Mannimarco adalah salah satu penyihir paling kuat yang pernah ada — seorang Altmer yang telah mencapai Lichdom dan yang bermaksud mengkhianati Bal begitu Planemeld selesai dan mengklaim Nirn untuk dirinya sendiri.
+
+Klimaks dari plotline utama ESO adalah pertarungan di dalam Heart of Coldharbour — inti dari realm Molag Bal — di mana Vestige menghadapi Molag Bal secara langsung dan menggagalkan Planemeld sebelum benar-benar selesai.
+
+Namun kemenangan atas Planemeld tidak mengakhiri Three-Banners War — ketiga aliansi masih saling berperang, tidak ada yang berhasil menduduki White-Gold Throne secara permanen, dan Interregnum berlanjut. ESO berakhir tanpa resolution politik yang jelas — sebuah keputusan desain yang masuk akal dari perspektif lore karena kita tahu bahwa Kekaisaran yang bersatu tidak akan ada sampai Tiber Septim hampir tiga ratus tahun kemudian.³
+
+<i>³ Catatan Lore: Salah satu pertanyaan yang paling sering diajukan tentang ESO adalah "mengapa tidak ada yang membicarakan peristiwa-peristiwa ESO di game-game single player?" Jawaban yang paling masuk akal adalah kombinasi dari: (1) tiga ratus tahun adalah waktu yang sangat lama untuk ingatan kolektif bahkan tentang peristiwa yang besar; (2) banyak sejarah Interregnum hilang karena kekacauan era itu; dan (3) Tiber Septim secara aktif menulis ulang sejarah Tamriel untuk melegitimasi kekuasaannya, yang mungkin termasuk meminimalisasi peristiwa-peristiwa yang mendahului dirinya.</i>
+
+
+
+<h2><b>VII. MISI-MISI ESO — PERANG TIGA SPANDUK SECARA DETAIL</b></h2>
+
+ESO memiliki struktur naratif yang sangat kaya, dengan Main Quest yang terhubung langsung dengan Planemeld dan berbagai chapter dan DLC yang mengeksplorasi aspek-aspek lain dari Second Era. Mari kita telusuri cerita utama dengan lebih mendalam.
+
+Main Story — Mortal Alliance:
+
+Vestige memulai perjalanannya di Coldharbour — sudah mati, sudah dikorbankan, sudah kehilangan jiwa. Dalam pertemuan pertama dengan Lyris Titanborn (half-giant Companion) dan Sai Sahan (Redguard guardsman), Vestige melarikan diri dari Coldharbour — namun meninggalkan Prophet (yang kemudian terungkap sebagai Varen Aquilarios, mantan Emperor Cyrodiil) di belakang.
+
+Petualangan di Nirn dimulai dengan mencari tiga bagian dari Amulet of Kings — yang diperlukan untuk membalikkan Planemeld. Perjalanan ini membawa Vestige melalui berbagai wilayah di seluruh Tamriel, bertemu dengan pemimpin-pemimpin dari ketiga aliansi, dan secara bertahap membongkar konspirasi yang jauh lebih dalam dari yang terlihat di permukaan.
+
+Terungkap bahwa Varen Aquilarios — yang bermaksud baik namun yang keputusannya sangat buruk — adalah tokoh kunci: ia berusaha untuk menjadi Dragonborn (walau ia bukan Dragonborn sejati) dengan melakukan ritual menggunakan Amulet of Kings, dan justru menyebabkan Amulet hancur dan membuka celah yang memungkinkan Planemeld dimulai.
+
+Mannimarco — yang telah berkhianat kepada Varen sejak awal — mengeksploitasi ritual itu, membunuh Varen (yang kemudian dihidupkan kembali sebagai Prophet tanpa ingatan), dan mulai bekerja untuk Molag Bal.
+
+ESO Chapter: Morrowind (2E 582)
+
+Salah satu ekspansi paling signifikan dari ESO membawa pemain ke Morrowind — tepat pada masa ketika Vivec masih eksis sebagai dewa aktif yang memerintah Vvardenfell. Ini adalah momen unik dalam sejarah Morrowind: sebelum Nerevarine Prophecy, sebelum Dagoth Ur sepenuhnya aktif kembali, ketika Tribunal masih berada di puncak kekuasaan mereka.
+
+Plot ESO Morrowind berpusat pada Baar Dau — batu raksasa melayang yang tergantung di atas kota suci Vivec. Dalam lore resmi, Baar Dau ditahan oleh kehendak langsung Vivec — tanpa konsentrasinya yang konstan, batu itu akan jatuh dan menghancurkan kota. Namun dalam ESO Morrowind, seseorang atau sesuatu mencoba untuk membuat Vivec kehilangan konsentrasinya dengan cara memisahkan dirinya dari sumber kekuatannya.
+
+Vestige bekerja sama dengan Vivec sendiri untuk menyelidiki siapa yang berada di balik plot ini — dan dalam prosesnya, mendapat gambaran unik tentang Vivec dari perspektif orang yang bekerja langsung dengannya. Vivec dalam ESO Morrowind digambarkan sebagai figur yang sangat kompleks: ia terlihat tulus dalam kepeduliannya terhadap rakyat Morrowind, namun ada lapisan-lapisan kerahasiaan yang tidak pernah sepenuhnya terungkap bahkan kepada pemain.
+
+ESO Chapter: Summerset (2E 582)
+
+Di Summerset Isles, Vestige membantu Ratu Ayrenn menghadapi ancaman dari Nocturnal — Daedric Prince of Night yang mencoba mencuri Subtle Knife, artefak yang bisa merobek celah di antara dunia. Plot ini juga memperdalam pengetahuan kita tentang Psijic Order — organisasi mistikus kuno yang berbasis di pulau Artaeum yang secara periodik menghilang dari peta Tamriel — dan tentang Crystal-Like-Law, menara kosmis Altmeri yang menjadi target Nocturnal.
+
+Tema utama Summerset adalah perubahan versus tradisi — Summerset yang selama ini tertutup untuk non-Altmer sedang dipaksa untuk membuka dirinya oleh kebijakan Ayrenn, dan tidak semua orang senang dengan perubahan itu. Thalmor pada era ini (bukan sama dengan Thalmor Fourth Era yang lebih fanatik) adalah organisasi yang menentang kebijakan keterbukaan Ayrenn, lebih memilih isolasi dan kemurnian Altmeri.
+
+ESO Chapter: Elsweyr (2E 583)
+
+Ketika Naga kembali ke langit Tamriel — sebuah kejutan besar mengingat bahwa Dragon War seharusnya sudah mengakhiri dominasi naga ribuan tahun sebelumnya — Elsweyr menjadi sasaran pertama mereka. Tapi ini bukan invasi yang tidak terencana: seseorang melepaskan naga-naga dari tempat di mana mereka dikurung.
+
+Abnur Tharn kembali muncul dalam plot ini — kali ini sebagai sekutu yang lebih kompleks dari sebelumnya, karena ia sendiri terlibat dalam peristiwa yang memungkinkan kembalinya naga. Plot ESO Elsweyr juga memperkenalkan Nahfahlaar — naga yang memilih untuk bekerja sama dengan manusia daripada bermusuhan — dan memperdalam pemahaman kita tentang sejarah naga di luar konteks Skyrim.
+
+ESO Chapter: Greymoor (2E 582)
+
+Kembali ke Skyrim dalam timeline yang sedikit berbeda, Chapter ini mengeksplorasi ancaman dari Harrowstorms — badai supranatural yang merenggut jiwa-jiwa manusia untuk memberi makan Molag Bal yang masih berusaha untuk mendapatkan pijakan di Nirn melalui cara-cara yang lebih halus dari Planemeld.
+
+Plot Greymoor berpusat di sekitar Icereach Coven — sekelompok penyihir yang bekerja sama dengan Harrowfiends, dan di sekitar Solitude serta jaringan gua bawah tanah yang disebut Blackreach (berbeda dari Blackreach di Skyrim versi game utama namun dengan konsep yang sama).
+
+ESO Chapter: Blackwood (2E 582)
+
+Blackwood membawa cerita ke wilayah antara Cyrodiil dan Black Marsh — wilayah rawa-rawa yang dikuasai oleh Dagon's Deadlands setelah beberapa Oblivion Gate yang terbuka tidak pernah sepenuhnya ditutup. Mehrunes Dagon memiliki rencana baru untuk Tamriel yang melibatkan Ambitions — empat anak yang dilahirkan dengan kekuatan supernatural yang terhubung dengan beberapa aspek Daedric.
+
+Plot ini memperkenalkan "The Longhouse Emperors" — dinasti Kekaisaran yang memerintah selama sebagian Second Era sebelum Tiber Septim, yang memiliki perjanjian tersembunyi dengan Mehrunes Dagon. Hubungan antara kekuasaan Imperial dan kekuasaan Daedric yang dieksplor dalam Blackwood memberikan konteks tambahan yang menarik tentang mengapa Tiber Septim — ketika ia akhirnya muncul — diterima sebagai penyelamat oleh banyak pihak.
+
+ESO Chapter: High Isle (2E 582)
+
+Di kepulauan di lepas pantai High Rock, Society of the Steadfast — organisasi chivalric kuno — berada dalam krisis karena "The Ascendant Order" — kelompok misterius yang ingin menghancurkan sistem kelas yang ada di Tamriel. Tema High Isle adalah tentang kelas sosial, tentang kekuasaan yang tersembunyi, dan tentang cara-cara terselubung di mana keputusan-keputusan besar dibuat oleh mereka yang tidak pernah terlihat di permukaan.
+
+ESO Chapter: Necrom (2E 582)
+
+Plot ini terhubung dengan Hermaeus Mora — Daedric Prince of Knowledge — dan dengan Telvanni Peninsula di ujung timur Morrowind. Sebuah ancaman yang disebut sebagai "The Forbidden Tome" — artefak yang mengandung pengetahuan yang tidak seharusnya bisa diketahui oleh makhluk fana — menjadi pusat dari konflik yang juga melibatkan Apocrypha secara langsung. Chapter ini memperkenalkan kelas Arcanist yang kemampuannya bersumber dari koneksi dengan Apocrypha.
+
+<h2><b>VIII. DAGOTH UR BANGKIT KEMBALI — 2E 882</b></h2>
+
+Sementara Three-Banners War berlangsung di barat dan selatan Tamriel, di Morrowind sesuatu yang jauh lebih mengerikan sedang terjadi secara diam-diam.
+
+Di kedalaman Red Mountain, Dagoth Ur — yang telah tersimpan selama hampir dua ribu tahun dalam kondisi antara kehidupan dan kematian, terhubung dengan Heart of Lorkhan, berubah menjadi sesuatu yang tidak pernah dimaksudkan untuk ada — mulai bangkit.
+
+Kebangkitan Dagoth Ur pada 2E 882 adalah peristiwa yang Tribunal tidak bisa biarkan terjadi. Mereka segera mengirimkan pasukan untuk menghadapinya. Namun mereka menemukan bahwa musuh yang mereka hadapi bukan lagi Voryn Dagoth yang pernah mereka kenal — bukan lagi bangsawan Chimer yang pernah menjadi kepercayaan Nerevar. Yang menunggu di Red Mountain adalah sesuatu yang lain — entitas yang melampaui pemahaman tentang manusia atau dewa, yang kekuatannya berasal langsung dari Heart of Lorkhan dan yang tidak bisa dikalahkan oleh cara-cara biasa.
+
+Tribunal — Vivec, Almalexia, dan Sotha Sil — menghadapi Dagoth Ur secara langsung. Pertempuran berlangsung di kedalaman Red Mountain, di sekitar Heart Chamber, di tempat yang ribuan tahun sebelumnya menjadi saksi dari keputusan-keputusan yang mengubah sejarah. Namun kali ini, mereka tidak berhasil mengalahkan Dagoth Ur — yang terlalu terhubung dengan Heart, yang kekuatannya terlalu terintegrasi dengan fondasi dari energi yang memberi Tribunal kekuatan mereka sendiri.
+
+Hasilnya adalah semacam kebuntuan kosmis: Tribunal berhasil memaksa Dagoth Ur kembali ke kedalaman Red Mountain dan mendirikan Ghostgate — pertahanan magis yang mencegah pengaruh Dagoth Ur menyebar ke luar Vvardenfell. Dagoth Ur, dari sisinya, membangun Sixth House — organisasi setengah supernatural yang menyebarkan Corprus Disease (penyakit yang mengubah manusia menjadi monster) dan yang mendistribusikan pengaruhnya melalui Corpus Weepings (makhluk-makhluk yang terinfeksi Corprus yang berkeliaran di Vvardenfell).
+
+Kebuntuan ini berlangsung selama lebih dari empat ratus tahun — dari 2E 882 hingga 3E 427, ketika Nerevarine akhirnya datang dan menyelesaikan apa yang tidak bisa diselesaikan oleh Tribunal.
+
+
+
+<h2><b>IX. TIBER SEPTIM — SEORANG PRIA DARI ALCAIRE</b></h2>
+
+Dan kemudian, pada sekitar 2E 852, seseorang yang tidak tampak luar biasa muncul dari kegelapan Interregnum.
+
+Namanya, menurut catatan paling awal yang tersisa, adalah Hjalti Early-Beard — seorang pejuang muda dari Alcaire, wilayah di High Rock. Ia tidak berasal dari keluarga bangsawan. Tidak memiliki darah kerajaan. Tidak memiliki artefak ilahi atau dukungan dari dewa-dewa yang jelas dan eksplisit. Yang ia miliki adalah kombinasi dari kecerdasan militer yang jenius, karisma personal yang luar biasa, ambisi yang tidak terbatas, dan — ini yang paling penting — sesuatu yang sulit didefinisikan, sesuatu yang membuat orang-orang di sekitarnya percaya bahwa ia bukan sekadar manusia biasa.
+
+Beberapa percaya bahwa ia adalah Shezarrine — inkarnasi baru dari Lorkhan, seperti yang Pelinal Whitestrake juga mungkin adalah. Beberapa percaya bahwa ia adalah manusia yang mencapai CHIM — kesadaran bahwa ia adalah bagian dari Mimpi sambil mempertahankan identitas individualnya — yang memberinya kemampuan untuk mempengaruhi realitas dengan cara yang seharusnya tidak mungkin bagi makhluk fana. Dan beberapa — khususnya para sarjana Altmer yang sangat tidak menyukainya — percaya bahwa ia hanyalah seorang penipu yang cerdik yang memanfaatkan kondisi kacau Interregnum untuk naik ke puncak kekuasaan.
+
+Perjalanan Hjalti dari pejuang muda Alcaire menjadi Tiber Septim — Emperor pertama yang benar-benar menyatukan Tamriel — melibatkan beberapa tahap:
+
+Pertama: Ia bergabung dengan pasukan Cuhlecain — seorang raja Colovian yang mencoba untuk menyatukan kembali Cyrodiil. Di bawah nama perang "Talos" (yang dalam bahasa Nord berarti kira-kira "Badai Mahkota"), Hjalti mulai membangun reputasinya sebagai jenderal yang tak terkalahkan.
+
+Kedua: Di Sancre Tor — tempat suci kuno yang pernah menjadi kuburan Alessia — Hjalti melakukan sesuatu yang tidak bisa dilakukan oleh siapa pun lain: ia memenangkan kepercayaan dari Nords. Greybeards — para master Thu'um di High Hrothgar — mengakuinya sebagai Ysmir, nama kuno yang berarti "Naga dari Utara", nama yang biasanya hanya diberikan kepada mereka yang memiliki kekuatan ilahi.
+
+Ketiga: Setelah kematian Cuhlecain (dibunuh oleh seorang prajurit — beberapa menduga atas perintah Tiber Septim sendiri, yang ingin mengambil alih kepemimpinan tanpa berbagi kekuasaan), Tiber Septim menjadi pemimpin tunggal. Dalam beberapa tahun, ia menghancurkan satu kerajaan demi kerajaan lainnya, menggabungkan mereka ke dalam Kekaisaran yang ia bentuk.
+
+
+
+<h2><b>X. NUMIDIUM DAN PENAKLUKAN SUMMERSET — KONTRAK DENGAN TRIBUNAL</b></h2>
+
+Pada 2E 882 — tahun yang sama Dagoth Ur bangkit — Tiber Septim memperoleh sesuatu yang mengubah kampanye militernya dari "mengesankan" menjadi "tidak tertandingi": Numidium.
+
+Bagaimana Tiber Septim mendapatkan Numidium? Inilah bagian yang paling kontroversial dari sejarahnya.
+
+Numidium — yang dibangun oleh Kagrenac dari Dwemer namun tidak pernah selesai karena hilangnya seluruh ras Dwemer — selama berabad-abad berada dalam kondisi tidak aktif di Morrowind, dijaga oleh Tribunal. Mereka memahami kekuatannya tetapi juga memahami bahayanya — Numidium tanpa Heart of Lorkhan yang benar-benar tertanam di dalamnya adalah konstruk yang tidak lengkap dan tidak bisa dioperasikan.
+
+Tiber Septim melakukan negosiasi langsung dengan Tribunal — pertemuan bersejarah antara manusia ambisi dan dewa-dewa palsu yang sedang melemah. Detailnya tidak pernah sepenuhnya diketahui publik, namun hasilnya jelas: Tribunal menyerahkan Numidium kepada Tiber Septim, bersama dengan "Mantella" — sebuah mega-soul gem yang mengandung jiwa dari Zurin Arctus (atau mungkin Wulfharth, ini adalah salah satu kontroversi sejarah yang paling sengit), Imperial Battlemage Tiber Septim, yang jiwanya dikorbankan untuk mengoperasikan Numidium.⁴
+
+<i>⁴ Catatan Lore: Identitas "Underking" — siapa yang benar-benar mengisi Mantella — adalah salah satu misteri terbesar sejarah Tamriel. Kandidat utama adalah Zurin Arctus (Imperial Battlemage Tiber Septim) atau Wulfharth (berger Nord yang sudah mati dan dihidupkan kembali berkali-kali). Kemungkinan bahwa "Underking" adalah kombinasi dari keduanya juga tidak bisa dikesampingkan, mengingat sifat fragmentasi jiwa dan soul gem yang kompleks. Warp in the West di TES II: Daggerfall, di mana Numidium aktif kembali sebelum akhirnya dihancurkan, sebagian berpusat pada Underking yang berusaha mendapatkan kembali Mantella untuk akhirnya bisa beristirahat.</i>
+
+Dengan Numidium yang beroperasi, Tiber Septim melancarkan kampanye yang mustahil untuk dihadapi: penaklukan Summerset Isles. Altmer — yang telah menolak bergabung dengan Kekaisarannya dengan cara konvensional, yang menganggap manusia sebagai ras inferior yang tidak layak memerintah mereka — tidak berdaya menghadapi konstruk setinggi menara yang memancarkan kekuatan Heart of Lorkhan.
+
+Numidium berjalan melalui pertahanan Altmer yang terkuat. Dinding-dinding Crystal Tower retak ketika getaran tonal Numidium mendekatinya. Pasukan Altmer yang paling terlatih tidak bisa menghentikan konstruk yang pada dasarnya adalah dewa mekanis berjalan. Dalam waktu singkat yang mengerikan, Summerset Isles — kebanggaan terakhir Altmer, tanah asal mereka, tempat di mana warisan Aldmeris masih dijaga dengan paling ketat — menyerah.
+
+Tiber Septim segera mendismantilasi Numidium setelah kampanye ini — atau mengklaim demikian. Dalam kenyataannya, potongan-potongan Numidium tersebar dan pada akhirnya ditemukan kembali oleh berbagai pihak, dengan Mantella-nya menjadi objek perebutan dalam plot utama TES II: Daggerfall.
+
+
+
+<h2><b>XI. PENYATUAN TAMRIEL — 2E 896</b></h2>
+
+Pada 2E 896, setelah kampanye militer yang berlangsung selama lebih dari empat dekade, Tiber Septim mencapai apa yang tidak pernah berhasil dicapai oleh siapa pun sebelumnya: penyatuan seluruh Tamriel di bawah satu Kekaisaran.
+
+Sembilan provinsi — Skyrim, High Rock, Hammerfell, Cyrodiil, Morrowind, Black Marsh, Elsweyr, Valenwood, dan Summerset Isles — semua berada di bawah kendali Tiber Septim. Bukan penyatuan yang damai — bukan yang dicapai melalui diplomasi dan persetujuan bersama. Melainkan penyatuan yang dicetak dalam baja dan api, melalui kampanye yang memakan ribuan nyawa di setiap sisinya.
+
+Namun setelah penyatuan itu, Pax Imperialis — perdamaian Imperial yang akan berlangsung selama berabad-abad — dimulai. Perdagangan mulai mengalir bebas antar provinsi. Sistem hukum yang konsisten mulai diterapkan. Imperial Legion — pasukan terpadu yang tidak loyal kepada satu provinsi tetapi kepada seluruh Kekaisaran — menjaga keamanan jalur-jalur perdagangan dan perbatasan.
+
+Third Era dimulai — tahun 3E 0, tahun di mana Tiber Septim secara resmi mendeklarasikan dirinya sebagai Emperor pertama dari Kekaisaran yang bersatu, dan di mana sejarah baru Tamriel dimulai.
+
+Dan Tiber Septim sendiri? Ia memerintah selama beberapa dekade lagi, sampai akhirnya — pada 3E 38 — ia meninggal. Namun berbeda dengan kematian biasa, kematian Tiber Septim dianggap oleh banyak pihak sebagai apotheosis — transformasi dari manusia menjadi dewa.
+
+Talos, Dewa Kesembilan, resmi dimasukkan ke dalam pantheon Eight Divines — menjadi Sembilan Divines. Manusia yang lahir di High Rock, yang berjuang di medan perang tanpa henti selama puluhan tahun, yang menggunakan Numidium untuk menghancurkan perlawanan Altmer — ia menjadi dewa.
+
+Dan karenanya, selama ribuan tahun berikutnya, ia menjadi sumber konflik yang tidak pernah selesai: karena Altmer tidak bisa menerima bahwa seorang manusia bisa menjadi dewa, terutama manusia yang menghancurkan kebebasan mereka. Larangan pemujaan Talos oleh Aldmeri Dominion — yang menjadi salah satu pemicu Perang Saudara Skyrim di 4E 201 — berakar langsung pada kebencian yang ditaburkan pada 2E 896, pada hari ketika Numidium berjalan melalui pertahanan Crystal Tower dan Summerset Isles jatuh di bawah panji Tiber Septim.
+
+
+
+<h2><b>XII. PENUTUP — DARI KEKOSONGAN KE MAHKOTA</b></h2>
+
+Second Era adalah bukti bahwa kekosongan kekuasaan — walau tidak nyaman, walau membunuh jutaan orang melalui perang dan wabah dan kekacauan — mengandung dalam dirinya sendiri benih dari tatanan yang akan datang. Bukan karena kekosongan itu sendiri produktif, melainkan karena tekanan yang dihasilkannya — seperti tekanan yang mengubah batubara menjadi berlian — pada akhirnya memaksa munculnya seseorang yang cukup keras, cukup cerdas, dan cukup ambisius untuk mengisi kekosongan itu.
+
+Tiber Septim adalah berlian itu. Atau mungkin Tiber Septim adalah titik di mana kekuatan kosmis — Lorkhan yang masih ada, Shezarr yang masih bergerak melalui Mundus dalam caranya yang misterius — menemukan saluran yang tepat untuk mewujudkan diri.
+
+Apakah ia manusia yang mencapai keilahian, atau keilahian yang mengambil bentuk manusia — pertanyaan itu mungkin tidak memiliki jawaban yang bisa diakses oleh pikiran fana. Yang pasti adalah bahwa dunia yang ditinggalkannya — Third Era, Pax Imperialis, Kekaisaran yang bersatu — adalah dunia yang jauh berbeda dari dunia kacau Second Era yang membentuknya.
+
+Lebih baik? Itu tergantung kepada siapa Anda bertanya. Seorang petani Imperial mungkin mengatakan ya. Seorang Altmer bangsawan mungkin tidak pernah bisa menjawab pertanyaan itu tanpa amarah.
+
+Namun dunia itu ada. Dan selama ada, ia adalah monumen dari seorang pemuda dari Alcaire yang suatu hari memutuskan bahwa Interregnum sudah cukup lama berlangsung.
+
+<i>"Ia tidak lahir dengan pedang di tangannya.
+Ia tidak lahir dengan mahkota di kepalanya.
+Ia bahkan tidak lahir dengan nama yang akan menggetarkan sejarah.
+Yang ia miliki hanyalah yang dimiliki oleh setiap orang yang pernah mengubah dunia:
+keyakinan absolut bahwa dunia harus berubah,
+kemampuan untuk membuat orang lain percaya demikian juga,
+dan keberanian untuk memulai.
+Yang lainnya — pedang, mahkota, nama —
+datang kemudian.
+Mereka selalu datang kemudian,
+kepada mereka yang tidak menunggu mereka lebih dulu."
+
+— "Meditation on the First Emperor" — Zurin Arctus (atau mungkin bukan Zurin Arctus),
+ditemukan di Imperial Library, penulis diperdebatkan</i>

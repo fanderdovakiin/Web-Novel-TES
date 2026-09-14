@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Tokoh Third & Fourth Era</title>
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      background: #040406;
+      font-family: serif;
+    }
+    #chart {
+      width: 100%;
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+
+<div id="chart"></div>
+
+<script>
+var chart = echarts.init(document.getElementById('chart'));
+
+var option = {
+  backgroundColor: "#040406",
+  title: {
+    text: "Tokoh Third & Fourth Era — Dampak pada Peristiwa Utama",
+    subtext: "Seberapa besar masing-masing tokoh mempengaruhi alur sejarah",
+    left: "center",
+    top: 10,
+    textStyle: {
+      color: "#c4a35a",
+      fontFamily: "serif",
+      fontSize: 14
+    },
+    subtextStyle: {
+      color: "#806030",
+      fontFamily: "serif",
+      fontSize: 10,
+      fontStyle: "italic"
+    }
+  },
+  tooltip: {
+    trigger: "axis",
+    backgroundColor: "#080510",
+    borderColor: "#c4a35a",
+    textStyle: {
+      color: "#e0d5c0",
+      fontFamily: "serif",
+      fontSize: 10
+    },
+    axisPointer: {type: "shadow"}
+  },
+  legend: {
+    data: ["Historical Impact", "Moral Complexity", "Personal Tragedy", "Narrative Importance"],
+    bottom: 8,
+    textStyle: {
+      color: "#aaa",
+      fontFamily: "serif",
+      fontSize: 9
+    }
+  },
+  grid: {
+    left: "18%",
+    right: "5%",
+    top: "18%",
+    bottom: "15%"
+  },
+  xAxis: {
+    type: "value",
+    max: 10,
+    axisLabel: {color: "#666", fontFamily: "serif"},
+    axisLine: {lineStyle: {color: "#2a2030"}},
+    splitLine: {lineStyle: {color: "#111"}}
+  },
+  yAxis: {
+    type: "category",
+    data: [
+      "Cicero",
+      "Elenwen (Thalmor)",
+      "Alduin",
+      "Ulfric Stormcloak",
+      "General Tullius",
+      "Paarthurnax",
+      "Last Dragonborn",
+      "Mankar Camoran",
+      "Champion of Cyrodiil",
+      "Nerevarine",
+      "Divayth Fyr",
+      "Barenziah",
+      "Jagar Tharn",
+      "Martin Septim",
+      "Uriel Septim VII"
+    ],
+    axisLabel: {
+      color: "#c4a35a",
+      fontFamily: "serif",
+      fontSize: 8
+    },
+    axisLine: {lineStyle: {color: "#2a2030"}}
+  },
+  series: [
+    {
+      name: "Historical Impact",
+      type: "bar",
+      stack: "total",
+      data: [2, 6, 9, 7, 5, 8, 10, 7, 8, 9, 3, 4, 6, 10, 9],
+      itemStyle: {
+        color: {
+          type: "linear",
+          x: 0, y: 0, x2: 1, y2: 0,
+          colorStops: [
+            {offset: 0, color: "#c4a35a"},
+            {offset: 1, color: "#806030"}
+          ]
+        }
+      },
+      barWidth: "18%"
+    },
+    {
+      name: "Moral Complexity",
+      type: "bar",
+      stack: "total",
+      data: [3, 4, 6, 9, 7, 10, 8, 5, 7, 5, 4, 6, 7, 9, 8],
+      itemStyle: {
+        color: {
+          type: "linear",
+          x: 0, y: 0, x2: 1, y2: 0,
+          colorStops: [
+            {offset: 0, color: "#8060c0"},
+            {offset: 1, color: "#402060"}
+          ]
+        }
+      },
+      barWidth: "18%"
+    },
+    {
+      name: "Personal Tragedy",
+      type: "bar",
+      stack: "total",
+      data: [5, 2, 4, 7, 4, 9, 6, 6, 5, 7, 3, 7, 5, 10, 9],
+      itemStyle: {
+        color: {
+          type: "linear",
+          x: 0, y: 0, x2: 1, y2: 0,
+          colorStops: [
+            {offset: 0, color: "#c05050"},
+            {offset: 1, color: "#601010"}
+          ]
+        }
+      },
+      barWidth: "18%"
+    },
+    {
+      name: "Narrative Importance",
+      type: "bar",
+      stack: "total",
+      data: [6, 5, 9, 8, 7, 9, 10, 7, 9, 9, 5, 6, 7, 10, 10],
+      itemStyle: {
+        color: {
+          type: "linear",
+          x: 0, y: 0, x2: 1, y2: 0,
+          colorStops: [
+            {offset: 0, color: "#4080c0"},
+            {offset: 1, color: "#204060"}
+          ]
+        }
+      },
+      barWidth: "18%"
+    }
+  ]
+};
+
+chart.setOption(option);
+</script>
+
+</body>
+</html>

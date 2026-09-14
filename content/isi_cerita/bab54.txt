@@ -1,0 +1,205 @@
+<h2><b>I. PRAELUDIUM — SUARA SEBELUM ADA YANG MENDENGAR</b></h2>
+
+Sebelum ada manusia, sebelum ada Mer, sebelum ada apa pun yang bisa disebut sebagai "penduduk" Nirn yang menggunakan bahasa — ada suara. Bukan suara yang bisa didengar oleh telinga biologis, melainkan suara dalam pengertian yang lebih fundamental: resonansi dari Akatosh yang membentuk struktur realitas Mundus.
+
+Dovahzul — bahasa naga yang menjadi dasar dari Thu'um — bukan bahasa yang diciptakan oleh siapa pun. Ia bukan seperti bahasa Imperial atau bahasa Nordic atau bahasa Aldmeri yang berkembang secara organik dari kebutuhan komunikasi antara makhluk cerdas. Dovahzul adalah bahasa yang ada — seperti matematika ada, seperti gravitasi ada — bukan karena ada yang membuatnya, melainkan karena realitas Mundus memerlukan ia untuk eksis.
+
+Ketika para naga berbicara, mereka bukan sekadar mengkomunikasikan informasi. Mereka berpartisipasi dalam proses penciptaan yang berkelanjutan — setiap kata dalam Dovahzul adalah tindakan, bukan hanya deskripsi. Dan ini adalah mengapa Thu'um bisa menggerakkan gunung, bisa membekukan lautan, bisa memanggil badai dari langit yang cerah: karena kata-kata yang diucapkan dengan niat yang benar dalam bahasa yang merupakan substansi dari Aurbis itu sendiri tidak hanya mendeskripsikan realitas — mereka membentuknya.
+
+
+
+<h2><b>II. DOVAHZUL — ANATOMI BAHASA ILAHI</b></h2>
+
+Cara Dovahzul Berbeda dari Bahasa Lain
+Bahasa manusia adalah sistem simbol yang merepresentasikan konsep. Ketika saya mengucapkan "api", saya tidak menciptakan api — saya hanya memanggil konsep api dalam pikiran pendengar. Hubungan antara kata dan konsep adalah arbitrer dan konvensional; "api" tidak lebih "benar" dari "fire" atau "Feuer" atau "fuego".
+
+Dovahzul berbeda secara fundamental. Setiap kata dalam Dovahzul adalah apa yang para Dwemer akan sebut sebagai "tonal concentrate" — konsentrasi dari prinsip yang diwakili kata itu. YOL bukan hanya simbol untuk "api" — ia adalah, dalam pengertian yang paling literal, aspek dari api itu sendiri yang terkristalisasi menjadi suara. Ketika naga mengucapkan YOL dengan kekuatan penuh, api tidak hanya terjadi karena seseorang mengaktifkan mekanisme tertentu — ia terjadi karena prinsip "api" dipanggil langsung ke dalam kehadiran fisik.
+
+Ini adalah mengapa Dovahzul memiliki jumlah kata yang jauh lebih sedikit dari bahasa fana mana pun, namun setiap kata-nya jauh lebih padat makna. Bahasa fana memerlukan ribuan kata untuk mendeskripsikan semua nuansa dari satu konsep. Dovahzul memiliki satu kata yang adalah semua nuansa itu sekaligus.
+
+Struktur Shout — Tiga Lapisan:
+
+Setiap "Shout" dalam terminologi manusia adalah, dalam Dovahzul, kalimat yang terdiri dari tiga kata yang saling melengkapi dalam cara yang menghasilkan sesuatu yang lebih dari jumlah bagian-bagiannya:
+
+Ambil FUS RO DAH sebagai contoh:
+
+FUS (Force, Push) — kata pertama yang mendefinisikan prinsip yang akan dipanggil. Force adalah prinsip tentang bagaimana satu hal mempengaruhi hal lain melalui penekanan.
+
+RO (Balance, Equilibrium) — kata kedua yang mendefinisikan cara prinsip itu bekerja. Balance adalah tentang bagaimana Force bergerak melalui keseimbangan — bahwa dorongan yang nyata bukan dorongan yang kasar melainkan dorongan yang mengikuti prinsip-prinsip fundamental tentang bagaimana energi menyebar.
+
+DAH (Push, Exhale) — kata ketiga yang mendefinisikan hasil dari kombinasi prinsip dan cara. Push adalah tindakan konkret yang dihasilkan oleh Force yang bergerak melalui Balance.
+
+Ketiga kata ini, ketika diucapkan bersama dengan niat yang benar, tidak hanya mendeskripsikan "mendorong sesuatu dengan kuat" — mereka secara langsung memanggil prinsip Force yang bergerak melalui Balance untuk menghasilkan Push di dalam realitas. Hasilnya adalah gelombang kekuatan yang melempar apapun yang ada di depan shout-er.
+
+Alphabet Dovahzul:
+
+Alphabet Dovahzul terdiri dari 34 karakter yang masing-masing merepresentasikan satu suara dasar. Berbeda dari alphabet Latin yang adalah sistem fonetis murni, karakter Dovahzul juga mengandung makna semantis — setiap karakter adalah simbol yang, bahkan tanpa konteks kata, menyampaikan sebuah konsep dasar.
+
+Karakter untuk "F" dalam Dovahzul bukan hanya notasi fonetis — ia adalah simbol yang mengandung konsep tentang "gerakan awal", tentang "force yang belum menemukan arahnya". Dan ketika karakter ini bergabung dengan karakter-karakter lain untuk membentuk kata, makna karakter-karakter individual berinteraksi untuk menghasilkan nuansa-nuansa yang melampaui apa yang bisa diungkapkan oleh kata-kata biasa.
+
+
+
+<h2><b>III. WORD WALLS — MONUMEN PENGETAHUAN YANG TERTIDUR (Bab 54 Lanjutan:Word Walls)</b></h2>
+
+Word Walls — struktur batu yang tersebar di seluruh Skyrim dan mengandung kata-kata Dovahzul yang terukir di permukaan mereka — adalah salah satu fitur paling iconic dari TES V: Skyrim. Namun dari perspektif lore, mereka jauh lebih menarik dari yang tampak sebagai "gameplay mechanic".
+
+Siapa yang Membuat Word Walls?
+
+Word Walls dibuat dalam dua gelombang yang berbeda, pada dua masa yang berbeda, dengan tujuan yang berbeda:
+
+Gelombang Pertama — Dragon Priests/Naga: Selama Dragon Cult era, Dragon Priests membuat Word Walls di lokasi-lokasi suci sebagai bagian dari praktik keagamaan mereka. Mereka mengukir kata-kata yang naga ajarkan kepada mereka — kata-kata yang, dalam konteks Dragon Cult, adalah bagian dari liturgi keagamaan, cara untuk mendekatkan diri dengan naga yang mereka sembah.
+
+Gelombang Kedua — Ancient Tongues/Greybeards: Setelah Dragon War, manusia yang menggunakan Thu'um untuk melawan naga juga membuat Word Walls — namun dengan tujuan yang berbeda. Mereka mengukir kata-kata yang mereka pelajari agar pengetahuan itu tidak hilang ketika mereka meninggal, agar generasi berikutnya bisa menemukan dan meneruskan warisan Thu'um.
+
+Mengapa Word Wall "Mengajarkan"?
+
+Ada sesuatu yang menarik secara kosmologis tentang cara Word Wall berfungsi: ketika Dragonborn mendekati Word Wall, kata yang terukir di sana secara langsung bisa diserap — bukan hanya dibaca, melainkan dipahami pada level yang melampaui kognisi biasa.
+
+Ini bukan sihir dalam pengertian yang biasa. Ini adalah karena Dovahzul adalah bahasa yang memiliki hubungan langsung dengan prinsip-prinsip fundamental Aurbis, dan prinsip-prinsip itu ada di mana-mana — termasuk dalam batu yang mengandung ukiran kata. Ketika seseorang yang cukup "terhubung" mendekati ukiran Dovahzul, prinsip yang diwakili kata itu beresonansi dengan prinsip yang sama yang ada dalam diri mereka, menciptakan pemahaman yang tidak memerlukan proses pembelajaran konvensional.
+
+Ini menjelaskan mengapa orang biasa tidak bisa "belajar" Thu'um dari Word Wall dengan cara yang sama: mereka tidak memiliki koneksi dengan prinsip-prinsip yang diperlukan untuk membuat resonansi itu terjadi. Greybeards mendekati kondisi itu melalui meditasi yang sangat lama dan sangat intens. Dragonborn memilikinya sejak lahir.
+
+Lokasi Word Walls:
+
+Word Walls tidak ditempatkan secara sembarangan — lokasinya selalu terhubung dengan makna kata yang terukir di sana:
+
+Word Wall Unrelenting Force di Bleak Falls Barrow — salah satu lokasi Dragon Cult tertua dan paling signifikan di Skyrim, tempat yang sangat tepat untuk shout yang paling fundamental dari semua shout.
+Word Wall Fire Breath di Dustman's Cairn dan lokasi-lokasi vulkanik — terhubung dengan elemen yang diwakili shout.
+Word Wall Slow Time di lokasi-lokasi yang memiliki signifikansi temporal — kuil-kuil Akatosh, tempat-tempat di mana Dragon Break pernah terjadi.
+
+
+
+<h2><b>IV. WAY OF THE VOICE — THU'UM SEBAGAI MEDITASI (Bab 54 Lanjutan:Way of the Voice)</b></h2>
+
+Greybeards adalah institusi yang paling sering disalahpahami dalam TES V: Skyrim — karena dari perspektif pemain yang ingin menggunakan Thu'um untuk mengalahkan musuh, Greybeards tampak seperti hambatan yang tidak perlu. Mereka terus-menerus menasihati Dragonborn tentang "Way of the Voice" yang tampak seperti filosofi pasif dalam konteks di mana dunia sedang dihancurkan oleh naga.
+
+Namun pemahaman yang lebih dalam mengungkap bahwa Way of the Voice bukan sekadar filosofi pasif — ia adalah pemahaman yang sangat mendalam tentang apa yang Thu'um sebenarnya.
+
+Arngeir dan Kontroversi:
+
+Arngeir — juru bicara Greybeards — adalah karakter yang, bahkan di antara Greybeards sendiri, tidak selalu dilihat sebagai yang paling bijaksana. Ia sangat protektif terhadap Thu'um, sangat berhati-hati tentang siapa yang menerimanya, dan sangat skeptis terhadap penggunaan Thu'um sebagai senjata.
+
+Namun ketika kita melihat sejarah — ketika kita melihat apa yang terjadi ketika manusia mendapat akses ke Thu'um dan menggunakannya tanpa pemahaman yang benar — perspektif Arngeir menjadi lebih mudah dipahami. Dragon War, yang dimulai sebagian oleh penyalahgunaan Thu'um, menghancurkan peradaban. Miraak, yang menggunakan Thu'um untuk kepentingan pribadi tanpa batasan moral, berakhir sebagai tawanan Hermaeus Mora selama ribuan tahun.
+
+Arngeir tidak berlebihan ketika ia berhati-hati. Ia hanya mengetahui sejarah yang kebanyakan orang lain lupa.
+
+Kaan — Kyne's Peace:
+
+Paarthurnax meditasi pada Kaan — yang oleh Greybeards dijelaskan sebagai "Kyne's Peace" dalam bahasa manusia. Kaan bukan kata khusus dari satu shout tertentu — ia adalah konsep yang melampaui shout individual, konsep tentang ketenangan yang muncul ketika semua kekuatan sudah dilepaskan dan semua perjuangan sudah diselesaikan.
+
+Bagi Paarthurnax — yang dulunya adalah naga yang mendominasi dan menghancurkan — meditasi pada Kaan adalah tindakan yang berlawanan dengan sifatnya secara fundamental. Ia melakukannya bukan karena mudah, melainkan karena ia percaya bahwa itulah jalan yang benar. Dan setiap hari yang ia meditasi di puncak Throat of the World adalah satu hari lagi di mana ia memilih kebijaksanaan atas dominasi.
+
+
+
+<h2><b>V. DRAGONREND — SHOUT YANG LAHIR DARI KEMATIAN</b></h2>
+
+Di antara semua shout yang ada, Dragonrend adalah yang paling unik dan yang paling menunjukkan bahwa Thu'um bisa berkembang — bahwa manusia bisa menciptakan kata-kata baru dalam Dovahzul, tidak hanya menggunakan yang sudah ada.
+
+JOOR ZAH FRUL — Mortal, Finite, Temporary — adalah shout yang tidak bisa dipelajari dari Word Wall karena tidak ada Word Wall yang mengandungnya. Ia tidak bisa dipelajari dari naga karena naga tidak bisa menggunakan konsep-konsep yang ada dalam kata-kata itu. Dan ia tidak bisa diajarkan dari mulut ke mulut dalam cara biasa karena pengalaman yang diperlukan untuk benar-benar memahami kata-kata itu tidak bisa ditransmisikan secara linguistik.
+
+Dragonrend hanya bisa dipelajari dengan cara yang sangat spesifik: dengan menyaksikan Ancient Tongues menggunakannya untuk pertama kali, melalui visi yang dimungkinkan oleh Elder Scroll. Dragonborn harus secara temporal hadir di momen penciptaan shout itu untuk bisa mempelajarinya.
+
+Mengapa? Karena Dragonrend diisi dengan pengalaman mortality — bukan hanya konsep tentang kematian, melainkan perasaan konkret dari seseorang yang tahu bahwa mereka akan mati, yang sudah kehilangan orang yang mereka cintai karena kematian, yang memahami secara mendalam apa artinya "tidak akan ada selamanya". Dan pengalaman itu — yang harus ada dalam kata-kata itu agar efektif — tidak bisa ditransmisikan melalui instruksi biasa. Seseorang harus merasakannya sendiri, dalam momen yang tepat, dengan konteks yang tepat.
+
+Inilah yang membuat Dragonrend begitu efektif melawan naga: naga tidak memiliki konsep mortality. Mereka adalah fragmen dari waktu — mereka tidak "mati" dalam pengertian yang sama dengan makhluk fana. Ketika Dragonrend menghantam naga, ia tidak hanya menyerang fisik mereka — ia memaksa mereka untuk merasakan sesuatu yang sama sekali asing bagi mereka, sesuatu yang sangat mengganggu proses kognitif mereka sehingga mereka tidak bisa mempertahankan penerbangan.
+
+
+
+<h2><b>VI. CALL OF VALOR — MEMANGGIL PAHLAWAN MELAMPAUI KEMATIAN</b></h2>
+
+HUN KAAL ZOOR — Hero, Champion, Legend — adalah shout yang memungkinkan Dragonborn untuk memanggil salah satu dari tiga Ancient Tongues (Hakon, Gormlaith, atau Felldir) dari Sovngarde untuk membantu dalam pertempuran.
+
+Ini adalah shout yang, secara kosmologis, sangat menarik: ia melintasi batas antara hidup dan mati, antara Mundus dan Sovngarde, antara masa kini dan masa lalu.
+
+Namun ada nuansa yang penting: para pahlawan yang dipanggil tidak meninggalkan Sovngarde — mereka mengirimkan aspek diri mereka, semacam proyeksi yang cukup kuat untuk berpartisipasi dalam pertempuran namun yang tidak mengambil mereka dari kebahagiaan abadi Sovngarde. Ini adalah perbedaan yang sangat penting dari, misalnya, Conjuration yang benar-benar menarik makhluk dari dimensi lain ke dalam Mundus.
+
+Call of Valor mencerminkan hubungan yang sangat Nordic tentang relasi antara yang hidup dan yang mati: bahwa pahlawan yang sudah meninggal tidak pergi sepenuhnya, bahwa ada cara untuk menghubungi mereka, dan bahwa mereka — jika keperluannya cukup besar — bisa datang kembali untuk sementara.
+
+
+
+<h2><b>VII. BEND WILL — KETIKA KATA-KATA MENJADI KONTROL TOTAL</b></h2>
+
+GOL HA DOV — Earth, Hunter, Dovah — adalah shout yang Dragonborn pelajari selama Dragonborn DLC di Solstheim, dan yang memiliki kemampuan yang paling kontroversial dari semua shout: kemampuan untuk mengontrol kehendak naga dan bahkan mengontrol manusia yang terpengaruh oleh kekuatan Miraak.
+
+Ini adalah shout yang, dalam konteks Dragonrend yang memaksa naga untuk mendarat, memungkinkan Dragonborn untuk tidak hanya mengalahkan naga secara fisik tetapi untuk mengambil alih kehendak mereka. Naga yang terkena Bend Will tidak hanya tidak bisa terbang — mereka bisa diperintahkan, bisa dinaiki, bisa digunakan sebagai kendaraan.
+
+Secara kosmologis, Bend Will adalah shout yang paling mendekati "dominasi murni" dari semua shout — yang paling dekat dengan cara Alduin menggunakan Thu'um sebagai alat kekuasaan daripada sebagai komunikasi. Arngeir sangat tidak nyaman dengan keberadaan shout ini, dan penolakannya untuk mengakui Bend Will sebagai bagian dari Way of the Voice adalah salah satu konflik internal yang menarik dalam narasi Dragonborn DLC.
+
+
+
+<h2><b>VIII. SHOUTING IN THE DARK — YANG TIDAK ADA DALAM GAME</b></h2>
+
+Dalam lore yang lebih luas dari TES, ada referensi-referensi ke shout-shout yang tidak hadir dalam game namun yang keberadaannya dalam dunia lore ditetapkan dengan cukup jelas:
+
+"Kyim" — kata Dovahzul untuk "captive/trapped" — digunakan dalam ritual Ancient Nordic untuk menciptakan Word Walls itu sendiri. Proses membuat Word Wall bukan sekadar ukiran batu; ia melibatkan "menanamkan" pemahaman tentang kata ke dalam batu menggunakan Thu'um khusus.
+
+"Mind and Body" — disebut dalam "Songs of the Return" sebagai shout yang Ysgramor menggunakan untuk menenangkan pasukannya sebelum pertempuran-pertempuran besar. Apakah ini shout aktual dalam Dovahzul atau hanya metafora dalam teks Nordic tidak bisa dipastikan dari sumber yang tersedia.
+
+Shout Yol yang lebih kuno — sebelum formulasi modern YOL TOOR SHUL, ada bukti bahwa formasi kata untuk fire breath yang digunakan oleh naga-naga yang lebih tua sedikit berbeda, mengimplikasikan bahwa bahkan Dovahzul berkembang — bahwa ada "dialek" atau "varian" dari bahasa yang muncul seiring waktu.
+
+
+
+<h2><b>IX. THU'UM DAN HUBUNGANNYA DENGAN MAGICKA</b></h2>
+
+Salah satu pertanyaan yang paling sering diajukan oleh sarjana tentang Thu'um adalah: apakah Thu'um adalah bentuk magicka?
+
+Jawaban yang paling tepat adalah: bukan, namun ada tumpang tindih.
+
+Magicka adalah energi yang mengalir dari Aetherius melalui lubang-lubang di langit (bintang dan matahari) ke dalam Mundus, dan yang bisa dimanipulasi oleh makhluk yang cukup terlatih untuk menggunakan sekolah-sekolah sihir. Magicka adalah energi eksternal yang dipinjam dan digunakan.
+
+Thu'um beroperasi melalui mekanisme yang berbeda: ia adalah penggunaan esensi internal — "napas" dalam pengertian yang melampaui biologis, aspek dari jiwa yang terhubung langsung dengan prinsip-prinsip Dovahzul. Tidak ada yang "mengisi" kapasitas Thu'um dari luar; ia datang dari dalam.
+
+Inilah mengapa Thu'um memerlukan recharge time — jeda setelah setiap shout sebelum shout berikutnya bisa digunakan. Ini bukan "kehabisan magicka"; ini adalah jiwa yang memerlukan waktu untuk "mengisi kembali" aspek yang digunakan dalam shout. Dragonborn dengan Stamina yang tinggi bisa shout lebih sering karena kekuatan kehendak mereka yang lebih besar memungkinkan "pengisian ulang" yang lebih cepat.
+
+Namun ada tumpang tindih: beberapa efek Thu'um, ketika dianalisis oleh Mage Guild atau College of Winterhold, menunjukkan karakteristik yang mirip dengan sihir dalam sekolah-sekolah tertentu. Storm Call, misalnya, menghasilkan efek yang mirip dengan spell Conjuration/Destruction tertinggi. Become Ethereal memiliki karakteristik yang mirip dengan Alteration tingkat tinggi.
+
+Ini bukan karena Thu'um dan magicka adalah hal yang sama — melainkan karena keduanya mempengaruhi realitas melalui berbagai metode, dan ketika efeknya adalah sejenis (misalnya, keduanya mengakibatkan lightning), instrumen pengukuran yang sama bisa mendeteksi keduanya.
+
+
+
+<h2><b>X. THROAT OF THE WORLD — PUSAT DARI SEGALANYA</b></h2>
+
+Tidak ada diskusi tentang Thu'um yang lengkap tanpa membicarakan Throat of the World — gunung tertinggi di Tamriel, tempat Greybeards meditasi, tempat Dragonborn mempelajari Dragonrend, tempat Alduin dan Dragonborn pertama kali berhadapan secara langsung.
+
+Throat of the World bukan sekadar gunung tertinggi. Ia adalah pusat kosmis Skyrim — tempat di mana energi-energi yang mengalir melalui Skyrim berkonsentrasi, tempat di mana langit terasa lebih dekat dan bumi terasa lebih jauh, tempat di mana batas antara Mundus dan yang ilahi lebih tipis dari di tempat mana pun di daratan.
+
+Ini menjelaskan mengapa Greybeards memilih tempat itu untuk High Hrothgar: bukan hanya karena lokasinya yang terpencil dan defensif, melainkan karena konsentrasi energi di sana membuat meditasi pada Thu'um lebih efektif, Word Walls yang ada di jalur menuju puncak terasa lebih "kuat", dan Paarthurnax yang meditasi di puncak bisa bermeditasi dalam kondisi yang paling mendekati kondisi naga asli.
+
+Ketika Last Dragonborn berdiri di puncak Throat of the World dan membaca Elder Scroll — ketika visi tentang Ancient Tongues menggunakan Dragonrend mengisi kesadaran mereka — itu bukan hanya karena mereka melakukan ritual yang tepat. Ini juga karena lokasi itu sendiri mendukung jenis pengalaman itu dengan cara yang tidak bisa dilakukan oleh lokasi lain.
+
+
+
+<h2><b>XI. PENUTUP — KETIKA KATA ADALAH TINDAKAN</b></h2>
+
+Dalam semua diskusi tentang Thu'um, tentang Dovahzul, tentang Word Walls dan Greybeards dan shout-shout yang mengisi dua puluh slot dalam sistem game TES V — ada satu hal yang selalu kembali ke permukaan:
+
+Thu'um mengajarkan sesuatu tentang bahasa itu sendiri.
+
+Bahasa kita — bahasa manusia, bahasa fana — adalah sistem yang sangat canggih untuk mendekati kebenaran tanpa pernah sepenuhnya mencapainya. Kita menggunakan kata-kata untuk menunjuk kepada hal-hal, untuk mendeskripsikan hubungan, untuk mengkomunikasikan pengalaman yang pada dasarnya sangat privat dan sangat subjektif. Dan kata-kata kita selalu gagal, dalam tingkat tertentu, untuk sepenuhnya menangkap apa yang ingin kita komunikasikan.
+
+Dovahzul tidak memiliki kelemahan itu. Bukan karena ia "lebih sempurna" sebagai sistem — melainkan karena ia beroperasi di tingkat yang berbeda. Ketika naga mengucapkan YOL, mereka tidak menunjuk kepada "api" — mereka membawa api ke dalam kehadiran melalui kata.
+
+Dan mungkin itu adalah pelajaran yang paling mendalam dari seluruh mitologi Thu'um: bahwa ada cara berbicara yang jauh lebih langsung, jauh lebih nyata, jauh lebih penuh dari cara yang kita gunakan sehari-hari. Bahwa kata-kata kita adalah bayangan dari kata-kata yang lebih sejati. Bahwa antara simbol dan hal yang disimbolkan, ada kesenjangan — dan kesenjangan itu, dalam hidup kita sehari-hari, adalah tempat di mana sebagian besar salah paham dan kesepian manusia tinggal.
+
+Thu'um tidak menjembatani kesenjangan itu bagi manusia — hanya Dragonborn yang bisa mendekatinya. Namun pengetahuan bahwa kesenjangan itu ada, bahwa ada "bahasa lain" di mana kata dan hal adalah satu, mengubah cara kita memandang bahasa yang kita miliki.
+
+<i>"Kata-katamu adalah napasmu.
+Napasmu adalah hidupmu.
+Hidupmu adalah hadiah dari Kyne.
+Ketika kamu Berteriak,
+kamu meminjam dari hadiah itu.
+Ketika kamu Berteriak tanpa alasan yang baik,
+kamu membuang hadiah itu.
+Pilih kata-katamu dengan hati-hati.
+Pilih momen-mu dengan bijak.
+Dan ketika saatnya tiba untuk Berteriak —
+ketika diam bukan lagi pilihan —
+biarkan seluruh dirimu ada di dalam kata itu.
+Bukan sekadar suaramu.
+Bukan sekadar niatmu.
+Seluruh dirimu.
+Itulah Thu'um."*
+
+— Arngeir, kepada Last Dragonborn,
+High Hrothgar, 4E 201,
+malam sebelum perjalanan ke Sovngarde</i>
